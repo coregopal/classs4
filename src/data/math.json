@@ -1,0 +1,604 @@
+{
+  "questions": [
+    {
+      "category": "Measurement_of_Capacity",
+      "question": "Which unit is used to measure the capacity of a water bottle?",
+      "options": [
+        "Kilogram",
+        "Liter",
+        "Meter",
+        "Gram"
+      ],
+      "correct_answer": "Liter",
+      "explanation": "Capacity is measured in liters and milliliters. A water bottle typically holds liquid, which is measured in liters."
+    },
+    {
+      "category": "Measurement_of_Capacity",
+      "question": "How many milliliters are there in 1 liter?",
+      "options": [
+        "10 mL",
+        "100 mL",
+        "1000 mL",
+        "500 mL"
+      ],
+      "correct_answer": "1000 mL",
+      "explanation": "1 liter is equal to 1000 milliliters (mL)."
+    },
+    {
+      "category": "Measurement_of_Capacity",
+      "question": "Which measuring tool is best for measuring the capacity of a glass of juice?",
+      "options": [
+        "Weighing scale",
+        "Ruler",
+        "Measuring cup",
+        "Thermometer"
+      ],
+      "correct_answer": "Measuring cup",
+      "explanation": "A measuring cup is used to measure liquid capacities like juice or water."
+    },
+    {
+      "category": "Measurement_of_Capacity",
+      "question": "What is the standard unit to measure the capacity of a large water tank?",
+      "options": [
+        "Milliliters",
+        "Liters",
+        "Kilograms",
+        "Centimeters"
+      ],
+      "correct_answer": "Liters",
+      "explanation": "Large water tanks hold a significant amount of liquid, so their capacity is measured in liters."
+    },
+    {
+      "category": "Measurement_of_Capacity",
+      "question": "A milk carton holds 250 mL of milk. How many such cartons make up 1 liter?",
+      "options": [
+        "1",
+        "2",
+        "4",
+        "10"
+      ],
+      "correct_answer": "4",
+      "explanation": "Since 1 liter = 1000 mL, and each carton holds 250 mL, it takes 4 cartons to make 1 liter."
+    },
+    {
+      "category": "Measurement_of_Capacity",
+      "question": "If a bucket holds 10 liters of water, how many milliliters does it hold?",
+      "options": [
+        "100 mL",
+        "1000 mL",
+        "10000 mL",
+        "5000 mL"
+      ],
+      "correct_answer": "10000 mL",
+      "explanation": "Since 1 liter = 1000 mL, a 10-liter bucket holds 10 × 1000 = 10000 mL of water."
+    },
+    {
+      "category": "Measurement_of_Capacity",
+      "question": "Which of the following has the least capacity?",
+      "options": [
+        "A teaspoon",
+        "A cup",
+        "A bottle",
+        "A bucket"
+      ],
+      "correct_answer": "A teaspoon",
+      "explanation": "Among the given options, a teaspoon holds the smallest amount of liquid."
+    },
+    {
+      "category": "Measurement_of_Capacity",
+      "question": "Which unit is best suited to measure the capacity of a medicine dropper?",
+      "options": [
+        "Liters",
+        "Milliliters",
+        "Kilograms",
+        "Meters"
+      ],
+      "correct_answer": "Milliliters",
+      "explanation": "Medicine droppers hold very small amounts of liquid, which are best measured in milliliters."
+    },
+    {
+      "category": "Measurement_of_Capacity",
+      "question": "A juice box holds 250 mL of juice. How many such juice boxes make 1 liter?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correct_answer": "4",
+      "explanation": "Since 1 liter = 1000 mL, and each juice box holds 250 mL, it takes 4 juice boxes to make 1 liter."
+    },
+    {
+      "category": "Measurement_of_Capacity",
+      "question": "Which of the following would you use to measure 2 liters of milk?",
+      "options": [
+        "A measuring spoon",
+        "A measuring cup",
+        "A large measuring jug",
+        "A weighing scale"
+      ],
+      "correct_answer": "A large measuring jug",
+      "explanation": "A large measuring jug is used for measuring larger liquid capacities like 2 liters of milk."
+    },
+    {
+      "category": "Measurement_of_Mass",
+      "question": "Which unit is used to measure the weight of a watermelon?",
+      "options": [
+        "Grams",
+        "Kilograms",
+        "Milliliters",
+        "Centimeters"
+      ],
+      "correct_answer": "Kilograms",
+      "explanation": "Watermelons are heavy objects, so their weight is measured in kilograms instead of grams."
+    },
+    {
+      "category": "Measurement_of_Mass",
+      "question": "Which of the following is the heaviest?",
+      "options": [
+        "1 kg of cotton",
+        "500 g of sugar",
+        "250 g of salt",
+        "750 g of rice"
+      ],
+      "correct_answer": "1 kg of cotton",
+      "explanation": "1 kg is the largest weight among the given options, making cotton the heaviest."
+    },
+    {
+      "category": "Measurement_of_Mass",
+      "question": "How many grams are there in 2 kilograms?",
+      "options": [
+        "200 g",
+        "2000 g",
+        "20 g",
+        "1000 g"
+      ],
+      "correct_answer": "2000 g",
+      "explanation": "1 kilogram equals 1000 grams, so 2 kilograms equals 2000 grams."
+    },
+    {
+      "category": "Measurement_of_Mass",
+      "question": "Which measuring tool is used to measure the weight of a bag of rice?",
+      "options": [
+        "Ruler",
+        "Weighing Scale",
+        "Measuring Cup",
+        "Thermometer"
+      ],
+      "correct_answer": "Weighing Scale",
+      "explanation": "A weighing scale is used to measure the mass of objects like a bag of rice."
+    },
+    {
+      "category": "Measurement_of_Mass",
+      "question": "If a pumpkin weighs 3 kg and a watermelon weighs 5 kg, what is their total weight?",
+      "options": [
+        "8 kg",
+        "2 kg",
+        "15 kg",
+        "5 kg"
+      ],
+      "correct_answer": "8 kg",
+      "explanation": "The total weight is calculated by adding 3 kg and 5 kg, which equals 8 kg."
+    },
+    {
+      "category": "Measurement_of_Mass",
+      "question": "Which of the following is the lightest?",
+      "options": [
+        "500 g of sugar",
+        "750 g of flour",
+        "250 g of butter",
+        "1 kg of rice"
+      ],
+      "correct_answer": "250 g of butter",
+      "explanation": "250 g is the smallest weight among the given options, making butter the lightest."
+    },
+    {
+      "category": "Measurement_of_Mass",
+      "question": "A school bag weighs 3 kg. If you add a 2 kg book, what is the new weight of the bag?",
+      "options": [
+        "4 kg",
+        "6 kg",
+        "5 kg",
+        "3 kg"
+      ],
+      "correct_answer": "5 kg",
+      "explanation": "Adding 2 kg to 3 kg gives a total of 5 kg."
+    },
+    {
+      "category": "Measurement_of_Mass",
+      "question": "A cake weighs 750 grams. How much more is needed to make it 1 kg?",
+      "options": [
+        "250 g",
+        "500 g",
+        "100 g",
+        "750 g"
+      ],
+      "correct_answer": "250 g",
+      "explanation": "Since 1 kg is 1000 g, the difference is 1000 g - 750 g = 250 g."
+    },
+    {
+      "category": "Measurement_of_Mass",
+      "question": "What is the best unit to measure the weight of a baby?",
+      "options": [
+        "Milligrams",
+        "Grams",
+        "Kilograms",
+        "Tons"
+      ],
+      "correct_answer": "Kilograms",
+      "explanation": "Babies are usually weighed in kilograms as their weight is more than grams but less than tons."
+    },
+    {
+      "category": "Measurement_of_Mass",
+      "question": "If a mango weighs 250 g, how many mangoes would make 1 kg?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correct_answer": "4",
+      "explanation": "1 kg is 1000 g. Dividing 1000 g by 250 g gives 4 mangoes."
+    },
+    {
+      "category": "Time",
+      "question": "What time is shown on the clock when the hour hand is at 3 and the minute hand is at 12?",
+      "options": [
+        "3:00",
+        "3:30",
+        "3:15",
+        "3:45"
+      ],
+      "correct_answer": "3:00",
+      "explanation": "When the minute hand is at 12, it indicates the full hour. So, the time is 3:00."
+    },
+    {
+      "category": "Time",
+      "question": "What time is it when the hour hand is at 9 and the minute hand is at 6?",
+      "options": [
+        "9:00",
+        "9:30",
+        "9:15",
+        "9:45"
+      ],
+      "correct_answer": "9:30",
+      "explanation": "When the minute hand is at 6, it indicates half past the hour. So, the time is 9:30."
+    },
+    {
+      "category": "Time",
+      "question": "What is the time for 'quarter past seven'?",
+      "options": [
+        "7:15",
+        "7:30",
+        "7:45",
+        "7:00"
+      ],
+      "correct_answer": "7:15",
+      "explanation": "Quarter past seven means 15 minutes past 7, which is 7:15."
+    },
+    {
+      "category": "Time",
+      "question": "What is the time for 'quarter to twelve'?",
+      "options": [
+        "11:45",
+        "12:15",
+        "12:30",
+        "12:45"
+      ],
+      "correct_answer": "11:45",
+      "explanation": "Quarter to twelve means 15 minutes before 12, which is 11:45."
+    },
+    {
+      "category": "Time",
+      "question": "If a movie starts at 6:30 PM and ends at 8:15 PM, how long is the movie?",
+      "options": [
+        "1 hour 30 minutes",
+        "1 hour 45 minutes",
+        "2 hours",
+        "2 hours 15 minutes"
+      ],
+      "correct_answer": "1 hour 45 minutes",
+      "explanation": "The duration is calculated by subtracting the start time from the end time: 8:15 PM - 6:30 PM = 1 hour 45 minutes."
+    },
+    {
+      "category": "Time",
+      "question": "How many days are there in February 2025?",
+      "options": [
+        "28",
+        "29",
+        "30",
+        "31"
+      ],
+      "correct_answer": "28",
+      "explanation": "February 2025 is not a leap year, so it has 28 days."
+    },
+    {
+      "category": "Time",
+      "question": "How many weeks are there in 21 days?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "3",
+      "explanation": "There are 7 days in a week. So, 21 days ÷ 7 = 3 weeks."
+    },
+    {
+      "category": "Money",
+      "question": "Convert ₹5.25 to paise.",
+      "options": [
+        "525 paise",
+        "500 paise",
+        "250 paise",
+        "5250 paise"
+      ],
+      "correct_answer": "525 paise",
+      "explanation": "1 rupee = 100 paise. So, ₹5.25 = 5 × 100 + 25 = 525 paise."
+    },
+    {
+      "category": "Money",
+      "question": "Add ₹45.75 and ₹23.50.",
+      "options": [
+        "₹69.25",
+        "₹68.25",
+        "₹70.00",
+        "₹69.50"
+      ],
+      "correct_answer": "₹69.25",
+      "explanation": "₹45.75 + ₹23.50 = ₹69.25."
+    },
+    {
+      "category": "Money",
+      "question": "Subtract ₹15.40 from ₹62.25.",
+      "options": [
+        "₹46.85",
+        "₹47.85",
+        "₹48.85",
+        "₹49.85"
+      ],
+      "correct_answer": "₹46.85",
+      "explanation": "₹62.25 - ₹15.40 = ₹46.85."
+    },
+    {
+      "category": "Money",
+      "question": "Multiply ₹15.50 by 3.",
+      "options": [
+        "₹45.50",
+        "₹46.50",
+        "₹47.50",
+        "₹48.50"
+      ],
+      "correct_answer": "₹46.50",
+      "explanation": "₹15.50 × 3 = ₹46.50."
+    },
+    {
+      "category": "Money",
+      "question": "Divide ₹120 equally among 4 friends. How much does each friend get?",
+      "options": [
+        "₹30",
+        "₹40",
+        "₹50",
+        "₹60"
+      ],
+      "correct_answer": "₹30",
+      "explanation": "₹120 ÷ 4 = ₹30 per friend."
+    },
+    {
+      "category": "Money",
+      "question": "A notebook costs ₹18.50. How much do 6 notebooks cost?",
+      "options": [
+        "₹111.00",
+        "₹110.00",
+        "₹112.00",
+        "₹113.00"
+      ],
+      "correct_answer": "₹111.00",
+      "explanation": "₹18.50 × 6 = ₹111.00."
+    },
+    {
+      "category": "Money",
+      "question": "A packet of chocolates costs ₹240. If there are 8 chocolates inside, what is the price of one chocolate?",
+      "options": [
+        "₹30",
+        "₹35",
+        "₹40",
+        "₹45"
+      ],
+      "correct_answer": "₹30",
+      "explanation": "₹240 ÷ 8 = ₹30 per chocolate."
+    },
+    {
+      "category": "Data_Handling",
+      "question": "In a pictograph, each 🍎 represents 2 apples. If there are 5 🍎, how many apples are there?",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "20"
+      ],
+      "correct_answer": "10",
+      "explanation": "Each 🍎 = 2 apples. So, 5 🍎 × 2 = 10 apples."
+    },
+    {
+      "category": "Data_Handling",
+      "question": "In a bar graph, the bar for 'Apples' is 6 units long, and each unit represents 5 apples. How many apples are there?",
+      "options": [
+        "30",
+        "35",
+        "40",
+        "45"
+      ],
+      "correct_answer": "30",
+      "explanation": "6 units × 5 apples per unit = 30 apples."
+    },
+    {
+      "category": "Data_Handling",
+      "question": "Which fruit is the most common in the following data: Apples: 10, Bananas: 8, Mangoes: 6?",
+      "options": [
+        "Apples",
+        "Bananas",
+        "Mangoes",
+        "None"
+      ],
+      "correct_answer": "Apples",
+      "explanation": "Apples have the highest count (10)."
+    },
+    {
+      "category": "Data_Handling",
+      "question": "How many more bananas than mangoes are there in the following data: Bananas: 8, Mangoes: 6?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "2",
+      "explanation": "8 bananas - 6 mangoes = 2 more bananas."
+    },
+    {
+      "category": "Data_Handling",
+      "question": "What is the total number of fruits in the following data: Apples: 10, Bananas: 8, Mangoes: 6?",
+      "options": [
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "correct_answer": "24",
+      "explanation": "10 apples + 8 bananas + 6 mangoes = 24 fruits."
+    },
+    {
+      "category": "Data_Handling",
+      "question": "In a pictograph, each 🚗 represents 2 vehicles. If there are 4 🚗, how many vehicles are there?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "correct_answer": "8",
+      "explanation": "Each 🚗 = 2 vehicles. So, 4 🚗 × 2 = 8 vehicles."
+    },
+    {
+      "category": "Data_Handling",
+      "question": "In a bar graph, the bar for 'Cricket' is 10 units long, and each unit represents 2 students. How many students like cricket?",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correct_answer": "20",
+      "explanation": "10 units × 2 students per unit = 20 students."
+    },
+    {
+      "category": "Data Handling",
+      "question": "In a pictograph, each 🍎 represents 2 apples. If there are 5 🍎, how many apples are there?",
+      "options": [
+        "10",
+        "12",
+        "15",
+        "20"
+      ],
+      "correct_answer": "10",
+      "explanation": "Each 🍎 = 2 apples. So, 5 🍎 × 2 = 10 apples."
+    },
+    {
+      "category": "Data Handling",
+      "question": "In a bar graph, the bar for 'Apples' is 6 units long, and each unit represents 5 apples. How many apples are there?",
+      "options": [
+        "30",
+        "35",
+        "40",
+        "45"
+      ],
+      "correct_answer": "30",
+      "explanation": "6 units × 5 apples per unit = 30 apples."
+    },
+    {
+      "category": "Data Handling",
+      "question": "Which fruit is the most common in the following data: Apples: 10, Bananas: 8, Mangoes: 6?",
+      "options": [
+        "Apples",
+        "Bananas",
+        "Mangoes",
+        "None"
+      ],
+      "correct_answer": "Apples",
+      "explanation": "Apples have the highest count (10)."
+    },
+    {
+      "category": "Data Handling",
+      "question": "How many more bananas than mangoes are there in the following data: Bananas: 8, Mangoes: 6?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "2",
+      "explanation": "8 bananas - 6 mangoes = 2 more bananas."
+    },
+    {
+      "category": "Data Handling",
+      "question": "What is the total number of fruits in the following data: Apples: 10, Bananas: 8, Mangoes: 6?",
+      "options": [
+        "24",
+        "25",
+        "26",
+        "27"
+      ],
+      "correct_answer": "24",
+      "explanation": "10 apples + 8 bananas + 6 mangoes = 24 fruits."
+    },
+    {
+      "category": "Data Handling",
+      "question": "In a pictograph, each 🚗 represents 2 vehicles. If there are 4 🚗, how many vehicles are there?",
+      "options": [
+        "8",
+        "10",
+        "12",
+        "14"
+      ],
+      "correct_answer": "8",
+      "explanation": "Each 🚗 = 2 vehicles. So, 4 🚗 × 2 = 8 vehicles."
+    },
+    {
+      "category": "Data Handling",
+      "question": "In a bar graph, the bar for 'Cricket' is 10 units long, and each unit represents 2 students. How many students like cricket?",
+      "options": [
+        "20",
+        "25",
+        "30",
+        "35"
+      ],
+      "correct_answer": "20",
+      "explanation": "10 units × 2 students per unit = 20 students."
+    },
+    {
+      "category": "Data Handling",
+      "question": "In a pictograph, each 🏀 represents 3 basketballs. If there are 3 🏀, how many basketballs are there?",
+      "options": [
+        "9",
+        "20",
+        "22",
+        "24"
+      ],
+      "correct_answer": "9",
+      "explanation": "Each 🏀 = 3 basketballs. So, 3 🏀 × 3 = 9 basketballs."
+    },
+    {
+      "category": "Data Handling",
+      "question": "In a bar graph, the bar for 'Football' is 8 units long, and each unit represents 5 students. How many students like football?",
+      "options": [
+        "40",
+        "45",
+        "50",
+        "55"
+      ],
+      "correct_answer": "40",
+      "explanation": "8 units × 5 students per unit = 40 students."
+    }
+  ]
+}

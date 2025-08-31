@@ -1,0 +1,993 @@
+{
+  "questions": [
+    {
+      "category": "Marathi Numbers",
+      "question": "Match numbers 1-5 to Marathi words:",
+      "options": [
+        "१-दोन, २-एक, ३-तीन, ४-सहा, ५-चार",
+        "१-एक (ek), २-दोन (don), ३-तीन (teen), ४-चार (chaar), ५-पाच (paach)",
+        "१-पाच, २-चार, ३-तीन, ४-दोन, ५-एक"
+      ],
+      "correct_answer": "१-एक (ek), २-दोन (don), ३-तीन (teen), ४-चार (chaar), ५-पाच (paach)",
+      "explanation": "1: एक, 2: दोन, 3: तीन, 4: चार, 5: पाच"
+    },
+    {
+      "category": "Marathi Numbers",
+      "question": "Match numbers 6-10 to Marathi words:",
+      "options": [
+        "६-सात (saat), ७-आठ (aath), ८-सहा (sahaa), ९-नऊ (nau), १०-दहा (dahaa)",
+        "६-सहा (sahaa), ७-सात (saat), ८-आठ (aath), ९-नऊ (nau), १०-दहा (dahaa)",
+        "६-दहा, ७-नऊ, ८-आठ, ९-सात, १०-सहा"
+      ],
+      "correct_answer": "६-सहा (sahaa), ७-सात (saat), ८-आठ (aath), ९-नऊ (nau), १०-दहा (dahaa)",
+      "explanation": "6: सहा, 7: सात, 8: आठ, 9: नऊ, 10: दहा"
+    },
+    {
+      "category": "Marathi Numbers",
+      "question": "Match numbers 11-15 to Marathi words:",
+      "options": [
+        "११-बारा (baaraa), १२-तेरा (teraa), १३-अकरा (akaraa), १४-चौदा (chaudaa), १५-पंधरा (pandharaa)",
+        "११-अकरा (akaraa), १२-बारा (baaraa), १३-तेरा (teraa), १४-चौदा (chaudaa), १५-पंधरा (pandharaa)",
+        "११-पंधरा, १२-चौदा, १३-तेरा, १४-बारा, १५-अकरा"
+      ],
+      "correct_answer": "११-अकरा (akaraa), १२-बारा (baaraa), १३-तेरा (teraa), १४-चौदा (chaudaa), १५-पंधरा (pandharaa)",
+      "explanation": "11: अकरा, 12: बारा, 13: तेरा, 14: चौदा, 15: पंधरा"
+    },
+    {
+      "category": "Marathi Numbers",
+      "question": "Match numbers 16-20 to Marathi words:",
+      "options": [
+        "१६-सतरा (sataraa), १७-अठरा (atharaa), १८-सोळा (sola), १९-एकोणीस (ekonees), २०-वीस (vees)",
+        "१६-सोळा (sola), १७-सतरा (sataraa), १८-अठरा (atharaa), १९-एकोणीस (ekonees), २०-वीस (vees)",
+        "१६-वीस, १७-एकोणीस, १८-अठरा, १९-सतरा, २०-सोळा"
+      ],
+      "correct_answer": "१६-सोळा (sola), १७-सतरा (sataraa), १८-अठरा (atharaa), १९-एकोणीस (ekonees), २०-वीस (vees)",
+      "explanation": "16: सोळा, 17: सतरा, 18: अठरा, 19: एकोणीस, 20: वीस"
+    },
+    {
+      "category": "Marathi Numbers",
+      "question": "Match numbers 21-25 to Marathi words:",
+      "options": [
+        "२१-बावीस (baavees), २२-एकवीस (ekvees), २३-तेवीस (tevees), २४-चोवीस (chovees), २५-पंचवीस (panchvees)",
+        "२१-एकवीस (ekvees), २२-बावीस (baavees), २३-तेवीस (tevees), २४-चोवीस (chovees), २५-पंचवीस (panchvees)",
+        "२१-पंचवीस, २२-चोवीस, २३-तेवीस, २४-बावीस, २५-एकवीस"
+      ],
+      "correct_answer": "२१-एकवीस (ekvees), २२-बावीस (baavees), २३-तेवीस (tevees), २४-चोवीस (chovees), २५-पंचवीस (panchvees)",
+      "explanation": "21: एकवीस, 22: बावीस, 23: तेवीस, 24: चोवीस, 25: पंचवीस"
+    },
+    {
+      "category": "Marathi Numbers",
+      "question": "Match numbers 26-30 to Marathi words:",
+      "options": [
+        "२६-सत्तावीस (sattaavees), २७-सव्वीस (savvees), २८-अठ्ठावीस (atthaavees), २९-तीस (tees), ३०-एकोणतीस (ekontees)",
+        "२६-सव्वीस (savvees), २७-सत्तावीस (sattaavees), २८-अठ्ठावीस (atthaavees), २९-एकोणतीस (ekontees), ३०-तीस (tees)",
+        "२६-तीस, २७-एकोणतीस, २८-अठ्ठावीस, २९-सत्तावीस, ३०-सव्वीस"
+      ],
+      "correct_answer": "२६-सव्वीस (savvees), २७-सत्तावीस (sattaavees), २८-अठ्ठावीस (atthaavees), २९-एकोणतीस (ekontees), ३०-तीस (tees)",
+      "explanation": "26: सव्वीस, 27: सत्तावीस, 28: अठ्ठावीस, 29: एकोणतीस, 30: तीस"
+    },
+    {
+      "category": "Marathi Numbers",
+      "question": "Match numbers 31-35 to Marathi words:",
+      "options": [
+        "३१-बत्तीस (battees), ३२-एकतीस (ektees), ३३-तेहतीस (tehtees), ३४-चौतीस (chautees), ३५-पस्तीस (pastees)",
+        "३१-एकतीस (ektees), ३२-बत्तीस (battees), ३३-तेहतीस (tehtees), ३४-चौतीस (chautees), ३५-पस्तीस (pastees)",
+        "३१-पस्तीस, ३२-चौतीस, ३३-तेहतीस, ३४-बत्तीस, ३५-एकतीस"
+      ],
+      "correct_answer": "३१-एकतीस (ektees), ३२-बत्तीस (battees), ३३-तेहतीस (tehtees), ३४-चौतीस (chautees), ३५-पस्तीस (pastees)",
+      "explanation": "31: एकतीस, 32: बत्तीस, 33: तेहतीस, 34: चौतीस, 35: पस्तीस"
+    },
+    {
+      "category": "Marathi Numbers",
+      "question": "Match numbers 36-40 to Marathi words:",
+      "options": [
+        "३६-सदतीस (sadatees), ३७-छत्तीस (chhattees), ३८-अडतीस (adtees), ३९-चाळीस (chaalees), ४०-एकोणचाळीस (ekonchaalees)",
+        "३६-छत्तीस (chhattees), ३७-सदतीस (sadatees), ३८-अडतीस (adtees), ३९-एकोणचाळीस (ekonchaalees), ४०-चाळीस (chaalees)",
+        "३६-चाळीस, ३७-एकोणचाळीस, ३८-अडतीस, ३९-सदतीस, ४०-छत्तीस"
+      ],
+      "correct_answer": "३६-छत्तीस (chhattees), ३७-सदतीस (sadatees), ३८-अडतीस (adtees), ३९-एकोणचाळीस (ekonchaalees), ४०-चाळीस (chaalees)",
+      "explanation": "36: छत्तीस, 37: सदतीस, 38: अडतीस, 39: एकोणचाळीस, 40: चाळीस"
+    },
+    {
+      "category": "Synonyms",
+      "question": "What is a synonym for 'आई' (Mother)?",
+      "options": [
+        "माता",
+        "डोंगर",
+        "गाणे",
+        "धरती"
+      ],
+      "correct_answer": "माता",
+      "explanation": "आई = माता (Both mean mother)"
+    },
+    {
+      "category": "Synonyms",
+      "question": "What is a synonym for 'आकाश' (Sky)?",
+      "options": [
+        "आभाळ",
+        "पर्वत",
+        "गीत",
+        "जमीन"
+      ],
+      "correct_answer": "आभाळ",
+      "explanation": "आकाश = आभाळ (Both mean sky)"
+    },
+    {
+      "category": "Synonyms",
+      "question": "What is a synonym for 'डोंगर' (Mountain)?",
+      "options": [
+        "सरिता",
+        "पर्वत",
+        "गोष्ट",
+        "दीप"
+      ],
+      "correct_answer": "पर्वत",
+      "explanation": "डोंगर = पर्वत (Both mean mountain)"
+    },
+    {
+      "category": "Synonyms",
+      "question": "What is a synonym for 'गाणे' (Song)?",
+      "options": [
+        "कहाणी",
+        "गीत",
+        "नाच",
+        "आदर"
+      ],
+      "correct_answer": "गीत",
+      "explanation": "गाणे = गीत (Both mean song)"
+    },
+    {
+      "category": "Synonyms",
+      "question": "What is a synonym for 'धरती' (Earth)?",
+      "options": [
+        "आकाश",
+        "जमीन",
+        "नदी",
+        "पक्षी"
+      ],
+      "correct_answer": "जमीन",
+      "explanation": "धरती = जमीन (Both mean earth/ground)"
+    },
+    {
+      "category": "Synonyms",
+      "question": "What is a synonym for 'नदी' (River)?",
+      "options": [
+        "सरिता",
+        "डोंगर",
+        "आभाळ",
+        "दीप"
+      ],
+      "correct_answer": "सरिता",
+      "explanation": "नदी = सरिता (Both mean river)"
+    },
+    {
+      "category": "Synonyms",
+      "question": "What is a synonym for 'नृत्य' (Dance)?",
+      "options": [
+        "गीत",
+        "नाच",
+        "आदर",
+        "सुम्बंध"
+      ],
+      "correct_answer": "नाच",
+      "explanation": "नृत्य = नाच (Both mean dance)"
+    },
+    {
+      "category": "Synonyms",
+      "question": "What is a synonym for 'दिवा' (Lamp)?",
+      "options": [
+        "दीप",
+        "आकाश",
+        "पर्वत",
+        "सरिता"
+      ],
+      "correct_answer": "दीप",
+      "explanation": "दिवा = दीप (Both mean lamp)"
+    },
+    {
+      "category": "Synonyms",
+      "question": "What is a synonym for 'आदर' (Respect)?",
+      "options": [
+        "सन्मान",
+        "गोष्ट",
+        "नाच",
+        "पक्षी"
+      ],
+      "correct_answer": "सन्मान",
+      "explanation": "आदर = सन्मान (Both mean respect)"
+    },
+    {
+      "category": "Synonyms",
+      "question": "What is a synonym for 'सुम्बंध' (Relationship)?",
+      "options": [
+        "नाते",
+        "गीत",
+        "दीप",
+        "आभाळ"
+      ],
+      "correct_answer": "नाते",
+      "explanation": "सुम्बंध = नाते (Both mean relationship)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "What is the opposite of 'अंधार' (Darkness)?",
+      "options": [
+        "उजेड",
+        "खारट",
+        "सावली",
+        "दुःख"
+      ],
+      "correct_answer": "उजेड",
+      "explanation": "अंधार × उजेड (Darkness × Light)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "What is the opposite of 'गोड' (Sweet)?",
+      "options": [
+        "कडवट",
+        "उजेड",
+        "आवड",
+        "जास्त"
+      ],
+      "correct_answer": "कडवट",
+      "explanation": "गोड × कडवट (Sweet × Bitter)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "What is the opposite of 'आनंद' (Joy)?",
+      "options": [
+        "दुःख",
+        "शाप",
+        "हरणे",
+        "गरम"
+      ],
+      "correct_answer": "दुःख",
+      "explanation": "आनंद × दुःख (Joy × Sorrow)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "What is the opposite of 'चूक' (Wrong)?",
+      "options": [
+        "बरोबर",
+        "शाप",
+        "हसणे",
+        "जास्त"
+      ],
+      "correct_answer": "बरोबर",
+      "explanation": "चूक × बरोबर (Wrong × Right)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "What is the opposite of 'आवड' (Like)?",
+      "options": [
+        "नावड",
+        "उजेड",
+        "कडवट",
+        "दुःख"
+      ],
+      "correct_answer": "नावड",
+      "explanation": "आवड × नावड (Like × Dislike)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "What is the opposite of 'जिंकणे' (Win)?",
+      "options": [
+        "हरणे",
+        "शाप",
+        "कडवट",
+        "उजेड"
+      ],
+      "correct_answer": "हरणे",
+      "explanation": "जिंकणे × हरणे (Win × Lose)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "What is the opposite of 'आशीर्वाद' (Blessing)?",
+      "options": [
+        "शाप",
+        "दुःख",
+        "नावड",
+        "कडवट"
+      ],
+      "correct_answer": "शाप",
+      "explanation": "आशीर्वाद × शाप (Blessing × Curse)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "What is the opposite of 'थंड' (Cold)?",
+      "options": [
+        "गरम",
+        "उजेड",
+        "कडवट",
+        "दुःख"
+      ],
+      "correct_answer": "गरम",
+      "explanation": "थंड × गरम (Cold × Hot)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "What is the opposite of 'कमी' (Less)?",
+      "options": [
+        "जास्त",
+        "उजेड",
+        "शाप",
+        "नावड"
+      ],
+      "correct_answer": "जास्त",
+      "explanation": "कमी × जास्त (Less × More)"
+    },
+    {
+      "category": "Essay Writing",
+      "question": "Write 3-4 lines about 'माझी आजी' (My Grandmother)",
+      "options": [
+        "माझी आजी खूप प्रेमळ आहे. ती मला गोष्टी सांगते, लाड करते आणि माझी काळजी घेते. तिच्याबरोबर वेळ घालवायला मला खूप आवडते."
+      ],
+      "correct_answer": "माझी आजी खूप प्रेमळ आहे. ती मला गोष्टी सांगते, लाड करते आणि माझी काळजी घेते. तिच्याबरोबर वेळ घालवायला मला खूप आवडते.",
+      "explanation": "Basic essay structure about grandmother"
+    },
+    {
+      "category": "Essay Writing",
+      "question": "Write 3-4 lines about 'माझा मित्र/मैत्रीण' (My Friend)",
+      "options": [
+        "माझा मित्र खूप चांगला आहे. तो मला शिकवतो, माझ्यासोबत खेळतो आणि मदत करतो. आम्ही एकत्र शाळेत जातो आणि अभ्यास करतो."
+      ],
+      "correct_answer": "माझा मित्र खूप चांगला आहे. तो मला शिकवतो, माझ्यासोबत खेळतो आणि मदत करतो. आम्ही एकत्र शाळेत जातो आणि अभ्यास करतो.",
+      "explanation": "Basic essay structure about friend"
+    },
+    {
+      "category": "Grammar",
+      "question": "What is the plural of 'मुलगी' (Girl)?",
+      "options": [
+        "मुलगे",
+        "मुली",
+        "मुलांनी",
+        "मुलास"
+      ],
+      "correct_answer": "मुली",
+      "explanation": "मुलगी → मुली (Girl → Girls)"
+    },
+    {
+      "category": "Grammar",
+      "question": "What is the plural of 'फुल' (Flower)?",
+      "options": [
+        "फुला",
+        "फुली",
+        "फुले",
+        "फुलांना"
+      ],
+      "correct_answer": "फुले",
+      "explanation": "फुल → फुले (Flower → Flowers)"
+    },
+    {
+      "category": "Grammar",
+      "question": "What is the English meaning of 'सकाळ'?",
+      "options": [
+        "Evening",
+        "Morning",
+        "Night",
+        "Afternoon"
+      ],
+      "correct_answer": "Morning",
+      "explanation": "सकाळ = Morning"
+    },
+    {
+      "category": "Grammar",
+      "question": "What is the English meaning of 'मदत'?",
+      "options": [
+        "Happiness",
+        "Help",
+        "Sadness",
+        "Anger"
+      ],
+      "correct_answer": "Help",
+      "explanation": "मदत = Help"
+    },
+    {
+      "category": "Chapter: आनंदी पाऊस",
+      "question": "ढग कसे आहेत?",
+      "options": [
+        "पांढरे",
+        "काळे काळे",
+        "निळे",
+        "हिरवे"
+      ],
+      "correct_answer": "काळे काळे",
+      "explanation": "कवितेत काळ्या ढगांचा उल्लेख"
+    },
+    {
+      "category": "Chapter: आनंदी पाऊस",
+      "question": "निळा पिसारा कोणाचा आहे?",
+      "options": [
+        "बेडकाचा",
+        "ढगांचा",
+        "मोराचा",
+        "वृक्षाचा"
+      ],
+      "correct_answer": "मोराचा",
+      "explanation": "मोराच्या पिसाऱ्याचा उल्लेख"
+    },
+    {
+      "category": "Chapter: माझे पहिले बक्षीस",
+      "question": "शाळेत कोणती स्पर्धा होती?",
+      "options": [
+        "गाण्याची",
+        "वेशभूषा",
+        "नृत्य",
+        "चित्रकला"
+      ],
+      "correct_answer": "वेशभूषा",
+      "explanation": "वेशभूषा स्पर्धेचा उल्लेख"
+    },
+    {
+      "category": "Chapter: माझे पहिले बक्षीस",
+      "question": "सुधीर कोण झाला होता?",
+      "options": [
+        "डॉक्टर",
+        "सैनिक",
+        "भिकारी",
+        "विदूषक"
+      ],
+      "correct_answer": "भिकारी",
+      "explanation": "सुधीरने भिकारीची वेशभूषा केली"
+    },
+    {
+      "category": "True/False",
+      "question": "जंक फूड खाणे शरीरासाठी चांगले आहे.",
+      "options": [
+        "बरोबर",
+        "चूक"
+      ],
+      "correct_answer": "चूक",
+      "explanation": "जंकफूड आरोग्यासाठी हानिकारक"
+    },
+    {
+      "category": "True/False",
+      "question": "दूध पिऊन रघु शाळेत गेला.",
+      "options": [
+        "बरोबर",
+        "चूक"
+      ],
+      "correct_answer": "बरोबर",
+      "explanation": "कथन योग्य आहे"
+    },
+    {
+      "category": "Synonyms",
+      "question": "What is a synonym for 'सूर्य' (Sun)?",
+      "options": [
+        "रवि",
+        "भानु",
+        "चंद्र",
+        "तारा"
+      ],
+      "correct_answer": "रवि",
+      "explanation": "सूर्य = रवि (Both mean sun)"
+    },
+    {
+      "category": "Synonyms",
+      "question": "What is a synonym for 'पाणी' (Water)?",
+      "options": [
+        "जल",
+        "नीर",
+        "वाफ",
+        "बर्फ"
+      ],
+      "correct_answer": "जल",
+      "explanation": "पाणी = जल (Both mean water)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "What is the opposite of 'रडणे' (To cry)?",
+      "options": [
+        "हसणे",
+        "झोपणे",
+        "बोलणे",
+        "चालणे"
+      ],
+      "correct_answer": "हसणे",
+      "explanation": "रडणे × हसणे (Cry × Laugh)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "What is the opposite of 'मोठा' (Big)?",
+      "options": [
+        "लहान",
+        "उंच",
+        "रुंद",
+        "अरुंद"
+      ],
+      "correct_answer": "लहान",
+      "explanation": "मोठा × लहान (Big × Small)"
+    },
+    {
+      "category": "Grammar",
+      "question": "What is the plural of 'पान' (Leaf)?",
+      "options": [
+        "पाने",
+        "पाना",
+        "पानी",
+        "पानां"
+      ],
+      "correct_answer": "पाने",
+      "explanation": "पान → पाने (Leaf → Leaves)"
+    },
+    {
+      "category": "Grammar",
+      "question": "What is the English meaning of 'एकटा'?",
+      "options": [
+        "Together",
+        "Alone",
+        "Happy",
+        "Sad"
+      ],
+      "correct_answer": "Alone",
+      "explanation": "एकटा = Alone"
+    },
+    {
+      "category": "Chapter: राजू आणि आजोबा",
+      "question": "राजू कितवीत शिकत होता?",
+      "options": [
+        "दुसरीत",
+        "तिसरीत",
+        "चौथीत",
+        "पाचवीत"
+      ],
+      "correct_answer": "चौथीत",
+      "explanation": "राजू चौथीत शिकत होता"
+    },
+    {
+      "category": "Chapter: राजू आणि आजोबा",
+      "question": "राजूने आजोबांना काय विचारले?",
+      "options": [
+        "तुमचं नाव काय?",
+        "तुम्ही कुठे राहता?",
+        "म्हाताऱ्या! किती वाजले आहेत?",
+        "तुम्हाला भूक लागली आहे का?"
+      ],
+      "correct_answer": "म्हाताऱ्या! किती वाजले आहेत?",
+      "explanation": "राजूने आजोबांना वेळ विचारली"
+    },
+    {
+      "category": "Chapter: रघूची सकाळ",
+      "question": "आईने काय आणले होते?",
+      "options": [
+        "चहा",
+        "दूध",
+        "कॉफी",
+        "ज्यूस"
+      ],
+      "correct_answer": "दूध",
+      "explanation": "आईने दूध आणले होते"
+    },
+    {
+      "category": "Chapter: रघूची सकाळ",
+      "question": "रघूच्या आजीच्या घरी कोणते झाड होते?",
+      "options": [
+        "आंबा",
+        "गुलमोहर",
+        "पोपई",
+        "केळी"
+      ],
+      "correct_answer": "गुलमोहर",
+      "explanation": "गुलमोहराचे झाड होते"
+    },
+    {
+      "category": "Chapter: आईचे स्वयंपाकघर",
+      "question": "सुरेखाच्या आईने काय बनवले होते?",
+      "options": [
+        "पिझ्झा",
+        "बर्गर",
+        "बटाटा-पालक भाजी",
+        "नूडल्स"
+      ],
+      "correct_answer": "बटाटा-पालक भाजी",
+      "explanation": "बटाटा-पालक भाजी बनवली होती"
+    },
+    {
+      "category": "Chapter: आईचे स्वयंपाकघर",
+      "question": "जंकफूड खाणे शरीरासाठी चांगले आहे का?",
+      "options": [
+        "होय",
+        "नाही",
+        "कधीकधी",
+        "माहित नाही"
+      ],
+      "correct_answer": "नाही",
+      "explanation": "जंकफूड हानिकारक आहे"
+    },
+    {
+      "category": "Chapter: वाचू आनंदे",
+      "question": "डॉ. मंगला नारळीकर यांनी कोणत्या विषयात एम.ए. केले?",
+      "options": [
+        "इतिहास",
+        "गणित",
+        "भूगोल",
+        "मराठी"
+      ],
+      "correct_answer": "गणित",
+      "explanation": "गणित विषयात एम.ए. केले"
+    },
+    {
+      "category": "Chapter: वाचू आनंदे",
+      "question": "डॉ. मंगला नारळीकर यांचे निधन कधी झाले?",
+      "options": [
+        "17 जून 2023",
+        "17 जुलै 2023",
+        "17 ऑगस्ट 2023",
+        "17 सप्टेंबर 2023"
+      ],
+      "correct_answer": "17 जुलै 2023",
+      "explanation": "17 जुलै 2023 रोजी निधन झाले"
+    },
+    {
+      "category": "Synonyms",
+      "question": "'सूर्य' या शब्दाचा समानार्थी(Synonym) शब्द कोणता?",
+      "options": [
+        "रवि",
+        "भानु",
+        "चंद्र",
+        "तारा"
+      ],
+      "correct_answer": "रवि",
+      "explanation": "सूर्य = रवि (दोन्ही सूर्यासाठी वापरले जाणारे शब्द)"
+    },
+    {
+      "category": "Synonyms",
+      "question": "'पाणी' या शब्दाचा समानार्थी(Synonym) शब्द कोणता?",
+      "options": [
+        "जल",
+        "नीर",
+        "वाफ",
+        "बर्फ"
+      ],
+      "correct_answer": "जल",
+      "explanation": "पाणी = जल (दोन्ही पाण्यासाठी वापरले जाणारे शब्द)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "'रडणे' या शब्दाचा विरुद्धार्थी(Antonym) शब्द कोणता?",
+      "options": [
+        "हसणे",
+        "झोपणे",
+        "बोलणे",
+        "चालणे"
+      ],
+      "correct_answer": "हसणे",
+      "explanation": "रडणे × हसणे (विरुद्ध भावना दर्शवितात)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "'मोठा' या शब्दाचा विरुद्धार्थी(Antonym) शब्द कोणता?",
+      "options": [
+        "लहान",
+        "उंच",
+        "रुंद",
+        "अरुंद"
+      ],
+      "correct_answer": "लहान",
+      "explanation": "मोठा × लहान (आकारातील विरुद्धता)"
+    },
+    {
+      "category": "Grammar",
+      "question": "'पान' या शब्दाचे अनेकवचन कोणते?",
+      "options": [
+        "पाने",
+        "पाना",
+        "पानी",
+        "पानां"
+      ],
+      "correct_answer": "पाने",
+      "explanation": "पान → पाने (एकवचन → अनेकवचन)"
+    },
+    {
+      "category": "Grammar",
+      "question": "'एकटा' या शब्दाचा इंग्रजी अर्थ काय?",
+      "options": [
+        "Together",
+        "Alone",
+        "Happy",
+        "Sad"
+      ],
+      "correct_answer": "Alone",
+      "explanation": "एकटा = Alone (एकटेपणा दर्शविते)"
+    },
+    {
+      "category": "Chapter: राजू आणि आजोबा",
+      "question": "राजूने आजोबांना कसे संबोधले?",
+      "options": [
+        "आजोबा",
+        "काका",
+        "म्हाताऱ्या",
+        "मामा"
+      ],
+      "correct_answer": "म्हाताऱ्या",
+      "explanation": "राजूने 'म्हाताऱ्या' असे संबोधले जे योग्य नव्हते"
+    },
+    {
+      "category": "Chapter: रघूची सकाळ",
+      "question": "रघूच्या आजीच्या घरी कोणते झाड होते?",
+      "options": [
+        "आंबा",
+        "गुलमोहर",
+        "पोपई",
+        "केळी"
+      ],
+      "correct_answer": "गुलमोहर",
+      "explanation": "गुलमोहराचे झाड फुलांनी भरलेले होते"
+    },
+    {
+      "category": "Chapter: आईचे स्वयंपाकघर",
+      "question": "सोनिया डब्यातून काय आणत असे?",
+      "options": [
+        "भाकरी",
+        "नूडल्स",
+        "भाजी",
+        "दही"
+      ],
+      "correct_answer": "नूडल्स",
+      "explanation": "सोनिया जंकफूड आणत असे"
+    },
+    {
+      "category": "Chapter: वाचू आनंदे",
+      "question": "डॉ. मंगला नारळीकर यांनी कोणत्या विषयात पीएचडी केली?",
+      "options": [
+        "इतिहास",
+        "गणित",
+        "भूगोल",
+        "मराठी"
+      ],
+      "correct_answer": "गणित",
+      "explanation": "त्यांनी गणितात पीएचडी केली होती"
+    },
+    {
+      "category": "Fill in the Blanks",
+      "question": "पाऊस अंगणीचा ______ सजला",
+      "options": [
+        "पानाफुलातून",
+        "वाळूने",
+        "दगडांनी",
+        "काड्यांनी"
+      ],
+      "correct_answer": "पानाफुलातून",
+      "explanation": "पाऊस पाने आणि फुलांनी अंगण सजवतो"
+    },
+    {
+      "category": "Fill in the Blanks",
+      "question": "सातरंगी ______ पूल नभात भिजला",
+      "options": [
+        "कमानीचा",
+        "धाग्याचा",
+        "दोरीचा",
+        "पाटाचा"
+      ],
+      "correct_answer": "कमानीचा",
+      "explanation": "इंद्रधनुष्याला सातरंगी कमान म्हणतात"
+    },
+    {
+      "category": "True/False",
+      "question": "रोज पिझ्झा खाणे आरोग्यासाठी चांगले आहे",
+      "options": [
+        "बरोबर",
+        "चूक"
+      ],
+      "correct_answer": "चूक",
+      "explanation": "पिझ्झा जंकफूड आहे, आरोग्यासाठी हानिकारक"
+    },
+    {
+      "category": "True/False",
+      "question": "आईने सुधीरला टॉवेल बांधला होता",
+      "options": [
+        "बरोबर",
+        "चूक"
+      ],
+      "correct_answer": "बरोबर",
+      "explanation": "भिकारीची वेशभूषा करण्यासाठी टॉवेल वापरला"
+    },
+    {
+      "category": "Matching",
+      "question": "जुळवा: भूक लागल्यावरच खाल्ले पाहिजे",
+      "options": [
+        "हो",
+        "नाही"
+      ],
+      "correct_answer": "हो",
+      "explanation": "भूक नसताना खाऊ नये"
+    },
+    {
+      "category": "Matching",
+      "question": "जुळवा: मुंग्या झाडावर चढत होत्या",
+      "options": [
+        "हो",
+        "नाही"
+      ],
+      "correct_answer": "हो",
+      "explanation": "रघूने मुंग्या झाडावर चढताना पाहिल्या"
+    },
+    {
+      "category": "Essay Writing",
+      "question": "'माझा आवडता विषय' यावर ३-४ ओळी लिहा",
+      "options": [],
+      "correct_answer": "मला गणित विषय आवडते. ते खूप मनोरंजक असते. गणितामुळे आपण तर्कशक्ती वाढवू शकतो. मला गणिताच्या सोडवण्यात आनंद मिळतो.",
+      "explanation": "आवडत्या विषयावर मराठी निबंध"
+    },
+    {
+      "category": "Classification",
+      "question": "खालीलपैकी कोणते भाजीपाला आहे?",
+      "options": [
+        "पिझ्झा",
+        "पालक",
+        "बर्गर",
+        "नूडल्स"
+      ],
+      "correct_answer": "पालक",
+      "explanation": "पालक ही एक पालभाजी आहे"
+    },
+    {
+      "category": "Classification",
+      "question": "खालीलपैकी कोणते जंकफूड आहे?",
+      "options": [
+        "भात",
+        "पोळी",
+        "बर्गर",
+        "भाजी"
+      ],
+      "correct_answer": "बर्गर",
+      "explanation": "बर्गर हे जंकफूडचे उदाहरण आहे"
+    },
+    {
+      "category": "Word Meanings",
+      "question": "'स्वयंपाकघर' या शब्दाचा इंग्रजी अर्थ काय?",
+      "options": [
+        "Bedroom",
+        "Kitchen",
+        "Bathroom",
+        "Garden"
+      ],
+      "correct_answer": "Kitchen",
+      "explanation": "स्वयंपाकघर = Kitchen (अन्न शिजवण्याची जागा)"
+    },
+    {
+      "category": "Synonyms",
+      "question": "'आई' या शब्दाचा समानार्थी शब्द कोणता?",
+      "options": [
+        "माता",
+        "डोंगर",
+        "गाणे",
+        "धरती"
+      ],
+      "correct_answer": "माता",
+      "explanation": "आई = माता (दोन्ही 'mother' साठी वापरले जातात)"
+    },
+    {
+      "category": "Synonyms",
+      "question": "'आकाश' या शब्दाचा समानार्थी शब्द कोणता?",
+      "options": [
+        "आभाळ",
+        "पर्वत",
+        "गीत",
+        "जमीन"
+      ],
+      "correct_answer": "आभाळ",
+      "explanation": "आकाश = आभाळ (दोन्ही 'sky' साठी वापरले जातात)"
+    },
+    {
+      "category": "Synonyms",
+      "question": "'डोंगर' या शब्दाचा समानार्थी शब्द कोणता?",
+      "options": [
+        "सरिता",
+        "पर्वत",
+        "गोष्ट",
+        "दीप"
+      ],
+      "correct_answer": "पर्वत",
+      "explanation": "डोंगर = पर्वत (दोन्ही 'mountain' साठी वापरले जातात)"
+    },
+    {
+      "category": "Synonyms",
+      "question": "'गाणे' या शब्दाचा समानार्थी शब्द कोणता?",
+      "options": [
+        "कहाणी",
+        "गीत",
+        "नाच",
+        "आदर"
+      ],
+      "correct_answer": "गीत",
+      "explanation": "गाणे = गीत (दोन्ही 'song' साठी वापरले जातात)"
+    },
+    {
+      "category": "Synonyms",
+      "question": "'नदी' या शब्दाचा समानार्थी शब्द कोणता?",
+      "options": [
+        "सरिता",
+        "डोंगर",
+        "आभाळ",
+        "दीप"
+      ],
+      "correct_answer": "सरिता",
+      "explanation": "नदी = सरिता (दोन्ही 'river' साठी वापरले जातात)"
+    },
+    {
+      "category": "Synonyms",
+      "question": "'दिवा' या शब्दाचा समानार्थी शब्द कोणता?",
+      "options": [
+        "दीप",
+        "आकाश",
+        "पर्वत",
+        "सरिता"
+      ],
+      "correct_answer": "दीप",
+      "explanation": "दिवा = दीप (दोन्ही 'lamp' साठी वापरले जातात)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "'अंधार' या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        "उजेड",
+        "खारट",
+        "सावली",
+        "दुःख"
+      ],
+      "correct_answer": "उजेड",
+      "explanation": "अंधार × उजेड (Darkness × Light)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "'गोड' या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        "कडवट",
+        "उजेड",
+        "आवड",
+        "जास्त"
+      ],
+      "correct_answer": "कडवट",
+      "explanation": "गोड × कडवट (Sweet × Bitter)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "'आनंद' या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        "दुःख",
+        "शाप",
+        "हरणे",
+        "गरम"
+      ],
+      "correct_answer": "दुःख",
+      "explanation": "आनंद × दुःख (Joy × Sorrow)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "'कमी' या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        "जास्त",
+        "उजेड",
+        "शाप",
+        "नावड"
+      ],
+      "correct_answer": "जास्त",
+      "explanation": "कमी × जास्त (Less × More)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "'थंड' या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        "गरम",
+        "उजेड",
+        "कडवट",
+        "दुःख"
+      ],
+      "correct_answer": "गरम",
+      "explanation": "थंड × गरम (Cold × Hot)"
+    },
+    {
+      "category": "Antonyms",
+      "question": "'आवड' या शब्दाचा विरुद्धार्थी शब्द कोणता?",
+      "options": [
+        "नावड",
+        "उजेड",
+        "कडवट",
+        "दुःख"
+      ],
+      "correct_answer": "नावड",
+      "explanation": "आवड × नावड (Like × Dislike)"
+    }
+  ]
+}

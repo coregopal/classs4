@@ -1,0 +1,277 @@
+{
+  "questions": [
+    {
+      "category": "Winnie and the Bees",
+      "question": "What is a gorse-bush?",
+      "options": [
+        "A tree with red leaves",
+        "A bush with thin, sharp leaves and small yellow flowers",
+        "A plant with big red flowers",
+        "A leafy tree found in forests"
+      ],
+      "correct_answer": "A bush with thin, sharp leaves and small yellow flowers"
+    },
+    {
+      "category": "Winnie and the Bees",
+      "question": "Who crawled out from the gorse-bush?",
+      "options": [
+        "Christopher Robin",
+        "A bee",
+        "Winnie-the-Pooh",
+        "A squirrel"
+      ],
+      "correct_answer": "Winnie-the-Pooh"
+    },
+    {
+      "category": "Winnie and the Bees",
+      "question": "Why did Winnie-the-Pooh think of Christopher Robin?",
+      "options": [
+        "Because he wanted to play with him",
+        "Because he was scared of bees",
+        "Because he was his friend and would help him",
+        "Because he needed someone to climb the tree"
+      ],
+      "correct_answer": "Because he was his friend and would help him"
+    },
+    {
+      "category": "Winnie and the Bees",
+      "question": "What does 'gracefully' mean?",
+      "options": [
+        "In a rough and fast way",
+        "In a loud and clumsy way",
+        "In a smooth and relaxed way",
+        "In a fearful and shaky way"
+      ],
+      "correct_answer": "In a smooth and relaxed way"
+    },
+    {
+      "category": "Winnie and the Bees",
+      "question": "What is the meaning of 'anxiously'?",
+      "options": [
+        "In a calm way",
+        "In a sleepy manner",
+        "In a worried or nervous manner",
+        "In a happy mood"
+      ],
+      "correct_answer": "In a worried or nervous manner"
+    },
+    {
+      "category": "Winnie and the Bees",
+      "question": "What does 'suspicious' mean?",
+      "options": [
+        "Feeling that something is right",
+        "Feeling that something is wrong, doubtful",
+        "Feeling very sleepy",
+        "Feeling overjoyed"
+      ],
+      "correct_answer": "Feeling that something is wrong, doubtful"
+    },
+    {
+      "category": "Winnie and the Bees",
+      "question": "What reason did Winnie-the-Pooh give for coming down at the end of the story?",
+      "options": [
+        "He was tired",
+        "He wanted to eat",
+        "These were the wrong sort of bees",
+        "He saw Christopher Robin"
+      ],
+      "correct_answer": "These were the wrong sort of bees"
+    },
+    {
+      "category": "Winnie and the Bees",
+      "question": "What does 'deceive' mean?",
+      "options": [
+        "To make someone believe something that is not true",
+        "A random guess",
+        "A name of a place",
+        "None of the above"
+      ],
+      "correct_answer": "To make someone believe something that is not true"
+    },
+    {
+      "category": "Winnie and the Bees",
+      "question": "What does 'suspect' mean?",
+      "options": [
+        "To believe that someone is possibly up to something bad",
+        "A random guess",
+        "A name of a place",
+        "None of the above"
+      ],
+      "correct_answer": "To believe that someone is possibly up to something bad"
+    },
+    {
+      "category": "Winnie and the Bees",
+      "question": "What does 'deception' mean?",
+      "options": [
+        "The act of making someone believe something that is not true, trickery",
+        "A random guess",
+        "A name of a place",
+        "None of the above"
+      ],
+      "correct_answer": "The act of making someone believe something that is not true, trickery"
+    },
+    {
+      "category": "The Sick Young Dragon",
+      "question": "What does 'alight' mean?",
+      "options": [
+        "Feeling cold",
+        "On fire, burning",
+        "Very tired",
+        "Flying high"
+      ],
+      "correct_answer": "On fire, burning"
+    },
+    {
+      "category": "The Sick Young Dragon",
+      "question": "What did the dragon have to do to feel better?",
+      "options": [
+        "Drink milk and sleep",
+        "Take medicine and rest",
+        "Drink petrol, chew nails, watch TV, and relax",
+        "Fly around the world"
+      ],
+      "correct_answer": "Drink petrol, chew nails, watch TV, and relax"
+    },
+    {
+      "category": "The Sick Young Dragon",
+      "question": "Which sign showed the dragon had recovered?",
+      "options": [
+        "He flew away",
+        "He ate a lot",
+        "He sneezed sparks and his face glowed bright",
+        "He cried loudly"
+      ],
+      "correct_answer": "He sneezed sparks and his face glowed bright"
+    },
+    {
+      "category": "The Sick Young Dragon",
+      "question": "What does 'no wonder' mean?",
+      "options": [
+        "Very shocking",
+        "Used to say something is not surprising",
+        "Quite confusing",
+        "Suddenly unexpected"
+      ],
+      "correct_answer": "Used to say something is not surprising"
+    },
+    {
+      "category": "The Sick Young Dragon",
+      "question": "What are 'scales' on a dragon?",
+      "options": [
+        "His ears",
+        "Small flat pieces that cover the body",
+        "His claws",
+        "His teeth"
+      ],
+      "correct_answer": "Small flat pieces that cover the body"
+    },
+    {
+      "category": "The Sick Young Dragon",
+      "question": "What does 'as right as rain' mean?",
+      "options": [
+        "Very sad",
+        "Perfectly all right",
+        "Extremely dirty",
+        "Very angry"
+      ],
+      "correct_answer": "Perfectly all right"
+    },
+    {
+      "category": "The Sick Young Dragon",
+      "question": "What does 'chill' mean?",
+      "options": [
+        "A cold",
+        "A hot fever",
+        "Running nose",
+        "Sleepy"
+      ],
+      "correct_answer": "A cold"
+    },
+    {
+      "category": "The Sick Young Dragon",
+      "question": "What does 'temperature' mean?",
+      "options": [
+        "The measurement of how hot somebody's body is",
+        "How fast someone walks",
+        "How sleepy a dragon is",
+        "How strong the dragon is"
+      ],
+      "correct_answer": "The measurement of how hot somebody's body is"
+    },
+    {
+      "category": "Shangmiyang – The Tangkhul Giant",
+      "question": "What does 'captivated' mean?",
+      "options": [
+        "Very bored",
+        "Very interested or fascinated",
+        "Very scared",
+        "Very confused"
+      ],
+      "correct_answer": "Very interested or fascinated"
+    },
+    {
+      "category": "Shangmiyang – The Tangkhul Giant",
+      "question": "What were the mountain caves the potters entered?",
+      "options": [
+        "Real caves in a mountain",
+        "Shangmiyang’s ears",
+        "Shangmiyang’s nostrils",
+        "Shangmiyang’s eyes"
+      ],
+      "correct_answer": "Shangmiyang’s nostrils"
+    },
+    {
+      "category": "Shangmiyang – The Tangkhul Giant",
+      "question": "What could be the small prickly trees in the ravine?",
+      "options": [
+        "His eyebrows",
+        "His moustache",
+        "His beard",
+        "His hair"
+      ],
+      "correct_answer": "His moustache"
+    },
+    {
+      "category": "Shangmiyang – The Tangkhul Giant",
+      "question": "What does 'trudged' mean?",
+      "options": [
+        "Walked quickly with joy",
+        "Jumped happily",
+        "Walked slowly or with heavy steps",
+        "Ran fast due to fear"
+      ],
+      "correct_answer": "Walked slowly or with heavy steps"
+    },
+    {
+      "category": "Shangmiyang – The Tangkhul Giant",
+      "question": "What is a 'gale'?",
+      "options": [
+        "A soft breeze",
+        "An extremely strong wind",
+        "A light rain shower",
+        "A foggy morning"
+      ],
+      "correct_answer": "An extremely strong wind"
+    },
+    {
+      "category": "Shangmiyang – The Tangkhul Giant",
+      "question": "What does 'gathered' mean?",
+      "options": [
+        "Came together in one place",
+        "Lost something",
+        "Searched the forest",
+        "Cried loudly"
+      ],
+      "correct_answer": "Came together in one place"
+    },
+    {
+      "category": "Shangmiyang – The Tangkhul Giant",
+      "question": "What does 'clambered' mean?",
+      "options": [
+        "Climbed or moved with difficulty or a lot of effort",
+        "Ran quickly",
+        "Shouted for help",
+        "Flew over trees"
+      ],
+      "correct_answer": "Climbed or moved with difficulty or a lot of effort"
+    }]}  

@@ -1,0 +1,3058 @@
+{
+  "questions": [
+    {
+      "category": "Countries_Capitals_Currencies",
+      "question": "What is the capital of France?",
+      "options": ["London", "Paris", "Berlin", "Madrid"],
+      "correct_answer": "Paris"
+    },
+    {
+      "category": "Countries_Capitals_Currencies",
+      "question": "Which currency is used in Japan?",
+      "options": ["Yuan", "Won", "Yen", "Ringgit"],
+      "correct_answer": "Yen"
+    },
+    {
+      "category": "Countries_Capitals_Currencies",
+      "question": "What is the capital of Australia?",
+      "options": ["Sydney", "Melbourne", "Canberra", "Perth"],
+      "correct_answer": "Canberra"
+    },
+    {
+      "category": "Countries_Capitals_Currencies",
+      "question": "Which country uses the Rupee as its currency?",
+      "options": ["China", "India", "Russia", "Brazil"],
+      "correct_answer": "India"
+    },
+    {
+      "category": "Countries_Capitals_Currencies",
+      "question": "What is the capital of United States?",
+      "options": ["New York", "Washington D.C.", "Los Angeles", "Chicago"],
+      "correct_answer": "Washington D.C."
+    },
+    {
+      "category": "Famous_Landmarks",
+      "question": "In which city is the Taj Mahal located?",
+      "options": ["Delhi", "Mumbai", "Agra", "Jaipur"],
+      "correct_answer": "Agra"
+    },
+    {
+      "category": "Famous_Landmarks",
+      "question": "Which famous tower is located in Paris?",
+      "options": ["Big Ben", "Eiffel Tower", "Leaning Tower", "CN Tower"],
+      "correct_answer": "Eiffel Tower"
+    },
+    {
+      "category": "Indian_Leaders",
+      "question": "Who was the first Prime Minister of India?",
+      "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Sardar Patel", "Dr. Rajendra Prasad"],
+      "correct_answer": "Jawaharlal Nehru"
+    },
+    {
+      "category": "Indian_Leaders",
+      "question": "Who is known as the 'Iron Man of India'?",
+      "options": ["Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "Mahatma Gandhi", "B. R. Ambedkar"],
+      "correct_answer": "Sardar Vallabhbhai Patel"
+    },
+    {
+      "category": "Science_and_Technology",
+      "question": "What is the brain of a computer called?",
+      "options": ["CPU", "Monitor", "Keyboard", "Mouse"],
+      "correct_answer": "CPU"
+    },
+    {
+      "category": "Science_and_Technology",
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correct_answer": "Mars"
+    },
+    {
+      "category": "Important_Prime_Ministers",
+      "question": "Who was India's first Prime Minister?",
+      "options": [
+        "Jawaharlal Nehru",
+        "Lal Bahadur Shastri",
+        "Indira Gandhi",
+        "Rajiv Gandhi"
+      ],
+      "correct_answer": "Jawaharlal Nehru"
+    },
+    {
+      "category": "Important_Prime_Ministers",
+      "question": "Who succeeded Jawaharlal Nehru as Prime Minister?",
+      "options": [
+        "Lal Bahadur Shastri",
+        "Jawaharlal Nehru",
+        "Indira Gandhi",
+        "Rajiv Gandhi"
+      ],
+      "correct_answer": "Lal Bahadur Shastri"
+    },
+    {
+      "category": "Plant_Parts_We_Eat",
+      "question": "Which part of the plant is cauliflower?",
+      "options": ["Flower", "Leaves", "Root", "Stem"],
+      "correct_answer": "Flower"
+    },
+        {
+          "category": "The_Written_Words",
+          "question": "Unscramble the letters for the answer: He/she helps the author to improve their written work such as a story, essay, poem, etc. (EDIOTR)",
+          "options": ["Editor", "Author", "Poet", "Playwright"],
+          "correct_answer": "Editor",
+          "explanation": "An editor helps the author improve their written work."
+        },
+        {
+          "category": "The_Written_Words",
+          "question": "Unscramble the letters for the answer: A traditional short story that teaches a moral lesson. (ALFBE)",
+          "options": ["Fable", "Novel", "Poem", "Drama"],
+          "correct_answer": "Fable",
+          "explanation": "A fable is a traditional short story that teaches a moral lesson."
+        },
+        {
+          "category": "The_Written_Words",
+          "question": "Unscramble the letters for the answer: The main printed part of a book/magazine. (XTTE)",
+          "options": ["Text", "Cover", "Index", "Preface"],
+          "correct_answer": "Text",
+          "explanation": "The text is the main printed part of a book or magazine."
+        },
+        {
+          "category": "The_Written_Words",
+          "question": "Unscramble the letters for the answer: A set of questions in a book to test your knowledge. (XCEESIRE)",
+          "options": ["Exercise", "Chapter", "Glossary", "Appendix"],
+          "correct_answer": "Exercise",
+          "explanation": "An exercise is a set of questions in a book to test your knowledge."
+        },
+        {
+          "category": "The_Written_Words",
+          "question": "Unscramble the letters for the answer: A word used for plays and theatre. (AADRM)",
+          "options": ["Drama", "Poem", "Novel", "Essay"],
+          "correct_answer": "Drama",
+          "explanation": "Drama is a word used for plays and theatre."
+        },
+        {
+          "category": "The_Written_Words",
+          "question": "Unscramble the letters for the answer: The words of a song. (LYRCIS)",
+          "options": ["Lyrics", "Melody", "Chorus", "Verse"],
+          "correct_answer": "Lyrics",
+          "explanation": "Lyrics are the words of a song."
+        },
+        {
+          "category": "The_Written_Words",
+          "question": "Unscramble the letters for the answer: Many poems or stories together. (COTIONLLEC)",
+          "options": ["Collection", "Anthology", "Compilation", "Series"],
+          "correct_answer": "Collection",
+          "explanation": "A collection is many poems or stories together."
+        },
+        {
+          "category": "The_Written_Words",
+          "question": "Unscramble the letters for the answer: A writing partner. (OC-AUROTH)",
+          "options": ["Co-author", "Editor", "Poet", "Playwright"],
+          "correct_answer": "Co-author",
+          "explanation": "A co-author is a writing partner."
+        },
+        {
+          "category": "The_Written_Words",
+          "question": "In your own Find Out book, make a list like this: Who writes poems?",
+          "options": [],
+          "correct_answer": "Poet",
+          "explanation": "A poet writes poems."
+        },
+        {
+          "category": "The_Written_Words",
+          "question": "In your own Find Out book, make a list like this: Who writes plays?",
+          "options": [],
+          "correct_answer": "Playwright",
+          "explanation": "A playwright writes plays."
+        },
+        {
+          "category": "The_Written_Words",
+          "question": "Find Out what these words mean: e-book, monograph, headline, caption, footnote.",
+          "options": [],
+          "correct_answer": "E-book: A digital version of a book; Monograph: A detailed written study on a single subject; Headline: The title of a news article; Caption: A brief explanation under a picture; Footnote: A note at the bottom of a page giving extra information.",
+          "explanation": "E-book: A digital version of a book; Monograph: A detailed written study on a single subject; Headline: The title of a news article; Caption: A brief explanation under a picture; Footnote: A note at the bottom of a page giving extra information."
+        }
+      ,
+        {
+          "category": "The_Olympics",
+          "question": "The Olympic symbol is five circles or rings joined together. What do the rings stand for?",
+          "options": [
+            "Five continents",
+            "Five colors",
+            "Five sports",
+            "Five Olympic values"
+          ],
+          "correct_answer": "Five continents",
+          "explanation": "The five rings represent the five continents: Africa, Americas, Asia, Europe, and Oceania."
+        },
+        {
+          "category": "The_Olympics",
+          "question": "What are the colors of the Olympic rings?",
+          "options": [
+            "Yellow, red, green, black, blue",
+            "Red, blue, green, black, white",
+            "Blue, yellow, black, green, red",
+            "White, black, blue, red, green"
+          ],
+          "correct_answer": "Blue, yellow, black, green, red",
+          "explanation": "The colors of the Olympic rings are blue, yellow, black, green, and red."
+        },
+        {
+          "category": "The_Olympics",
+          "question": "Which Indian woman finished fourth in the golf event at the 2020 Tokyo Olympics?",
+          "options": ["Aditi Ashok", "PV Sindhu", "Mirabai Chanu", "Deepika Kumari"],
+          "correct_answer": "Aditi Ashok",
+          "explanation": "Aditi Ashok finished fourth in the golf event at the 2020 Tokyo Olympics."
+        },
+        {
+          "category": "The_Olympics",
+          "question": "Break dancing will be introduced as a new event in the Summer Olympics 2024. True or False.",
+          "options": ["True", "False"],
+          "correct_answer": "True",
+          "explanation": "Break dancing will be introduced as a new event in the Summer Olympics 2024."
+        },
+        {
+          "category": "The_Olympics",
+          "question": "Which country's team always marches last in the march past at the opening ceremony of the Olympics?",
+          "options": ["Host country", "Greece", "USA", "France"],
+          "correct_answer": "Host country",
+          "explanation": "The host country's team always marches last in the opening ceremony."
+        },
+        {
+          "category": "The_Olympics",
+          "question": "Today's Olympic winners are presented with medals of gold, silver, or bronze. What were the winners in the ancient Olympics awarded?",
+          "options": [
+            "Crown of olive leaves",
+            "Gold coins",
+            "Silver trophies",
+            "Bronze statues"
+          ],
+          "correct_answer": "Crown of olive leaves",
+          "explanation": "Winners in the ancient Olympics were awarded a crown of olive leaves."
+        },
+        {
+          "category": "The_Olympics",
+          "question": "In which athletic event did Neeraj Chopra win a gold medal for India at the Tokyo Olympics 2020?",
+          "options": ["Javelin throw", "Shot put", "Discus throw", "Hammer throw"],
+          "correct_answer": "Javelin throw",
+          "explanation": "Neeraj Chopra won a gold medal in the javelin throw at the Tokyo Olympics 2020."
+        },
+        {
+          "category": "The_Olympics",
+          "question": "In which sport has India won eight Olympic golds, a silver, and three bronze medals?",
+          "options": ["Hockey", "Cricket", "Football", "Badminton"],
+          "correct_answer": "Hockey",
+          "explanation": "India has won eight Olympic golds, a silver, and three bronze medals in hockey."
+        },
+        {
+          "category": "The_Olympics",
+          "question": "In which sport did Mirabai Chanu win a silver medal for India at the 2020 Tokyo Olympic Games?",
+          "options": ["Weightlifting", "Boxing", "Wrestling", "Shooting"],
+          "correct_answer": "Weightlifting",
+          "explanation": "Mirabai Chanu won a silver medal in weightlifting at the 2020 Tokyo Olympics."
+        },
+        {
+          "category": "The_Olympics",
+          "question": "The Olympic motto is CITIUS, ALTIUS, FORTIUS. What does it mean?",
+          "options": [
+            "Faster, Higher, Stronger",
+            "Unity, Diversity, Excellence",
+            "Peace, Friendship, Progress",
+            "Courage, Determination, Victory"
+          ],
+          "correct_answer": "Faster, Higher, Stronger",
+          "explanation": "The Olympic motto CITIUS, ALTIUS, FORTIUS means Faster, Higher, Stronger."
+        }
+      ,
+        {
+          "category": "Classical_Dances",
+          "question": "Name this dance: She is performing Mohiniyattam (ATTMAMONIHI). It is a classical dance form of Kerala.",
+          "options": ["Mohiniyattam", "Kuchipudi", "Kathakali", "Bharatanatyam"],
+          "correct_answer": "Mohiniyattam",
+          "explanation": "Mohiniyattam is a classical dance form of Kerala."
+        },
+        {
+          "category": "Classical_Dances",
+          "question": "Name this dance: Kuchipudi (PUDIIKUCH) is a classical dance of the state of Andhra Pradesh.",
+          "options": ["Kuchipudi", "Kathakali", "Bharatanatyam", "Manipuri"],
+          "correct_answer": "Kuchipudi",
+          "explanation": "Kuchipudi is a classical dance form of Andhra Pradesh."
+        },
+        {
+          "category": "Classical_Dances",
+          "question": "Name this dance: Kathakali (AHKLKTAAD) is a classical dance form of Kerala.",
+          "options": ["Kathakali", "Kuchipudi", "Bharatanatyam", "Manipuri"],
+          "correct_answer": "Kathakali",
+          "explanation": "Kathakali is a classical dance form of Kerala."
+        },
+        {
+          "category": "Classical_Dances",
+          "question": "Match the classical dance to its home state: Bharatanatyam",
+          "options": ["Kerala", "Tamil Nadu", "Assam", "Manipuri"],
+          "correct_answer": "Tamil Nadu",
+          "explanation": "Bharatanatyam is a classical dance form of Tamil Nadu."
+        },
+        {
+          "category": "Classical_Dances",
+          "question": "Match the classical dance to its home state: Manipuri",
+          "options": ["Kerala", "Tamil Nadu", "Assam", "Manipur"],
+          "correct_answer": "Manipur",
+          "explanation": "Manipuri is a classical dance form of Manipur."
+        },
+        {
+          "category": "Classical_Dances",
+          "question": "Match the classical dance to its home state: Kuchipudi",
+          "options": ["Kerala", "Tamil Nadu", "Andhra Pradesh", "Assam"],
+          "correct_answer": "Andhra Pradesh",
+          "explanation": "Kuchipudi is a classical dance form of Andhra Pradesh."
+        },
+        {
+          "category": "Classical_Dances",
+          "question": "Match the classical dance to its home state: Sattriya",
+          "options": ["Kerala", "Tamil Nadu", "Assam", "Manipur"],
+          "correct_answer": "Assam",
+          "explanation": "Sattriya is a classical dance form of Assam."
+        },
+        {
+          "category": "Classical_Dances",
+          "question": "Tick the correct dance: Male dancers wear a lot of make-up and huge headgear.",
+          "options": ["Bharatanatyam", "Kathakali"],
+          "correct_answer": "Kathakali",
+          "explanation": "Kathakali dancers are known for their elaborate make-up and headgear."
+        },
+        {
+          "category": "Classical_Dances",
+          "question": "Tick the correct dance: Rukmini Arundale is famous for this dance form.",
+          "options": ["Bharatanatyam", "Kathak"],
+          "correct_answer": "Bharatanatyam",
+          "explanation": "Rukmini Arundale is famous for reviving and popularizing Bharatanatyam."
+        },
+        {
+          "category": "Classical_Dances",
+          "question": "Tick the correct dance: A dance from north-eastern India.",
+          "options": ["Bharatanatyam", "Manipuri"],
+          "correct_answer": "Manipuri",
+          "explanation": "Manipuri is a classical dance form from north-eastern India."
+        },
+        {
+          "category": "Classical_Dances",
+          "question": "Tick the correct dance: You will see figures of these dancers on the walls of the temples in Odisha.",
+          "options": ["Mohiniyattam", "Odissi"],
+          "correct_answer": "Odissi",
+          "explanation": "Odissi dancers are depicted on the walls of temples in Odisha."
+        },
+        {
+          "category": "Classical_Dances",
+          "question": "Did You Know: The three syllables of Bha-ra-ta are short for bhava (expression), raga (melody), and tala (rhythm). Put them together and you get Bharatanatyam.",
+          "options": [],
+          "correct_answer": "Bharatanatyam",
+          "explanation": "The name Bharatanatyam comes from bhava (expression), raga (melody), and tala (rhythm)."
+        }
+      ,
+        {
+          "category": "My_India",
+          "question": "Fill in the blank: CHHATRAPATI SHIVAJI was a great Maratha warrior. He once escaped from his enemy's palace in a basket of fruits and sweets.",
+          "options": ["Chhatrapati Shivaji", "Lala Lajpat Rai", "Bal Gangadhar Tilak", "Dr. B. R. Ambedkar"],
+          "correct_answer": "Chhatrapati Shivaji",
+          "explanation": "Chhatrapati Shivaji was a great Maratha warrior known for his bravery and strategic escapes."
+        },
+        {
+          "category": "My_India",
+          "question": "Fill in the blank: LALA LAJPAT RAI was a great freedom fighter. He was known as Sher-e-Punjab, which means the Lion of Punjab.",
+          "options": ["Lala Lajpat Rai", "Bal Gangadhar Tilak", "Sardar Patel", "Sarojini Naidu"],
+          "correct_answer": "Lala Lajpat Rai",
+          "explanation": "Lala Lajpat Rai was a freedom fighter known as Sher-e-Punjab, meaning the Lion of Punjab."
+        },
+        {
+          "category": "My_India",
+          "question": "Fill in the blank: BAL GANGADHAR TILAK was known for his fiery speeches. During the freedom struggle, he said, 'Swaraj is my birthright and I shall have it.'",
+          "options": ["Bal Gangadhar Tilak", "Lala Lajpat Rai", "Dr. B. R. Ambedkar", "Sarojini Naidu"],
+          "correct_answer": "Bal Gangadhar Tilak",
+          "explanation": "Bal Gangadhar Tilak was a freedom fighter known for his fiery speeches and the slogan, 'Swaraj is my birthright and I shall have it.'"
+        },
+        {
+          "category": "My_India",
+          "question": "Fill in the blank: Dr. B. R. AMBEDKAR was a great Indian born on 14 April 1891. He was India's first law minister.",
+          "options": ["Dr. B. R. Ambedkar", "Sardar Patel", "Sarojini Naidu", "Chhatrapati Shivaji"],
+          "correct_answer": "Dr. B. R. Ambedkar",
+          "explanation": "Dr. B. R. Ambedkar was a great leader and India's first law minister, born on 14 April 1891."
+        },
+        {
+          "category": "My_India",
+          "question": "Fill in the blank: SARDAR PATEL's real name was Vallabhbhai. He was known as the Iron Man of India.",
+          "options": ["Sardar Patel", "Lala Lajpat Rai", "Bal Gangadhar Tilak", "Sarojini Naidu"],
+          "correct_answer": "Sardar Patel",
+          "explanation": "Sardar Patel, whose real name was Vallabhbhai, was known as the Iron Man of India for his role in unifying the country."
+        },
+        {
+          "category": "My_India",
+          "question": "Fill in the blank: SAROJINI NAIDU was a freedom fighter and a great poet. She was known as the Nightingale of India.",
+          "options": ["Sarojini Naidu", "Lala Lajpat Rai", "Bal Gangadhar Tilak", "Dr. B. R. Ambedkar"],
+          "correct_answer": "Sarojini Naidu",
+          "explanation": "Sarojini Naidu was a freedom fighter and poet, known as the Nightingale of India."
+        }
+      ,
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the city to the country and its famous monument: London",
+          "options": [
+            "UK - Big Ben",
+            "France - Eiffel Tower",
+            "Italy - Leaning Tower of Pisa",
+            "USA - Golden Gate Bridge"
+          ],
+          "correct_answer": "UK - Big Ben",
+          "explanation": "London is in the UK, and its famous monument is Big Ben."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the city to the country and its famous monument: Paris",
+          "options": [
+            "UK - Big Ben",
+            "France - Eiffel Tower",
+            "Italy - Leaning Tower of Pisa",
+            "USA - Golden Gate Bridge"
+          ],
+          "correct_answer": "France - Eiffel Tower",
+          "explanation": "Paris is in France, and its famous monument is the Eiffel Tower."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the city to the country and its famous monument: Pisa",
+          "options": [
+            "UK - Big Ben",
+            "France - Eiffel Tower",
+            "Italy - Leaning Tower of Pisa",
+            "USA - Golden Gate Bridge"
+          ],
+          "correct_answer": "Italy - Leaning Tower of Pisa",
+          "explanation": "Pisa is in Italy, and its famous monument is the Leaning Tower of Pisa."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the city to the country and its famous monument: San Francisco",
+          "options": [
+            "UK - Big Ben",
+            "France - Eiffel Tower",
+            "Italy - Leaning Tower of Pisa",
+            "USA - Golden Gate Bridge"
+          ],
+          "correct_answer": "USA - Golden Gate Bridge",
+          "explanation": "San Francisco is in the USA, and its famous monument is the Golden Gate Bridge."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the city to the country and its famous monument: Sydney",
+          "options": [
+            "Australia - Sydney Opera House",
+            "France - Eiffel Tower",
+            "Italy - Leaning Tower of Pisa",
+            "USA - Golden Gate Bridge"
+          ],
+          "correct_answer": "Australia - Sydney Opera House",
+          "explanation": "Sydney is in Australia, and its famous monument is the Sydney Opera House."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the city to the country and its famous monument: Barcelona",
+          "options": [
+            "Spain - Sagrada Familia",
+            "France - Eiffel Tower",
+            "Italy - Leaning Tower of Pisa",
+            "USA - Golden Gate Bridge"
+          ],
+          "correct_answer": "Spain - Sagrada Familia",
+          "explanation": "Barcelona is in Spain, and its famous monument is the Sagrada Familia."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the description to the city: The capital of Thailand; many tourists visit it.",
+          "options": ["Bangkok", "Dhaka", "Los Angeles", "Berlin"],
+          "correct_answer": "Bangkok",
+          "explanation": "Bangkok is the capital of Thailand and is known for its tourism."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the description to the city: The city in the USA where many Hollywood movies are made.",
+          "options": ["Bangkok", "Dhaka", "Los Angeles", "Berlin"],
+          "correct_answer": "Los Angeles",
+          "explanation": "Los Angeles is the city in the USA where many Hollywood movies are made."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the description to the city: Germany's capital city; it was once divided into two.",
+          "options": ["Bangkok", "Dhaka", "Los Angeles", "Berlin"],
+          "correct_answer": "Berlin",
+          "explanation": "Berlin is Germany's capital city and was once divided into East and West Berlin."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the description to the city: A city in Italy which is well known for its canals.",
+          "options": ["Bangkok", "Dhaka", "Venice", "Berlin"],
+          "correct_answer": "Venice",
+          "explanation": "Venice is a city in Italy known for its canals."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the description to the city: The capital city of Bangladesh which is very populated.",
+          "options": ["Bangkok", "Dhaka", "Los Angeles", "Berlin"],
+          "correct_answer": "Dhaka",
+          "explanation": "Dhaka is the capital city of Bangladesh and is very populated."
+        }
+      ,
+        {
+          "category": "Through_a_Telescope",
+          "question": "This aircraft goes into space.",
+          "options": ["Airplane", "Helicopter", "Spacecraft", "Rocket"],
+          "correct_answer": "Spacecraft",
+          "explanation": "A spacecraft is designed to travel into space."
+        },
+        {
+          "category": "Science_and_Us",
+          "question": "The planets are named after Roman gods and goddesses. This one is named after the god of time.",
+          "options": ["Saturn", "Jupiter", "Mars", "Venus"],
+          "correct_answer": "Saturn",
+          "explanation": "Saturn is named after the Roman god of time."
+        },
+        {
+          "category": "Science_and_Us",
+          "question": "As many as 1,300 Earths can fit inside this planet. It is huge.",
+          "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+          "correct_answer": "Jupiter",
+          "explanation": "Jupiter is so large that about 1,300 Earths can fit inside it."
+        },
+        {
+          "category": "Science_and_Us",
+          "question": "It sounds like the name of a chocolate but is named after the Roman god of war.",
+          "options": ["Mars", "Venus", "Mercury", "Pluto"],
+          "correct_answer": "Mars",
+          "explanation": "Mars is named after the Roman god of war."
+        },
+        {
+          "category": "Science_and_Us",
+          "question": "It is the brightest planet in the solar system. It is the only one that spins clockwise on its axis.",
+          "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+          "correct_answer": "Venus",
+          "explanation": "Venus is the brightest planet and spins clockwise on its axis."
+        },
+        {
+          "category": "Science_and_Us",
+          "question": "This is the number of planets in the solar system.",
+          "options": ["7", "8", "9", "10"],
+          "correct_answer": "8",
+          "explanation": "There are eight planets in the solar system."
+        },
+        {
+          "category": "Science_and_Us",
+          "question": "Neil Armstrong was the first man to set foot on it.",
+          "options": ["Moon", "Mars", "Venus", "Jupiter"],
+          "correct_answer": "Moon",
+          "explanation": "Neil Armstrong was the first man to set foot on the Moon."
+        },
+        {
+          "category": "Science_and_Us",
+          "question": "This planet is named after the Roman God of the Sea.",
+          "options": ["Neptune", "Uranus", "Saturn", "Jupiter"],
+          "correct_answer": "Neptune",
+          "explanation": "Neptune is named after the Roman god of the sea."
+        },
+        {
+          "category": "Science_and_Us",
+          "question": "It used to be called a planet till 2006.",
+          "options": ["Pluto", "Eris", "Ceres", "Haumea"],
+          "correct_answer": "Pluto",
+          "explanation": "Pluto was reclassified as a dwarf planet in 2006."
+        },
+        {
+          "category": "Science_and_Us",
+          "question": "Uranus and Neptune contain a lot of this; in 2008-09 some has been found on Mars and on the Moon.",
+          "options": ["Ice", "Rock", "Gas", "Water"],
+          "correct_answer": "Ice",
+          "explanation": "Uranus and Neptune contain a lot of ice, which has also been found on Mars and the Moon."
+        },
+        {
+          "category": "Science_and_Us",
+          "question": "There is a belt full of these between Mars and Jupiter.",
+          "options": ["Asteroids", "Comets", "Meteors", "Planets"],
+          "correct_answer": "Asteroids",
+          "explanation": "The asteroid belt is located between Mars and Jupiter."
+        }
+      ,
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the left column with the right: Team",
+          "options": ["Captain", "Conductor", "Pilot/Captain/Commander", "Editor"],
+          "correct_answer": "Captain",
+          "explanation": "A team is led by a captain."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the left column with the right: Aeroplane",
+          "options": ["Pilot/Captain/Commander", "Conductor", "Captain", "Editor"],
+          "correct_answer": "Pilot/Captain/Commander",
+          "explanation": "An aeroplane is led by a pilot, captain, or commander."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the left column with the right: Committee",
+          "options": ["Chairperson", "Conductor", "Captain", "Editor"],
+          "correct_answer": "Chairperson",
+          "explanation": "A committee is led by a chairperson."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the left column with the right: Orchestra",
+          "options": ["Conductor", "Captain", "Pilot/Captain/Commander", "Editor"],
+          "correct_answer": "Conductor",
+          "explanation": "An orchestra is led by a conductor."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the left column with the right: Kingdom",
+          "options": ["King/Queen", "Captain", "Conductor", "Editor"],
+          "correct_answer": "King/Queen",
+          "explanation": "A kingdom is led by a king or queen."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the left column with the right: Ship",
+          "options": ["Captain/Commander", "Conductor", "Pilot/Captain/Commander", "Editor"],
+          "correct_answer": "Captain/Commander",
+          "explanation": "A ship is led by a captain or commander."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the left column with the right: Army",
+          "options": ["General/Commander", "Captain", "Conductor", "Editor"],
+          "correct_answer": "General/Commander",
+          "explanation": "An army is led by a general or commander."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the left column with the right: Newspaper/Magazine",
+          "options": ["Editor", "Captain", "Conductor", "Pilot/Captain/Commander"],
+          "correct_answer": "Editor",
+          "explanation": "A newspaper or magazine is led by an editor."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the left column with the right: Railway Station",
+          "options": ["Station Master", "Captain", "Conductor", "Editor"],
+          "correct_answer": "Station Master",
+          "explanation": "A railway station is managed by a station master."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the left column with the right: Police Station",
+          "options": ["Officer-in-Charge (OC)", "Captain", "Conductor", "Editor"],
+          "correct_answer": "Officer-in-Charge (OC)",
+          "explanation": "A police station is managed by an officer-in-charge (OC)."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the left column with the right: Film/Play",
+          "options": ["Director", "Captain", "Conductor", "Editor"],
+          "correct_answer": "Director",
+          "explanation": "A film or play is led by a director."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "Match the left column with the right: Government",
+          "options": ["Prime Minister/President", "Captain", "Conductor", "Editor"],
+          "correct_answer": "Prime Minister/President",
+          "explanation": "A government is led by a prime minister or president."
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "In your own Find Out book, make a list with the name of a person you know, beside each profession, like this: Doctor",
+          "options": [],
+          "correct_answer": "Dr. K. Sen",
+          "explanation": "Example: Doctor - Dr. K. Sen"
+        },
+        {
+          "category": "World_and_Its_People",
+          "question": "In your own Find Out book, make a list with the name of a person you know, beside each profession, like this: Pilot",
+          "options": [],
+          "correct_answer": "Captain Ram Jha",
+          "explanation": "Example: Pilot - Captain Ram Jha"
+        }
+      ,
+        {
+          "category": "General_Knowledge",
+          "question": "Will polar bears, penguins, and snow leopards be comfortable living in places near the equator?",
+          "options": ["Yes", "No"],
+          "correct_answer": "No",
+          "explanation": "Polar bears, penguins, and snow leopards are adapted to cold climates and would not be comfortable near the equator."
+        },
+        {
+          "category": "Sports",
+          "question": "Which is the odd one out—diving, swimming, water polo, volleyball?",
+          "options": ["Diving", "Swimming", "Water Polo", "Volleyball"],
+          "correct_answer": "Volleyball",
+          "explanation": "Volleyball is not a water sport, while the others are."
+        },
+        {
+          "category": "Famous_Landmarks",
+          "question": "This famous statue of Jesus Christ in Brazil overlooks the city of Rio de Janeiro from a height of 706 meters. Name it.",
+          "options": ["Statue of Liberty", "Christ the Redeemer", "Great Sphinx", "Mount Rushmore"],
+          "correct_answer": "Christ the Redeemer",
+          "explanation": "Christ the Redeemer is the famous statue located in Rio de Janeiro."
+        },
+        {
+          "category": "General_Knowledge",
+          "question": "Where will you find information about people, animals, and places—in a dictionary or in an encyclopaedia?",
+          "options": ["Dictionary", "Encyclopaedia"],
+          "correct_answer": "Encyclopaedia",
+          "explanation": "An encyclopaedia contains comprehensive information about people, animals, and places."
+        },
+        {
+          "category": "Religious_Leaders",
+          "question": "Guru Gobind Singh was the tenth and last Sikh... guru. Fill in the blank.",
+          "options": ["Guru", "Leader", "Teacher", "Saint"],
+          "correct_answer": "Guru",
+          "explanation": "Guru Gobind Singh was the tenth and last Sikh guru."
+        },
+        {
+          "category": "Travel_and_Geography",
+          "question": "How many countries can you travel to with the Schengen visa?",
+          "options": ["25", "26", "27", "28"],
+          "correct_answer": "26",
+          "explanation": "You can travel to 26 countries with the Schengen visa."
+        },
+        {
+          "category": "Sports",
+          "question": "In which sport did Neeraj Chopra represent India at the 2020 Tokyo Olympics?",
+          "options": ["Javelin", "Shot Put", "Discus Throw", "Hammer Throw"],
+          "correct_answer": "Javelin",
+          "explanation": "Neeraj Chopra represented India in the Javelin throw at the 2020 Tokyo Olympics."
+        },
+        {
+          "category": "English_Grammar",
+          "question": "Rewrite this sentence correctly: 'We had some desert after dinner.'",
+          "options": ["We had some desert after dinner.", "We had some dessert after dinner.", "We had some desert before dinner.", "We had some dessert before dinner."],
+          "correct_answer": "We had some dessert after dinner.",
+          "explanation": "The correct word is 'dessert,' which refers to a sweet dish eaten after a meal."
+        },
+        {
+          "category": "Indian_Politics",
+          "question": "Who became the Prime Minister of India for the second time in 2019?",
+          "options": ["Narendra Modi", "Rahul Gandhi", "Manmohan Singh", "Arvind Kejriwal"],
+          "correct_answer": "Narendra Modi",
+          "explanation": "Narendra Modi became the Prime Minister of India for the second time in 2019."
+        },
+        {
+          "category": "General_Knowledge",
+          "question": "Are knives, forks, and spoons part of cutlery or crockery?",
+          "options": ["Cutlery", "Crockery"],
+          "correct_answer": "Cutlery",
+          "explanation": "Knives, forks, and spoons are part of cutlery."
+        },
+        {
+          "category": "Awards_and_Honors",
+          "question": "A. R. Rahman and Resul Pookutty have won the O .G.A.R. 5 (film awards). Fill in the blanks.",
+          "options": ["Oscars", "Grammys", "Emmys", "Tonys"],
+          "correct_answer": "Oscars",
+          "explanation": "A. R. Rahman and Resul Pookutty have won Oscars, which are prestigious film awards."
+        },
+        {
+          "category": "Indian_Culture",
+          "question": "If you add the letter 'i' at the end of the name of a state, you get the name of an Indian classical dance. Name the state.",
+          "options": ["Manipur", "Kerala", "Tamil Nadu", "Odisha"],
+          "correct_answer": "Manipur",
+          "explanation": "Manipuri is a classical dance form from the state of Manipur."
+        },
+        {
+          "category": "World_Leaders",
+          "question": "In South Africa, they called him 'Madiba'. A great leader, he passed away in 2013. Name him.",
+          "options": ["Nelson Mandela", "Mahatma Gandhi", "Martin Luther King Jr.", "Desmond Tutu"],
+          "correct_answer": "Nelson Mandela",
+          "explanation": "Nelson Mandela, also known as 'Madiba,' was a great leader from South Africa who passed away in 2013."
+        },
+        {
+          "category": "Indian_Leaders",
+          "question": "Who were known as 'the Lion of Punjab'; 'Nightingale of India'; and 'Iron Man of India'?",
+          "options": [
+            "Lala Lajpat Rai, Sarojini Naidu, Sardar Patel",
+            "Bhagat Singh, Indira Gandhi, B. R. Ambedkar",
+            "Bal Gangadhar Tilak, Rani Lakshmibai, Subhas Chandra Bose",
+            "Jawaharlal Nehru, Mother Teresa, Dr. Rajendra Prasad"
+          ],
+          "correct_answer": "Lala Lajpat Rai, Sarojini Naidu, Sardar Patel",
+          "explanation": "Lala Lajpat Rai is known as the Lion of Punjab, Sarojini Naidu as the Nightingale of India, and Sardar Patel as the Iron Man of India."
+        },
+        {
+          "category": "Geography",
+          "question": "True or false: Beijing is the capital city of Japan.",
+          "options": ["True", "False"],
+          "correct_answer": "False",
+          "explanation": "Beijing is the capital of China, not Japan."
+        },
+        {
+          "category": "Technology",
+          "question": "Is the machinery of a computer called its hardware or software?",
+          "options": ["Hardware", "Software"],
+          "correct_answer": "Hardware",
+          "explanation": "The machinery of a computer is called hardware."
+        },
+        {
+          "category": "Technology",
+          "question": "Martin Cooper gave the world its first Mobile... phone. Fill in the blank.",
+          "options": ["Phone", "Computer", "Television", "Radio"],
+          "correct_answer": "Phone",
+          "explanation": "Martin Cooper invented the first mobile phone."
+        },
+        {
+          "category": "Biology",
+          "question": "All living things are most comfortable in their homes or natural habitats. Fill in the blank.",
+          "options": ["Homes", "Natural Habitats"],
+          "correct_answer": "Natural Habitats",
+          "explanation": "All living things are most comfortable in their natural habitats."
+        },
+        {
+          "category": "Religious_History",
+          "question": "Lord Jesus Christ was born in Bethlehem (EELHEMTBH) and Lord Krishna was born in ....Mathura (AMURHTA).",
+          "options": ["Bethlehem and Mathura", "Jerusalem and Vrindavan", "Nazareth and Ayodhya", "Mecca and Dwarka"],
+          "correct_answer": "Bethlehem and Mathura",
+          "explanation": "Jesus Christ was born in Bethlehem, and Lord Krishna was born in Mathura."
+        },
+        {
+          "category": "Indian_Politics",
+          "question": "Whom did Droupadi Murmu succeed as the president of India?",
+          "options": ["Ram Nath Kovind", "Pranab Mukherjee", "A.P.J. Abdul Kalam", "Pratibha Patil"],
+          "correct_answer": "Ram Nath Kovind",
+          "explanation": "Droupadi Murmu succeeded Ram Nath Kovind as the president of India."
+        }
+      ,
+    {
+      "category": "Plant_Parts_We_Eat",
+      "question": "Which part of the plant is coriander?",
+      "options": ["Flower", "Leaves", "Root", "Stem"],
+      "correct_answer": "Leaves"
+    },
+    {
+      "category": "Plant_Parts_We_Eat",
+      "question": "Which part of the plant is turmeric?",
+      "options": ["Flower", "Leaves", "Root", "Stem"],
+      "correct_answer": "Root"
+    },
+    {
+      "category": "Plant_Parts_We_Eat",
+      "question": "Which part of the plant is celery?",
+      "options": ["Flower", "Leaves", "Root", "Stem"],
+      "correct_answer": "Stem"
+    },
+    {
+      "category": "Plant_Parts_We_Eat",
+      "question": "Which part of the plant is ginger?",
+      "options": ["Flower", "Leaves", "Root", "Stem"],
+      "correct_answer": "Root"
+    },
+    {
+      "category": "Plant_Parts_We_Eat",
+      "question": "Which part of the plant is rice?",
+      "options": ["Flower", "Leaves", "Seed", "Stem"],
+      "correct_answer": "Seed"
+    },
+    {
+      "category": "Plant_Parts_We_Eat",
+      "question": "Which part of the plant is lettuce?",
+      "options": ["Flower", "Leaves", "Root", "Stem"],
+      "correct_answer": "Leaves"
+    },
+    {
+      "category": "Plant_Parts_We_Eat",
+      "question": "Which part of the plant is sweet potato?",
+      "options": ["Flower", "Leaves", "Root", "Stem"],
+      "correct_answer": "Root"
+    },
+    {
+      "category": "Plant_Parts_We_Eat",
+      "question": "Which part of the plant is radish?",
+      "options": ["Flower", "Leaves", "Root", "Stem"],
+      "correct_answer": "Root"
+    },
+    {
+      "category": "Plant_Parts_We_Eat",
+      "question": "Which part of the plant is mustard?",
+      "options": ["Flower", "Leaves", "Seed", "Stem"],
+      "correct_answer": "Seed"
+    },
+    {
+      "category": "Plants_and_Their_Uses",
+      "question": "Which plants give us oil?",
+      "options": [
+        "Sunflower, Mustard, Coconut, Olive",
+        "Tulsi, Aloe Vera, Neem, Eucalyptus",
+        "Cotton, Jute, Flax, Hemp",
+        "Sandalwood, Jasmine, Rose, Parijat"
+      ],
+      "correct_answer": "Sunflower, Mustard, Coconut, Olive"
+    },
+    {
+      "category": "Plants_and_Their_Uses",
+      "question": "Which plants give us medicines?",
+      "options": [
+        "Sunflower, Mustard, Coconut, Olive",
+        "Tulsi, Aloe Vera, Neem, Eucalyptus",
+        "Cotton, Jute, Flax, Hemp",
+        "Sandalwood, Jasmine, Rose, Parijat"
+      ],
+      "correct_answer": "Tulsi, Aloe Vera, Neem, Eucalyptus"
+    },
+    {
+      "category": "Plants_and_Their_Uses",
+      "question": "Which plants give us fibers?",
+      "options": [
+        "Sunflower, Mustard, Coconut, Olive",
+        "Tulsi, Aloe Vera, Neem, Eucalyptus",
+        "Cotton, Jute, Flax, Hemp",
+        "Sandalwood, Jasmine, Rose, Parijat"
+      ],
+      "correct_answer": "Cotton, Jute, Flax, Hemp"
+    },
+    {
+      "category": "Plants_and_Their_Uses",
+      "question": "Which plants give us perfume?",
+      "options": [
+        "Sunflower, Mustard, Coconut, Olive",
+        "Tulsi, Aloe Vera, Neem, Eucalyptus",
+        "Cotton, Jute, Flax, Hemp",
+        "Sandalwood, Jasmine, Rose, Parijat"
+      ],
+      "correct_answer": "Sandalwood, Jasmine, Rose, Parijat"
+    },
+    {
+      "category": "Animals_and_Birds",
+      "question": "What is an Albatross?",
+      "options": [
+        "A large seabird",
+        "A marine mammal with tusks",
+        "A tall, long-legged bird",
+        "A predatory fish"
+      ],
+      "correct_answer": "A large seabird"
+    },
+    {
+      "category": "Animals_and_Birds",
+      "question": "What is a Walrus?",
+      "options": [
+        "A large seabird",
+        "A marine mammal with tusks",
+        "A tall, long-legged bird",
+        "A predatory fish"
+      ],
+      "correct_answer": "A marine mammal with tusks"
+    },
+    {
+      "category": "General_Knowledge",
+      "question": "Would polar bears, penguins, and snow leopards be comfortable living near the equator?",
+      "options": [
+        "Yes, they would thrive",
+        "No, they are adapted to cold climates",
+        "Only penguins would be comfortable",
+        "Only polar bears would be comfortable"
+      ],
+      "correct_answer": "No, they are adapted to cold climates"
+    },
+    {
+      "category": "Sports",
+      "question": "Which of the following is not a water sport?",
+      "options": ["Volleyball", "Swimming", "Water Polo", "Surfing"],
+      "correct_answer": "Volleyball"
+    },
+    {
+      "category": "Famous_Landmarks",
+      "question": "Which famous statue is located in Rio de Janeiro?",
+      "options": [
+        "Statue of Liberty",
+        "Christ the Redeemer",
+        "Great Sphinx",
+        "Mount Rushmore"
+      ],
+      "correct_answer": "Christ the Redeemer"
+    },
+    {
+      "category": "Indian_Leaders",
+      "question": "Who is known as the Lion of Punjab?",
+      "options": [
+        "Lala Lajpat Rai",
+        "Bhagat Singh",
+        "Sardar Vallabhbhai Patel",
+        "Bal Gangadhar Tilak"
+      ],
+      "correct_answer": "Lala Lajpat Rai"
+    },
+    {
+      "category": "Indian_Leaders",
+      "question": "Who is known as the Nightingale of India?",
+      "options": [
+        "Sarojini Naidu",
+        "Indira Gandhi",
+        "Mother Teresa",
+        "Rani Lakshmibai"
+      ],
+      "correct_answer": "Sarojini Naidu"
+    },
+    {
+      "category": "Technology",
+      "question": "What is the physical part of a computer system called?",
+      "options": ["Software", "Hardware", "Firmware", "Middleware"],
+      "correct_answer": "Hardware"
+    },
+    {
+      "category": "Technology",
+      "question": "Which device is primarily used for voice communication and messaging?",
+      "options": ["Television", "Mobile phone", "Radio", "Laptop"],
+      "correct_answer": "Mobile phone"
+    },
+    {
+      "category": "Biology",
+      "question": "What term describes the natural environment in which an organism lives?",
+      "options": ["Ecosystem", "Biome", "Habitat", "Niche"],
+      "correct_answer": "Habitat"
+    },
+    {
+      "category": "Religious_History",
+      "question": "Name the birthplaces of Jesus Christ and Lord Krishna.",
+      "options": [
+        "Bethlehem and Mathura",
+        "Jerusalem and Vrindavan",
+        "Nazareth and Ayodhya",
+        "Mecca and Dwarka"
+      ],
+      "correct_answer": "Bethlehem and Mathura"
+    },
+    {
+      "category": "Indian_Politics",
+      "question": "Who was the President of India before Ram Nath Kovind?",
+      "options": [
+        "Pranab Mukherjee",
+        "Ram Nath Kovind",
+        "A.P.J. Abdul Kalam",
+        "Pratibha Patil"
+      ],
+      "correct_answer": "Pranab Mukherjee"
+    }
+
+    ,
+        {
+          "category": "Countries_Capitals_Currencies",
+          "question": "What is the capital of Australia?",
+          "options": ["Canberra", "Dhaka", "Washington, D.C.", "London"],
+          "correct_answer": "Canberra"
+        },
+        {
+          "category": "Countries_Capitals_Currencies",
+          "question": "What is the currency of Australia?",
+          "options": ["Australian Dollar", "Bangladeshi Taka", "US Dollar", "Pound Sterling"],
+          "correct_answer": "Australian Dollar"
+        },
+        {
+          "category": "Countries_Capitals_Currencies",
+          "question": "What is the capital of Bangladesh?",
+          "options": ["Dhaka", "Tokyo", "Ottawa", "Berlin"],
+          "correct_answer": "Dhaka"
+        },
+        {
+          "category": "Countries_Capitals_Currencies",
+          "question": "What is the currency of Bangladesh?",
+          "options": ["Bangladeshi Taka", "Euro", "Canadian Dollar", "Japanese Yen"],
+          "correct_answer": "Bangladeshi Taka"
+        },
+        {
+          "category": "Countries_Capitals_Currencies",
+          "question": "What is the capital of the United States of America?",
+          "options": ["Washington, D.C.", "Paris", "London", "Ottawa"],
+          "correct_answer": "Washington, D.C."
+        },
+        {
+          "category": "Countries_Capitals_Currencies",
+          "question": "What is the currency of the United States of America?",
+          "options": ["US Dollar", "Pound Sterling", "Euro", "Australian Dollar"],
+          "correct_answer": "US Dollar"
+        },
+        {
+          "category": "Countries_Capitals_Currencies",
+          "question": "What is the capital of the United Kingdom?",
+          "options": ["London", "Canberra", "Berlin", "Tokyo"],
+          "correct_answer": "London"
+        },
+        {
+          "category": "Countries_Capitals_Currencies",
+          "question": "What is the currency of the United Kingdom?",
+          "options": ["Pound Sterling", "Euro", "Japanese Yen", "Canadian Dollar"],
+          "correct_answer": "Pound Sterling"
+        },
+        {
+          "category": "Countries_Capitals_Currencies",
+          "question": "What is the capital of Japan?",
+          "options": ["Tokyo", "Dhaka", "Paris", "Ottawa"],
+          "correct_answer": "Tokyo"
+        },
+        {
+          "category": "Countries_Capitals_Currencies",
+          "question": "What is the currency of Japan?",
+          "options": ["Japanese Yen", "Euro", "US Dollar", "Bangladeshi Taka"],
+          "correct_answer": "Japanese Yen"
+        },
+        {
+          "category": "Countries_Capitals_Currencies",
+          "question": "What is the capital of France?",
+          "options": ["Paris", "Canberra", "Berlin", "Washington, D.C."],
+          "correct_answer": "Paris"
+        },
+        {
+          "category": "Countries_Capitals_Currencies",
+          "question": "What is the currency of France?",
+          "options": ["Euro", "Pound Sterling", "Canadian Dollar", "Australian Dollar"],
+          "correct_answer": "Euro"
+        },
+        {
+          "category": "Countries_Capitals_Currencies",
+          "question": "What is the capital of Canada?",
+          "options": ["Ottawa", "London", "Tokyo", "Dhaka"],
+          "correct_answer": "Ottawa"
+        },
+        {
+          "category": "Countries_Capitals_Currencies",
+          "question": "What is the currency of Canada?",
+          "options": ["Canadian Dollar", "US Dollar", "Euro", "Japanese Yen"],
+          "correct_answer": "Canadian Dollar"
+        },
+        {
+          "category": "Countries_Capitals_Currencies",
+          "question": "What is the capital of Germany?",
+          "options": ["Berlin", "Paris", "Canberra", "Washington, D.C."],
+          "correct_answer": "Berlin"
+        },
+        {
+          "category": "Countries_Capitals_Currencies",
+          "question": "What is the currency of Germany?",
+          "options": ["Euro", "Pound Sterling", "US Dollar", "Australian Dollar"],
+          "correct_answer": "Euro"
+        }
+  ,
+    {
+      "category": "General_Knowledge",
+      "question": "Will polar bears, penguins, and snow leopards be comfortable living in places near the equator?",
+      "options": ["Yes", "No"],
+      "correct_answer": "No",
+      "explanation": "Polar bears, penguins, and snow leopards are adapted to cold climates and would not be comfortable near the equator."
+    },
+    {
+      "category": "Sports",
+      "question": "Which is the odd one out—diving, swimming, water polo, volleyball?",
+      "options": ["Diving", "Swimming", "Water Polo", "Volleyball"],
+      "correct_answer": "Volleyball",
+      "explanation": "Volleyball is not a water sport, while the others are."
+    },
+    {
+      "category": "Famous_Landmarks",
+      "question": "This famous statue of Jesus Christ in Brazil overlooks the city of Rio de Janeiro from a height of 706 meters. Name it.",
+      "options": ["Statue of Liberty", "Christ the Redeemer", "Great Sphinx", "Mount Rushmore"],
+      "correct_answer": "Christ the Redeemer",
+      "explanation": "Christ the Redeemer is the famous statue located in Rio de Janeiro."
+    },
+    {
+      "category": "General_Knowledge",
+      "question": "Where will you find information about people, animals, and places—in a dictionary or in an encyclopaedia?",
+      "options": ["Dictionary", "Encyclopaedia"],
+      "correct_answer": "Encyclopaedia",
+      "explanation": "An encyclopaedia contains comprehensive information about people, animals, and places."
+    },
+    {
+      "category": "Religious_Leaders",
+      "question": "Guru Gobind Singh was the tenth and last Sikh... guru. Fill in the blank.",
+      "options": ["Guru", "Leader", "Teacher", "Saint"],
+      "correct_answer": "Guru",
+      "explanation": "Guru Gobind Singh was the tenth and last Sikh guru."
+    },  {
+        "category": "Technology",
+        "question": "Which device is primarily used for voice communication and messaging?",
+        "options": ["Television", "Mobile phone", "Radio", "Laptop"],
+        "correct_answer": "Mobile phone",
+        "explanation": "A mobile phone is primarily used for voice communication and messaging."
+      },
+      {
+        "category": "Biology",
+        "question": "What term describes the natural environment in which an organism lives?",
+        "options": ["Ecosystem", "Biome", "Habitat", "Niche"],
+        "correct_answer": "Habitat",
+        "explanation": "Habitat describes the natural environment in which an organism lives."
+      },
+      {
+        "category": "Religious_History",
+        "question": "Name the birthplaces of Jesus Christ and Lord Krishna.",
+        "options": [
+          "Bethlehem and Mathura",
+          "Jerusalem and Vrindavan",
+          "Nazareth and Ayodhya",
+          "Mecca and Dwarka"
+        ],
+        "correct_answer": "Bethlehem and Mathura",
+        "explanation": "Jesus Christ was born in Bethlehem, and Lord Krishna was born in Mathura."
+      },
+      {
+        "category": "Indian_Politics",
+        "question": "Who was the President of India before Ram Nath Kovind?",
+        "options": [
+          "Pranab Mukherjee",
+          "Ram Nath Kovind",
+          "A.P.J. Abdul Kalam",
+          "Pratibha Patil"
+        ],
+        "correct_answer": "Pranab Mukherjee",
+        "explanation": "Pranab Mukherjee was the President of India before Ram Nath Kovind."
+      },
+      {
+        "category": "Indian_Food_Quiz",
+        "question": "Is appam and stew a delicacy in South India or North India?",
+        "options": ["South India", "North India"],
+        "correct_answer": "South India",
+        "explanation": "Appam and stew is a popular dish in Kerala, which is in South India."
+      },
+      {
+        "category": "Indian_Food_Quiz",
+        "question": "In India, do we eat more mangoes in winter or in summer?",
+        "options": ["Winter", "Summer"],
+        "correct_answer": "Summer",
+        "explanation": "Mangoes are a summer fruit, typically available from March to June."
+      },
+      {
+        "category": "Indian_Food_Quiz",
+        "question": "Litti chokha is a popular food item in which of these states—Bihar, Haryana, or Nagaland?",
+        "options": ["Bihar", "Haryana", "Nagaland"],
+        "correct_answer": "Bihar",
+        "explanation": "Litti chokha is a traditional dish from Bihar."
+      },
+      {
+        "category": "Indian_Food_Quiz",
+        "question": "Dabeli is a potato and bun-based snack with chutney and pomegranate. It is a popular dish in which of these states—Manipur, Karnataka, or Gujarat?",
+        "options": ["Manipur", "Karnataka", "Gujarat"],
+        "correct_answer": "Gujarat",
+        "explanation": "Dabeli is a famous street food from Kutch, Gujarat."
+      },
+      {
+        "category": "Indian_Food_Quiz",
+        "question": "Which of these does not contain rice—idli, biryani, pulao, dhokla, dosa?",
+        "options": ["Idli", "Biryani", "Pulao", "Dhokla", "Dosa"],
+        "correct_answer": "Dhokla",
+        "explanation": "Dhokla is made from fermented chickpea, rice is not an main ingredient."
+      },
+      {
+        "category": "Indian_Food_Quiz",
+        "question": "Where do people eat more rice—in Rajasthan or Tamil Nadu?",
+        "options": ["Rajasthan", "Tamil Nadu"],
+        "correct_answer": "Tamil Nadu",
+        "explanation": "Rice is a staple in Tamil Nadu, whereas Rajasthan consumes more wheat-based foods."
+      },
+      {
+        "category": "Indian_Food_Quiz",
+        "question": "Pongal is an Indian rice dish. Pongal means ‘boil’ or ‘bubbling up’ in which of these languages—Tamil, Telugu, or Odia?",
+        "options": ["Tamil", "Telugu", "Odia"],
+        "correct_answer": "Tamil",
+        "explanation": "Pongal means ‘boil’ or ‘bubbling up’ in Tamil."
+      },
+      {
+        "category": "Indian_Food_Quiz",
+        "question": "What is the common Indian (Hindi) name for cottage cheese?",
+        "options": ["Paneer", "Cheese", "Tofu", "Curd"],
+        "correct_answer": "Paneer",
+        "explanation": "Paneer is the common Indian (Hindi) name for cottage cheese."
+      },
+      {
+        "category": "Indian_Food_Quiz",
+        "question": "Kangshoi is a vegetable stew eaten mainly by people in which of these states—Manipur, Goa, or Himachal Pradesh?",
+        "options": ["Manipur", "Goa", "Himachal Pradesh"],
+        "correct_answer": "Manipur",
+        "explanation": "Kangshoi is a traditional vegetable stew from Manipur."
+      },
+      {
+        "category": "Indian_Food_Quiz",
+        "question": "Is eating plenty of fried food good for us?",
+        "options": ["Yes", "No"],
+        "correct_answer": "No",
+        "explanation": "Excessive fried food can lead to health problems like obesity, heart disease, and digestive issues. It's best to eat in moderation."
+      },
+      {
+        "category": "Indian_Food_Quiz",
+        "question": "What are some types of paranthas in India?",
+        "options": [
+          "Dal parantha, halwa parantha, gobhi parantha, aloo parantha, methi parantha",
+          "Paneer parantha, cheese parantha, onion parantha, tomato parantha",
+          "Sweet parantha, spicy parantha, mixed parantha",
+          "None of the above"
+        ],
+        "correct_answer": "Dal parantha, halwa parantha, gobhi parantha, aloo parantha, methi parantha",
+        "explanation": "There are many types of paranthas in India, including dal parantha, halwa parantha, gobhi parantha, aloo parantha, and methi parantha."
+      },
+      {
+        "category": "Indian_Food_Quiz",
+        "question": "What is the ‘spit’ in your mouth that helps you swallow food called?",
+        "options": ["Saliva", "Mucus", "Water", "Juice"],
+        "correct_answer": "Saliva",
+        "explanation": "The ‘spit’ in your mouth that helps you swallow food is called saliva."
+      }
+    ,
+    {
+      "category": "Travel_and_Geography",
+      "question": "How many countries can you travel to with the Schengen visa?",
+      "options": ["25", "26", "27", "28"],
+      "correct_answer": "26",
+      "explanation": "You can travel to 26 countries with the Schengen visa."
+    },
+    {
+      "category": "Sports",
+      "question": "In which sport did Neeraj Chopra represent India at the 2020 Tokyo Olympics?",
+      "options": ["Javelin", "Shot Put", "Discus Throw", "Hammer Throw"],
+      "correct_answer": "Javelin",
+      "explanation": "Neeraj Chopra represented India in the Javelin throw at the 2020 Tokyo Olympics."
+    },
+    {
+      "category": "English_Grammar",
+      "question": "Rewrite this sentence correctly: 'We had some desert after dinner.'",
+      "options": ["We had some desert after dinner.", "We had some dessert after dinner.", "We had some desert before dinner.", "We had some dessert before dinner."],
+      "correct_answer": "We had some dessert after dinner.",
+      "explanation": "The correct word is 'dessert,' which refers to a sweet dish eaten after a meal."
+    },
+    {
+      "category": "Indian_Politics",
+      "question": "Who became the Prime Minister of India for the second time in 2019?",
+      "options": ["Narendra Modi", "Rahul Gandhi", "Manmohan Singh", "Arvind Kejriwal"],
+      "correct_answer": "Narendra Modi",
+      "explanation": "Narendra Modi became the Prime Minister of India for the second time in 2019."
+    },
+    {
+      "category": "General_Knowledge",
+      "question": "Are knives, forks, and spoons part of cutlery or crockery?",
+      "options": ["Cutlery", "Crockery"],
+      "correct_answer": "Cutlery",
+      "explanation": "Knives, forks, and spoons are part of cutlery."
+    },
+    {
+      "category": "Awards_and_Honors",
+      "question": "A. R. Rahman and Resul Pookutty have won the O .G.A.R. 5 (film awards). Fill in the blanks.",
+      "options": ["Oscars", "Grammys", "Emmys", "Tonys"],
+      "correct_answer": "Oscars",
+      "explanation": "A. R. Rahman and Resul Pookutty have won Oscars, which are prestigious film awards."
+    },
+    {
+      "category": "Indian_Culture",
+      "question": "If you add the letter 'i' at the end of the name of a state, you get the name of an Indian classical dance. Name the state.",
+      "options": ["Manipur", "Kerala", "Tamil Nadu", "Odisha"],
+      "correct_answer": "Manipur",
+      "explanation": "Manipuri is a classical dance form from the state of Manipur."
+    },
+    {
+      "category": "World_Leaders",
+      "question": "In South Africa, they called him 'Madiba'. A great leader, he passed away in 2013. Name him.",
+      "options": ["Nelson Mandela", "Mahatma Gandhi", "Martin Luther King Jr.", "Desmond Tutu"],
+      "correct_answer": "Nelson Mandela",
+      "explanation": "Nelson Mandela, also known as 'Madiba,' was a great leader from South Africa who passed away in 2013."
+    },
+    {
+      "category": "Indian_Leaders",
+      "question": "Who were known as 'the Lion of Punjab'; 'Nightingale of India'; and 'Iron Man of India'?",
+      "options": [
+        "Lala Lajpat Rai, Sarojini Naidu, Sardar Patel",
+        "Bhagat Singh, Indira Gandhi, B. R. Ambedkar",
+        "Bal Gangadhar Tilak, Rani Lakshmibai, Subhas Chandra Bose",
+        "Jawaharlal Nehru, Mother Teresa, Dr. Rajendra Prasad"
+      ],
+      "correct_answer": "Lala Lajpat Rai, Sarojini Naidu, Sardar Patel",
+      "explanation": "Lala Lajpat Rai is known as the Lion of Punjab, Sarojini Naidu as the Nightingale of India, and Sardar Patel as the Iron Man of India."
+    },
+    {
+      "category": "Geography",
+      "question": "True or false: Beijing is the capital city of Japan.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "explanation": "Beijing is the capital of China, not Japan."
+    },
+    {
+      "category": "Technology",
+      "question": "Is the machinery of a computer called its hardware or software?",
+      "options": ["Hardware", "Software"],
+      "correct_answer": "Hardware",
+      "explanation": "The machinery of a computer is called hardware."
+    },
+    {
+      "category": "Technology",
+      "question": "Martin Cooper gave the world its first Mobile... phone. Fill in the blank.",
+      "options": ["Phone", "Computer", "Television", "Radio"],
+      "correct_answer": "Phone",
+      "explanation": "Martin Cooper invented the first mobile phone."
+    },
+    {
+      "category": "Biology",
+      "question": "All living things are most comfortable in their homes or natural habitats. Fill in the blank.",
+      "options": ["Homes", "Natural Habitats"],
+      "correct_answer": "Natural Habitats",
+      "explanation": "All living things are most comfortable in their natural habitats."
+    },
+    {
+      "category": "Religious_History",
+      "question": "Lord Jesus Christ was born in Bethlehem (EELHEMTBH) and Lord Krishna was born in ....Mathura (AMURHTA).",
+      "options": ["Bethlehem and Mathura", "Jerusalem and Vrindavan", "Nazareth and Ayodhya", "Mecca and Dwarka"],
+      "correct_answer": "Bethlehem and Mathura",
+      "explanation": "Jesus Christ was born in Bethlehem, and Lord Krishna was born in Mathura."
+    },
+    {
+      "category": "Indian_Politics",
+      "question": "Whom did Droupadi Murmu succeed as the president of India?",
+      "options": ["Ram Nath Kovind", "Pranab Mukherjee", "A.P.J. Abdul Kalam", "Pratibha Patil"],
+      "correct_answer": "Ram Nath Kovind",
+      "explanation": "Droupadi Murmu succeeded Ram Nath Kovind as the president of India."
+    }
+  
+  
+,
+    {
+      "category": "The_Written_Words",
+      "question": "Unscramble the letters for the answer: He/she helps the author to improve their written work such as a story, essay, poem, etc. (EDIOTR)",
+      "options": ["Editor", "Author", "Poet", "Playwright"],
+      "correct_answer": "Editor",
+      "explanation": "An editor helps the author improve their written work."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "Unscramble the letters for the answer: A traditional short story that teaches a moral lesson. (ALFBE)",
+      "options": ["Fable", "Novel", "Poem", "Drama"],
+      "correct_answer": "Fable",
+      "explanation": "A fable is a traditional short story that teaches a moral lesson."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "Unscramble the letters for the answer: The main printed part of a book/magazine. (XTTE)",
+      "options": ["Text", "Cover", "Index", "Preface"],
+      "correct_answer": "Text",
+      "explanation": "The text is the main printed part of a book or magazine."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "Unscramble the letters for the answer: A set of questions in a book to test your knowledge. (XCEESIRE)",
+      "options": ["Exercise", "Chapter", "Glossary", "Appendix"],
+      "correct_answer": "Exercise",
+      "explanation": "An exercise is a set of questions in a book to test your knowledge."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "Unscramble the letters for the answer: A word used for plays and theatre. (AADRM)",
+      "options": ["Drama", "Poem", "Novel", "Essay"],
+      "correct_answer": "Drama",
+      "explanation": "Drama is a word used for plays and theatre."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "Unscramble the letters for the answer: The words of a song. (LYRCIS)",
+      "options": ["Lyrics", "Melody", "Chorus", "Verse"],
+      "correct_answer": "Lyrics",
+      "explanation": "Lyrics are the words of a song."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "Unscramble the letters for the answer: Many poems or stories together. (COTIONLLEC)",
+      "options": ["Collection", "Anthology", "Compilation", "Series"],
+      "correct_answer": "Collection",
+      "explanation": "A collection is many poems or stories together."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "Unscramble the letters for the answer: A writing partner. (OC-AUROTH)",
+      "options": ["Co-author", "Editor", "Poet", "Playwright"],
+      "correct_answer": "Co-author",
+      "explanation": "A co-author is a writing partner."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "In your own Find Out book, make a list like this: Who writes poems?",
+      "options": [],
+      "correct_answer": "Poet",
+      "explanation": "A poet writes poems."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "In your own Find Out book, make a list like this: Who writes plays?",
+      "options": [],
+      "correct_answer": "Playwright",
+      "explanation": "A playwright writes plays."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "Find Out what these words mean: e-book, monograph, headline, caption, footnote.",
+      "options": [],
+      "correct_answer": "E-book: A digital version of a book; Monograph: A detailed written study on a single subject; Headline: The title of a news article; Caption: A brief explanation under a picture; Footnote: A note at the bottom of a page giving extra information.",
+      "explanation": "E-book: A digital version of a book; Monograph: A detailed written study on a single subject; Headline: The title of a news article; Caption: A brief explanation under a picture; Footnote: A note at the bottom of a page giving extra information."
+    }
+  ,
+      {
+        "category": "Language and Literature",
+        "question": "Which of the following is a seasoning?",
+        "options": ["salt", "coffee", "cups", "pencils"],
+        "correct_answer": "salt",
+        "explanation": "Salt is commonly used as a seasoning to enhance the flavor of food."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Which of the following is a spice?",
+        "options": ["soya sauce", "cloves", "rice", "knives"],
+        "correct_answer": "cloves",
+        "explanation": "Cloves are aromatic flower buds used as a spice in cooking."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Which of the following is a beverage?",
+        "options": ["coffee", "salt", "cups", "pens"],
+        "correct_answer": "coffee",
+        "explanation": "Coffee is a popular beverage consumed worldwide."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Which of the following is a cereal?",
+        "options": ["rice", "mustard", "saucers", "forks"],
+        "correct_answer": "rice",
+        "explanation": "Rice is a staple cereal grain consumed as a main food in many cultures."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Which of the following is crockery?",
+        "options": ["cups", "pencils", "tomato ketchup", "oregano"],
+        "correct_answer": "cups",
+        "explanation": "Cups are a type of crockery used for holding beverages."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Which of the following is stationery?",
+        "options": ["pencils", "knives", "chilli sauce", "plates"],
+        "correct_answer": "pencils",
+        "explanation": "Pencils are stationery items used for writing or drawing."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Which of the following is cutlery?",
+        "options": ["knives", "soya sauce", "notebooks", "cinnamon"],
+        "correct_answer": "knives",
+        "explanation": "Knives are cutlery items used for cutting or eating food."
+      },
+      {
+        "category": "Listen and Talk",
+        "question": "Which of the things named on this page can you eat?",
+        "options": ["rice", "cups", "pens", "plates"],
+        "correct_answer": "rice",
+        "explanation": "Rice is an edible cereal grain that can be eaten."
+      },
+      {
+        "category": "Listen and Talk",
+        "question": "Which of the things named on this page can you drink?",
+        "options": ["coffee", "salt", "forks", "notebooks"],
+        "correct_answer": "coffee",
+        "explanation": "Coffee is a beverage that can be drunk."
+      },
+      {
+        "category": "Listen and Talk",
+        "question": "Which of the things named on this page can you use in school?",
+        "options": ["pencils", "knives", "soya sauce", "plates"],
+        "correct_answer": "pencils",
+        "explanation": "Pencils are stationery items commonly used in school."
+      },
+      {
+        "category": "Listen and Talk",
+        "question": "Which of the things named on this page can you use at the dining table?",
+        "options": ["forks", "coffee", "pencils", "notebooks"],
+        "correct_answer": "forks",
+        "explanation": "Forks are cutlery items used at the dining table for eating."
+      }
+ ,
+      {
+        "category": "THE FIRST",
+        "question": "Who was the first woman President of India?",
+        "options": ["Saina Nehwal", "Pratibha Patil", "Kiran Bedi", "Bachendri Pal"],
+        "correct_answer": "Pratibha Patil",
+        "explanation": "Pratibha Patil was the first woman to serve as the President of India, holding the office from 2007 to 2012."
+      },
+      {
+        "category": "THE FIRST",
+        "question": "Who was the first Vice President of India?",
+        "options": ["Dr S. Radhakrishnan", "Rajakumari Amrit Kaur", "Rakesh Sharma", "Rabindranath Tagore"],
+        "correct_answer": "Dr S. Radhakrishnan",
+        "explanation": "Dr S. Radhakrishnan was the first Vice President of India, serving from 1952 to 1962."
+      },
+      {
+        "category": "THE FIRST",
+        "question": "Who was the first and only Indian to win the Nobel Prize in Literature?",
+        "options": ["Rabindranath Tagore", "Dr C. V. Raman", "Rajakumari Amrit Kaur", "Kiran Bedi"],
+        "correct_answer": "Rabindranath Tagore",
+        "explanation": "Rabindranath Tagore was the first and only Indian to win the Nobel Prize in Literature in 1913."
+      },
+      {
+        "category": "THE FIRST",
+        "question": "Who was the first Indian woman to climb Mount Everest?",
+        "options": ["Bachendri Pal", "Pratibha Patil", "Saina Nehwal", "Kiran Bedi"],
+        "correct_answer": "Bachendri Pal",
+        "explanation": "Bachendri Pal was the first Indian woman to climb Mount Everest in 1984."
+      },
+      {
+        "category": "THE FIRST",
+        "question": "Who was the first Health Minister of India?",
+        "options": ["Rajakumari Amrit Kaur", "Dr S. Radhakrishnan", "Rakesh Sharma", "Rabindranath Tagore"],
+        "correct_answer": "Rajakumari Amrit Kaur",
+        "explanation": "Rajakumari Amrit Kaur was the first Health Minister of India, serving from 1947 to 1957."
+      },
+      {
+        "category": "THE FIRST",
+        "question": "Who was the first Indian athlete to win an Olympic gold medal?",
+        "options": ["Saina Nehwal", "Bachendri Pal", "Kiran Bedi", "Abhinav Bindra"],
+        "correct_answer": "Abhinav Bindra",
+        "explanation": "Abhinav Bindra was the first Indian athlete to win an individual Olympic gold medal in shooting at the 2008 Beijing Olympics."
+      },
+      {
+        "category": "THE FIRST",
+        "question": "Who was the first Indian scientist to win a Nobel Prize?",
+        "options": ["Dr C. V. Raman", "Rabindranath Tagore", "Dr S. Radhakrishnan", "Rajakumari Amrit Kaur"],
+        "correct_answer": "Dr C. V. Raman",
+        "explanation": "Dr C. V. Raman was the first Indian scientist to win a Nobel Prize in Physics in 1930 for his work on light scattering."
+      },
+      {
+        "category": "THE FIRST",
+        "question": "Who was the first Indian man in space?",
+        "options": ["Rakesh Sharma", "Dr S. Radhakrishnan", "Rabindranath Tagore", "Kiran Bedi"],
+        "correct_answer": "Rakesh Sharma",
+        "explanation": "Rakesh Sharma was the first Indian man to travel to space in 1984 as part of a Soviet space mission."
+      },
+      {
+        "category": "THE FIRST",
+        "question": "Who was the first woman IPS officer in India?",
+        "options": ["Kiran Bedi", "Pratibha Patil", "Bachendri Pal", "Saina Nehwal"],
+        "correct_answer": "Kiran Bedi",
+        "explanation": "Kiran Bedi was the first woman to join the Indian Police Service (IPS) in 1972."
+      },
+      {
+        "category": "THE FIRST",
+        "question": "Who was the first Chief Minister of your state?",
+        "options": ["Varies by state", "Pratibha Patil", "Dr S. Radhakrishnan", "Rakesh Sharma"],
+        "correct_answer": "Varies by state",
+        "explanation": "The first Chief Minister of a state depends on the specific state in India. For example, in Maharashtra, it was Yashwantrao Chavan."
+      },
+      {
+        "category": "THE FIRST",
+        "question": "Who was the first Principal of your school?",
+        "options": ["Varies by school", "Kiran Bedi", "Rajakumari Amrit Kaur", "Rabindranath Tagore"],
+        "correct_answer": "Varies by school",
+        "explanation": "The first Principal of a school depends on the specific school's history."
+      },
+      {
+        "category": "THE FIRST",
+        "question": "Who was the first President of India?",
+        "options": ["Dr Rajendra Prasad", "Pratibha Patil", "Dr S. Radhakrishnan", "Rakesh Sharma"],
+        "correct_answer": "Dr Rajendra Prasad",
+        "explanation": "Dr Rajendra Prasad was the first President of India, serving from 1950 to 1962."
+      }
+  ,
+      {
+        "category": "INDIAN FOOD QUIZ",
+        "question": "Is appam and stew a delicacy in South India or North India?",
+        "options": ["South India", "North India"],
+        "correct_answer": "South India",
+        "explanation": "Appam and stew is a traditional dish from South India, particularly popular in Kerala and Tamil Nadu."
+      },
+      {
+        "category": "INDIAN FOOD QUIZ",
+        "question": "In India, do we eat more mangoes in winter or in summer?",
+        "options": ["Winter", "Summer"],
+        "correct_answer": "Summer",
+        "explanation": "Mangoes are a seasonal fruit in India, and they are primarily available and consumed during the summer months."
+      },
+      {
+        "category": "INDIAN FOOD QUIZ",
+        "question": "Litti chokha is a popular food item in which of these states - Bihar, Haryana, or Nagaland?",
+        "options": ["Bihar", "Haryana", "Nagaland"],
+        "correct_answer": "Bihar",
+        "explanation": "Litti chokha is a traditional dish from Bihar, made with roasted wheat balls (litti) and a mashed vegetable mix (chokha)."
+      },
+      {
+        "category": "INDIAN FOOD QUIZ",
+        "question": "Dabeli is a potato and bun-based snack with chutney and pomegranate. It is a popular dish in which of these states - Manipur, Karnataka, or Gujarat?",
+        "options": ["Manipur", "Karnataka", "Gujarat"],
+        "correct_answer": "Gujarat",
+        "explanation": "Dabeli is a famous street food from Gujarat, known for its spicy and tangy flavors."
+      },
+      {
+        "category": "INDIAN FOOD QUIZ",
+        "question": "Which of these does not contain rice - idli, biryani, pulao, dhokla, or dosa?",
+        "options": ["Idli", "Biryani", "Pulao", "Dhokla", "Dosa"],
+        "correct_answer": "Dhokla",
+        "explanation": "Dhokla is made from fermented rice and chickpea flour, while the others (idli, biryani, pulao, dosa) are primarily rice-based dishes."
+      },
+      {
+        "category": "INDIAN FOOD QUIZ",
+        "question": "Where do people eat more rice - in Rajasthan or Tamil Nadu?",
+        "options": ["Rajasthan", "Tamil Nadu"],
+        "correct_answer": "Tamil Nadu",
+        "explanation": "Rice is a staple food in Tamil Nadu, whereas Rajasthan's cuisine relies more on wheat and millets due to its arid climate."
+      },
+      {
+        "category": "INDIAN FOOD QUIZ",
+        "question": "Pongal is an Indian rice dish. Pongal means 'boil' or 'bubbling up' in which of these languages - Tamil, Telugu, or Odia?",
+        "options": ["Tamil", "Telugu", "Odia"],
+        "correct_answer": "Tamil",
+        "explanation": "Pongal is a traditional Tamil dish, and the word 'Pongal' in Tamil refers to the process of boiling or bubbling up."
+      },
+      {
+        "category": "INDIAN FOOD QUIZ",
+        "question": "What is the common Indian (Hindi) name for cottage cheese?",
+        "options": ["Paneer", "Cheese", "Tofu", "Curd"],
+        "correct_answer": "Paneer",
+        "explanation": "Paneer is the Hindi term for cottage cheese, widely used in Indian cuisine."
+      },
+      {
+        "category": "INDIAN FOOD QUIZ",
+        "question": "Kangshoi is a vegetable stew eaten mainly by people in which of these states - Manipur, Goa, or Himachal Pradesh?",
+        "options": ["Manipur", "Goa", "Himachal Pradesh"],
+        "correct_answer": "Manipur",
+        "explanation": "Kangshoi is a traditional vegetable stew from Manipur, made with seasonal vegetables and flavored with local herbs."
+}    ,  {
+        "category": "Plants and Animals",
+        "question": "Which part of the cauliflower plant do we eat?",
+        "options": ["Seeds (S)", "Roots (R)", "Stems (St)", "Leaves (L)", "Flowers (F)"],
+        "correct_answer": "Flowers (F)",
+        "explanation": "Cauliflower is the flower of the plant, which is harvested and eaten."
+      },
+      {
+        "category": "Plants and Animals",
+        "question": "Which part of the coriander plant do we eat?",
+        "options": ["Seeds (S)", "Roots (R)", "Stems (St)", "Leaves (L)", "Flowers (F)"],
+        "correct_answer": "Leaves (L)",
+        "explanation": "Coriander leaves are commonly used as a herb in cooking."
+      },
+      {
+        "category": "Plants and Animals",
+        "question": "Which part of the turmeric plant do we eat?",
+        "options": ["Seeds (S)", "Roots (R)", "Stems (St)", "Leaves (L)", "Flowers (F)"],
+        "correct_answer": "Roots (R)",
+        "explanation": "Turmeric is a rhizome, which is an underground stem, but it is commonly referred to as a root."
+      },
+      {
+        "category": "Plants and Animals",
+        "question": "Which part of the celery plant do we eat?",
+        "options": ["Seeds (S)", "Roots (R)", "Stems (St)", "Leaves (L)", "Flowers (F)"],
+        "correct_answer": "Stems (St)",
+        "explanation": "Celery stalks, which are the stems of the plant, are commonly eaten."
+      },
+      {
+        "category": "Plants and Animals",
+        "question": "Which part of the ginger plant do we eat?",
+        "options": ["Seeds (S)", "Roots (R)", "Stems (St)", "Leaves (L)", "Flowers (F)"],
+        "correct_answer": "Roots (R)",
+        "explanation": "Ginger is a rhizome, which is an underground stem, but it is commonly referred to as a root."
+      },
+      {
+        "category": "Plants and Animals",
+        "question": "Which part of the rice plant do we eat?",
+        "options": ["Seeds (S)", "Roots (R)", "Stems (St)", "Leaves (L)", "Flowers (F)"],
+        "correct_answer": "Seeds (S)",
+        "explanation": "Rice is the seed of the rice plant, which is harvested and consumed."
+      },
+      {
+        "category": "Plants and Animals",
+        "question": "Which part of the eucalyptus plant do we eat?",
+        "options": ["Seeds (S)", "Roots (R)", "Stems (St)", "Leaves (L)", "Flowers (F)"],
+        "correct_answer": "None",
+        "explanation": "Eucalyptus is not typically consumed as food; it is primarily used for its oil and medicinal properties."
+      },
+      {
+        "category": "Plants and Animals",
+        "question": "Which part of the lettuce plant do we eat?",
+        "options": ["Seeds (S)", "Roots (R)", "Stems (St)", "Leaves (L)", "Flowers (F)"],
+        "correct_answer": "Leaves (L)",
+        "explanation": "Lettuce leaves are commonly eaten in salads and other dishes."
+      },
+      {
+        "category": "Plants and Animals",
+        "question": "Which part of the sweet potato plant do we eat?",
+        "options": ["Seeds (S)", "Roots (R)", "Stems (St)", "Leaves (L)", "Flowers (F)"],
+        "correct_answer": "Roots (R)",
+        "explanation": "Sweet potatoes are the tuberous roots of the plant, which are harvested and eaten."
+      },
+      {
+        "category": "Plants and Animals",
+        "question": "Which part of the radish plant do we eat?",
+        "options": ["Seeds (S)", "Roots (R)", "Stems (St)", "Leaves (L)", "Flowers (F)"],
+        "correct_answer": "Roots (R)",
+        "explanation": "Radishes are the roots of the plant, which are commonly consumed."
+      },
+      {
+        "category": "Plants and Animals",
+        "question": "Which part of the mustard plant do we eat?",
+        "options": ["Seeds (S)", "Roots (R)", "Stems (St)", "Leaves (L)", "Flowers (F)"],
+        "correct_answer": "Seeds (S)",
+        "explanation": "Mustard seeds are used as a spice and for making mustard oil."
+      },
+      {
+        "category": "Plants and Animals",
+        "question": "Which part of the peas plant do we eat?",
+        "options": ["Seeds (S)", "Roots (R)", "Stems (St)", "Leaves (L)", "Flowers (F)"],
+        "correct_answer": "Seeds (S)",
+        "explanation": "Peas are the seeds of the plant, which are harvested and eaten."
+      },
+      {
+        "category": "Plants and Animals",
+        "question": "Which part of the potato plant do we eat?",
+        "options": ["Seeds (S)", "Roots (R)", "Stems (St)", "Leaves (L)", "Flowers (F)"],
+        "correct_answer": "Stems (St)",
+        "explanation": "Potatoes are the tuberous stems of the plant, which are harvested and eaten."
+      },
+      {
+        "category": "Plants and Animals",
+        "question": "Which part of the onion plant do we eat?",
+        "options": ["Seeds (S)", "Roots (R)", "Stems (St)", "Leaves (L)", "Flowers (F)"],
+        "correct_answer": "Leaves (L)",
+        "explanation": "Onions are the bulbous leaves of the plant, which are commonly consumed."
+      },
+      {
+        "category": "Plants and Animals",
+        "question": "Which part of the spinach plant do we eat?",
+        "options": ["Seeds (S)", "Roots (R)", "Stems (St)", "Leaves (L)", "Flowers (F)"],
+        "correct_answer": "Leaves (L)",
+        "explanation": "Spinach leaves are commonly eaten as a leafy green vegetable."
+      },
+      {
+        "category": "Plants and Animals",
+        "question": "Which part of the garlic plant do we eat?",
+        "options": ["Seeds (S)", "Roots (R)", "Stems (St)", "Leaves (L)", "Flowers (F)"],
+        "correct_answer": "Roots (R)",
+        "explanation": "Garlic is the bulb of the plant, which is commonly referred to as a root and used in cooking."
+      },
+      {
+        "category": "Plants and Animals",
+        "question": "Which part of the maize plant do we eat?",
+        "options": ["Seeds (S)", "Roots (R)", "Stems (St)", "Leaves (L)", "Flowers (F)"],
+        "correct_answer": "Seeds (S)",
+        "explanation": "Maize, or corn, is the seed of the plant, which is harvested and eaten."
+      }
+    ,
+      {
+        "category": "Look, Think and Answer",
+        "question": "What do A. R. Rahman, Gulzar, Resul Pookutty, and Satyajit Ray have in common?",
+        "options": [
+          "Indian hockey players",
+          "Authors of children's books",
+          "Popular singers",
+          "Have won Oscars"
+        ],
+        "correct_answer": "Have won Oscars",
+        "explanation": "A. R. Rahman, Gulzar, Resul Pookutty, and Satyajit Ray are all Indian personalities who have won Oscars for their contributions to cinema."
+      },
+      {
+        "category": "Look, Think and Answer",
+        "question": "What do Enid Blyton, J. K. Rowling, Lewis Carroll, Roald Dahl, and Sudha Murthy have in common?",
+        "options": [
+          "Indian hockey players",
+          "Authors of children's books",
+          "Popular singers",
+          "Indian businesspersons"
+        ],
+        "correct_answer": "Authors of children's books",
+        "explanation": "Enid Blyton, J. K. Rowling, Lewis Carroll, Roald Dahl, and Sudha Murthy are all renowned authors of children's books."
+      },
+      {
+        "category": "Look, Think and Answer",
+        "question": "What do Karna, Arjuna, Bhima, Draupadi, and Duryodhana have in common?",
+        "options": [
+          "Characters in The Famous Five",
+          "Characters in the Mahabharata",
+          "Indian hockey players",
+          "Popular singers"
+        ],
+        "correct_answer": "Characters in the Mahabharata",
+        "explanation": "Karna, Arjuna, Bhima, Draupadi, and Duryodhana are all characters from the Indian epic, the Mahabharata."
+      },
+      {
+        "category": "Look, Think and Answer",
+        "question": "What do George, Anne, Julian, Dick, and Timmy have in common?",
+        "options": [
+          "Characters in The Famous Five",
+          "Indian businesspersons",
+          "Popular singers",
+          "Have won Oscars"
+        ],
+        "correct_answer": "Characters in The Famous Five",
+        "explanation": "George, Anne, Julian, Dick, and Timmy are characters from the popular children's book series, The Famous Five, by Enid Blyton."
+      },
+      {
+        "category": "Look, Think and Answer",
+        "question": "What do Manpreet Singh, Sreejesh, Harmanpreet Singh, Rabichandra Singh Moirangthem, and Dipsan Tirkey have in common?",
+        "options": [
+          "Indian hockey players",
+          "Authors of children's books",
+          "Popular singers",
+          "Indian businesspersons"
+        ],
+        "correct_answer": "Indian hockey players",
+        "explanation": "Manpreet Singh, Sreejesh, Harmanpreet Singh, Rabichandra Singh Moirangthem, and Dipsan Tirkey are all Indian hockey players."
+      },
+      {
+        "category": "Look, Think and Answer",
+        "question": "What do Azim Premji, Anand Mahindra, Kiran Mazumdar-Shaw, Kumar Mangalam Birla, and Nisaba Godrej have in common?",
+        "options": [
+          "Indian businesspersons",
+          "Characters in the Mahabharata",
+          "Popular singers",
+          "Have won Oscars"
+        ],
+        "correct_answer": "Indian businesspersons",
+        "explanation": "Azim Premji, Anand Mahindra, Kiran Mazumdar-Shaw, Kumar Mangalam Birla, and Nisaba Godrej are all prominent Indian businesspersons."
+      },
+      {
+        "category": "Look, Think and Answer",
+        "question": "What do Neeti Mohan, Neha Bhasin, Sunidhi Chauhan, Shreya Ghoshal, Sukhwinder Singh, and Arijit Singh have in common?",
+        "options": [
+          "Indian hockey players",
+          "Authors of children's books",
+          "Popular singers",
+          "Indian businesspersons"
+        ],
+        "correct_answer": "Popular singers",
+        "explanation": "Neeti Mohan, Neha Bhasin, Sunidhi Chauhan, Shreya Ghoshal, Sukhwinder Singh, and Arijit Singh are all popular Indian singers."
+      },
+      {
+        "category": "Look, Think and Answer",
+        "question": "What do Femina, The Week, India Today, Filmfare, and Champak have in common?",
+        "options": [
+          "Indian magazines",
+          "Characters in The Famous Five",
+          "Popular singers",
+          "Have won Oscars"
+        ],
+        "correct_answer": "Indian magazines",
+        "explanation": "Femina, The Week, India Today, Filmfare, and Champak are all well-known Indian magazines."
+      }
+    ,
+      {
+        "category": "The Environment, World and its People",
+        "question": "Where was Guru Nanak born?",
+        "options": [
+          "Ayodhya",
+          "Bethlehem",
+          "Lumbini",
+          "Mathura",
+          "Mecca",
+          "Talwandi (now known as Nankana Sahib)"
+        ],
+        "correct_answer": "Talwandi (now known as Nankana Sahib)",
+        "explanation": "Guru Nanak, the founder of Sikhism, was born in Talwandi, which is now known as Nankana Sahib in present-day Pakistan."
+      },
+      {
+        "category": "The Environment, World and its People",
+        "question": "Where was Lord Rama born?",
+        "options": [
+          "Ayodhya",
+          "Bethlehem",
+          "Lumbini",
+          "Mathura",
+          "Mecca",
+          "Talwandi (now known as Nankana Sahib)"
+        ],
+        "correct_answer": "Ayodhya",
+        "explanation": "Lord Rama, a major deity in Hinduism, is believed to have been born in Ayodhya, India."
+      },
+      {
+        "category": "The Environment, World and its People",
+        "question": "Where was Lord Krishna born?",
+        "options": [
+          "Ayodhya",
+          "Bethlehem",
+          "Lumbini",
+          "Mathura",
+          "Mecca",
+          "Talwandi (now known as Nankana Sahib)"
+        ],
+        "correct_answer": "Mathura",
+        "explanation": "Lord Krishna, a major deity in Hinduism, is believed to have been born in Mathura, India."
+      },
+      {
+        "category": "The Environment, World and its People",
+        "question": "Where was Prophet Muhammad born?",
+        "options": [
+          "Ayodhya",
+          "Bethlehem",
+          "Lumbini",
+          "Mathura",
+          "Mecca",
+          "Talwandi (now known as Nankana Sahib)"
+        ],
+        "correct_answer": "Mecca",
+        "explanation": "Prophet Muhammad, the founder of Islam, was born in Mecca, Saudi Arabia."
+      },
+      {
+        "category": "The Environment, World and its People",
+        "question": "Where was Gautama Buddha born?",
+        "options": [
+          "Ayodhya",
+          "Bethlehem",
+          "Lumbini",
+          "Mathura",
+          "Mecca",
+          "Talwandi (now known as Nankana Sahib)"
+        ],
+        "correct_answer": "Lumbini",
+        "explanation": "Gautama Buddha, the founder of Buddhism, was born in Lumbini, which is now in Nepal."
+      },
+      {
+        "category": "The Environment, World and its People",
+        "question": "Where was Lord Jesus Christ born?",
+        "options": [
+          "Ayodhya",
+          "Bethlehem",
+          "Lumbini",
+          "Mathura",
+          "Mecca",
+          "Talwandi (now known as Nankana Sahib)"
+        ],
+        "correct_answer": "Bethlehem",
+        "explanation": "Lord Jesus Christ, the central figure of Christianity, is believed to have been born in Bethlehem, in present-day Palestine."
+      }
+    ,
+      {
+        "category": "Science and Us",
+        "question": "How many brains does an adult human being have?",
+        "options": ["One", "Two", "Three", "Twenty"],
+        "correct_answer": "One",
+        "explanation": "An adult human being has one brain, which controls all bodily functions."
+      },
+      {
+        "category": "Science and Us",
+        "question": "How many stomachs does an adult human being have?",
+        "options": ["One", "Two", "Three", "Twenty"],
+        "correct_answer": "One",
+        "explanation": "An adult human being has one stomach, which helps in digesting food."
+      },
+      {
+        "category": "Science and Us",
+        "question": "How many kidneys does an adult human being have?",
+        "options": ["One", "Two", "Three", "Twenty"],
+        "correct_answer": "Two",
+        "explanation": "An adult human being has two kidneys, which filter waste from the blood."
+      },
+      {
+        "category": "Science and Us",
+        "question": "How many teeth does an adult human being have?",
+        "options": ["20", "32", "16", "28"],
+        "correct_answer": "32",
+        "explanation": "An adult human being typically has 32 teeth, including wisdom teeth."
+      },
+      {
+        "category": "Science and Us",
+        "question": "How many hearts does an adult human being have?",
+        "options": ["One", "Two", "Three", "Twenty"],
+        "correct_answer": "One",
+        "explanation": "An adult human being has one heart, which pumps blood throughout the body."
+      },
+      {
+        "category": "Science and Us",
+        "question": "How many lungs does an adult human being have?",
+        "options": ["One", "Two", "Three", "Twenty"],
+        "correct_answer": "Two",
+        "explanation": "An adult human being has two lungs, which help in breathing."
+      },
+      {
+        "category": "Science and Us",
+        "question": "Why do people who smoke have difficulty breathing?",
+        "options": ["Damaged teeth", "Damaged lungs", "Damaged stomach", "Damaged kidneys"],
+        "correct_answer": "Damaged lungs",
+        "explanation": "Smoking damages the lungs, making it difficult to breathe."
+      },
+      {
+        "category": "Science and Us",
+        "question": "What is the hard, outer covering of our teeth called?",
+        "options": ["Enamel", "Pulp", "Dentin", "Gums"],
+        "correct_answer": "Enamel",
+        "explanation": "The hard, outer covering of our teeth is called enamel, which protects the teeth from decay."
+      },
+      {
+        "category": "Science and Us",
+        "question": "Which part of the body does a doctor hold to check your pulse?",
+        "options": ["Wrist", "Neck", "Chest", "Ankle"],
+        "correct_answer": "Wrist",
+        "explanation": "A doctor typically checks your pulse by holding your wrist."
+      },
+      {
+        "category": "Science and Us",
+        "question": "Which part of the body is affected by cataract?",
+        "options": ["Eyes", "Skin", "Stomach", "Head"],
+        "correct_answer": "Eyes",
+        "explanation": "Cataract is a condition that affects the eyes, causing clouding of the lens."
+      },
+      {
+        "category": "Science and Us",
+        "question": "Which part of the body is affected by prickly heat?",
+        "options": ["Skin", "Eyes", "Stomach", "Head"],
+        "correct_answer": "Skin",
+        "explanation": "Prickly heat is a skin condition caused by blocked sweat glands."
+      },
+      {
+        "category": "Science and Us",
+        "question": "Which part of the body is affected by diarrhoea?",
+        "options": ["Stomach", "Skin", "Eyes", "Head"],
+        "correct_answer": "Stomach",
+        "explanation": "Diarrhoea is a condition that affects the stomach and digestive system."
+      },
+      {
+        "category": "Science and Us",
+        "question": "Which part of the body is affected by migraine?",
+        "options": ["Head", "Skin", "Eyes", "Stomach"],
+        "correct_answer": "Head",
+        "explanation": "Migraine is a type of headache that affects the head."
+      },
+      {
+        "category": "Science and Us",
+        "question": "Which part of the body is affected by a fracture?",
+        "options": ["Bones", "Skin", "Eyes", "Stomach"],
+        "correct_answer": "Bones",
+        "explanation": "A fracture is a break or crack in a bone."
+      },
+      {
+        "category": "Science and Us",
+        "question": "Which part of the body is affected by tonsillitis?",
+        "options": ["Throat", "Skin", "Eyes", "Stomach"],
+        "correct_answer": "Throat",
+        "explanation": "Tonsillitis is an inflammation of the tonsils, which are located in the throat."
+      },
+      {
+        "category": "Science and Us",
+        "question": "What should we drink plenty of for good health?",
+        "options": ["Water", "Cola", "Soda", "Juice"],
+        "correct_answer": "Water",
+        "explanation": "Drinking plenty of water is essential for maintaining good health."
+      },
+      {
+        "category": "Science and Us",
+        "question": "How is it better to eat fruit?",
+        "options": ["Cut", "Whole", "Cooked", "Fried"],
+        "correct_answer": "Whole",
+        "explanation": "Eating fruit whole is better as it retains all its nutrients and fiber."
+      },
+      {
+        "category": "Science and Us",
+        "question": "What should we drink for strong bones?",
+        "options": ["Milk", "Soda", "Juice", "Cola"],
+        "correct_answer": "Milk",
+        "explanation": "Milk is rich in calcium, which is essential for strong bones."
+      },
+      {
+        "category": "Science and Us",
+        "question": "What should we eat plenty of for good health?",
+        "options": ["Vegetables", "Sweets", "Fried food", "Processed food"],
+        "correct_answer": "Vegetables",
+        "explanation": "Eating plenty of vegetables is important for a balanced and healthy diet."
+      },
+      {
+        "category": "Science and Us",
+        "question": "Who invented the mobile phone?",
+        "options": [
+          "Martin Cooper",
+          "Orville and Wilbur Wright",
+          "Samuel Morse",
+          "Thomas Edison"
+        ],
+        "correct_answer": "Martin Cooper",
+        "explanation": "Martin Cooper is credited with inventing the first handheld mobile phone in 1973."
+      },
+      {
+        "category": "Science and Us",
+        "question": "Who invented the aeroplane?",
+        "options": [
+          "Martin Cooper",
+          "Orville and Wilbur Wright",
+          "Samuel Morse",
+          "Thomas Edison"
+        ],
+        "correct_answer": "Orville and Wilbur Wright",
+        "explanation": "Orville and Wilbur Wright, also known as the Wright brothers, invented and flew the first successful aeroplane in 1903."
+      },
+      {
+        "category": "Science and Us",
+        "question": "Who invented the telegraph?",
+        "options": [
+          "Martin Cooper",
+          "Orville and Wilbur Wright",
+          "Samuel Morse",
+          "Thomas Edison"
+        ],
+        "correct_answer": "Samuel Morse",
+        "explanation": "Samuel Morse invented the telegraph and developed Morse code, a system of communication using dots and dashes."
+      },
+      {
+        "category": "Science and Us",
+        "question": "Who invented the electric light bulb?",
+        "options": [
+          "Martin Cooper",
+          "Orville and Wilbur Wright",
+          "Samuel Morse",
+          "Thomas Edison"
+        ],
+        "correct_answer": "Thomas Edison",
+        "explanation": "Thomas Edison is credited with inventing the practical electric light bulb in 1879."
+      },
+      {
+        "category": "Science and Us",
+        "question": "Who invented the telescope?",
+        "options": [
+          "Hans Lippershey",
+          "Rudolf Diesel",
+          "Alexander Graham Bell",
+          "Thomas Edison"
+        ],
+        "correct_answer": "Hans Lippershey",
+        "explanation": "Hans Lippershey is credited with inventing the telescope in 1608."
+      },
+      {
+        "category": "Science and Us",
+        "question": "Who invented the diesel engine?",
+        "options": [
+          "Hans Lippershey",
+          "Rudolf Diesel",
+          "Alexander Graham Bell",
+          "Thomas Edison"
+        ],
+        "correct_answer": "Rudolf Diesel",
+        "explanation": "Rudolf Diesel invented the diesel engine in the late 19th century."
+      },
+      {
+        "category": "Science and Us",
+        "question": "Who invented the telephone?",
+        "options": [
+          "Hans Lippershey",
+          "Rudolf Diesel",
+          "Alexander Graham Bell",
+          "Thomas Edison"
+        ],
+        "correct_answer": "Alexander Graham Bell",
+        "explanation": "Alexander Graham Bell is credited with inventing the telephone in 1876."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Complete the proverb: 'Never judge a book by its ______.'",
+        "options": ["cover", "title", "author", "pages"],
+        "correct_answer": "cover",
+        "explanation": "The proverb 'Never judge a book by its cover' means that you should not form an opinion about someone or something based solely on outward appearances."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Complete the proverb: 'Actions speak ______ than words.'",
+        "options": ["louder", "softer", "faster", "slower"],
+        "correct_answer": "louder",
+        "explanation": "The proverb 'Actions speak louder than words' means that what someone does is more important than what they say."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Complete the proverb: 'Out of sight, out of ______.'",
+        "options": ["mind", "reach", "touch", "sight"],
+        "correct_answer": "mind",
+        "explanation": "The proverb 'Out of sight, out of mind' means that when something is not visible or present, it is easily forgotten."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Complete the proverb: 'A bird in hand is worth ______ in the bush.'",
+        "options": ["two", "three", "four", "five"],
+        "correct_answer": "two",
+        "explanation": "The proverb 'A bird in hand is worth two in the bush' means that it is better to hold onto something you already have than to risk losing it by trying to get something more."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Complete the proverb: 'Where there is a will, there is a ______.'",
+        "options": ["way", "path", "road", "solution"],
+        "correct_answer": "way",
+        "explanation": "The proverb 'Where there is a will, there is a way' means that if you are determined to do something, you will find a way to achieve it."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Complete the simile: 'As hard as ______.'",
+        "options": ["rock", "stone", "iron", "diamond"],
+        "correct_answer": "rock",
+        "explanation": "The simile 'As hard as rock' is used to describe something that is very hard or tough."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Complete the simile: 'As busy as a ______.'",
+        "options": ["bee", "ant", "squirrel", "beaver"],
+        "correct_answer": "bee",
+        "explanation": "The simile 'As busy as a bee' is used to describe someone who is very busy or active."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Complete the simile: 'As cool as ______.'",
+        "options": ["ice", "water", "wind", "cucumber"],
+        "correct_answer": "ice",
+        "explanation": "The simile 'As cool as ice' is used to describe someone who is very calm and composed."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Complete the simile: 'As sly as a ______.'",
+        "options": ["fox", "snake", "cat", "wolf"],
+        "correct_answer": "fox",
+        "explanation": "The simile 'As sly as a fox' is used to describe someone who is very cunning or clever."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Complete the simile: 'As hungry as a ______.'",
+        "options": ["wolf", "bear", "lion", "tiger"],
+        "correct_answer": "wolf",
+        "explanation": "The simile 'As hungry as a wolf' is used to describe someone who is very hungry."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Complete the simile: 'As pretty as a ______.'",
+        "options": ["picture", "flower", "doll", "princess"],
+        "correct_answer": "picture",
+        "explanation": "The simile 'As pretty as a picture' is used to describe something or someone that is very beautiful."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Complete the simile: 'As smooth as ______.'",
+        "options": ["silk", "honey", "butter", "glass"],
+        "correct_answer": "silk",
+        "explanation": "The simile 'As smooth as silk' is used to describe something that is very smooth and soft."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Complete the simile: 'As heavy as ______.'",
+        "options": ["lead", "stone", "iron", "gold"],
+        "correct_answer": "lead",
+        "explanation": "The simile 'As heavy as lead' is used to describe something that is very heavy."
+      },
+      {
+        "category": "Language and Literature",
+        "question": "Complete the simile: 'As clean as a ______.'",
+        "options": ["whistle", "mirror", "sheet", "plate"],
+        "correct_answer": "whistle",
+        "explanation": "The simile 'As clean as a whistle' is used to describe something that is very clean or spotless."
+      }
+    ,
+    {
+      "category": "The_Written_Words",
+      "question": "Unscramble the letters for the answer: He/she helps the author to improve their written work such as a story, essay, poem, etc. (EDIOTR)",
+      "options": ["Editor", "Author", "Poet", "Playwright"],
+      "correct_answer": "Editor",
+      "explanation": "An editor helps the author improve their written work."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "Unscramble the letters for the answer: A traditional short story that teaches a moral lesson. (ALFBE)",
+      "options": ["Fable", "Novel", "Poem", "Drama"],
+      "correct_answer": "Fable",
+      "explanation": "A fable is a traditional short story that teaches a moral lesson."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "Unscramble the letters for the answer: The main printed part of a book/magazine. (XTTE)",
+      "options": ["Text", "Cover", "Index", "Preface"],
+      "correct_answer": "Text",
+      "explanation": "The text is the main printed part of a book or magazine."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "Unscramble the letters for the answer: A set of questions in a book to test your knowledge. (XCEESIRE)",
+      "options": ["Exercise", "Chapter", "Glossary", "Appendix"],
+      "correct_answer": "Exercise",
+      "explanation": "An exercise is a set of questions in a book to test your knowledge."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "Unscramble the letters for the answer: A word used for plays and theatre. (AADRM)",
+      "options": ["Drama", "Poem", "Novel", "Essay"],
+      "correct_answer": "Drama",
+      "explanation": "Drama is a word used for plays and theatre."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "Unscramble the letters for the answer: The words of a song. (LYRCIS)",
+      "options": ["Lyrics", "Melody", "Chorus", "Verse"],
+      "correct_answer": "Lyrics",
+      "explanation": "Lyrics are the words of a song."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "Unscramble the letters for the answer: Many poems or stories together. (COTIONLLEC)",
+      "options": ["Collection", "Anthology", "Compilation", "Series"],
+      "correct_answer": "Collection",
+      "explanation": "A collection is many poems or stories together."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "Unscramble the letters for the answer: A writing partner. (OC-AUROTH)",
+      "options": ["Co-author", "Editor", "Poet", "Playwright"],
+      "correct_answer": "Co-author",
+      "explanation": "A co-author is a writing partner."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "In your own Find Out book, make a list like this: Who writes poems?",
+      "options": [],
+      "correct_answer": "Poet",
+      "explanation": "A poet writes poems."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "In your own Find Out book, make a list like this: Who writes plays?",
+      "options": [],
+      "correct_answer": "Playwright",
+      "explanation": "A playwright writes plays."
+    },
+    {
+      "category": "The_Written_Words",
+      "question": "Find Out what these words mean: e-book, monograph, headline, caption, footnote.",
+      "options": [],
+      "correct_answer": "E-book: A digital version of a book; Monograph: A detailed written study on a single subject; Headline: The title of a news article; Caption: A brief explanation under a picture; Footnote: A note at the bottom of a page giving extra information.",
+      "explanation": "E-book: A digital version of a book; Monograph: A detailed written study on a single subject; Headline: The title of a news article; Caption: A brief explanation under a picture; Footnote: A note at the bottom of a page giving extra information."
+    }
+  ,
+    {
+      "category": "The_Olympics",
+      "question": "The Olympic symbol is five circles or rings joined together. What do the rings stand for?",
+      "options": [
+        "Five continents",
+        "Five colors",
+        "Five sports",
+        "Five Olympic values"
+      ],
+      "correct_answer": "Five continents",
+      "explanation": "The five rings represent the five continents: Africa, Americas, Asia, Europe, and Oceania."
+    },
+    {
+      "category": "The_Olympics",
+      "question": "What are the colors of the Olympic rings?",
+      "options": [
+        "Yellow, red, green, black, blue",
+        "Red, blue, green, black, white",
+        "Blue, yellow, black, green, red",
+        "White, black, blue, red, green"
+      ],
+      "correct_answer": "Blue, yellow, black, green, red",
+      "explanation": "The colors of the Olympic rings are blue, yellow, black, green, and red."
+    },
+    {
+      "category": "The_Olympics",
+      "question": "Which Indian woman finished fourth in the golf event at the 2020 Tokyo Olympics?",
+      "options": ["Aditi Ashok", "PV Sindhu", "Mirabai Chanu", "Deepika Kumari"],
+      "correct_answer": "Aditi Ashok",
+      "explanation": "Aditi Ashok finished fourth in the golf event at the 2020 Tokyo Olympics."
+    },
+    {
+      "category": "The_Olympics",
+      "question": "Break dancing will be introduced as a new event in the Summer Olympics 2024. True or False.",
+      "options": ["True", "False"],
+      "correct_answer": "True",
+      "explanation": "Break dancing will be introduced as a new event in the Summer Olympics 2024."
+    },
+    {
+      "category": "The_Olympics",
+      "question": "Which country's team always marches last in the march past at the opening ceremony of the Olympics?",
+      "options": ["Host country", "Greece", "USA", "France"],
+      "correct_answer": "Host country",
+      "explanation": "The host country's team always marches last in the opening ceremony."
+    },
+    {
+      "category": "The_Olympics",
+      "question": "Today's Olympic winners are presented with medals of gold, silver, or bronze. What were the winners in the ancient Olympics awarded?",
+      "options": [
+        "Crown of olive leaves",
+        "Gold coins",
+        "Silver trophies",
+        "Bronze statues"
+      ],
+      "correct_answer": "Crown of olive leaves",
+      "explanation": "Winners in the ancient Olympics were awarded a crown of olive leaves."
+    },
+    {
+      "category": "The_Olympics",
+      "question": "In which athletic event did Neeraj Chopra win a gold medal for India at the Tokyo Olympics 2020?",
+      "options": ["Javelin throw", "Shot put", "Discus throw", "Hammer throw"],
+      "correct_answer": "Javelin throw",
+      "explanation": "Neeraj Chopra won a gold medal in the javelin throw at the Tokyo Olympics 2020."
+    },
+    {
+      "category": "The_Olympics",
+      "question": "In which sport has India won eight Olympic golds, a silver, and three bronze medals?",
+      "options": ["Hockey", "Cricket", "Football", "Badminton"],
+      "correct_answer": "Hockey",
+      "explanation": "India has won eight Olympic golds, a silver, and three bronze medals in hockey."
+    },
+    {
+      "category": "The_Olympics",
+      "question": "In which sport did Mirabai Chanu win a silver medal for India at the 2020 Tokyo Olympic Games?",
+      "options": ["Weightlifting", "Boxing", "Wrestling", "Shooting"],
+      "correct_answer": "Weightlifting",
+      "explanation": "Mirabai Chanu won a silver medal in weightlifting at the 2020 Tokyo Olympics."
+    },
+    {
+      "category": "The_Olympics",
+      "question": "The Olympic motto is CITIUS, ALTIUS, FORTIUS. What does it mean?",
+      "options": [
+        "Faster, Higher, Stronger",
+        "Unity, Diversity, Excellence",
+        "Peace, Friendship, Progress",
+        "Courage, Determination, Victory"
+      ],
+      "correct_answer": "Faster, Higher, Stronger",
+      "explanation": "The Olympic motto CITIUS, ALTIUS, FORTIUS means Faster, Higher, Stronger."
+    }
+,
+    {
+      "category": "Classical_Dances",
+      "question": "Name this dance: She is performing Mohiniyattam (ATTMAMONIHI). It is a classical dance form of Kerala.",
+      "options": ["Mohiniyattam", "Kuchipudi", "Kathakali", "Bharatanatyam"],
+      "correct_answer": "Mohiniyattam",
+      "explanation": "Mohiniyattam is a classical dance form of Kerala."
+    },
+    {
+      "category": "Classical_Dances",
+      "question": "Name this dance: Kuchipudi (PUDIIKUCH) is a classical dance of the state of Andhra Pradesh.",
+      "options": ["Kuchipudi", "Kathakali", "Bharatanatyam", "Manipuri"],
+      "correct_answer": "Kuchipudi",
+      "explanation": "Kuchipudi is a classical dance form of Andhra Pradesh."
+    },
+    {
+      "category": "Classical_Dances",
+      "question": "Name this dance: Kathakali (AHKLKTAAD) is a classical dance form of Kerala.",
+      "options": ["Kathakali", "Kuchipudi", "Bharatanatyam", "Manipuri"],
+      "correct_answer": "Kathakali",
+      "explanation": "Kathakali is a classical dance form of Kerala."
+    },
+    {
+      "category": "Classical_Dances",
+      "question": "Match the classical dance to its home state: Bharatanatyam",
+      "options": ["Kerala", "Tamil Nadu", "Assam", "Manipuri"],
+      "correct_answer": "Tamil Nadu",
+      "explanation": "Bharatanatyam is a classical dance form of Tamil Nadu."
+    },
+    {
+      "category": "Classical_Dances",
+      "question": "Match the classical dance to its home state: Manipuri",
+      "options": ["Kerala", "Tamil Nadu", "Assam", "Manipur"],
+      "correct_answer": "Manipur",
+      "explanation": "Manipuri is a classical dance form of Manipur."
+    },
+    {
+      "category": "Classical_Dances",
+      "question": "Match the classical dance to its home state: Kuchipudi",
+      "options": ["Kerala", "Tamil Nadu", "Andhra Pradesh", "Assam"],
+      "correct_answer": "Andhra Pradesh",
+      "explanation": "Kuchipudi is a classical dance form of Andhra Pradesh."
+    },
+    {
+      "category": "Classical_Dances",
+      "question": "Match the classical dance to its home state: Sattriya",
+      "options": ["Kerala", "Tamil Nadu", "Assam", "Manipur"],
+      "correct_answer": "Assam",
+      "explanation": "Sattriya is a classical dance form of Assam."
+    },
+    {
+      "category": "Classical_Dances",
+      "question": "Tick the correct dance: Male dancers wear a lot of make-up and huge headgear.",
+      "options": ["Bharatanatyam", "Kathakali"],
+      "correct_answer": "Kathakali",
+      "explanation": "Kathakali dancers are known for their elaborate make-up and headgear."
+    },
+    {
+      "category": "Classical_Dances",
+      "question": "Tick the correct dance: Rukmini Arundale is famous for this dance form.",
+      "options": ["Bharatanatyam", "Kathak"],
+      "correct_answer": "Bharatanatyam",
+      "explanation": "Rukmini Arundale is famous for reviving and popularizing Bharatanatyam."
+    },
+    {
+      "category": "Classical_Dances",
+      "question": "Tick the correct dance: A dance from north-eastern India.",
+      "options": ["Bharatanatyam", "Manipuri"],
+      "correct_answer": "Manipuri",
+      "explanation": "Manipuri is a classical dance form from north-eastern India."
+    },
+    {
+      "category": "Classical_Dances",
+      "question": "Tick the correct dance: You will see figures of these dancers on the walls of the temples in Odisha.",
+      "options": ["Mohiniyattam", "Odissi"],
+      "correct_answer": "Odissi",
+      "explanation": "Odissi dancers are depicted on the walls of temples in Odisha."
+    },
+    {
+      "category": "Classical_Dances",
+      "question": "Did You Know: The three syllables of Bha-ra-ta are short for bhava (expression), raga (melody), and tala (rhythm). Put them together and you get Bharatanatyam.",
+      "options": [],
+      "correct_answer": "Bharatanatyam",
+      "explanation": "The name Bharatanatyam comes from bhava (expression), raga (melody), and tala (rhythm)."
+    }
+ ,
+    {
+      "category": "My_India",
+      "question": "Fill in the blank: CHHATRAPATI SHIVAJI was a great Maratha warrior. He once escaped from his enemy's palace in a basket of fruits and sweets.",
+      "options": ["Chhatrapati Shivaji", "Lala Lajpat Rai", "Bal Gangadhar Tilak", "Dr. B. R. Ambedkar"],
+      "correct_answer": "Chhatrapati Shivaji",
+      "explanation": "Chhatrapati Shivaji was a great Maratha warrior known for his bravery and strategic escapes."
+    },
+    {
+      "category": "My_India",
+      "question": "Fill in the blank: LALA LAJPAT RAI was a great freedom fighter. He was known as Sher-e-Punjab, which means the Lion of Punjab.",
+      "options": ["Lala Lajpat Rai", "Bal Gangadhar Tilak", "Sardar Patel", "Sarojini Naidu"],
+      "correct_answer": "Lala Lajpat Rai",
+      "explanation": "Lala Lajpat Rai was a freedom fighter known as Sher-e-Punjab, meaning the Lion of Punjab."
+    },
+    {
+      "category": "My_India",
+      "question": "Fill in the blank: BAL GANGADHAR TILAK was known for his fiery speeches. During the freedom struggle, he said, 'Swaraj is my birthright and I shall have it.'",
+      "options": ["Bal Gangadhar Tilak", "Lala Lajpat Rai", "Dr. B. R. Ambedkar", "Sarojini Naidu"],
+      "correct_answer": "Bal Gangadhar Tilak",
+      "explanation": "Bal Gangadhar Tilak was a freedom fighter known for his fiery speeches and the slogan, 'Swaraj is my birthright and I shall have it.'"
+    },
+    {
+      "category": "My_India",
+      "question": "Fill in the blank: Dr. B. R. AMBEDKAR was a great Indian born on 14 April 1891. He was India's first law minister.",
+      "options": ["Dr. B. R. Ambedkar", "Sardar Patel", "Sarojini Naidu", "Chhatrapati Shivaji"],
+      "correct_answer": "Dr. B. R. Ambedkar",
+      "explanation": "Dr. B. R. Ambedkar was a great leader and India's first law minister, born on 14 April 1891."
+    },
+    {
+      "category": "My_India",
+      "question": "Fill in the blank: SARDAR PATEL's real name was Vallabhbhai. He was known as the Iron Man of India.",
+      "options": ["Sardar Patel", "Lala Lajpat Rai", "Bal Gangadhar Tilak", "Sarojini Naidu"],
+      "correct_answer": "Sardar Patel",
+      "explanation": "Sardar Patel, whose real name was Vallabhbhai, was known as the Iron Man of India for his role in unifying the country."
+    },
+    {
+      "category": "My_India",
+      "question": "Fill in the blank: SAROJINI NAIDU was a freedom fighter and a great poet. She was known as the Nightingale of India.",
+      "options": ["Sarojini Naidu", "Lala Lajpat Rai", "Bal Gangadhar Tilak", "Dr. B. R. Ambedkar"],
+      "correct_answer": "Sarojini Naidu",
+      "explanation": "Sarojini Naidu was a freedom fighter and poet, known as the Nightingale of India."
+    }
+  ,
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the city to the country and its famous monument: London",
+      "options": [
+        "UK - Big Ben",
+        "France - Eiffel Tower",
+        "Italy - Leaning Tower of Pisa",
+        "USA - Golden Gate Bridge"
+      ],
+      "correct_answer": "UK - Big Ben",
+      "explanation": "London is in the UK, and its famous monument is Big Ben."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the city to the country and its famous monument: Paris",
+      "options": [
+        "UK - Big Ben",
+        "France - Eiffel Tower",
+        "Italy - Leaning Tower of Pisa",
+        "USA - Golden Gate Bridge"
+      ],
+      "correct_answer": "France - Eiffel Tower",
+      "explanation": "Paris is in France, and its famous monument is the Eiffel Tower."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the city to the country and its famous monument: Pisa",
+      "options": [
+        "UK - Big Ben",
+        "France - Eiffel Tower",
+        "Italy - Leaning Tower of Pisa",
+        "USA - Golden Gate Bridge"
+      ],
+      "correct_answer": "Italy - Leaning Tower of Pisa",
+      "explanation": "Pisa is in Italy, and its famous monument is the Leaning Tower of Pisa."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the city to the country and its famous monument: San Francisco",
+      "options": [
+        "UK - Big Ben",
+        "France - Eiffel Tower",
+        "Italy - Leaning Tower of Pisa",
+        "USA - Golden Gate Bridge"
+      ],
+      "correct_answer": "USA - Golden Gate Bridge",
+      "explanation": "San Francisco is in the USA, and its famous monument is the Golden Gate Bridge."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the city to the country and its famous monument: Sydney",
+      "options": [
+        "Australia - Sydney Opera House",
+        "France - Eiffel Tower",
+        "Italy - Leaning Tower of Pisa",
+        "USA - Golden Gate Bridge"
+      ],
+      "correct_answer": "Australia - Sydney Opera House",
+      "explanation": "Sydney is in Australia, and its famous monument is the Sydney Opera House."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the city to the country and its famous monument: Barcelona",
+      "options": [
+        "Spain - Sagrada Familia",
+        "France - Eiffel Tower",
+        "Italy - Leaning Tower of Pisa",
+        "USA - Golden Gate Bridge"
+      ],
+      "correct_answer": "Spain - Sagrada Familia",
+      "explanation": "Barcelona is in Spain, and its famous monument is the Sagrada Familia."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the description to the city: The capital of Thailand; many tourists visit it.",
+      "options": ["Bangkok", "Dhaka", "Los Angeles", "Berlin"],
+      "correct_answer": "Bangkok",
+      "explanation": "Bangkok is the capital of Thailand and is known for its tourism."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the description to the city: The city in the USA where many Hollywood movies are made.",
+      "options": ["Bangkok", "Dhaka", "Los Angeles", "Berlin"],
+      "correct_answer": "Los Angeles",
+      "explanation": "Los Angeles is the city in the USA where many Hollywood movies are made."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the description to the city: Germany's capital city; it was once divided into two.",
+      "options": ["Bangkok", "Dhaka", "Los Angeles", "Berlin"],
+      "correct_answer": "Berlin",
+      "explanation": "Berlin is Germany's capital city and was once divided into East and West Berlin."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the description to the city: A city in Italy which is well known for its canals.",
+      "options": ["Bangkok", "Dhaka", "Venice", "Berlin"],
+      "correct_answer": "Venice",
+      "explanation": "Venice is a city in Italy known for its canals."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the description to the city: The capital city of Bangladesh which is very populated.",
+      "options": ["Bangkok", "Dhaka", "Los Angeles", "Berlin"],
+      "correct_answer": "Dhaka",
+      "explanation": "Dhaka is the capital city of Bangladesh and is very populated."
+    }
+  ,
+    {
+      "category": "Through_a_Telescope",
+      "question": "This aircraft goes into space.",
+      "options": ["Airplane", "Helicopter", "Spacecraft", "Rocket"],
+      "correct_answer": "Spacecraft",
+      "explanation": "A spacecraft is designed to travel into space."
+    },
+    {
+      "category": "Science_and_Us",
+      "question": "The planets are named after Roman gods and goddesses. This one is named after the god of time.",
+      "options": ["Saturn", "Jupiter", "Mars", "Venus"],
+      "correct_answer": "Saturn",
+      "explanation": "Saturn is named after the Roman god of time."
+    },
+    {
+      "category": "Science_and_Us",
+      "question": "As many as 1,300 Earths can fit inside this planet. It is huge.",
+      "options": ["Jupiter", "Saturn", "Neptune", "Uranus"],
+      "correct_answer": "Jupiter",
+      "explanation": "Jupiter is so large that about 1,300 Earths can fit inside it."
+    },
+    {
+      "category": "Science_and_Us",
+      "question": "It sounds like the name of a chocolate but is named after the Roman god of war.",
+      "options": ["Mars", "Venus", "Mercury", "Pluto"],
+      "correct_answer": "Mars",
+      "explanation": "Mars is named after the Roman god of war."
+    },
+    {
+      "category": "Science_and_Us",
+      "question": "It is the brightest planet in the solar system. It is the only one that spins clockwise on its axis.",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correct_answer": "Venus",
+      "explanation": "Venus is the brightest planet and spins clockwise on its axis."
+    },
+    {
+      "category": "Science_and_Us",
+      "question": "This is the number of planets in the solar system.",
+      "options": ["7", "8", "9", "10"],
+      "correct_answer": "8",
+      "explanation": "There are eight planets in the solar system."
+    },
+    {
+      "category": "Science_and_Us",
+      "question": "Neil Armstrong was the first man to set foot on it.",
+      "options": ["Moon", "Mars", "Venus", "Jupiter"],
+      "correct_answer": "Moon",
+      "explanation": "Neil Armstrong was the first man to set foot on the Moon."
+    },
+    {
+      "category": "Science_and_Us",
+      "question": "This planet is named after the Roman God of the Sea.",
+      "options": ["Neptune", "Uranus", "Saturn", "Jupiter"],
+      "correct_answer": "Neptune",
+      "explanation": "Neptune is named after the Roman god of the sea."
+    },
+    {
+      "category": "Science_and_Us",
+      "question": "It used to be called a planet till 2006.",
+      "options": ["Pluto", "Eris", "Ceres", "Haumea"],
+      "correct_answer": "Pluto",
+      "explanation": "Pluto was reclassified as a dwarf planet in 2006."
+    },
+    {
+      "category": "Science_and_Us",
+      "question": "Uranus and Neptune contain a lot of this; in 2008-09 some has been found on Mars and on the Moon.",
+      "options": ["Ice", "Rock", "Gas", "Water"],
+      "correct_answer": "Ice",
+      "explanation": "Uranus and Neptune contain a lot of ice, which has also been found on Mars and the Moon."
+    },
+    {
+      "category": "Science_and_Us",
+      "question": "There is a belt full of these between Mars and Jupiter.",
+      "options": ["Asteroids", "Comets", "Meteors", "Planets"],
+      "correct_answer": "Asteroids",
+      "explanation": "The asteroid belt is located between Mars and Jupiter."
+    }
+,
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the left column with the right: Team",
+      "options": ["Captain", "Conductor", "Pilot/Captain/Commander", "Editor"],
+      "correct_answer": "Captain",
+      "explanation": "A team is led by a captain."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the left column with the right: Aeroplane",
+      "options": ["Pilot/Captain/Commander", "Conductor", "Captain", "Editor"],
+      "correct_answer": "Pilot/Captain/Commander",
+      "explanation": "An aeroplane is led by a pilot, captain, or commander."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the left column with the right: Committee",
+      "options": ["Chairperson", "Conductor", "Captain", "Editor"],
+      "correct_answer": "Chairperson",
+      "explanation": "A committee is led by a chairperson."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the left column with the right: Orchestra",
+      "options": ["Conductor", "Captain", "Pilot/Captain/Commander", "Editor"],
+      "correct_answer": "Conductor",
+      "explanation": "An orchestra is led by a conductor."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the left column with the right: Kingdom",
+      "options": ["King/Queen", "Captain", "Conductor", "Editor"],
+      "correct_answer": "King/Queen",
+      "explanation": "A kingdom is led by a king or queen."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the left column with the right: Ship",
+      "options": ["Captain/Commander", "Conductor", "Pilot/Captain/Commander", "Editor"],
+      "correct_answer": "Captain/Commander",
+      "explanation": "A ship is led by a captain or commander."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the left column with the right: Army",
+      "options": ["General/Commander", "Captain", "Conductor", "Editor"],
+      "correct_answer": "General/Commander",
+      "explanation": "An army is led by a general or commander."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the left column with the right: Newspaper/Magazine",
+      "options": ["Editor", "Captain", "Conductor", "Pilot/Captain/Commander"],
+      "correct_answer": "Editor",
+      "explanation": "A newspaper or magazine is led by an editor."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the left column with the right: Railway Station",
+      "options": ["Station Master", "Captain", "Conductor", "Editor"],
+      "correct_answer": "Station Master",
+      "explanation": "A railway station is managed by a station master."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the left column with the right: Police Station",
+      "options": ["Officer-in-Charge (OC)", "Captain", "Conductor", "Editor"],
+      "correct_answer": "Officer-in-Charge (OC)",
+      "explanation": "A police station is managed by an officer-in-charge (OC)."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the left column with the right: Film/Play",
+      "options": ["Director", "Captain", "Conductor", "Editor"],
+      "correct_answer": "Director",
+      "explanation": "A film or play is led by a director."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "Match the left column with the right: Government",
+      "options": ["Prime Minister/President", "Captain", "Conductor", "Editor"],
+      "correct_answer": "Prime Minister/President",
+      "explanation": "A government is led by a prime minister or president."
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "In your own Find Out book, make a list with the name of a person you know, beside each profession, like this: Doctor",
+      "options": [],
+      "correct_answer": "Dr. K. Sen",
+      "explanation": "Example: Doctor - Dr. K. Sen"
+    },
+    {
+      "category": "World_and_Its_People",
+      "question": "In your own Find Out book, make a list with the name of a person you know, beside each profession, like this: Pilot",
+      "options": [],
+      "correct_answer": "Captain Ram Jha",
+      "explanation": "Example: Pilot - Captain Ram Jha"
+    }
+ ,
+    {
+      "category": "General_Knowledge",
+      "question": "Will polar bears, penguins, and snow leopards be comfortable living in places near the equator?",
+      "options": ["Yes", "No"],
+      "correct_answer": "No",
+      "explanation": "Polar bears, penguins, and snow leopards are adapted to cold climates and would not be comfortable near the equator."
+    },
+    {
+      "category": "Sports",
+      "question": "Which is the odd one out—diving, swimming, water polo, volleyball?",
+      "options": ["Diving", "Swimming", "Water Polo", "Volleyball"],
+      "correct_answer": "Volleyball",
+      "explanation": "Volleyball is not a water sport, while the others are."
+    },
+    {
+      "category": "Famous_Landmarks",
+      "question": "This famous statue of Jesus Christ in Brazil overlooks the city of Rio de Janeiro from a height of 706 meters. Name it.",
+      "options": ["Statue of Liberty", "Christ the Redeemer", "Great Sphinx", "Mount Rushmore"],
+      "correct_answer": "Christ the Redeemer",
+      "explanation": "Christ the Redeemer is the famous statue located in Rio de Janeiro."
+    },
+    {
+      "category": "General_Knowledge",
+      "question": "Where will you find information about people, animals, and places—in a dictionary or in an encyclopaedia?",
+      "options": ["Dictionary", "Encyclopaedia"],
+      "correct_answer": "Encyclopaedia",
+      "explanation": "An encyclopaedia contains comprehensive information about people, animals, and places."
+    },
+    {
+      "category": "Religious_Leaders",
+      "question": "Guru Gobind Singh was the tenth and last Sikh... guru. Fill in the blank.",
+      "options": ["Guru", "Leader", "Teacher", "Saint"],
+      "correct_answer": "Guru",
+      "explanation": "Guru Gobind Singh was the tenth and last Sikh guru."
+    },
+    {
+      "category": "Travel_and_Geography",
+      "question": "How many countries can you travel to with the Schengen visa?",
+      "options": ["25", "26", "27", "28"],
+      "correct_answer": "26",
+      "explanation": "You can travel to 26 countries with the Schengen visa."
+    },
+    {
+      "category": "Sports",
+      "question": "In which sport did Neeraj Chopra represent India at the 2020 Tokyo Olympics?",
+      "options": ["Javelin", "Shot Put", "Discus Throw", "Hammer Throw"],
+      "correct_answer": "Javelin",
+      "explanation": "Neeraj Chopra represented India in the Javelin throw at the 2020 Tokyo Olympics."
+    },
+    {
+      "category": "English_Grammar",
+      "question": "Rewrite this sentence correctly: 'We had some desert after dinner.'",
+      "options": ["We had some desert after dinner.", "We had some dessert after dinner.", "We had some desert before dinner.", "We had some dessert before dinner."],
+      "correct_answer": "We had some dessert after dinner.",
+      "explanation": "The correct word is 'dessert,' which refers to a sweet dish eaten after a meal."
+    },
+    {
+      "category": "Indian_Politics",
+      "question": "Who became the Prime Minister of India for the second time in 2019?",
+      "options": ["Narendra Modi", "Rahul Gandhi", "Manmohan Singh", "Arvind Kejriwal"],
+      "correct_answer": "Narendra Modi",
+      "explanation": "Narendra Modi became the Prime Minister of India for the second time in 2019."
+    },
+    {
+      "category": "General_Knowledge",
+      "question": "Are knives, forks, and spoons part of cutlery or crockery?",
+      "options": ["Cutlery", "Crockery"],
+      "correct_answer": "Cutlery",
+      "explanation": "Knives, forks, and spoons are part of cutlery."
+    },
+    {
+      "category": "Awards_and_Honors",
+      "question": "A. R. Rahman and Resul Pookutty have won the O .G.A.R. 5 (film awards). Fill in the blanks.",
+      "options": ["Oscars", "Grammys", "Emmys", "Tonys"],
+      "correct_answer": "Oscars",
+      "explanation": "A. R. Rahman and Resul Pookutty have won Oscars, which are prestigious film awards."
+    },
+    {
+      "category": "Indian_Culture",
+      "question": "If you add the letter 'i' at the end of the name of a state, you get the name of an Indian classical dance. Name the state.",
+      "options": ["Manipur", "Kerala", "Tamil Nadu", "Odisha"],
+      "correct_answer": "Manipur",
+      "explanation": "Manipuri is a classical dance form from the state of Manipur."
+    },
+    {
+      "category": "World_Leaders",
+      "question": "In South Africa, they called him 'Madiba'. A great leader, he passed away in 2013. Name him.",
+      "options": ["Nelson Mandela", "Mahatma Gandhi", "Martin Luther King Jr.", "Desmond Tutu"],
+      "correct_answer": "Nelson Mandela",
+      "explanation": "Nelson Mandela, also known as 'Madiba,' was a great leader from South Africa who passed away in 2013."
+    },
+    {
+      "category": "Indian_Leaders",
+      "question": "Who were known as 'the Lion of Punjab'; 'Nightingale of India'; and 'Iron Man of India'?",
+      "options": [
+        "Lala Lajpat Rai, Sarojini Naidu, Sardar Patel",
+        "Bhagat Singh, Indira Gandhi, B. R. Ambedkar",
+        "Bal Gangadhar Tilak, Rani Lakshmibai, Subhas Chandra Bose",
+        "Jawaharlal Nehru, Mother Teresa, Dr. Rajendra Prasad"
+      ],
+      "correct_answer": "Lala Lajpat Rai, Sarojini Naidu, Sardar Patel",
+      "explanation": "Lala Lajpat Rai is known as the Lion of Punjab, Sarojini Naidu as the Nightingale of India, and Sardar Patel as the Iron Man of India."
+    },
+    {
+      "category": "Geography",
+      "question": "True or false: Beijing is the capital city of Japan.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "explanation": "Beijing is the capital of China, not Japan."
+    },
+    {
+      "category": "Technology",
+      "question": "Is the machinery of a computer called its hardware or software?",
+      "options": ["Hardware", "Software"],
+      "correct_answer": "Hardware",
+      "explanation": "The machinery of a computer is called hardware."
+    },
+    {
+      "category": "Technology",
+      "question": "Martin Cooper gave the world its first Mobile... phone. Fill in the blank.",
+      "options": ["Phone", "Computer", "Television", "Radio"],
+      "correct_answer": "Phone",
+      "explanation": "Martin Cooper invented the first mobile phone."
+    },
+    {
+      "category": "Biology",
+      "question": "All living things are most comfortable in their homes or natural habitats. Fill in the blank.",
+      "options": ["Homes", "Natural Habitats"],
+      "correct_answer": "Natural Habitats",
+      "explanation": "All living things are most comfortable in their natural habitats."
+    },
+    {
+      "category": "Religious_History",
+      "question": "Lord Jesus Christ was born in Bethlehem (EELHEMTBH) and Lord Krishna was born in ....Mathura (AMURHTA).",
+      "options": ["Bethlehem and Mathura", "Jerusalem and Vrindavan", "Nazareth and Ayodhya", "Mecca and Dwarka"],
+      "correct_answer": "Bethlehem and Mathura",
+      "explanation": "Jesus Christ was born in Bethlehem, and Lord Krishna was born in Mathura."
+    },
+    {
+      "category": "Indian_Politics",
+      "question": "Whom did Droupadi Murmu succeed as the president of India?",
+      "options": ["Ram Nath Kovind", "Pranab Mukherjee", "A.P.J. Abdul Kalam", "Pratibha Patil"],
+      "correct_answer": "Ram Nath Kovind",
+      "explanation": "Droupadi Murmu succeeded Ram Nath Kovind as the president of India."
+    }
+]
+}

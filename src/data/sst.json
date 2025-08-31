@@ -1,0 +1,534 @@
+{
+  "questions": [
+    {
+      "category": "History - Chapter 1",
+      "question": "What is history?",
+      "options": [
+        "The study of future events",
+        "A collection of imaginary stories",
+        "The study of past events and people",
+        "A list of rules and laws"
+      ],
+      "correct_answer": "The study of past events and people",
+      "explanation": "History is the study of past events and people. It helps us understand how people lived and what happened in the past."
+    },
+    {
+      "category": "History - Chapter 1",
+      "question": "What is a timeline?",
+      "options": [
+        "A type of graph",
+        "A record of books",
+        "A list of current events",
+        "A line that shows the order of events"
+      ],
+      "correct_answer": "A line that shows the order of events",
+      "explanation": "A timeline tells us the order in which events happened, helping us understand when things occurred."
+    },
+    {
+      "category": "History - Chapter 1",
+      "question": "Why is a timeline important in history?",
+      "options": [
+        "It shows the future",
+        "It helps plan events",
+        "It helps us understand when things happened",
+        "It helps us create stories"
+      ],
+      "correct_answer": "It helps us understand when things happened",
+      "explanation": "Timelines help historians place events in the correct order to understand history better."
+    },
+    {
+      "category": "History - Chapter 1",
+      "question": "Which of these is not a period in history?",
+      "options": [
+        "Ancient",
+        "Medieval",
+        "Modern",
+        "Fictional"
+      ],
+      "correct_answer": "Fictional",
+      "explanation": "History is divided into Ancient, Medieval, and Modern periods."
+    },
+    {
+      "category": "History - Chapter 1",
+      "question": "Famous means _________.",
+      "options": [
+        "Unknown by people",
+        "Known by many people",
+        "A scientist",
+        "A ruler"
+      ],
+      "correct_answer": "Known by many people",
+      "explanation": "The word 'famous' means being well-known by many people."
+    },
+    {
+      "category": "Sources of History - Chapter 2",
+      "question": "Why are sources of history important?",
+      "options": [
+        "They help us predict the future",
+        "They help us understand the present only",
+        "They help us learn about the past",
+        "They are fun to collect"
+      ],
+      "correct_answer": "They help us learn about the past",
+      "explanation": "Historians use sources to study and understand events, people, and cultures of the past."
+    },
+    {
+      "category": "Sources of History - Chapter 2",
+      "question": "What is an artefact?",
+      "options": [
+        "A modern building",
+        "A new machine",
+        "An object made and used by early people",
+        "A natural rock"
+      ],
+      "correct_answer": "An object made and used by early people",
+      "explanation": "Artefacts include tools, pottery, and other objects created by humans in the past."
+    },
+    {
+      "category": "Sources of History - Chapter 2",
+      "question": "Where did Hiuen Tsang come from?",
+      "options": [
+        "Japan",
+        "India",
+        "China",
+        "Sri Lanka"
+      ],
+      "correct_answer": "China",
+      "explanation": "Hiuen Tsang came from China to India to study Buddhism."
+    },
+    {
+      "category": "Sources of History - Chapter 2",
+      "question": "What is archaeology?",
+      "options": [
+        "The study of stars",
+        "The study of modern buildings",
+        "The study of past life through buildings and tools",
+        "The study of animals"
+      ],
+      "correct_answer": "The study of past life through buildings and tools",
+      "explanation": "Archaeology involves studying past human life by examining remains like buildings, tools, and pottery."
+    },
+    {
+      "category": "Sources of History - Chapter 2",
+      "question": "Which of the following is an oral source?",
+      "options": [
+        "A letter",
+        "An inscription",
+        "A coin",
+        "A folk tale"
+      ],
+      "correct_answer": "A folk tale",
+      "explanation": "Oral sources include stories, songs, and folk tales passed down verbally."
+    },
+    {
+      "category": "Timelines and Calendars - Chapter 3",
+      "question": "What is the starting point of the Gregorian calendar?",
+      "options": [
+        "The invention of the wheel",
+        "The birth of Jesus Christ",
+        "India’s independence",
+        "The discovery of America"
+      ],
+      "correct_answer": "The birth of Jesus Christ",
+      "explanation": "The Gregorian calendar starts from the year Jesus Christ was born."
+    },
+    {
+      "category": "Timelines and Calendars - Chapter 3",
+      "question": "Which century are we in now?",
+      "options": [
+        "19th century",
+        "20th century",
+        "21st century",
+        "22nd century"
+      ],
+      "correct_answer": "21st century",
+      "explanation": "Years starting with 20 (e.g., 2025) belong to the 21st century."
+    },
+    {
+      "category": "Timelines and Calendars - Chapter 3",
+      "question": "What is a similarity between the Saka and Gregorian calendars?",
+      "options": [
+        "Both begin with January",
+        "Both are based on the movement of the sun",
+        "Both have 13 months",
+        "Both are used only in India"
+      ],
+      "correct_answer": "Both are based on the movement of the sun",
+      "explanation": "Both calendars have 365 days and are solar calendars."
+    },
+    {
+      "category": "Timelines and Calendars - Chapter 3",
+      "question": "Which month is the first in the Saka calendar?",
+      "options": [
+        "January",
+        "Chaitra",
+        "March",
+        "Baisakh"
+      ],
+      "correct_answer": "Chaitra",
+      "explanation": "Chaitra is the first month of the Indian national (Saka) calendar."
+    },
+    {
+      "category": "Timelines and Calendars - Chapter 3",
+      "question": "Which event happened in 1947 CE?",
+      "options": [
+        "Shah Jahan built the Taj Mahal",
+        "Ashoka became king",
+        "India became independent",
+        "Buddha was born"
+      ],
+      "correct_answer": "India became independent",
+      "explanation": "India got independence from British rule in 1947 CE."
+    },
+    {
+      "category": "Chapter 1 – Fill in the Blanks",
+      "question": "When we look at old family photographs, we are looking at the ______.",
+      "options": [
+        "news",
+        "future",
+        "family’s history",
+        "school books"
+      ],
+      "correct_answer": "family’s history",
+      "explanation": "Old family photographs tell us about our family's past, which is a part of our history."
+    },
+    {
+      "category": "Chapter 1 – Fill in the Blanks",
+      "question": "History is the study of the ______.",
+      "options": [
+        "present",
+        "future",
+        "past",
+        "laws"
+      ],
+      "correct_answer": "past",
+      "explanation": "History is the study of the past – about people, places, and events that already happened."
+    },
+    {
+      "category": "Chapter 1 – True or False",
+      "question": "In history we learn about what is happening these days.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False",
+      "explanation": "History is not about the present; it is about the past."
+    },
+    {
+      "category": "Chapter 1 – True or False",
+      "question": "Families do not have a history.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False",
+      "explanation": "Families also have a history, which we can learn through photos and stories."
+    },
+    {
+      "category": "Chapter 1 – Match the Following",
+      "question": "Match: Historian",
+      "options": [
+        "a. A person who studies history",
+        "b. A famous king",
+        "c. An artist",
+        "d. A traveler"
+      ],
+      "correct_answer": "a. A person who studies history",
+      "explanation": "A historian is someone who researches and writes about the past."
+    },
+    {
+      "category": "Chapter 2 – Fill in the Blanks",
+      "question": "Inscriptions are writings on ______.",
+      "options": [
+        "paper only",
+        "plastic bags",
+        "coins, monuments, stone or metal",
+        "wooden boards"
+      ],
+      "correct_answer": "coins, monuments, stone or metal",
+      "explanation": "Inscriptions are writings found on durable materials like stone and metal."
+    },
+    {
+      "category": "Chapter 2 – True or False",
+      "question": "Old coins are not of much use to historians.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False",
+      "explanation": "Old coins are valuable sources of information for historians."
+    },
+    {
+      "category": "Chapter 2 – True or False",
+      "question": "The Vedas help us understand how the Aryans lived.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True",
+      "explanation": "The Vedas are ancient texts that describe Aryan life, culture, and religion."
+    },
+    {
+      "category": "Chapter 2 – Match the Following",
+      "question": "Match: Archaeology",
+      "options": [
+        "a. Study of space",
+        "b. Study of artefacts and monuments",
+        "c. Study of books only",
+        "d. Study of animals"
+      ],
+      "correct_answer": "b. Study of artefacts and monuments",
+      "explanation": "Archaeology is the study of ancient objects and remains from the past."
+    },
+    {
+      "category": "Chapter 2 – Match the Following",
+      "question": "Match: Oral sources",
+      "options": [
+        "a. Letters",
+        "b. Inscriptions",
+        "c. Stories, songs, poems",
+        "d. Old tools"
+      ],
+      "correct_answer": "c. Stories, songs, poems",
+      "explanation": "Oral sources are passed down through speech, like songs and folktales."
+    },
+    {
+      "category": "Chapter 2 – Fill in the Blanks",
+      "question": "Artefacts include things like tools, utensils, and ______.",
+      "options": [
+        "books",
+        "gold",
+        "jewellery",
+        "paintings"
+      ],
+      "correct_answer": "jewellery",
+      "explanation": "Jewellery is often found during archaeological digs as part of artefacts."
+    },
+    {
+      "category": "Chapter 3 – True or False",
+      "question": "The CE years are counted backwards from the birth of Christ.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False",
+      "explanation": "BCE years are counted backwards; CE years are counted forward from Year 1."
+    },
+    {
+      "category": "Chapter 3 – Fill in the Blanks",
+      "question": "The Saka calendar starts with the month of ______.",
+      "options": [
+        "March",
+        "January",
+        "Baisakh",
+        "Chaitra"
+      ],
+      "correct_answer": "Chaitra",
+      "explanation": "Chaitra is the first month in the Saka calendar, followed in India."
+    },
+    {
+      "category": "Chapter 3 – Match the Following",
+      "question": "Match: BCE",
+      "options": [
+        "a. Common Era",
+        "b. Before the Common Era",
+        "c. Years starting with 20",
+        "d. Used in the Saka calendar"
+      ],
+      "correct_answer": "b. Before the Common Era",
+      "explanation": "BCE stands for Before Common Era; used for dates before Year 1."
+    },
+    {
+      "category": "Chapter 3 – Timeline Ordering",
+      "question": "Which of these events happened first?",
+      "options": [
+        "India became independent",
+        "Ashoka became king",
+        "Poorna climbed Mt. Everest",
+        "Shah Jahan ruled"
+      ],
+      "correct_answer": "Ashoka became king",
+      "explanation": "Ashoka became king in 273 BCE, before all other listed events."
+    },
+    {
+      "category": "Chapter 3 – Timeline Ordering",
+      "question": "What event took place in 1628 CE?",
+      "options": [
+        "Ashoka became king",
+        "Poorna climbed Everest",
+        "Shah Jahan became ruler",
+        "Gandhi was born"
+      ],
+      "correct_answer": "Shah Jahan became ruler",
+      "explanation": "Shah Jahan became the Mughal ruler in 1628 CE and later built the Taj Mahal."
+    },
+    {
+      "category": "Word Meaning – Chapter 1",
+      "question": "What is 'History'?",
+      "options": [
+        "A study of future events",
+        "A story about animals",
+        "The study of past events and people",
+        "A type of calendar"
+      ],
+      "correct_answer": "The study of past events and people",
+      "explanation": "History is the study of past events and people who lived before us."
+    },
+    {
+      "category": "Word Meaning – Chapter 1",
+      "question": "What does 'Famous' mean?",
+      "options": [
+        "Unknown to anyone",
+        "Known by many people",
+        "Very old",
+        "Very fast"
+      ],
+      "correct_answer": "Known by many people",
+      "explanation": "Famous means well-known by a large number of people."
+    },
+    {
+      "category": "Word Meaning – Chapter 1",
+      "question": "What does 'Ordinary' mean?",
+      "options": [
+        "Very special",
+        "Not special",
+        "Very expensive",
+        "Very clean"
+      ],
+      "correct_answer": "Not special",
+      "explanation": "Ordinary refers to someone or something that is common or not special."
+    },
+    {
+      "category": "Word Meaning – Chapter 1",
+      "question": "Who is a 'Historian'?",
+      "options": [
+        "A person who writes novels",
+        "A person who studies history",
+        "A person who teaches sports",
+        "A person who makes maps"
+      ],
+      "correct_answer": "A person who studies history",
+      "explanation": "A historian is someone who studies and writes about past events."
+    },
+    {
+      "category": "Word Meaning – Chapter 1",
+      "question": "What is a 'Period' in history?",
+      "options": [
+        "A school subject",
+        "A particular length of time",
+        "A day of the week",
+        "A holiday"
+      ],
+      "correct_answer": "A particular length of time",
+      "explanation": "In history, a period is a specific length of time that events are grouped into."
+    },
+    {
+      "category": "Word Meaning – Chapter 2",
+      "question": "What does 'Clue' mean?",
+      "options": [
+        "A finished answer",
+        "A person from history",
+        "Something that helps find an answer or truth",
+        "An ancient king"
+      ],
+      "correct_answer": "Something that helps find an answer or truth",
+      "explanation": "A clue is a piece of information that helps you solve a mystery or understand something."
+    },
+    {
+      "category": "Word Meaning – Chapter 2",
+      "question": "What is an 'Artefact'?",
+      "options": [
+        "A living animal",
+        "A recent invention",
+        "An object made and used by earlier people",
+        "A new toy"
+      ],
+      "correct_answer": "An object made and used by earlier people",
+      "explanation": "Artefacts are tools, pottery, jewellery, etc., made by people in ancient times."
+    },
+    {
+      "category": "Word Meaning – Chapter 2",
+      "question": "What is 'Archaeology'?",
+      "options": [
+        "The study of flowers",
+        "The study of stars",
+        "The study of human past through remains",
+        "The study of maps"
+      ],
+      "correct_answer": "The study of human past through remains",
+      "explanation": "Archaeology involves studying human history through objects like tools and buildings."
+    },
+    {
+      "category": "Word Meaning – Chapter 2",
+      "question": "What is a 'Court' in historical terms?",
+      "options": [
+        "A sports ground",
+        "A legal office",
+        "A group of people who serve a king or prince",
+        "A large house"
+      ],
+      "correct_answer": "A group of people who serve a king or prince",
+      "explanation": "In history, a court refers to the king's advisors, nobles, and helpers."
+    },
+    {
+      "category": "Word Meaning – Chapter 2",
+      "question": "What are 'Inscriptions'?",
+      "options": [
+        "Letters written on paper",
+        "Paintings on walls",
+        "Writings on coins, monuments, stone or metal",
+        "A type of flower"
+      ],
+      "correct_answer": "Writings on coins, monuments, stone or metal",
+      "explanation": "Inscriptions are historical writings found carved on hard surfaces."
+    },
+    {
+      "category": "Word Meaning – Chapter 2",
+      "question": "What does 'Verbally' mean?",
+      "options": [
+        "In writing",
+        "Through drawing",
+        "Through spoken words",
+        "Using signs"
+      ],
+      "correct_answer": "Through spoken words",
+      "explanation": "Verbally means something that is told using speech and not writing."
+    },
+    {
+      "category": "Word Meaning – Chapter 2",
+      "question": "What does 'Preserve' mean?",
+      "options": [
+        "Throw something away",
+        "Keep something safe and in good condition",
+        "Change something",
+        "Paint something"
+      ],
+      "correct_answer": "Keep something safe and in good condition",
+      "explanation": "To preserve something means to protect it so it stays the same or lasts longer."
+    },
+    {
+      "category": "Word Meaning – Chapter 3",
+      "question": "What is the 'Gregorian Calendar'?",
+      "options": [
+        "A calendar used in India only",
+        "A calendar used by kings",
+        "A calendar system used all over the world",
+        "A calendar made by scientists"
+      ],
+      "correct_answer": "A calendar system used all over the world",
+      "explanation": "The Gregorian calendar is the most widely used calendar system today."
+    },
+    {
+      "category": "Word Meaning – Chapter 3",
+      "question": "What is an 'Era'?",
+      "options": [
+        "A tool used by archaeologists",
+        "A type of timeline",
+        "A very long period of time in history",
+        "A historical person"
+      ],
+      "correct_answer": "A very long period of time in history",
+      "explanation": "An era is a large block of time that covers major historical changes or events."
+    }
+  ]
+}

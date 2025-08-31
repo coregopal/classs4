@@ -1,0 +1,750 @@
+{
+  "questions": [
+    {
+      "category": "Food and Nutrients",
+      "question": "Which of the following are essential substances present in food?",
+      "options": [
+        "Only Carbohydrates and Fats",
+        "Only Vitamins and Water",
+        "Carbohydrates, Proteins, Fats, Vitamins, Minerals",
+        "Only Minerals and Roughage"
+      ],
+      "correct_answer": "Carbohydrates, Proteins, Fats, Vitamins, Minerals",
+      "explanation": "These nutrients are vital for energy, body building, protection, and proper body function."
+    },
+    {
+      "category": "Carbohydrates",
+      "question": "Which of the following are main types of carbohydrates?",
+      "options": [
+        "Starch, Glucose, Sucrose, Sugar",
+        "Fat, Protein, Fibre, Sugar",
+        "Minerals, Calcium, Iron, Glucose",
+        "Vitamins A, B, C and Sugar"
+      ],
+      "correct_answer": "Starch, Glucose, Sucrose, Sugar",
+      "explanation": "Carbohydrates are classified as simple sugars like glucose and sucrose, and complex sugars like starch."
+    },
+    {
+      "category": "Body-building Foods",
+      "question": "Which of these foods help build muscles?",
+      "options": [
+        "Fruits and Vegetables",
+        "Oil and Butter",
+        "Pulses, Eggs, Milk, Paneer, Fish",
+        "Bread and Rice"
+      ],
+      "correct_answer": "Pulses, Eggs, Milk, Paneer, Fish",
+      "explanation": "Protein-rich foods are responsible for body-building and muscle growth."
+    },
+    {
+      "category": "Protective Foods",
+      "question": "Which foods are rich in protective nutrients like vitamins and minerals?",
+      "options": [
+        "Fruits and Vegetables",
+        "Sugar and Salt",
+        "Rice and Wheat",
+        "Water and Roughage"
+      ],
+      "correct_answer": "Fruits and Vegetables",
+      "explanation": "Fruits and vegetables are rich in vitamins A, B, C and minerals like iron and calcium that help protect the body."
+    },
+    {
+      "category": "Functions of Food",
+      "question": "What are the main functions of food?",
+      "options": [
+        "Helps us grow",
+        "Gives us energy",
+        "Keeps us healthy and strong",
+        "All of these"
+      ],
+      "correct_answer": "All of these",
+      "explanation": "Food provides energy, supports growth, and keeps us healthy and strong."
+    },
+    {
+      "category": "Roughage",
+      "question": "Which substance helps remove waste from the body?",
+      "options": [
+        "Carbohydrates",
+        "Roughage",
+        "Vitamins",
+        "Proteins"
+      ],
+      "correct_answer": "Roughage",
+      "explanation": "Roughage is the indigestible portion of food that helps in bowel movement and removal of waste."
+    },
+    {
+      "category": "Protein Function",
+      "question": "Which foods help in building muscles?",
+      "options": [
+        "Protein-rich foods",
+        "Energy-giving foods",
+        "Vitamins and minerals",
+        "Roughage and water"
+      ],
+      "correct_answer": "Protein-rich foods",
+      "explanation": "Protein-rich foods help in building and repairing muscles and tissues."
+    },
+    {
+      "category": "Food Storage",
+      "question": "Which is the best method to store raw peas for a long time?",
+      "options": [
+        "Deep freezing",
+        "Canning",
+        "Pickling",
+        "Refrigeration"
+      ],
+      "correct_answer": "Deep freezing",
+      "explanation": "Deep freezing keeps the peas fresh and retains nutrients for long periods."
+    },
+    {
+      "category": "Assertion and Reasoning",
+      "question": "Assertion: Carbohydrates give energy. Reason: Energy-giving foods are rich in carbohydrates.",
+      "options": [
+        "Both A and R are True",
+        "A is True, R is False",
+        "A is False, R is True",
+        "Both A and R are False"
+      ],
+      "correct_answer": "Both A and R are True",
+      "explanation": "Carbohydrates like rice and bread are rich in sugar and starch that give energy."
+    },
+    {
+      "category": "Assertion and Reasoning",
+      "question": "Assertion: Protein-rich foods are body-building. Reason: They keep our body warm.",
+      "options": [
+        "Both A and R are True",
+        "A is True, R is False",
+        "A is False, R is True",
+        "Both A and R are False"
+      ],
+      "correct_answer": "A is True, R is False",
+      "explanation": "Proteins help build muscles, but fats keep our body warm, not proteins."
+    },
+    {
+      "category": "Fill in the Blanks (MCQ style)",
+      "question": "Oil is a rich source of ____.",
+      "options": [
+        "Protein",
+        "Fat",
+        "Roughage",
+        "Carbohydrate"
+      ],
+      "correct_answer": "Fat",
+      "explanation": "Oils are rich in fats which give more energy than carbohydrates."
+    },
+    {
+      "category": "Fill in the Blanks (MCQ style)",
+      "question": "Roughage cannot be ____ by our body.",
+      "options": [
+        "Digested",
+        "Stored",
+        "Absorbed",
+        "Eaten"
+      ],
+      "correct_answer": "Digested",
+      "explanation": "Roughage is not digested but helps clean the digestive tract."
+    },
+    {
+      "category": "Short Answer",
+      "question": "Why do we need food?",
+      "options": [
+        "To grow, stay healthy and gain energy.",
+        "Only for energy.",
+        "Only for taste.",
+        "None of these."
+      ],
+      "correct_answer": "To grow, stay healthy and gain energy.",
+      "explanation": "Food helps in body growth, gives energy, and keeps us fit and strong."
+    },
+    {
+      "category": "Short Answer",
+      "question": "What are nutrients?",
+      "options": [
+        "Substances in food that help in growth and health.",
+        "Only vitamins.",
+        "Only minerals.",
+        "Only water."
+      ],
+      "correct_answer": "Substances in food that help in growth and health.",
+      "explanation": "Nutrients include carbohydrates, proteins, fats, vitamins and minerals."
+    },
+    {
+      "category": "Name the Following",
+      "question": "Substances needed for growth and energy are called ____.",
+      "options": [
+        "Fats",
+        "Nutrients",
+        "Fibres",
+        "Proteins"
+      ],
+      "correct_answer": "Nutrients",
+      "explanation": "Nutrients support body growth and provide energy."
+    },
+    {
+      "category": "Multiple Choice",
+      "question": "What is the process of teeth emerging in children called?",
+      "options": [
+        "Breaking",
+        "Digestion",
+        "Swelling",
+        "Teething"
+      ],
+      "correct_answer": "Teething",
+      "explanation": "Teething is the process by which an infant's first teeth sequentially appear."
+    },
+    {
+      "category": "Multiple Choice",
+      "question": "How many permanent teeth does an adult usually have?",
+      "options": [
+        "16 permanent teeth",
+        "20 permanent teeth",
+        "28 permanent teeth",
+        "32 permanent teeth"
+      ],
+      "correct_answer": "32 permanent teeth",
+      "explanation": "Adults typically have 32 permanent teeth, including wisdom teeth."
+    },
+    {
+      "category": "Multiple Choice",
+      "question": "Which mineral is important for strong teeth?",
+      "options": [
+        "Calcium",
+        "Iron",
+        "Iodine",
+        "Phosphorus"
+      ],
+      "correct_answer": "Calcium",
+      "explanation": "Calcium strengthens teeth and bones and helps maintain healthy enamel."
+    },
+    {
+      "category": "Multiple Choice",
+      "question": "Which layer lies just below the enamel in a tooth?",
+      "options": [
+        "Dentine",
+        "Pulp",
+        "Crown",
+        "Root"
+      ],
+      "correct_answer": "Dentine",
+      "explanation": "Dentine is a hard substance beneath the enamel that protects the inner pulp."
+    },
+    {
+      "category": "Multiple Choice",
+      "question": "Which of the following should be avoided to keep teeth healthy?",
+      "options": [
+        "Fizzy drinks",
+        "Sugar",
+        "Sweets",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "explanation": "All listed items cause tooth decay and should be avoided for dental health."
+    },
+    {
+      "category": "Assertion and Reason",
+      "question": "A: Milk teeth fall at age 6. R: Bigger teeth replace them.",
+      "options": [
+        "Both A and R are True",
+        "A is True, R is False",
+        "A is False, R is True",
+        "Both A and R are False"
+      ],
+      "correct_answer": "Both A and R are True",
+      "explanation": "Children usually lose milk teeth around age 6, and they are replaced by permanent teeth."
+    },
+    {
+      "category": "Assertion and Reason",
+      "question": "A: We should floss daily. R: Flossing cleans between teeth.",
+      "options": [
+        "Both A and R are True",
+        "A is True, R is False",
+        "A is False, R is True",
+        "Both A and R are False"
+      ],
+      "correct_answer": "Both A and R are True",
+      "explanation": "Flossing daily helps clean spaces between teeth where a toothbrush can't reach."
+    },
+    {
+      "category": "Fill in the Blanks",
+      "question": "______ teeth are temporary.",
+      "options": [
+        "Milk",
+        "Permanent",
+        "Wisdom",
+        "Canine"
+      ],
+      "correct_answer": "Milk",
+      "explanation": "Milk teeth are the first set of teeth that are eventually replaced by permanent teeth."
+    },
+    {
+      "category": "Fill in the Blanks",
+      "question": "Big, flat, broad teeth at the back are called ______.",
+      "options": [
+        "Incisors",
+        "Canines",
+        "Molars",
+        "Premolars"
+      ],
+      "correct_answer": "Molars",
+      "explanation": "Molars help in grinding food at the back of the mouth."
+    },
+    {
+      "category": "Fill in the Blanks",
+      "question": "The part of the tooth above the gum is called the ______.",
+      "options": [
+        "Root",
+        "Crown",
+        "Pulp",
+        "Enamel"
+      ],
+      "correct_answer": "Crown",
+      "explanation": "The crown is the visible part of the tooth."
+    },
+    {
+      "category": "Fill in the Blanks",
+      "question": "A yellow sticky layer that leads to tooth decay is called ______.",
+      "options": [
+        "Plaque",
+        "Enamel",
+        "Dentine",
+        "Pulp"
+      ],
+      "correct_answer": "Plaque",
+      "explanation": "Plaque is a sticky deposit on teeth that can cause cavities and gum disease."
+    },
+    {
+      "category": "Name the Following",
+      "question": "Part of the tooth that lies inside the gum:",
+      "options": [
+        "Crown",
+        "Root",
+        "Enamel",
+        "Pulp"
+      ],
+      "correct_answer": "Root"
+    },
+    {
+      "category": "Name the Following",
+      "question": "Innermost soft layer of the tooth:",
+      "options": [
+        "Enamel",
+        "Dentine",
+        "Pulp",
+        "Crown"
+      ],
+      "correct_answer": "Pulp"
+    },
+    {
+      "category": "Name the Following",
+      "question": "Hardest outer layer of the tooth:",
+      "options": [
+        "Dentine",
+        "Enamel",
+        "Pulp",
+        "Root"
+      ],
+      "correct_answer": "Enamel"
+    },
+    {
+      "category": "Name the Following",
+      "question": "Doctor who treats teeth problems:",
+      "options": [
+        "Cardiologist",
+        "Dentist",
+        "Neurologist",
+        "Pediatrician"
+      ],
+      "correct_answer": "Dentist"
+    },
+    {
+      "category": "Examples",
+      "question": "Give two examples of how to care for your teeth.",
+      "options": [
+        "Brushing, Flossing, Rinsing after meals",
+        "Eating sweets, Drinking soda",
+        "Never brushing, Avoiding dentist",
+        "None of these"
+      ],
+      "correct_answer": "Brushing, Flossing, Rinsing after meals",
+      "explanation": "These habits help maintain dental hygiene and prevent decay."
+    },
+    {
+      "category": "Examples",
+      "question": "Give two examples of foods good for teeth.",
+      "options": [
+        "Milk, Cheese, Yogurt, Leafy vegetables",
+        "Candy, Soda, Chips",
+        "Only meat",
+        "None of these"
+      ],
+      "correct_answer": "Milk, Cheese, Yogurt, Leafy vegetables",
+      "explanation": "Calcium-rich foods like these make teeth strong."
+    },
+    {
+      "category": "Examples",
+      "question": "Name two tooth diseases caused by acid.",
+      "options": [
+        "Tooth Decay, Cavities, Dental Caries",
+        "Gingivitis, Periodontitis",
+        "None of these",
+        "Only gum disease"
+      ],
+      "correct_answer": "Tooth Decay, Cavities, Dental Caries"
+    },
+    {
+      "category": "Examples",
+      "question": "Name two food items that can cause tooth decay.",
+      "options": [
+        "Sweets, Fizzy drinks, Chocolates",
+        "Milk, Cheese",
+        "Vegetables, Fruits",
+        "None of these"
+      ],
+      "correct_answer": "Sweets, Fizzy drinks, Chocolates"
+    },
+    {
+      "category": "Short Answer",
+      "question": "Which organ helps us bite and chew food?",
+      "options": [
+        "Teeth",
+        "Tongue",
+        "Stomach",
+        "Liver"
+      ],
+      "correct_answer": "Teeth"
+    },
+    {
+      "category": "Short Answer",
+      "question": "Name the two sets of teeth we get in our lifetime.",
+      "options": [
+        "Milk teeth, Permanent teeth",
+        "Only one set",
+        "Baby teeth, Adult teeth",
+        "None of these"
+      ],
+      "correct_answer": "Milk teeth, Permanent teeth"
+    },
+    {
+      "category": "Short Answer",
+      "question": "What is the function of canines?",
+      "options": [
+        "To tear food",
+        "To grind food",
+        "To cut food",
+        "None of these"
+      ],
+      "correct_answer": "To tear food"
+    },
+    {
+      "category": "Short Answer",
+      "question": "Why does a yellow layer appear on teeth?",
+      "options": [
+        "Improper brushing causes plaque to form.",
+        "Eating healthy food.",
+        "Drinking milk.",
+        "None of these."
+      ],
+      "correct_answer": "Improper brushing causes plaque to form."
+    },
+    {
+      "category": "Short Answer",
+      "question": "Why should we visit the dentist regularly?",
+      "options": [
+        "To detect and prevent cavities early.",
+        "Only when in pain.",
+        "Never needed.",
+        "None of these."
+      ],
+      "correct_answer": "To detect and prevent cavities early."
+    },
+    {
+      "category": "Long Answer",
+      "question": "Describe the shape and function of four types of teeth.",
+      "options": [
+        "Incisors – Cut, Canines – Tear, Premolars – Crush, Molars – Grind",
+        "All teeth are the same.",
+        "Only molars matter.",
+        "None of these."
+      ],
+      "correct_answer": "Incisors – Cut, Canines – Tear, Premolars – Crush, Molars – Grind",
+      "explanation": "Each type of tooth has a specific function in breaking down food."
+    },
+    {
+      "category": "Long Answer",
+      "question": "Name the different parts of a tooth.",
+      "options": [
+        "Crown, Root, Enamel, Dentine, Pulp",
+        "Only enamel.",
+        "Only root.",
+        "None of these."
+      ],
+      "correct_answer": "Crown, Root, Enamel, Dentine, Pulp"
+    },
+    {
+      "category": "Long Answer",
+      "question": "Write three tips to care for your teeth.",
+      "options": [
+        "Brush twice a day, Floss daily, Eat less sugar",
+        "Never brush.",
+        "Only eat sweets.",
+        "None of these."
+      ],
+      "correct_answer": "Brush twice a day, Floss daily, Eat less sugar"
+    },
+    {
+      "category": "Long Answer",
+      "question": "Name foods that help keep your teeth healthy.",
+      "options": [
+        "Milk (Calcium), Egg (Vitamin D), Avoid fizzy drinks",
+        "Only candy.",
+        "Only soda.",
+        "None of these."
+      ],
+      "correct_answer": "Milk (Calcium), Egg (Vitamin D), Avoid fizzy drinks",
+      "explanation": "Nutrients like calcium and vitamin D strengthen teeth."
+    },
+    {
+      "category": "Multiple Choice",
+      "question": "Where does digestion begin in the human body?",
+      "options": [
+        "Stomach",
+        "Large intestine",
+        "Small intestine",
+        "Mouth"
+      ],
+      "correct_answer": "Mouth",
+      "explanation": "Digestion begins in the mouth where food is chewed and mixed with saliva."
+    },
+    {
+      "category": "Multiple Choice",
+      "question": "Where are nutrients mainly absorbed in the digestive system?",
+      "options": [
+        "Small Intestine",
+        "Large Intestine",
+        "Stomach",
+        "Oesophagus"
+      ],
+      "correct_answer": "Small Intestine",
+      "explanation": "Most nutrients are absorbed into the blood through the walls of the small intestine."
+    },
+    {
+      "category": "Multiple Choice",
+      "question": "Which organ absorbs water from undigested food?",
+      "options": [
+        "Large Intestine",
+        "Small Intestine",
+        "Stomach",
+        "Liver"
+      ],
+      "correct_answer": "Large Intestine",
+      "explanation": "The large intestine absorbs water and forms faeces."
+    },
+    {
+      "category": "Multiple Choice",
+      "question": "Where is urine stored before leaving the body?",
+      "options": [
+        "Ureter",
+        "Kidney",
+        "Urethra",
+        "Urinary Bladder"
+      ],
+      "correct_answer": "Urinary Bladder",
+      "explanation": "The urinary bladder stores urine until it is passed out through the urethra."
+    },
+    {
+      "category": "Multiple Choice",
+      "question": "What is needed for smooth bowel movement?",
+      "options": [
+        "Enzyme",
+        "Fibre",
+        "Protein",
+        "Calcium"
+      ],
+      "correct_answer": "Fibre",
+      "explanation": "Fibre helps move waste through the intestines and supports bowel health."
+    },
+    {
+      "category": "Assertion and Reason",
+      "question": "A: Faeces are stored in the rectum. R: The rectum is the last part of the digestive system.",
+      "options": [
+        "Both A and R are True",
+        "A is True, R is False",
+        "A is False, R is True",
+        "Both A and R are False"
+      ],
+      "correct_answer": "Both A and R are True",
+      "explanation": "The rectum stores faeces before it is eliminated from the body."
+    },
+    {
+      "category": "Assertion and Reason",
+      "question": "A: Urine is formed in the kidneys. R: Urine contains useful substances for the body.",
+      "options": [
+        "Both A and R are True",
+        "A is True, R is False",
+        "A is False, R is True",
+        "Both A and R are False"
+      ],
+      "correct_answer": "A is True, R is False",
+      "explanation": "Kidneys filter waste and form urine. Urine contains waste, not useful substances."
+    },
+    {
+      "category": "Fill in the Blanks",
+      "question": "Chewed food reaches the stomach through the ______.",
+      "options": [
+        "oesophagus",
+        "trachea",
+        "intestine",
+        "liver"
+      ],
+      "correct_answer": "oesophagus",
+      "explanation": "The oesophagus is the food pipe connecting the mouth to the stomach."
+    },
+    {
+      "category": "Fill in the Blanks",
+      "question": "The liver secretes ______ juices to help digestion.",
+      "options": [
+        "digestive",
+        "saliva",
+        "blood",
+        "none of these"
+      ],
+      "correct_answer": "digestive",
+      "explanation": "Digestive juices like bile are secreted by the liver to break down fats."
+    },
+    {
+      "category": "Fill in the Blanks",
+      "question": "The system that removes waste from the body is called the ______ system.",
+      "options": [
+        "Excretory",
+        "Digestive",
+        "Respiratory",
+        "Nervous"
+      ],
+      "correct_answer": "Excretory",
+      "explanation": "The excretory system includes kidneys and helps in removal of waste."
+    },
+    {
+      "category": "Fill in the Blanks",
+      "question": "The kidneys remove ______ from the body.",
+      "options": [
+        "waste",
+        "nutrients",
+        "oxygen",
+        "none of these"
+      ],
+      "correct_answer": "waste",
+      "explanation": "The kidneys filter blood to remove waste products."
+    },
+    {
+      "category": "Fill in the Blanks",
+      "question": "Urine is formed in the ______.",
+      "options": [
+        "kidneys",
+        "liver",
+        "stomach",
+        "intestines"
+      ],
+      "correct_answer": "kidneys",
+      "explanation": "Urine is produced by the kidneys from filtered blood."
+    },
+    {
+      "category": "Match the Following",
+      "question": "Match the organ or substance with its function:",
+      "options": [
+        "Churning-Stomach, Saliva-Enzyme, Food pipe-Oesophagus, Kidney-Urine, Fibre-Roughage",
+        "Churning-Enzyme, Saliva-Urine, Food pipe-Stomach, Kidney-Roughage, Fibre-Oesophagus",
+        "Churning-Oesophagus, Saliva-Stomach, Food pipe-Enzyme, Kidney-Roughage, Fibre-Urine",
+        "Churning-Roughage, Saliva-Oesophagus, Food pipe-Urine, Kidney-Enzyme, Fibre-Stomach"
+      ],
+      "correct_answer": "Churning-Stomach, Saliva-Enzyme, Food pipe-Oesophagus, Kidney-Urine, Fibre-Roughage"
+    },
+    {
+      "category": "Short Answer",
+      "question": "What is digestion?",
+      "options": [
+        "The process of breaking food into simpler form.",
+        "Only chewing food.",
+        "Only swallowing.",
+        "None of these."
+      ],
+      "correct_answer": "The process of breaking food into simpler form."
+    },
+    {
+      "category": "Short Answer",
+      "question": "What is the role of the tongue in digestion?",
+      "options": [
+        "It mixes saliva with food and helps in swallowing.",
+        "Only tasting food.",
+        "No role.",
+        "None of these."
+      ],
+      "correct_answer": "It mixes saliva with food and helps in swallowing."
+    },
+    {
+      "category": "Short Answer",
+      "question": "What happens to undigested food?",
+      "options": [
+        "It becomes faeces and is removed from the body through the large intestine.",
+        "It is absorbed.",
+        "It disappears.",
+        "None of these."
+      ],
+      "correct_answer": "It becomes faeces and is removed from the body through the large intestine."
+    },
+    {
+      "category": "Short Answer",
+      "question": "What is excretion?",
+      "options": [
+        "The process of removing waste from the body.",
+        "Only urination.",
+        "Only sweating.",
+        "None of these."
+      ],
+      "correct_answer": "The process of removing waste from the body."
+    },
+    {
+      "category": "Short Answer",
+      "question": "Name two waste products removed by the body.",
+      "options": [
+        "Urine, Faeces",
+        "Oxygen, Carbon dioxide",
+        "Only water.",
+        "None of these."
+      ],
+      "correct_answer": "Urine, Faeces"
+    },
+    {
+      "category": "Long Answer",
+      "question": "List the digestive organs and their functions.",
+      "options": [
+        "Mouth (chews), Stomach (churns), Small intestine (absorbs), Large intestine (forms faeces)",
+        "Only stomach matters.",
+        "None of these.",
+        "All organs do the same."
+      ],
+      "correct_answer": "Mouth (chews), Stomach (churns), Small intestine (absorbs), Large intestine (forms faeces)"
+    },
+    {
+      "category": "Long Answer",
+      "question": "Name and describe the organs in the excretory system.",
+      "options": [
+        "Kidneys (filter), Ureters (carry urine), Bladder (stores urine), Urethra (releases urine)",
+        "Only kidneys.",
+        "None of these.",
+        "All organs do the same."
+      ],
+      "correct_answer": "Kidneys (filter), Ureters (carry urine), Bladder (stores urine), Urethra (releases urine)"
+    },
+    {
+      "category": "Long Answer",
+      "question": "What are some healthy habits for digestion?",
+      "options": [
+        "Eat fibre-rich food, drink enough water, avoid junk food.",
+        "Only eat sweets.",
+        "Never drink water.",
+        "None of these."
+      ],
+      "correct_answer": "Eat fibre-rich food, drink enough water, avoid junk food."
+    }
+  ]
+}
