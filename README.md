@@ -1,70 +1,202 @@
-# Getting Started with Create React App
+# Class 4 Quiz Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A comprehensive educational quiz application designed for Class 4 students, featuring interactive quizzes across multiple subjects with PDF resources and audio feedback.
 
-## Available Scripts
+## 📚 Overview
 
-In the project directory, you can run:
+This React-based quiz application provides an engaging learning experience for Class 4 students with:
+- **Interactive quizzes** across 8 different subjects
+- **PDF resources** for each subject chapter
+- **Audio feedback** for correct/incorrect answers
+- **Progress tracking** and score management
+- **Responsive design** for various screen sizes
 
-### `npm start`
+## 🎯 Subjects Covered
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+The application includes quizzes for the following subjects:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. **English Language** - Grammar and language skills
+2. **English Literature** - Reading comprehension and literary analysis
+3. **Hindi** - Hindi language and literature
+4. **Marathi** - Marathi language and literature
+5. **Mathematics** - Mathematical concepts and problem-solving
+6. **Science** - Scientific concepts and experiments
+7. **Social Studies (SST)** - History, geography, and civics
+8. **ICT** - Information and Communication Technology
+9. **General Knowledge (GK)** - General awareness and current affairs
 
-### `npm test`
+## 📖 PDF Resources
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Each subject includes comprehensive PDF resources:
+- **Ankur** - Hindi literature and language
+- **Friday Afternoon** - English literature
+- **Grammar** - English grammar rules
+- **Mulberry** - English literature and poetry
+- **New Find Out** - General knowledge and discovery
+- **Science** - Scientific concepts and experiments
+- **SST** - Social studies chapters and themes
 
-### `npm run build`
+## 🚀 Features
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- **Multiple Choice Questions** - Interactive quiz format
+- **Audio Feedback** - Sound effects for correct/wrong answers
+- **Score Tracking** - Real-time score calculation
+- **Subject Selection** - Choose from different subjects
+- **Responsive Design** - Works on desktop, tablet, and mobile
+- **PDF Integration** - Access to study materials
+- **Progress Indicators** - Visual feedback on quiz progress
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## 🛠️ Technology Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- **Frontend**: React.js
+- **Styling**: CSS3
+- **Audio**: HTML5 Audio API
+- **PDF Viewer**: Browser-native PDF support
+- **Routing**: React Router DOM
+- **Build Tool**: Create React App
 
-### `npm run eject`
+## 📦 Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/coregopal/classs4.git
+   cd classs4
+   ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## 🏃‍♂️ Running the Application
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Development Mode
+```bash
+npm start
+```
+- Opens the app at [http://localhost:3000](http://localhost:3000)
+- Hot reload enabled for development
+- Shows lint errors in console
 
-## Learn More
+### Production Build
+```bash
+npm run build
+```
+- Creates optimized production build in `build` folder
+- Minified and optimized for deployment
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Running Tests
+```bash
+npm test
+```
+- Launches test runner in interactive mode
+- Runs all test suites
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Alternative: Using the Batch File (Windows)
+```bash
+run.bat
+```
+- Automatically installs dependencies and starts the development server
+- Convenient for Windows users
 
-### Code Splitting
+## 📁 Project Structure
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```
+classs4/
+├── public/
+│   ├── pdf/           # Subject PDF resources
+│   ├── sounds/        # Audio feedback files
+│   └── index.html     # Main HTML file
+├── src/
+│   ├── components/    # React components
+│   ├── data/          # Quiz data (JSON files)
+│   ├── styles/        # CSS stylesheets
+│   └── App.js         # Main application component
+├── package.json       # Dependencies and scripts
+└── README.md          # This file
+```
 
-### Analyzing the Bundle Size
+## 🎮 How to Use
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+1. **Select a Subject** - Choose from the available subjects on the home page
+2. **Start Quiz** - Click on any subject to begin the quiz
+3. **Answer Questions** - Select the correct answer from multiple choices
+4. **Get Feedback** - Audio feedback for correct/incorrect answers
+5. **View Results** - See your final score and performance
+6. **Access PDFs** - Review study materials in the PDF section
 
-### Making a Progressive Web App
+## 📊 Quiz Features
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+- **Randomized Questions** - Questions appear in random order
+- **Multiple Choice** - 2-4 options per question
+- **Immediate Feedback** - Instant audio and visual feedback
+- **Score Calculation** - Real-time score tracking
+- **Progress Bar** - Visual progress indicator
 
-### Advanced Configuration
+## 🔧 Customization
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+### Adding New Questions
+Edit the JSON files in `src/data/` to add new questions:
+```json
+{
+  "category": "Subject Name",
+  "question": "Your question here?",
+  "options": ["Option 1", "Option 2", "Option 3", "Option 4"],
+  "correct_answer": "Correct Option",
+  "explanation": "Explanation for the answer"
+}
+```
 
-### Deployment
+### Adding New Subjects
+1. Create a new JSON file in `src/data/`
+2. Add the subject to the subject list in the application
+3. Include corresponding PDF resources in `public/pdf/`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+## 🌐 Deployment
 
-### `npm run build` fails to minify
+The application can be deployed to various platforms:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Netlify
+```bash
+npm run build
+# Upload build folder to Netlify
+```
+
+### Vercel
+```bash
+npm run build
+# Deploy using Vercel CLI
+```
+
+### GitHub Pages
+```bash
+npm run build
+# Deploy build folder to GitHub Pages
+```
+
+## 🤝 Contributing
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📝 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 👨‍💻 Author
+
+**Core Gopal**
+- GitHub: [@coregopal](https://github.com/coregopal)
+
+## 🙏 Acknowledgments
+
+- React.js community for the excellent framework
+- Create React App for the development setup
+- All contributors and testers
+
+---
+
+**Happy Learning! 📚✨**
