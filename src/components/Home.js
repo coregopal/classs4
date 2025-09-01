@@ -19,7 +19,7 @@ function Home() {
 
   return (
     <div className="home">
-      <h1 className="home-title">Grade 3 Learning Quiz</h1>
+      <h1 className="home-title">Class 4 Learning Quiz</h1>
       <div className="subjects-grid">
         {subjects.map((subject) => (
           <div

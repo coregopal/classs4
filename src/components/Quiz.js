@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useCallback } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import confetti from 'canvas-confetti';
 import '../styles/Quiz.css';
@@ -37,11 +37,13 @@ function Quiz() {
   const [progressWidth, setProgressWidth] = useState(0);
   const [isMuted, setIsMuted] = useState(false);
   const [showResult, setShowResult] = useState(false);
-  const [attemptedQuestions, setAttemptedQuestions] = useState(0);
+
   const [selectedCategory, setSelectedCategory] = useState('all');
   const [quizStarted, setQuizStarted] = useState(false);
   const [isTransitioning, setIsTransitioning] = useState(false);
   const [answeredQuestions, setAnsweredQuestions] = useState(new Set());
+  const [timeLeft, setTimeLeft] = useState(30); // 30 seconds per question
+  const [isTimerRunning, setIsTimerRunning] = useState(false);
 
   const allQuestions = subjectsData[subject]?.questions || [];
   
@@ -76,12 +78,12 @@ function Quiz() {
     }
   };
 
-  const playWrongSound = () => {
+  const playWrongSound = useCallback(() => {
     if (!isMuted) {
       const audio = new Audio('/sounds/wrong.mp3');
       audio.play().catch(error => console.log('Audio playback failed:', error));
     }
-  };
+  }, [isMuted]);
 
   const getCorrectAnswers = (question) => {
     if (question.correct_answers) {
@@ -114,10 +116,11 @@ function Quiz() {
     setAnsweredQuestions(new Set());
     setCurrentQuestion(0);
     setScore(0);
-    setAttemptedQuestions(0);
     setSelectedAnswer(null);
     setProgressWidth(0);
     setShowResult(false);
+    setTimeLeft(30);
+    setIsTimerRunning(false);
   }, [selectedCategory]);
 
   useEffect(() => {
@@ -126,11 +129,52 @@ function Quiz() {
     }
   }, [subject, navigate, questions.length]);
 
+  const handleTimeUp = useCallback(() => {
+    setIsTimerRunning(false);
+    if (!answeredQuestions.has(currentQuestion)) {
+      // Mark question as answered without scoring
+      setAnsweredQuestions(prev => new Set(prev).add(currentQuestion));
+      playWrongSound();
+      
+      // Auto-advance to next question after 2 seconds
+      setTimeout(() => {
+        if (currentQuestion < questions.length - 1) {
+          setCurrentQuestion(currentQuestion + 1);
+        } else {
+          setShowResult(true);
+        }
+      }, 2000);
+    }
+  }, [answeredQuestions, currentQuestion, questions.length, playWrongSound]);
+
+  // Timer effect
+  useEffect(() => {
+    let timer;
+    if (isTimerRunning && timeLeft > 0 && !showResult) {
+      timer = setTimeout(() => {
+        setTimeLeft(prev => prev - 1);
+      }, 1000);
+    } else if (timeLeft === 0 && !showResult) {
+      // Time's up - auto-submit or move to next question
+      handleTimeUp();
+    }
+    return () => clearTimeout(timer);
+  }, [timeLeft, isTimerRunning, showResult, handleTimeUp]);
+
+  // Start timer when question changes
+  useEffect(() => {
+    if (quizStarted && !showResult) {
+      setTimeLeft(30);
+      setIsTimerRunning(true);
+    }
+  }, [currentQuestion, quizStarted, showResult]);
+
   const handleAnswerSelect = (answer) => {
     if (selectedAnswer || isTransitioning || isAlreadyAnswered) return;
     
     setSelectedAnswer(answer);
     setIsTransitioning(true);
+    setIsTimerRunning(false); // Stop timer when answer is selected
     
     // First show the correct/wrong answer
     const isCorrect = isCorrectAnswer(answer);
@@ -335,25 +379,107 @@ function Quiz() {
   }
 
   if (showResult) {
+    const percentage = attemptedCount > 0 ? Math.round((score / attemptedCount) * 100) : 0;
+    const getGrade = (percent) => {
+      if (percent >= 90) return { grade: 'A+', color: '#4CAF50', emoji: '🎉' };
+      if (percent >= 80) return { grade: 'A', color: '#4CAF50', emoji: '🌟' };
+      if (percent >= 70) return { grade: 'B+', color: '#8BC34A', emoji: '👍' };
+      if (percent >= 60) return { grade: 'B', color: '#FFC107', emoji: '😊' };
+      if (percent >= 50) return { grade: 'C', color: '#FF9800', emoji: '🤔' };
+      return { grade: 'D', color: '#F44336', emoji: '📚' };
+    };
+    const gradeInfo = getGrade(percentage);
+
     return (
       <div className="quiz-container">
         <div className="quiz-card result-card">
-          <h2>Quiz Results - {selectedCategory}</h2>
-          <div className="result-stats">
-            <p>Total Questions: {questions.length}</p>
-            <p>Attempted Questions: {attemptedCount}</p>
-            <p>Correct Answers: {score}</p>
-            <p>Score: {attemptedCount > 0 ? Math.round((score / attemptedCount) * 100) : 0}%</p>
+          <div className="result-header">
+            <h2>🎯 Quiz Results</h2>
+            <div className="subject-info">
+              <span className="subject-name">{subjectsData[subject]?.subjectName || subject}</span>
+              <span className="category-name">{selectedCategory === 'all' ? 'All Categories' : selectedCategory}</span>
+            </div>
           </div>
+          
+          <div className="result-summary">
+            <div className="grade-display" style={{ backgroundColor: gradeInfo.color }}>
+              <div className="grade-emoji">{gradeInfo.emoji}</div>
+              <div className="grade-text">{gradeInfo.grade}</div>
+              <div className="grade-percentage">{percentage}%</div>
+            </div>
+            
+            <div className="result-stats">
+              <div className="stat-item">
+                <span className="stat-label">Total Questions</span>
+                <span className="stat-value">{questions.length}</span>
+              </div>
+              <div className="stat-item">
+                <span className="stat-label">Attempted</span>
+                <span className="stat-value">{attemptedCount}</span>
+              </div>
+              <div className="stat-item">
+                <span className="stat-label">Correct Answers</span>
+                <span className="stat-value correct">{score}</span>
+              </div>
+              <div className="stat-item">
+                <span className="stat-label">Wrong Answers</span>
+                <span className="stat-value wrong">{attemptedCount - score}</span>
+              </div>
+              <div className="stat-item">
+                <span className="stat-label">Accuracy</span>
+                <span className="stat-value">{attemptedCount > 0 ? Math.round((score / attemptedCount) * 100) : 0}%</span>
+              </div>
+            </div>
+          </div>
+
+          <div className="performance-feedback">
+            <h3>📊 Performance Analysis</h3>
+            <div className="feedback-text">
+              {percentage >= 90 && "Excellent! You've mastered this subject! 🌟"}
+              {percentage >= 80 && percentage < 90 && "Great job! You have a strong understanding of this topic! 👍"}
+              {percentage >= 70 && percentage < 80 && "Good work! You're on the right track! 😊"}
+              {percentage >= 60 && percentage < 70 && "Not bad! Keep practicing to improve further! 📚"}
+              {percentage >= 50 && percentage < 60 && "You're making progress! Review the material and try again! 💪"}
+              {percentage < 50 && "Don't worry! Practice makes perfect. Review the study materials and try again! 📖"}
+            </div>
+          </div>
+
           <div className="result-actions">
-            <button onClick={() => navigate('/')}>Back to Home</button>
-            <button onClick={() => {
+            <button className="btn-primary" onClick={() => navigate('/')}>
+              🏠 Back to Home
+            </button>
+            <button className="btn-secondary" onClick={() => {
               setShowResult(false);
               setCurrentQuestion(0);
               setScore(0);
               setAnsweredQuestions(new Set());
               setSelectedAnswer(null);
-            }}>Try Again</button>
+              setTimeLeft(30);
+              setIsTimerRunning(false);
+            }}>
+              🔄 Try Again
+            </button>
+            <button className="btn-tertiary" onClick={() => {
+              // Save result to localStorage
+              const resultData = {
+                subject: subject,
+                category: selectedCategory,
+                score: score,
+                total: attemptedCount,
+                percentage: percentage,
+                grade: gradeInfo.grade,
+                date: new Date().toISOString(),
+                timestamp: Date.now()
+              };
+              
+              const savedResults = JSON.parse(localStorage.getItem('quizResults') || '[]');
+              savedResults.push(resultData);
+              localStorage.setItem('quizResults', JSON.stringify(savedResults));
+              
+              alert('Result saved! You can view your progress history.');
+            }}>
+              💾 Save Result
+            </button>
           </div>
         </div>
       </div>
@@ -370,6 +496,11 @@ function Quiz() {
               <span className="remaining">Remaining: {remainingCount}</span>
             </div>
             <div className="score">Score: {score}/{attemptedCount}</div>
+            <div className="timer">
+              <span className={`timer-text ${timeLeft <= 10 ? 'timer-warning' : ''}`}>
+                ⏰ {timeLeft}s
+              </span>
+            </div>
           </div>
           <div className="quiz-controls">
             <button 
