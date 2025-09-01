@@ -1,5 +1,5 @@
 @echo off
-echo Starting Grade 3 Learning Quiz Application...
+echo Starting Grade 4 Learning Quiz Application...
 
 :: Check if Node.js is installed
 where node >nul 2>nul
