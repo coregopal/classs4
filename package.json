@@ -1,6 +1,7 @@
 {
-  "name": "temp_project",
+  "name": "class4-quiz-app",
   "version": "0.1.0",
+  "description": "A comprehensive educational quiz application for Class 4 students with interactive quizzes across multiple subjects",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
