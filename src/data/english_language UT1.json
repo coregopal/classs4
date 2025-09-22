@@ -1,0 +1,688 @@
+{
+  "questions": [
+    {
+      "category": "Nouns",
+      "question": "What is a common noun?",
+      "options": [
+        "A special name of a particular person or place",
+        "A general name for a person, place, or thing",
+        "A word that expresses an emotion",
+        "A word that replaces a noun"
+      ],
+      "correct_answer": "A general name for a person, place, or thing",
+      "explanation": "Common nouns refer to general names like 'book', 'city', or 'dog'."
+    },
+    {
+      "category": "Nouns",
+      "question": "Which of these is a proper noun?",
+      "options": [
+        "continent",
+        "river",
+        "Asia",
+        "country"
+      ],
+      "correct_answer": "Asia",
+      "explanation": "Proper nouns are specific names like 'Asia' or 'Nile'."
+    },
+    {
+      "category": "Nouns",
+      "question": "Identify the collective noun in the sentence: 'A herd of cows was grazing.'",
+      "options": [
+        "cows",
+        "was",
+        "herd",
+        "grazing"
+      ],
+      "correct_answer": "herd",
+      "explanation": "'Herd' is the collective noun for a group of cows."
+    },
+    {
+      "category": "Compound Nouns",
+      "question": "Which of these is a compound noun?",
+      "options": [
+        "books",
+        "letter box",
+        "sugar",
+        "hill"
+      ],
+      "correct_answer": "letter box",
+      "explanation": "A compound noun is made of more than one word, like 'letter box'."
+    },
+    {
+      "category": "Compound Nouns",
+      "question": "What is the correct plural form of 'mother-in-law'?",
+      "options": [
+        "mother-in-laws",
+        "mothers-in-law",
+        "mother-in-lawes",
+        "mother-in-law's"
+      ],
+      "correct_answer": "mothers-in-law",
+      "explanation": "Pluralize the main noun in a hyphenated compound: 'mothers-in-law'."
+    },
+    {
+      "category": "Countable and Uncountable Nouns",
+      "question": "Which of these is a countable noun?",
+      "options": [
+        "milk",
+        "rice",
+        "apple",
+        "water"
+      ],
+      "correct_answer": "apple",
+      "explanation": "Countable nouns can be counted (e.g., one apple, two apples)."
+    },
+    {
+      "category": "Countable and Uncountable Nouns",
+      "question": "Choose the uncountable noun from the options:",
+      "options": [
+        "chairs",
+        "pens",
+        "music",
+        "books"
+      ],
+      "correct_answer": "music",
+      "explanation": "'Music' cannot be counted directly; it's uncountable."
+    },
+    {
+      "category": "Noun Number",
+      "question": "What is the plural of 'goose'?",
+      "options": [
+        "gooses",
+        "geese",
+        "goosies",
+        "geeses"
+      ],
+      "correct_answer": "geese",
+      "explanation": "'Goose' becomes 'geese' in plural—it's an irregular noun."
+    },
+    {
+      "category": "Pronouns",
+      "question": "Which pronoun replaces 'Rima'?",
+      "options": [
+        "he",
+        "it",
+        "she",
+        "they"
+      ],
+      "correct_answer": "she",
+      "explanation": "Rima is a feminine singular noun, replaced by 'she'."
+    },
+    {
+      "category": "Pronouns",
+      "question": "What is the pronoun in the sentence: 'She wanted to climb it.'?",
+      "options": [
+        "She",
+        "wanted",
+        "climb",
+        "hill"
+      ],
+      "correct_answer": "She",
+      "explanation": "'She' is the pronoun replacing a noun already mentioned."
+    },
+    {
+      "category": "Tricky Noun Cases",
+      "question": "Which word is always plural?",
+      "options": [
+        "shirt",
+        "book",
+        "trousers",
+        "pencil"
+      ],
+      "correct_answer": "trousers",
+      "explanation": "'Trousers' is always plural and takes a plural verb."
+    },
+    {
+      "category": "Tricky Noun Cases",
+      "question": "What is the correct usage: 'a little advice' or 'a few advices'?",
+      "options": [
+        "a few advices",
+        "a little advice",
+        "many advices",
+        "two advice"
+      ],
+      "correct_answer": "a little advice",
+      "explanation": "'Advice' is uncountable, so we say 'a little advice'."
+    },
+    {
+      "category": "Quantifiers",
+      "question": "Which quantifier is used with uncountable nouns?",
+      "options": [
+        "many",
+        "few",
+        "several",
+        "much"
+      ],
+      "correct_answer": "much",
+      "explanation": "Use 'much' with uncountable nouns (e.g., 'much water')."
+    },
+    {
+      "category": "Quantifiers",
+      "question": "Choose the correct sentence:",
+      "options": [
+        "There are much apples.",
+        "There are many apples.",
+        "There is many water.",
+        "There is few milk."
+      ],
+      "correct_answer": "There are many apples.",
+      "explanation": "'Many' is used with countable nouns like apples."
+    },
+    {
+      "category": "Pronouns",
+      "question": "How should the sentence be rewritten to avoid ambiguity: 'Rahul told Amit that he won'?",
+      "options": [
+        "Rahul told Amit he won.",
+        "Rahul said he won.",
+        "Rahul told Amit, 'I won.'",
+        "Rahul told Amit the result."
+      ],
+      "correct_answer": "Rahul told Amit, 'I won.'",
+      "explanation": "This clarifies who 'he' refers to, removing ambiguity."
+    },
+    {
+      "category": "Pronouns",
+      "question": "Which sentence uses a reflexive pronoun correctly?",
+      "options": [
+        "He hurt him.",
+        "He hurt himself.",
+        "He hurt they.",
+        "He hurt hers."
+      ],
+      "correct_answer": "He hurt himself.",
+      "explanation": "Reflexive pronoun 'himself' refers back to the subject."
+    },
+    {
+      "category": "Dual-Meaning Nouns",
+      "question": "Which sentence shows 'glass' as a countable noun?",
+      "options": [
+        "The window is made of glass.",
+        "She dropped a glass on the floor.",
+        "Glass can be dangerous.",
+        "Glass is transparent."
+      ],
+      "correct_answer": "She dropped a glass on the floor.",
+      "explanation": "Here, 'glass' means a container, which is countable."
+    },
+    {
+      "category": "Pronouns",
+      "question": "What pronoun replaces 'the book' in the sentence: 'Vinod read the book'?",
+      "options": [
+        "him",
+        "her",
+        "it",
+        "they"
+      ],
+      "correct_answer": "it",
+      "explanation": "'It' replaces the singular neuter noun 'book'."
+    },
+    {
+      "category": "Countable and Uncountable Nouns",
+      "question": "Which word is uncountable?",
+      "options": [
+        "bag",
+        "box",
+        "luggage",
+        "pen"
+      ],
+      "correct_answer": "luggage",
+      "explanation": "'Luggage' is an uncountable noun and doesn’t have a plural form."
+    },
+    {
+      "category": "Collective Nouns",
+      "question": "Which of the following is a collective noun?",
+      "options": [
+        "flock",
+        "bird",
+        "sky",
+        "forest"
+      ],
+      "correct_answer": "flock",
+      "explanation": "'Flock' refers to a group of birds and is a collective noun."
+    },
+    {
+      "category": "Compound Nouns",
+      "question": "Which is a collective noun in: 'A herd of cows was grazing'?",
+      "options": [
+        "cows",
+        "grazing",
+        "herd",
+        "was"
+      ],
+      "correct_answer": "herd",
+      "explanation": "'Herd' is a collective noun as it refers to a group of cows."
+    },
+    {
+      "category": "Compound Nouns",
+      "question": "Identify the compound noun in: 'The postman put letters in the letter box'",
+      "options": [
+        "postman",
+        "letters",
+        "letter box",
+        "put"
+      ],
+      "correct_answer": "letter box",
+      "explanation": "'Letter box' is a compound noun formed by two separate words."
+    },
+    {
+      "category": "Compound Nouns",
+      "question": "What is the plural of 'mother-in-law'?",
+      "options": [
+        "mother-in-laws",
+        "mothers-in-law",
+        "mother-in-law's",
+        "mothers-in-laws"
+      ],
+      "correct_answer": "mothers-in-law",
+      "explanation": "For hyphenated compounds, we pluralize the main noun ('mothers')."
+    },
+    {
+      "category": "Countable/Uncountable",
+      "question": "Which noun is uncountable?",
+      "options": [
+        "apple",
+        "furniture",
+        "dog",
+        "book"
+      ],
+      "correct_answer": "furniture",
+      "explanation": "We cannot say 'two furnitures' - it's always singular."
+    },
+    {
+      "category": "Countable/Uncountable",
+      "question": "Complete: 'Little _____ drink _____' (baby/babies, milk/milks)",
+      "options": [
+        "baby, milk",
+        "babies, milks",
+        "babies, milk",
+        "baby, milks"
+      ],
+      "correct_answer": "babies, milk",
+      "explanation": "'Babies' is countable plural; 'milk' is uncountable (no 's')."
+    },
+    {
+      "category": "Countable/Uncountable",
+      "question": "Which noun has a different meaning in plural?",
+      "options": [
+        "deer",
+        "sheep",
+        "arms",
+        "fish"
+      ],
+      "correct_answer": "arms",
+      "explanation": "'Arm' (body part) vs 'arms' (weapons) have different meanings."
+    },
+    {
+      "category": "Pronouns",
+      "question": "Replace nouns with pronouns: 'Rima looked at the hill. Rima wanted to climb the hill.'",
+      "options": [
+        "She looked at it. She wanted to climb it.",
+        "Rima looked at it. She wanted to climb hill.",
+        "She looked at hill. Rima wanted to climb it.",
+        "She looked at it. Rima wanted to climb it."
+      ],
+      "correct_answer": "She looked at it. She wanted to climb it.",
+      "explanation": "Replace 'Rima' with 'she' and 'the hill' with 'it'."
+    },
+    {
+      "category": "Pronouns",
+      "question": "What's the issue with: 'Jeet told Salim that he was late'?",
+      "options": [
+        "Missing comma",
+        "Ambiguous pronoun reference",
+        "Wrong verb tense",
+        "No issue"
+      ],
+      "correct_answer": "Ambiguous pronoun reference",
+      "explanation": "'He' could mean Jeet or Salim. Rewrite for clarity."
+    },
+    {
+      "category": "Tricky Cases",
+      "question": "Which is correct?",
+      "options": [
+        "The police is coming",
+        "The police are coming",
+        "The polices are coming",
+        "The police was coming"
+      ],
+      "correct_answer": "The police are coming",
+      "explanation": "'Police' is always plural despite appearing singular."
+    },
+    {
+      "category": "Tricky Cases",
+      "question": "What type of noun is 'news'?",
+      "options": [
+        "Always plural",
+        "Singular meaning with plural form",
+        "Countable noun",
+        "Proper noun"
+      ],
+      "correct_answer": "Singular meaning with plural form",
+      "explanation": "Though ending with 's', we say 'The news is good' (singular verb)."
+    },
+    {
+      "category": "Practice",
+      "question": "Fill in: 'There is ____ water in the desert' (all/any/no)",
+      "options": [
+        "all",
+        "any",
+        "no",
+        "some"
+      ],
+      "correct_answer": "no",
+      "explanation": "Deserts have almost no water - use 'no' for zero quantity."
+    },
+    {
+      "category": "Practice",
+      "question": "Convert to plural: 'The mouse saw a goose'",
+      "options": [
+        "The mouses saw gooses",
+        "The mice saw geese",
+        "The mices saw geese",
+        "The mouse saw gooses"
+      ],
+      "correct_answer": "The mice saw geese",
+      "explanation": "Irregular plurals: mouse→mice, goose→geese."
+    },
+    {
+      "category": "Singular/Plural",
+      "question": "What is the plural of 'deer'?",
+      "options": [
+        "deers",
+        "deer",
+        "deeren",
+        "deeries"
+      ],
+      "correct_answer": "deer",
+      "explanation": "'Deer' has the same singular and plural form."
+    },
+    {
+      "category": "Singular/Plural",
+      "question": "Choose the correct plural: 'The _____ (child) are playing.'",
+      "options": [
+        "childs",
+        "children",
+        "childes",
+        "childrens"
+      ],
+      "correct_answer": "children",
+      "explanation": "Irregular plural: child → children."
+    },
+    {
+      "category": "Singular/Plural",
+      "question": "Which is the correct plural form of 'tooth'?",
+      "options": [
+        "tooths",
+        "teeth",
+        "toothen",
+        "teethes"
+      ],
+      "correct_answer": "teeth",
+      "explanation": "Irregular plural: tooth → teeth."
+    },
+    {
+      "category": "Singular/Plural",
+      "question": "Select the correct sentence:",
+      "options": [
+        "Sheeps are grazing",
+        "Sheep is grazing",
+        "Sheep are grazing",
+        "Sheepes are grazing"
+      ],
+      "correct_answer": "Sheep are grazing",
+      "explanation": "'Sheep' has identical singular/plural forms; use plural verb for multiple."
+    },
+    {
+      "category": "Singular/Plural",
+      "question": "What is the singular of 'geese'?",
+      "options": [
+        "goose",
+        "geese",
+        "gooses",
+        "gees"
+      ],
+      "correct_answer": "goose",
+      "explanation": "Irregular pair: goose (singular) → geese (plural)."
+    },
+    {
+      "category": "Collective Nouns",
+      "question": "A _____ of lions.",
+      "options": [
+        "herd",
+        "flock",
+        "pride",
+        "pack"
+      ],
+      "correct_answer": "pride",
+      "explanation": "The standard collective noun for lions is 'a pride of lions'."
+    },
+    {
+      "category": "Collective Nouns",
+      "question": "Complete: A _____ of cattle.",
+      "options": [
+        "group",
+        "herd",
+        "flock",
+        "team"
+      ],
+      "correct_answer": "herd",
+      "explanation": "'Herd' is used for grazing animals like cattle."
+    },
+    {
+      "category": "Collective Nouns",
+      "question": "Identify the collective noun: 'The crew boarded the ship.'",
+      "options": [
+        "ship",
+        "boarded",
+        "crew",
+        "the"
+      ],
+      "correct_answer": "crew",
+      "explanation": "'Crew' refers to a group of people working on a ship."
+    },
+    {
+      "category": "Collective Nouns",
+      "question": "Which collective noun completes: A _____ of birds?",
+      "options": [
+        "herd",
+        "flock",
+        "pack",
+        "school"
+      ],
+      "correct_answer": "flock",
+      "explanation": "'Flock' is used for groups of birds."
+    },
+    {
+      "category": "Collective Nouns",
+      "question": "What is the collective noun in: 'The jury gave its verdict.'?",
+      "options": [
+        "verdict",
+        "gave",
+        "jury",
+        "its"
+      ],
+      "correct_answer": "jury",
+      "explanation": "'Jury' is a collective noun for a group of judges."
+    },
+    {
+      "category": "Tricky Plurals",
+      "question": "What is the plural of 'mouse' (animal)?",
+      "options": [
+        "mouses",
+        "mice",
+        "meece",
+        "mousen"
+      ],
+      "correct_answer": "mice",
+      "explanation": "Irregular plural: mouse → mice."
+    },
+    {
+      "category": "Tricky Plurals",
+      "question": "Choose the correct plural: 'There are three _____ in the lab.' (focus)",
+      "options": [
+        "focus",
+        "foci",
+        "focuses",
+        "focusses"
+      ],
+      "correct_answer": "foci",
+      "explanation": "Both 'foci' (Latin) and 'focuses' are correct, but 'foci' is preferred in science."
+    },
+    {
+      "category": "Tricky Plurals",
+      "question": "What is the plural of 'cactus'?",
+      "options": [
+        "cactuses",
+        "cacti",
+        "both a and b",
+        "cactuss"
+      ],
+      "correct_answer": "both a and b",
+      "explanation": "Both 'cacti' (Latin) and 'cactuses' are acceptable plurals."
+    },
+    {
+      "category": "Tricky Plurals",
+      "question": "Select the correct plural: 'The _____ (wolf) howled at the moon.'",
+      "options": [
+        "wolfs",
+        "wolves",
+        "wolfes",
+        "wolven"
+      ],
+      "correct_answer": "wolves",
+      "explanation": "Irregular plural: wolf → wolves (f → ves rule)."
+    },
+    {
+      "category": "Always Plural",
+      "question": "Which noun is always plural?",
+      "options": [
+        "trousers",
+        "tree",
+        "book",
+        "water"
+      ],
+      "correct_answer": "trousers",
+      "explanation": "'Trousers' has no singular form - we say 'a pair of trousers'."
+    },
+    {
+      "category": "Always Plural",
+      "question": "Complete: 'My _____ are too tight.' (jean)",
+      "options": [
+        "jean",
+        "jeans",
+        "jeanes",
+        "jean's"
+      ],
+      "correct_answer": "jeans",
+      "explanation": "'Jeans' is always plural (like trousers, scissors)."
+    },
+    {
+      "category": "Always Plural",
+      "question": "Which sentence is correct?",
+      "options": [
+        "The scissor is sharp",
+        "The scissors is sharp",
+        "The scissors are sharp",
+        "A scissors is sharp"
+      ],
+      "correct_answer": "The scissors are sharp",
+      "explanation": "'Scissors' is plural only and takes a plural verb."
+    },
+    {
+      "category": "Irregular Plurals",
+      "question": "Select correct plurals for: mouse, goose, tooth, child",
+      "options": [
+        "mouses, gooses, tooths, childs",
+        "mice, geese, teeth, children",
+        "mice, gooses, teeth, childs",
+        "mouses, geese, teeth, children"
+      ],
+      "correct_answer": "mice, geese, teeth, children",
+      "explanation": "Irregular plurals: mouse→mice, goose→geese, tooth→teeth, child→children"
+    },
+    {
+      "category": "Irregular Plurals",
+      "question": "Choose correct plurals: ox, man, woman, foot",
+      "options": [
+        "oxen, mans, womans, foots",
+        "oxes, men, women, feet",
+        "oxen, men, women, feet",
+        "oxes, mans, women, foots"
+      ],
+      "correct_answer": "oxen, men, women, feet",
+      "explanation": "ox→oxen, man→men, woman→women, foot→feet"
+    },
+    {
+      "category": "Same S/P Form",
+      "question": "Which words DON'T change in plural? deer, sheep, fish, aircraft",
+      "options": [
+        "deer, sheep, fish, aircrafts",
+        "deers, sheep, fishes, aircraft",
+        "deer, sheeps, fish, aircraft",
+        "deer, sheep, fish, aircraft"
+      ],
+      "correct_answer": "deer, sheep, fish, aircraft",
+      "explanation": "These retain same form: deer→deer, sheep→sheep, fish→fish (same species), aircraft→aircraft"
+    },
+    {
+      "category": "Collective Nouns",
+      "question": "Match groups: lions, birds, fish, cattle",
+      "options": [
+        "pride, flock, school, herd",
+        "herd, flock, school, pride",
+        "pack, swarm, herd, flock",
+        "pride, swarm, herd, flock"
+      ],
+      "correct_answer": "pride, flock, school, herd",
+      "explanation": "lions→pride, birds→flock, fish→school, cattle→herd"
+    },
+    {
+      "category": "Collective Nouns",
+      "question": "Select correct collectives: bees, wolves, elephants, sailors",
+      "options": [
+        "swarm, pack, parade, crew",
+        "colony, pack, herd, army",
+        "swarm, pack, herd, crew",
+        "hive, pack, parade, navy"
+      ],
+      "correct_answer": "swarm, pack, parade, crew",
+      "explanation": "bees→swarm, wolves→pack, elephants→parade, sailors→crew"
+    },
+    {
+      "category": "Always Plural",
+      "question": "Which are always plural? trousers, scissors, jeans, binoculars",
+      "options": [
+        "Only trousers and jeans",
+        "Only scissors and binoculars",
+        "All four",
+        "Only trousers and scissors"
+      ],
+      "correct_answer": "All four",
+      "explanation": "trousers, scissors, jeans, binoculars - all require plural verbs"
+    },
+    {
+      "category": "Uncountable Nouns",
+      "question": "Identify uncountable: furniture, advice, luggage, knowledge",
+      "options": [
+        "Only furniture and luggage",
+        "Only advice and knowledge",
+        "All four",
+        "Only luggage and knowledge"
+      ],
+      "correct_answer": "All four",
+      "explanation": "Cannot say 'furnitures', 'advices', 'luggages', or 'knowledges'"
+    },
+    {
+      "category": "Dual-Meaning Nouns",
+      "question": "Which pairs show singular/plural meaning change? glass, paper, hair, light",
+      "options": [
+        "glass (material)/glasses (spectacles), paper (material)/papers (documents)",
+        "hair (head)/hairs (strands), light (sun)/lights (lamps)",
+        "All pairs",
+        "Only glass and paper"
+      ],
+      "correct_answer": "All pairs",
+      "explanation": "glass/glasses, paper/papers, hair/hairs, light/lights all have different meanings"
+    }
+  ]
+}

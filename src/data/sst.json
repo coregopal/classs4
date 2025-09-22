@@ -1,534 +1,1154 @@
 {
   "questions": [
     {
-      "category": "History - Chapter 1",
-      "question": "What is history?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "What does 'Responsibility' mean?",
       "options": [
-        "The study of future events",
-        "A collection of imaginary stories",
-        "The study of past events and people",
-        "A list of rules and laws"
+        "A duty to take care of somebody or something",
+        "A right to do anything you want",
+        "The freedom to ignore rules",
+        "A task that can be avoided"
       ],
-      "correct_answer": "The study of past events and people",
-      "explanation": "History is the study of past events and people. It helps us understand how people lived and what happened in the past."
+      "correct_answer": "A duty to take care of somebody or something"
     },
     {
-      "category": "History - Chapter 1",
-      "question": "What is a timeline?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Who is a 'Citizen'?",
       "options": [
-        "A type of graph",
-        "A record of books",
-        "A list of current events",
-        "A line that shows the order of events"
+        "A person who belongs to a country or city",
+        "A person who travels a lot",
+        "A person who works in government only",
+        "A person who owns land"
       ],
-      "correct_answer": "A line that shows the order of events",
-      "explanation": "A timeline tells us the order in which events happened, helping us understand when things occurred."
+      "correct_answer": "A person who belongs to a country or city"
     },
     {
-      "category": "History - Chapter 1",
-      "question": "Why is a timeline important in history?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "What is 'Public Property'?",
       "options": [
-        "It shows the future",
-        "It helps plan events",
-        "It helps us understand when things happened",
-        "It helps us create stories"
+        "Things owned by the government for everyone to use",
+        "Things owned by private individuals",
+        "Personal belongings of citizens",
+        "Private schools and colleges"
       ],
-      "correct_answer": "It helps us understand when things happened",
-      "explanation": "Timelines help historians place events in the correct order to understand history better."
+      "correct_answer": "Things owned by the government for everyone to use"
     },
     {
-      "category": "History - Chapter 1",
-      "question": "Which of these is not a period in history?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "What is 'Private Property'?",
       "options": [
-        "Ancient",
-        "Medieval",
-        "Modern",
-        "Fictional"
+        "Things owned by individuals or groups",
+        "Parks and roads",
+        "Monuments owned by the government",
+        "Public schools and hospitals"
       ],
-      "correct_answer": "Fictional",
-      "explanation": "History is divided into Ancient, Medieval, and Modern periods."
+      "correct_answer": "Things owned by individuals or groups"
     },
     {
-      "category": "History - Chapter 1",
-      "question": "Famous means _________.",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Who is a 'Candidate'?",
       "options": [
-        "Unknown by people",
-        "Known by many people",
-        "A scientist",
-        "A ruler"
+        "A person who stands for election",
+        "A government official",
+        "A citizen who votes",
+        "A teacher in school"
       ],
-      "correct_answer": "Known by many people",
-      "explanation": "The word 'famous' means being well-known by many people."
+      "correct_answer": "A person who stands for election"
     },
     {
-      "category": "Sources of History - Chapter 2",
-      "question": "Why are sources of history important?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "What is a 'Polling Booth'?",
       "options": [
-        "They help us predict the future",
-        "They help us understand the present only",
-        "They help us learn about the past",
-        "They are fun to collect"
+        "The place where voters go to vote in elections",
+        "A place for public meetings",
+        "A government office",
+        "A private property"
       ],
-      "correct_answer": "They help us learn about the past",
-      "explanation": "Historians use sources to study and understand events, people, and cultures of the past."
+      "correct_answer": "The place where voters go to vote in elections"
     },
     {
-      "category": "Sources of History - Chapter 2",
-      "question": "What is an artefact?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "How does 'civic sense' apply to students in school?",
       "options": [
-        "A modern building",
-        "A new machine",
-        "An object made and used by early people",
-        "A natural rock"
+        "Understanding responsibility towards neighbours and school environment",
+        "Ignoring rules",
+        "Playing without caring for others",
+        "Focusing only on personal work"
       ],
-      "correct_answer": "An object made and used by early people",
-      "explanation": "Artefacts include tools, pottery, and other objects created by humans in the past."
+      "correct_answer": "Understanding responsibility towards neighbours and school environment"
     },
     {
-      "category": "Sources of History - Chapter 2",
-      "question": "Where did Hiuen Tsang come from?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Who was a good neighbour to the injured men and why?",
       "options": [
-        "Japan",
-        "India",
-        "China",
-        "Sri Lanka"
+        "The man who helped them reach the hospital",
+        "The people who passed by without helping",
+        "The policemen who arrived later",
+        "The injured men themselves"
       ],
-      "correct_answer": "China",
-      "explanation": "Hiuen Tsang came from China to India to study Buddhism."
+      "correct_answer": "The man who helped them reach the hospital"
     },
     {
-      "category": "Sources of History - Chapter 2",
-      "question": "What is archaeology?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Why did some people not stop to help the injured men?",
       "options": [
-        "The study of stars",
-        "The study of modern buildings",
-        "The study of past life through buildings and tools",
-        "The study of animals"
+        "They thought only about themselves",
+        "They were in a hurry to help",
+        "They were following rules",
+        "They called for help immediately"
       ],
-      "correct_answer": "The study of past life through buildings and tools",
-      "explanation": "Archaeology involves studying past human life by examining remains like buildings, tools, and pottery."
+      "correct_answer": "They thought only about themselves"
     },
     {
-      "category": "Sources of History - Chapter 2",
-      "question": "Which of the following is an oral source?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Can we be good neighbours to people we do not know?",
       "options": [
-        "A letter",
-        "An inscription",
-        "A coin",
-        "A folk tale"
+        "Yes, being kind and helpful to others is part of being a good neighbour",
+        "No, we should only help friends",
+        "Only if asked",
+        "Only in emergencies"
       ],
-      "correct_answer": "A folk tale",
-      "explanation": "Oral sources include stories, songs, and folk tales passed down verbally."
+      "correct_answer": "Yes, being kind and helpful to others is part of being a good neighbour"
     },
     {
-      "category": "Timelines and Calendars - Chapter 3",
-      "question": "What is the starting point of the Gregorian calendar?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Why should citizens take care of public and private property?",
       "options": [
-        "The invention of the wheel",
-        "The birth of Jesus Christ",
-        "India’s independence",
-        "The discovery of America"
+        "Public property belongs to everyone, and private property belongs to individuals",
+        "It is not necessary",
+        "Only public property matters",
+        "Only private property matters"
       ],
-      "correct_answer": "The birth of Jesus Christ",
-      "explanation": "The Gregorian calendar starts from the year Jesus Christ was born."
+      "correct_answer": "Public property belongs to everyone, and private property belongs to individuals"
     },
     {
-      "category": "Timelines and Calendars - Chapter 3",
-      "question": "Which century are we in now?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Why do people spoil monuments or burn public property?",
       "options": [
-        "19th century",
-        "20th century",
-        "21st century",
-        "22nd century"
+        "Carelessness, anger, or lack of respect",
+        "For fun",
+        "To improve them",
+        "To protect heritage"
       ],
-      "correct_answer": "21st century",
-      "explanation": "Years starting with 20 (e.g., 2025) belong to the 21st century."
+      "correct_answer": "Carelessness, anger, or lack of respect"
     },
     {
-      "category": "Timelines and Calendars - Chapter 3",
-      "question": "What is a similarity between the Saka and Gregorian calendars?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Why is it important for citizens to vote?",
       "options": [
-        "Both begin with January",
-        "Both are based on the movement of the sun",
-        "Both have 13 months",
-        "Both are used only in India"
+        "It is a civic duty to elect government representatives",
+        "It is optional",
+        "Only adults vote",
+        "It does not matter"
       ],
-      "correct_answer": "Both are based on the movement of the sun",
-      "explanation": "Both calendars have 365 days and are solar calendars."
+      "correct_answer": "It is a civic duty to elect government representatives"
     },
     {
-      "category": "Timelines and Calendars - Chapter 3",
-      "question": "Which month is the first in the Saka calendar?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Why do we have rules?",
       "options": [
-        "January",
-        "Chaitra",
-        "March",
-        "Baisakh"
+        "To keep society orderly and safe",
+        "To confuse people",
+        "To stop students from studying",
+        "Rules are unnecessary"
       ],
-      "correct_answer": "Chaitra",
-      "explanation": "Chaitra is the first month of the Indian national (Saka) calendar."
+      "correct_answer": "To keep society orderly and safe"
     },
     {
-      "category": "Timelines and Calendars - Chapter 3",
-      "question": "Which event happened in 1947 CE?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Fill in the blank: A good citizen cares for ______.",
       "options": [
-        "Shah Jahan built the Taj Mahal",
-        "Ashoka became king",
-        "India became independent",
-        "Buddha was born"
+        "other people",
+        "only themselves",
+        "monuments only",
+        "pets only"
       ],
-      "correct_answer": "India became independent",
-      "explanation": "India got independence from British rule in 1947 CE."
+      "correct_answer": "other people"
     },
     {
-      "category": "Chapter 1 – Fill in the Blanks",
-      "question": "When we look at old family photographs, we are looking at the ______.",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Fill in the blank: Facilities such as roads, buses, and parks are ______.",
       "options": [
-        "news",
-        "future",
-        "family’s history",
-        "school books"
+        "public property",
+        "private property",
+        "heritage sites",
+        "personal belongings"
       ],
-      "correct_answer": "family’s history",
-      "explanation": "Old family photographs tell us about our family's past, which is a part of our history."
+      "correct_answer": "public property"
     },
     {
-      "category": "Chapter 1 – Fill in the Blanks",
-      "question": "History is the study of the ______.",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Match: Citizen",
       "options": [
-        "present",
-        "future",
-        "past",
-        "laws"
+        "A person who belongs to a country or city",
+        "A duty to take care of somebody",
+        "A person who stands for election",
+        "Teaches about citizens' duties"
       ],
-      "correct_answer": "past",
-      "explanation": "History is the study of the past – about people, places, and events that already happened."
+      "correct_answer": "A person who belongs to a country or city"
     },
     {
-      "category": "Chapter 1 – True or False",
-      "question": "In history we learn about what is happening these days.",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Who can vote in India?",
       "options": [
-        "True",
-        "False"
+        "Indian citizens aged 18 years and above",
+        "All residents",
+        "Only government employees",
+        "Only property owners"
       ],
-      "correct_answer": "False",
-      "explanation": "History is not about the present; it is about the past."
+      "correct_answer": "Indian citizens aged 18 years and above"
     },
     {
-      "category": "Chapter 1 – True or False",
-      "question": "Families do not have a history.",
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is the Hydrosphere?",
       "options": [
-        "True",
-        "False"
+        "All water on Earth including oceans, rivers, lakes, glaciers, and water vapor",
+        "The layer of gases surrounding Earth",
+        "The solid outer part of Earth",
+        "Part of Earth where living things live"
       ],
-      "correct_answer": "False",
-      "explanation": "Families also have a history, which we can learn through photos and stories."
+      "correct_answer": "All water on Earth including oceans, rivers, lakes, glaciers, and water vapor"
     },
     {
-      "category": "Chapter 1 – Match the Following",
-      "question": "Match: Historian",
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is the Atmosphere?",
       "options": [
-        "a. A person who studies history",
-        "b. A famous king",
-        "c. An artist",
-        "d. A traveler"
+        "The layer of gases surrounding Earth, including air we breathe",
+        "All water on Earth",
+        "The solid outer layer of Earth",
+        "The part where living things live"
       ],
-      "correct_answer": "a. A person who studies history",
-      "explanation": "A historian is someone who researches and writes about the past."
+      "correct_answer": "The layer of gases surrounding Earth, including air we breathe"
     },
     {
-      "category": "Chapter 2 – Fill in the Blanks",
-      "question": "Inscriptions are writings on ______.",
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is the Lithosphere?",
       "options": [
-        "paper only",
-        "plastic bags",
-        "coins, monuments, stone or metal",
-        "wooden boards"
+        "The solid outer part of Earth including crust and upper mantle",
+        "All water on Earth",
+        "The layer of gases surrounding Earth",
+        "Part of Earth where living things live"
       ],
-      "correct_answer": "coins, monuments, stone or metal",
-      "explanation": "Inscriptions are writings found on durable materials like stone and metal."
+      "correct_answer": "The solid outer part of Earth including crust and upper mantle"
     },
     {
-      "category": "Chapter 2 – True or False",
-      "question": "Old coins are not of much use to historians.",
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is the Biosphere?",
       "options": [
-        "True",
-        "False"
+        "Part of Earth where living things live",
+        "The solid outer layer of Earth",
+        "The layer of gases around Earth",
+        "All water on Earth"
       ],
-      "correct_answer": "False",
-      "explanation": "Old coins are valuable sources of information for historians."
+      "correct_answer": "Part of Earth where living things live"
     },
     {
-      "category": "Chapter 2 – True or False",
-      "question": "The Vedas help us understand how the Aryans lived.",
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is Evaporation?",
       "options": [
-        "True",
-        "False"
+        "Process of water turning into vapor when heated",
+        "Water turning into ice",
+        "Water falling as rain",
+        "Water soaking into soil"
       ],
-      "correct_answer": "True",
-      "explanation": "The Vedas are ancient texts that describe Aryan life, culture, and religion."
+      "correct_answer": "Process of water turning into vapor when heated"
     },
     {
-      "category": "Chapter 2 – Match the Following",
-      "question": "Match: Archaeology",
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is Condensation?",
       "options": [
-        "a. Study of space",
-        "b. Study of artefacts and monuments",
-        "c. Study of books only",
-        "d. Study of animals"
+        "Water vapor cooling and turning back into liquid",
+        "Water evaporating from lakes",
+        "Rain falling",
+        "Water flowing in rivers"
       ],
-      "correct_answer": "b. Study of artefacts and monuments",
-      "explanation": "Archaeology is the study of ancient objects and remains from the past."
+      "correct_answer": "Water vapor cooling and turning back into liquid"
     },
     {
-      "category": "Chapter 2 – Match the Following",
-      "question": "Match: Oral sources",
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is Precipitation?",
       "options": [
-        "a. Letters",
-        "b. Inscriptions",
-        "c. Stories, songs, poems",
-        "d. Old tools"
+        "Rain or snow falling to Earth",
+        "Water vapor rising",
+        "Evaporation from oceans",
+        "Soil erosion"
       ],
-      "correct_answer": "c. Stories, songs, poems",
-      "explanation": "Oral sources are passed down through speech, like songs and folktales."
+      "correct_answer": "Rain or snow falling to Earth"
     },
     {
-      "category": "Chapter 2 – Fill in the Blanks",
-      "question": "Artefacts include things like tools, utensils, and ______.",
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "Why is soil important?",
       "options": [
-        "books",
-        "gold",
-        "jewellery",
-        "paintings"
+        "Soil is necessary for plants to grow and supports all life on land",
+        "Soil provides water",
+        "Soil forms clouds",
+        "Soil produces oxygen only"
       ],
-      "correct_answer": "jewellery",
-      "explanation": "Jewellery is often found during archaeological digs as part of artefacts."
+      "correct_answer": "Soil is necessary for plants to grow and supports all life on land"
     },
     {
-      "category": "Chapter 3 – True or False",
-      "question": "The CE years are counted backwards from the birth of Christ.",
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "Name three types of habitats.",
       "options": [
-        "True",
-        "False"
+        "Underwater, jungle, desert",
+        "Mountains, valleys, rivers",
+        "Hills, plains, oceans",
+        "Cities, towns, villages"
       ],
-      "correct_answer": "False",
-      "explanation": "BCE years are counted backwards; CE years are counted forward from Year 1."
+      "correct_answer": "Underwater, jungle, desert"
     },
     {
-      "category": "Chapter 3 – Fill in the Blanks",
-      "question": "The Saka calendar starts with the month of ______.",
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "What is a Continent?",
       "options": [
-        "March",
-        "January",
-        "Baisakh",
-        "Chaitra"
+        "Largest landmasses on Earth",
+        "Large water bodies",
+        "High flat land",
+        "A small island"
       ],
-      "correct_answer": "Chaitra",
-      "explanation": "Chaitra is the first month in the Saka calendar, followed in India."
+      "correct_answer": "Largest landmasses on Earth"
     },
     {
-      "category": "Chapter 3 – Match the Following",
-      "question": "Match: BCE",
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "What is an Ocean?",
       "options": [
-        "a. Common Era",
-        "b. Before the Common Era",
-        "c. Years starting with 20",
-        "d. Used in the Saka calendar"
+        "Large bodies of saltwater around continents",
+        "Large land areas",
+        "High flat land",
+        "A type of mountain"
       ],
-      "correct_answer": "b. Before the Common Era",
-      "explanation": "BCE stands for Before Common Era; used for dates before Year 1."
+      "correct_answer": "Large bodies of saltwater around continents"
     },
     {
-      "category": "Chapter 3 – Timeline Ordering",
-      "question": "Which of these events happened first?",
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "What is a Mountain?",
       "options": [
-        "India became independent",
-        "Ashoka became king",
-        "Poorna climbed Mt. Everest",
-        "Shah Jahan ruled"
+        "Very high land; peaks are mountain tops",
+        "Low land between hills",
+        "Flat land suitable for farming",
+        "Land surrounded by water"
       ],
-      "correct_answer": "Ashoka became king",
-      "explanation": "Ashoka became king in 273 BCE, before all other listed events."
+      "correct_answer": "Very high land; peaks are mountain tops"
     },
     {
-      "category": "Chapter 3 – Timeline Ordering",
-      "question": "What event took place in 1628 CE?",
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "What is a Plateau?",
       "options": [
-        "Ashoka became king",
-        "Poorna climbed Everest",
-        "Shah Jahan became ruler",
-        "Gandhi was born"
+        "Elevated flat area of land",
+        "Low land between mountains",
+        "A large water body",
+        "A mountain peak"
       ],
-      "correct_answer": "Shah Jahan became ruler",
-      "explanation": "Shah Jahan became the Mughal ruler in 1628 CE and later built the Taj Mahal."
+      "correct_answer": "Elevated flat area of land"
     },
     {
-      "category": "Word Meaning – Chapter 1",
-      "question": "What is 'History'?",
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "Name two types of deserts.",
       "options": [
-        "A study of future events",
-        "A story about animals",
-        "The study of past events and people",
-        "A type of calendar"
+        "Hot deserts and cold deserts",
+        "Forests and plains",
+        "Hills and valleys",
+        "Mountains and plateaus"
       ],
-      "correct_answer": "The study of past events and people",
-      "explanation": "History is the study of past events and people who lived before us."
+      "correct_answer": "Hot deserts and cold deserts"
     },
     {
-      "category": "Word Meaning – Chapter 1",
-      "question": "What does 'Famous' mean?",
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What is Pollution?",
       "options": [
-        "Unknown to anyone",
-        "Known by many people",
-        "Very old",
-        "Very fast"
+        "Adding harmful substances to the environment",
+        "Cleaning the surroundings",
+        "Planting trees",
+        "Using renewable energy"
       ],
-      "correct_answer": "Known by many people",
-      "explanation": "Famous means well-known by a large number of people."
+      "correct_answer": "Adding harmful substances to the environment"
     },
     {
-      "category": "Word Meaning – Chapter 1",
-      "question": "What does 'Ordinary' mean?",
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What is a Pollutant?",
       "options": [
-        "Very special",
-        "Not special",
-        "Very expensive",
-        "Very clean"
+        "Harmful substance causing pollution",
+        "Pure water",
+        "Clean air",
+        "Biodegradable waste"
       ],
-      "correct_answer": "Not special",
-      "explanation": "Ordinary refers to someone or something that is common or not special."
+      "correct_answer": "Harmful substance causing pollution"
     },
     {
-      "category": "Word Meaning – Chapter 1",
-      "question": "Who is a 'Historian'?",
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What causes fish to die suddenly in water?",
       "options": [
-        "A person who writes novels",
-        "A person who studies history",
-        "A person who teaches sports",
-        "A person who makes maps"
+        "Water pollution from chemicals or sewage",
+        "Air pollution",
+        "Noise pollution",
+        "Soil pollution"
       ],
-      "correct_answer": "A person who studies history",
-      "explanation": "A historian is someone who studies and writes about past events."
+      "correct_answer": "Water pollution from chemicals or sewage"
     },
     {
-      "category": "Word Meaning – Chapter 1",
-      "question": "What is a 'Period' in history?",
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "How does noise pollution affect people and animals?",
       "options": [
-        "A school subject",
-        "A particular length of time",
-        "A day of the week",
-        "A holiday"
+        "Causes hearing loss, stress, and disturbs rest and health",
+        "Improves hearing",
+        "Helps animals find food",
+        "Cleans the environment"
       ],
-      "correct_answer": "A particular length of time",
-      "explanation": "In history, a period is a specific length of time that events are grouped into."
+      "correct_answer": "Causes hearing loss, stress, and disturbs rest and health"
     },
     {
-      "category": "Word Meaning – Chapter 2",
-      "question": "What does 'Clue' mean?",
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What is biodegradable waste?",
       "options": [
-        "A finished answer",
-        "A person from history",
-        "Something that helps find an answer or truth",
-        "An ancient king"
+        "Waste that can break down naturally",
+        "Plastic waste",
+        "Metal waste",
+        "Glass waste"
       ],
-      "correct_answer": "Something that helps find an answer or truth",
-      "explanation": "A clue is a piece of information that helps you solve a mystery or understand something."
+      "correct_answer": "Waste that can break down naturally"
     },
     {
-      "category": "Word Meaning – Chapter 2",
-      "question": "What is an 'Artefact'?",
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "Which fuel is low pollution for vehicles?",
       "options": [
-        "A living animal",
-        "A recent invention",
-        "An object made and used by earlier people",
-        "A new toy"
+        "CNG",
+        "Petrol",
+        "Diesel",
+        "Coal"
       ],
-      "correct_answer": "An object made and used by earlier people",
-      "explanation": "Artefacts are tools, pottery, jewellery, etc., made by people in ancient times."
+      "correct_answer": "CNG"
     },
     {
-      "category": "Word Meaning – Chapter 2",
-      "question": "What is 'Archaeology'?",
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What are the effects of soil pollution?",
       "options": [
-        "The study of flowers",
-        "The study of stars",
-        "The study of human past through remains",
-        "The study of maps"
+        "Reduced soil fertility and harm to plants and animals",
+        "Better crop growth",
+        "Increased rainfall",
+        "Improved air quality"
       ],
-      "correct_answer": "The study of human past through remains",
-      "explanation": "Archaeology involves studying human history through objects like tools and buildings."
+      "correct_answer": "Reduced soil fertility and harm to plants and animals"
     },
     {
-      "category": "Word Meaning – Chapter 2",
-      "question": "What is a 'Court' in historical terms?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "What does 'Responsibility' mean?",
       "options": [
-        "A sports ground",
-        "A legal office",
-        "A group of people who serve a king or prince",
-        "A large house"
+        "A duty to take care of somebody or something",
+        "A right to do anything you want",
+        "The freedom to ignore rules",
+        "A task that can be avoided"
       ],
-      "correct_answer": "A group of people who serve a king or prince",
-      "explanation": "In history, a court refers to the king's advisors, nobles, and helpers."
+      "correct_answer": "A duty to take care of somebody or something"
     },
     {
-      "category": "Word Meaning – Chapter 2",
-      "question": "What are 'Inscriptions'?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Who is a 'Citizen'?",
       "options": [
-        "Letters written on paper",
-        "Paintings on walls",
-        "Writings on coins, monuments, stone or metal",
-        "A type of flower"
+        "A person who belongs to a country or city",
+        "A person who travels a lot",
+        "A person who works in government only",
+        "A person who owns land"
       ],
-      "correct_answer": "Writings on coins, monuments, stone or metal",
-      "explanation": "Inscriptions are historical writings found carved on hard surfaces."
+      "correct_answer": "A person who belongs to a country or city"
     },
     {
-      "category": "Word Meaning – Chapter 2",
-      "question": "What does 'Verbally' mean?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "What is 'Public Property'?",
       "options": [
-        "In writing",
-        "Through drawing",
-        "Through spoken words",
-        "Using signs"
+        "Things owned by the government for everyone to use",
+        "Things owned by private individuals",
+        "Personal belongings of citizens",
+        "Private schools and colleges"
       ],
-      "correct_answer": "Through spoken words",
-      "explanation": "Verbally means something that is told using speech and not writing."
+      "correct_answer": "Things owned by the government for everyone to use"
     },
     {
-      "category": "Word Meaning – Chapter 2",
-      "question": "What does 'Preserve' mean?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "What is 'Private Property'?",
       "options": [
-        "Throw something away",
-        "Keep something safe and in good condition",
-        "Change something",
-        "Paint something"
+        "Things owned by individuals or groups",
+        "Parks and roads",
+        "Monuments owned by the government",
+        "Public schools and hospitals"
       ],
-      "correct_answer": "Keep something safe and in good condition",
-      "explanation": "To preserve something means to protect it so it stays the same or lasts longer."
+      "correct_answer": "Things owned by individuals or groups"
     },
     {
-      "category": "Word Meaning – Chapter 3",
-      "question": "What is the 'Gregorian Calendar'?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Who is a 'Candidate'?",
       "options": [
-        "A calendar used in India only",
-        "A calendar used by kings",
-        "A calendar system used all over the world",
-        "A calendar made by scientists"
+        "A person who stands for election",
+        "A government official",
+        "A citizen who votes",
+        "A teacher in school"
       ],
-      "correct_answer": "A calendar system used all over the world",
-      "explanation": "The Gregorian calendar is the most widely used calendar system today."
+      "correct_answer": "A person who stands for election"
     },
     {
-      "category": "Word Meaning – Chapter 3",
-      "question": "What is an 'Era'?",
+      "category": "Chapter 4: A Good Citizen",
+      "question": "What is a 'Polling Booth'?",
       "options": [
-        "A tool used by archaeologists",
-        "A type of timeline",
-        "A very long period of time in history",
-        "A historical person"
+        "The place where voters go to vote in elections",
+        "A place for public meetings",
+        "A government office",
+        "A private property"
       ],
-      "correct_answer": "A very long period of time in history",
-      "explanation": "An era is a large block of time that covers major historical changes or events."
+      "correct_answer": "The place where voters go to vote in elections"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "How does 'civic sense' apply to students in school?",
+      "options": [
+        "Understanding responsibility towards neighbours and school environment",
+        "Ignoring rules",
+        "Playing without caring for others",
+        "Focusing only on personal work"
+      ],
+      "correct_answer": "Understanding responsibility towards neighbours and school environment"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Who was a good neighbour to the injured men and why?",
+      "options": [
+        "The man who helped them reach the hospital",
+        "The people who passed by without helping",
+        "The policemen who arrived later",
+        "The injured men themselves"
+      ],
+      "correct_answer": "The man who helped them reach the hospital"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Why did some people not stop to help the injured men?",
+      "options": [
+        "They thought only about themselves",
+        "They were in a hurry to help",
+        "They were following rules",
+        "They called for help immediately"
+      ],
+      "correct_answer": "They thought only about themselves"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Can we be good neighbours to people we do not know?",
+      "options": [
+        "Yes, being kind and helpful to others is part of being a good neighbour",
+        "No, we should only help friends",
+        "Only if asked",
+        "Only in emergencies"
+      ],
+      "correct_answer": "Yes, being kind and helpful to others is part of being a good neighbour"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Why should citizens take care of public and private property?",
+      "options": [
+        "Public property belongs to everyone, and private property belongs to individuals",
+        "It is not necessary",
+        "Only public property matters",
+        "Only private property matters"
+      ],
+      "correct_answer": "Public property belongs to everyone, and private property belongs to individuals"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Why do people spoil monuments or burn public property?",
+      "options": [
+        "Carelessness, anger, or lack of respect",
+        "For fun",
+        "To improve them",
+        "To protect heritage"
+      ],
+      "correct_answer": "Carelessness, anger, or lack of respect"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Why is it important for citizens to vote?",
+      "options": [
+        "It is a civic duty to elect government representatives",
+        "It is optional",
+        "Only adults vote",
+        "It does not matter"
+      ],
+      "correct_answer": "It is a civic duty to elect government representatives"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Why do we have rules?",
+      "options": [
+        "To keep society orderly and safe",
+        "To confuse people",
+        "To stop students from studying",
+        "Rules are unnecessary"
+      ],
+      "correct_answer": "To keep society orderly and safe"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Fill in the blank: A good citizen cares for ______.",
+      "options": [
+        "other people",
+        "only themselves",
+        "monuments only",
+        "pets only"
+      ],
+      "correct_answer": "other people"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Fill in the blank: Facilities such as roads, buses, and parks are ______.",
+      "options": [
+        "public property",
+        "private property",
+        "heritage sites",
+        "personal belongings"
+      ],
+      "correct_answer": "public property"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Fill in the blank: Heritage such as monuments belongs to ______.",
+      "options": [
+        "everyone",
+        "government only",
+        "private owners",
+        "neighbours"
+      ],
+      "correct_answer": "everyone"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Fill in the blank: It is the duty of Indian citizens of 18 years and above to ______.",
+      "options": [
+        "vote",
+        "study",
+        "travel",
+        "own property"
+      ],
+      "correct_answer": "vote"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Tick (√) or Cross (×): People throw garbage in a dustbin after a picnic.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "correct_answer": "√"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Tick (√) or Cross (×): People spit from vehicles.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "correct_answer": "×"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Tick (√) or Cross (×): Cars splashing water on pedestrians.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "correct_answer": "×"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Tick (√) or Cross (×): Students help keep the playground clean.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "correct_answer": "√"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Tick (√) or Cross (×): Students play cricket using school furniture.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "correct_answer": "×"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Tick (√) or Cross (×): People keep quiet after 10 pm.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "correct_answer": "√"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Tick (√) or Cross (×): Older children use swings meant for younger kids.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "correct_answer": "×"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Tick (√) or Cross (×): People leave public toilets clean.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "correct_answer": "√"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Match: Citizen",
+      "options": [
+        "A person who belongs to a country or city",
+        "A duty to take care of somebody",
+        "A person who stands for election",
+        "Teaches about citizens' duties"
+      ],
+      "correct_answer": "A person who belongs to a country or city"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Match: Responsibility",
+      "options": [
+        "A duty to take care of somebody or something",
+        "A person who belongs to a country",
+        "A person who stands for election",
+        "Teaches about citizens' duties"
+      ],
+      "correct_answer": "A duty to take care of somebody or something"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Match: Candidate",
+      "options": [
+        "A person who stands for election",
+        "A person who belongs to a country",
+        "A duty to take care of somebody",
+        "Teaches about citizens' duties"
+      ],
+      "correct_answer": "A person who stands for election"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Match: Civics",
+      "options": [
+        "Teaches about citizens’ duties and government",
+        "A person who stands for election",
+        "A duty to take care of somebody",
+        "A person who belongs to a country"
+      ],
+      "correct_answer": "Teaches about citizens’ duties and government"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is Hydrosphere?",
+      "options": [
+        "All water on Earth including oceans, rivers, lakes, glaciers, and water vapor",
+        "The layer of gases surrounding Earth",
+        "The solid outer part of Earth",
+        "Part of Earth where living things live"
+      ],
+      "correct_answer": "All water on Earth including oceans, rivers, lakes, glaciers, and water vapor"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is Atmosphere?",
+      "options": [
+        "The layer of gases surrounding Earth, including air we breathe",
+        "All water on Earth",
+        "The solid outer part of Earth",
+        "Part of Earth where living things live"
+      ],
+      "correct_answer": "The layer of gases surrounding Earth, including air we breathe"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is Lithosphere?",
+      "options": [
+        "The solid outer part of Earth including crust and upper mantle",
+        "All water on Earth",
+        "The layer of gases surrounding Earth",
+        "Part of Earth where living things live"
+      ],
+      "correct_answer": "The solid outer part of Earth including crust and upper mantle"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is Biosphere?",
+      "options": [
+        "Part of Earth where living things live",
+        "The solid outer part of Earth",
+        "The layer of gases around Earth",
+        "All water on Earth"
+      ],
+      "correct_answer": "Part of Earth where living things live"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is Evaporation?",
+      "options": [
+        "Process of water turning into vapor when heated",
+        "Water turning into ice",
+        "Water falling as rain",
+        "Water soaking into soil"
+      ],
+      "correct_answer": "Process of water turning into vapor when heated"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is Condensation?",
+      "options": [
+        "Water vapor cooling and turning back into liquid",
+        "Water evaporating from lakes",
+        "Rain falling",
+        "Water flowing in rivers"
+      ],
+      "correct_answer": "Water vapor cooling and turning back into liquid"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is Precipitation?",
+      "options": [
+        "Rain or snow falling to Earth",
+        "Water vapor rising",
+        "Evaporation from oceans",
+        "Soil erosion"
+      ],
+      "correct_answer": "Rain or snow falling to Earth"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "Fill in the blank: The gaseous form of water is ______.",
+      "options": [
+        "water vapor",
+        "ice",
+        "liquid water",
+        "snow"
+      ],
+      "correct_answer": "water vapor"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "Fill in the blank: Water vapour turns into liquid by ______.",
+      "options": [
+        "condensation",
+        "evaporation",
+        "precipitation",
+        "sublimation"
+      ],
+      "correct_answer": "condensation"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "Fill in the blank: The solid outer part of Earth is called ______.",
+      "options": [
+        "lithosphere",
+        "hydrosphere",
+        "biosphere",
+        "atmosphere"
+      ],
+      "correct_answer": "lithosphere"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "Fill in the blank: The atmosphere protects us from ______.",
+      "options": [
+        "harmful sun rays",
+        "rain",
+        "wind",
+        "soil erosion"
+      ],
+      "correct_answer": "harmful sun rays"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "Fill in the blank: The biosphere includes ______.",
+      "options": [
+        "all kinds of habitats",
+        "water only",
+        "rocks and soil only",
+        "air only"
+      ],
+      "correct_answer": "all kinds of habitats"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "Why is water essential?",
+      "options": [
+        "All living things need water to survive",
+        "Water makes soil fertile only",
+        "Water produces oxygen",
+        "Water protects from heat"
+      ],
+      "correct_answer": "All living things need water to survive"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "Name two important gases in the atmosphere.",
+      "options": [
+        "Oxygen and Nitrogen",
+        "Carbon dioxide and Hydrogen",
+        "Helium and Oxygen",
+        "Nitrogen and Carbon monoxide"
+      ],
+      "correct_answer": "Oxygen and Nitrogen"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "Describe the lithosphere.",
+      "options": [
+        "Earth's solid outer shell made of rocks, soil, crust, and mantle",
+        "All water on Earth",
+        "Layer of gases surrounding Earth",
+        "Part of Earth with living organisms"
+      ],
+      "correct_answer": "Earth's solid outer shell made of rocks, soil, crust, and mantle"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "How does the biosphere depend on other domains?",
+      "options": [
+        "It needs water, air, and soil to support life",
+        "It depends only on air",
+        "It depends only on water",
+        "It does not depend on other domains"
+      ],
+      "correct_answer": "It needs water, air, and soil to support life"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "Name three types of habitats.",
+      "options": [
+        "Underwater, jungle, desert",
+        "Mountains, plains, rivers",
+        "Cities, towns, villages",
+        "Rocks, soil, water"
+      ],
+      "correct_answer": "Underwater, jungle, desert"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "What is a Continent?",
+      "options": [
+        "Largest landmasses on Earth",
+        "Large water bodies",
+        "High flat land",
+        "A small island"
+      ],
+      "correct_answer": "Largest landmasses on Earth"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "Name the seven continents.",
+      "options": [
+        "Asia, Africa, Europe, North America, South America, Antarctica, Australia",
+        "Asia, Africa, Europe, India, USA, Antarctica, Australia",
+        "Asia, Africa, Europe, North America, South America, Greenland, Australia",
+        "Asia, Africa, Europe, North America, South America, Antarctica, India"
+      ],
+      "correct_answer": "Asia, Africa, Europe, North America, South America, Antarctica, Australia"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "What is an Ocean?",
+      "options": [
+        "Large bodies of saltwater around continents",
+        "Large land areas",
+        "High flat land",
+        "A type of mountain"
+      ],
+      "correct_answer": "Large bodies of saltwater around continents"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "What is a Sea?",
+      "options": [
+        "Smaller saltwater bodies connected to oceans",
+        "Large rivers",
+        "Flat land",
+        "Islands"
+      ],
+      "correct_answer": "Smaller saltwater bodies connected to oceans"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "What is a Mountain?",
+      "options": [
+        "Very high land; peaks are mountain tops",
+        "Low land between hills",
+        "Flat land suitable for farming",
+        "Land surrounded by water"
+      ],
+      "correct_answer": "Very high land; peaks are mountain tops"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "What is a Plateau?",
+      "options": [
+        "Elevated flat area of land",
+        "Low land between mountains",
+        "A large water body",
+        "A mountain peak"
+      ],
+      "correct_answer": "Elevated flat area of land"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "What forms plains?",
+      "options": [
+        "Soil deposited by rivers during floods over many years",
+        "Lava flows",
+        "Wind deposits",
+        "Glaciers"
+      ],
+      "correct_answer": "Soil deposited by rivers during floods over many years"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "Name two types of deserts.",
+      "options": [
+        "Hot deserts (Sahara) and cold deserts (Antarctica)",
+        "Rainforests and tundra",
+        "Plains and plateaus",
+        "Mountains and hills"
+      ],
+      "correct_answer": "Hot deserts (Sahara) and cold deserts (Antarctica)"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "Fill in the blank: Largest landmasses are called ______ and largest water bodies ______.",
+      "options": [
+        "Continents, oceans",
+        "Plains, seas",
+        "Hills, lakes",
+        "Mountains, rivers"
+      ],
+      "correct_answer": "Continents, oceans"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "Fill in the blank: Mountains are the highest land; ______ are smaller landforms.",
+      "options": [
+        "Hills",
+        "Plains",
+        "Plateaus",
+        "Valleys"
+      ],
+      "correct_answer": "Hills"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "Fill in the blank: An island is land surrounded by water; a ______ is water surrounded by land.",
+      "options": [
+        "Lake",
+        "Sea",
+        "River",
+        "Peninsula"
+      ],
+      "correct_answer": "Lake"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "Fill in the blank: Isthmus is narrow land connecting two areas; a ______ is narrow water connecting two water bodies.",
+      "options": [
+        "Strait",
+        "Peninsula",
+        "Bay",
+        "River"
+      ],
+      "correct_answer": "Strait"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "Fill in the blank: A bay is ______.",
+      "options": [
+        "Water curving into the land",
+        "Flat land suitable for farming",
+        "High flat land",
+        "Land surrounded by water"
+      ],
+      "correct_answer": "Water curving into the land"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What is Pollution?",
+      "options": [
+        "Adding harmful substances to the environment",
+        "Cleaning rivers",
+        "Planting trees",
+        "Reducing waste"
+      ],
+      "correct_answer": "Adding harmful substances to the environment"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What is a Pollutant?",
+      "options": [
+        "Harmful substance causing pollution",
+        "Clean air",
+        "Biodegradable waste",
+        "Water from rivers"
+      ],
+      "correct_answer": "Harmful substance causing pollution"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What is Ozone?",
+      "options": [
+        "Gas that protects Earth from harmful sun rays",
+        "A type of pollutant",
+        "Sewage water",
+        "Smog"
+      ],
+      "correct_answer": "Gas that protects Earth from harmful sun rays"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What is Biodegradable waste?",
+      "options": [
+        "Waste that can break down naturally",
+        "Plastic waste",
+        "Metal waste",
+        "Chemical waste"
+      ],
+      "correct_answer": "Waste that can break down naturally"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What causes watery eyes in traffic?",
+      "options": [
+        "Air pollution from smoke and gases",
+        "Noise pollution",
+        "Soil pollution",
+        "Water pollution"
+      ],
+      "correct_answer": "Air pollution from smoke and gases"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What causes fish to die suddenly in water?",
+      "options": [
+        "Water pollution from chemicals, sewage, or industrial waste",
+        "Air pollution",
+        "Noise pollution",
+        "Soil erosion"
+      ],
+      "correct_answer": "Water pollution from chemicals, sewage, or industrial waste"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "How does noise pollution affect people and animals?",
+      "options": [
+        "Causes hearing loss, stress, and disturbs health",
+        "Makes plants grow faster",
+        "Reduces air pollution",
+        "Improves water quality"
+      ],
+      "correct_answer": "Causes hearing loss, stress, and disturbs health"
     }
   ]
 }
