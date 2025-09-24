@@ -20,6 +20,9 @@ function Home() {
   return (
     <div className="home">
       <h1 className="home-title">Class 4 Learning Quiz</h1>
+      <div style={{ textAlign: 'right', marginBottom: '0.5rem' }}>
+        <button className="start-button" onClick={() => navigate('/results')}>📊 View Results</button>
+      </div>
       <div className="subjects-grid">
         {subjects.map((subject) => (
           <div

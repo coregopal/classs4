@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback } from 'react';
+import React, { useState, useEffect, useCallback, useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import confetti from 'canvas-confetti';
 import '../styles/Quiz.css';
@@ -44,6 +44,8 @@ function Quiz() {
   const [answeredQuestions, setAnsweredQuestions] = useState(new Set());
   const [timeLeft, setTimeLeft] = useState(30); // 30 seconds per question
   const [isTimerRunning, setIsTimerRunning] = useState(false);
+  const shuffledOptionsRef = useRef(new Map());
+  const hasSavedResultRef = useRef(false);
 
   const allQuestions = subjectsData[subject]?.questions || [];
   
@@ -105,10 +107,26 @@ function Quiz() {
   const remainingCount = questions.length - attemptedCount;
 
   // Helper: Get options for current question safely
+  // Shuffle helper (Fisher–Yates)
+  const shuffleArray = (arr) => {
+    const copy = [...arr];
+    for (let i = copy.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [copy[i], copy[j]] = [copy[j], copy[i]];
+    }
+    return copy;
+  };
+
+  // Get options for current question with stable per-question shuffle
   const getOptions = (question) => {
     if (!question) return [];
-    if (Array.isArray(question.options)) return question.options;
-    return [];
+    if (!Array.isArray(question.options)) return [];
+
+    // Use currentQuestion index as key for stability while navigating
+    if (!shuffledOptionsRef.current.has(currentQuestion)) {
+      shuffledOptionsRef.current.set(currentQuestion, shuffleArray(question.options));
+    }
+    return shuffledOptionsRef.current.get(currentQuestion);
   };
 
   // Reset state when category changes
@@ -121,6 +139,7 @@ function Quiz() {
     setShowResult(false);
     setTimeLeft(30);
     setIsTimerRunning(false);
+    shuffledOptionsRef.current = new Map();
   }, [selectedCategory]);
 
   useEffect(() => {
@@ -284,30 +303,65 @@ function Quiz() {
     setShowResult(true);
   };
 
-  // Function to save test result
-  const saveTestResult = async () => {
+  // Function to save test result (server + localStorage)
+  const saveTestResult = useCallback(async () => {
+    if (hasSavedResultRef.current) return;
+    hasSavedResultRef.current = true;
     try {
+      const percentage = attemptedCount > 0 ? Math.round((score / attemptedCount) * 100) : 0;
+      const grade = (() => {
+        if (percentage >= 90) return 'A+';
+        if (percentage >= 80) return 'A';
+        if (percentage >= 70) return 'B+';
+        if (percentage >= 60) return 'B';
+        if (percentage >= 50) return 'C';
+        return 'D';
+      })();
+
       const testData = {
         subject,
         category: selectedCategory,
         totalQuestions: questions.length,
         attemptedQuestions: attemptedCount,
         correctAnswers: score,
+        percentage,
+        grade,
         timestamp: new Date().toISOString()
       };
-      
-      const response = await fetch('/api/save-test-result', {
+
+      // Best-effort server save
+      fetch('/api/save-test-result', {
         method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
+        headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify(testData)
-      });
-      if (!response.ok) throw new Error('Failed to save test result');
+      }).catch(() => {});
+
+      // Local history fallback
+      try {
+        const savedResults = JSON.parse(localStorage.getItem('quizResults') || '[]');
+        savedResults.push({
+          subject: testData.subject,
+          category: testData.category,
+          score: testData.correctAnswers,
+          total: testData.attemptedQuestions,
+          percentage: testData.percentage,
+          grade: testData.grade,
+          date: testData.timestamp,
+          timestamp: Date.now()
+        });
+        localStorage.setItem('quizResults', JSON.stringify(savedResults));
+      } catch {}
     } catch (error) {
       console.error('Error saving test result:', error);
     }
-  };
+  }, [attemptedCount, score, selectedCategory, subject, questions.length]);
+
+  // Auto-save when showing results
+  useEffect(() => {
+    if (showResult) {
+      saveTestResult();
+    }
+  }, [showResult, saveTestResult]);
 
   const startQuiz = () => {
     setQuizStarted(true);

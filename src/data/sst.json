@@ -431,182 +431,6 @@
     },
     {
       "category": "Chapter 4: A Good Citizen",
-      "question": "What does 'Responsibility' mean?",
-      "options": [
-        "A duty to take care of somebody or something",
-        "A right to do anything you want",
-        "The freedom to ignore rules",
-        "A task that can be avoided"
-      ],
-      "correct_answer": "A duty to take care of somebody or something"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Who is a 'Citizen'?",
-      "options": [
-        "A person who belongs to a country or city",
-        "A person who travels a lot",
-        "A person who works in government only",
-        "A person who owns land"
-      ],
-      "correct_answer": "A person who belongs to a country or city"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "What is 'Public Property'?",
-      "options": [
-        "Things owned by the government for everyone to use",
-        "Things owned by private individuals",
-        "Personal belongings of citizens",
-        "Private schools and colleges"
-      ],
-      "correct_answer": "Things owned by the government for everyone to use"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "What is 'Private Property'?",
-      "options": [
-        "Things owned by individuals or groups",
-        "Parks and roads",
-        "Monuments owned by the government",
-        "Public schools and hospitals"
-      ],
-      "correct_answer": "Things owned by individuals or groups"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Who is a 'Candidate'?",
-      "options": [
-        "A person who stands for election",
-        "A government official",
-        "A citizen who votes",
-        "A teacher in school"
-      ],
-      "correct_answer": "A person who stands for election"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "What is a 'Polling Booth'?",
-      "options": [
-        "The place where voters go to vote in elections",
-        "A place for public meetings",
-        "A government office",
-        "A private property"
-      ],
-      "correct_answer": "The place where voters go to vote in elections"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "How does 'civic sense' apply to students in school?",
-      "options": [
-        "Understanding responsibility towards neighbours and school environment",
-        "Ignoring rules",
-        "Playing without caring for others",
-        "Focusing only on personal work"
-      ],
-      "correct_answer": "Understanding responsibility towards neighbours and school environment"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Who was a good neighbour to the injured men and why?",
-      "options": [
-        "The man who helped them reach the hospital",
-        "The people who passed by without helping",
-        "The policemen who arrived later",
-        "The injured men themselves"
-      ],
-      "correct_answer": "The man who helped them reach the hospital"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Why did some people not stop to help the injured men?",
-      "options": [
-        "They thought only about themselves",
-        "They were in a hurry to help",
-        "They were following rules",
-        "They called for help immediately"
-      ],
-      "correct_answer": "They thought only about themselves"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Can we be good neighbours to people we do not know?",
-      "options": [
-        "Yes, being kind and helpful to others is part of being a good neighbour",
-        "No, we should only help friends",
-        "Only if asked",
-        "Only in emergencies"
-      ],
-      "correct_answer": "Yes, being kind and helpful to others is part of being a good neighbour"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Why should citizens take care of public and private property?",
-      "options": [
-        "Public property belongs to everyone, and private property belongs to individuals",
-        "It is not necessary",
-        "Only public property matters",
-        "Only private property matters"
-      ],
-      "correct_answer": "Public property belongs to everyone, and private property belongs to individuals"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Why do people spoil monuments or burn public property?",
-      "options": [
-        "Carelessness, anger, or lack of respect",
-        "For fun",
-        "To improve them",
-        "To protect heritage"
-      ],
-      "correct_answer": "Carelessness, anger, or lack of respect"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Why is it important for citizens to vote?",
-      "options": [
-        "It is a civic duty to elect government representatives",
-        "It is optional",
-        "Only adults vote",
-        "It does not matter"
-      ],
-      "correct_answer": "It is a civic duty to elect government representatives"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Why do we have rules?",
-      "options": [
-        "To keep society orderly and safe",
-        "To confuse people",
-        "To stop students from studying",
-        "Rules are unnecessary"
-      ],
-      "correct_answer": "To keep society orderly and safe"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Fill in the blank: A good citizen cares for ______.",
-      "options": [
-        "other people",
-        "only themselves",
-        "monuments only",
-        "pets only"
-      ],
-      "correct_answer": "other people"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Fill in the blank: Facilities such as roads, buses, and parks are ______.",
-      "options": [
-        "public property",
-        "private property",
-        "heritage sites",
-        "personal belongings"
-      ],
-      "correct_answer": "public property"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
       "question": "Fill in the blank: Heritage such as monuments belongs to ______.",
       "options": [
         "everyone",
@@ -701,17 +525,6 @@
     },
     {
       "category": "Chapter 4: A Good Citizen",
-      "question": "Match: Citizen",
-      "options": [
-        "A person who belongs to a country or city",
-        "A duty to take care of somebody",
-        "A person who stands for election",
-        "Teaches about citizens' duties"
-      ],
-      "correct_answer": "A person who belongs to a country or city"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
       "question": "Match: Responsibility",
       "options": [
         "A duty to take care of somebody or something",
@@ -786,39 +599,6 @@
         "All water on Earth"
       ],
       "correct_answer": "Part of Earth where living things live"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "What is Evaporation?",
-      "options": [
-        "Process of water turning into vapor when heated",
-        "Water turning into ice",
-        "Water falling as rain",
-        "Water soaking into soil"
-      ],
-      "correct_answer": "Process of water turning into vapor when heated"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "What is Condensation?",
-      "options": [
-        "Water vapor cooling and turning back into liquid",
-        "Water evaporating from lakes",
-        "Rain falling",
-        "Water flowing in rivers"
-      ],
-      "correct_answer": "Water vapor cooling and turning back into liquid"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "What is Precipitation?",
-      "options": [
-        "Rain or snow falling to Earth",
-        "Water vapor rising",
-        "Evaporation from oceans",
-        "Soil erosion"
-      ],
-      "correct_answer": "Rain or snow falling to Earth"
     },
     {
       "category": "Chapter 5: The Four Domains of Earth",
@@ -920,28 +700,6 @@
       "correct_answer": "It needs water, air, and soil to support life"
     },
     {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "Name three types of habitats.",
-      "options": [
-        "Underwater, jungle, desert",
-        "Mountains, plains, rivers",
-        "Cities, towns, villages",
-        "Rocks, soil, water"
-      ],
-      "correct_answer": "Underwater, jungle, desert"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "What is a Continent?",
-      "options": [
-        "Largest landmasses on Earth",
-        "Large water bodies",
-        "High flat land",
-        "A small island"
-      ],
-      "correct_answer": "Largest landmasses on Earth"
-    },
-    {
       "category": "Chapter 6: Major Geographical Forms",
       "question": "Name the seven continents.",
       "options": [
@@ -951,17 +709,6 @@
         "Asia, Africa, Europe, North America, South America, Antarctica, India"
       ],
       "correct_answer": "Asia, Africa, Europe, North America, South America, Antarctica, Australia"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "What is an Ocean?",
-      "options": [
-        "Large bodies of saltwater around continents",
-        "Large land areas",
-        "High flat land",
-        "A type of mountain"
-      ],
-      "correct_answer": "Large bodies of saltwater around continents"
     },
     {
       "category": "Chapter 6: Major Geographical Forms",
@@ -976,28 +723,6 @@
     },
     {
       "category": "Chapter 6: Major Geographical Forms",
-      "question": "What is a Mountain?",
-      "options": [
-        "Very high land; peaks are mountain tops",
-        "Low land between hills",
-        "Flat land suitable for farming",
-        "Land surrounded by water"
-      ],
-      "correct_answer": "Very high land; peaks are mountain tops"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "What is a Plateau?",
-      "options": [
-        "Elevated flat area of land",
-        "Low land between mountains",
-        "A large water body",
-        "A mountain peak"
-      ],
-      "correct_answer": "Elevated flat area of land"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
       "question": "What forms plains?",
       "options": [
         "Soil deposited by rivers during floods over many years",
@@ -1006,17 +731,6 @@
         "Glaciers"
       ],
       "correct_answer": "Soil deposited by rivers during floods over many years"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "Name two types of deserts.",
-      "options": [
-        "Hot deserts (Sahara) and cold deserts (Antarctica)",
-        "Rainforests and tundra",
-        "Plains and plateaus",
-        "Mountains and hills"
-      ],
-      "correct_answer": "Hot deserts (Sahara) and cold deserts (Antarctica)"
     },
     {
       "category": "Chapter 6: Major Geographical Forms",
@@ -1075,28 +789,6 @@
     },
     {
       "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What is Pollution?",
-      "options": [
-        "Adding harmful substances to the environment",
-        "Cleaning rivers",
-        "Planting trees",
-        "Reducing waste"
-      ],
-      "correct_answer": "Adding harmful substances to the environment"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What is a Pollutant?",
-      "options": [
-        "Harmful substance causing pollution",
-        "Clean air",
-        "Biodegradable waste",
-        "Water from rivers"
-      ],
-      "correct_answer": "Harmful substance causing pollution"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
       "question": "What is Ozone?",
       "options": [
         "Gas that protects Earth from harmful sun rays",
@@ -1127,28 +819,6 @@
         "Water pollution"
       ],
       "correct_answer": "Air pollution from smoke and gases"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What causes fish to die suddenly in water?",
-      "options": [
-        "Water pollution from chemicals, sewage, or industrial waste",
-        "Air pollution",
-        "Noise pollution",
-        "Soil erosion"
-      ],
-      "correct_answer": "Water pollution from chemicals, sewage, or industrial waste"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "How does noise pollution affect people and animals?",
-      "options": [
-        "Causes hearing loss, stress, and disturbs health",
-        "Makes plants grow faster",
-        "Reduces air pollution",
-        "Improves water quality"
-      ],
-      "correct_answer": "Causes hearing loss, stress, and disturbs health"
     }
   ]
 }

@@ -1,277 +1,1287 @@
 {
   "questions": [
     {
-      "category": "Winnie and the Bees",
-      "question": "What is a gorse-bush?",
+      "category": "Chapter 3: Henry",
+      "question": "What does the word 'chameleon' mean?",
       "options": [
-        "A tree with red leaves",
-        "A bush with thin, sharp leaves and small yellow flowers",
-        "A plant with big red flowers",
-        "A leafy tree found in forests"
+        "A harmless insect",
+        "A lizard-like creature with large eyes and a long tail that can change its colour",
+        "A type of bird",
+        "A poisonous snake"
       ],
-      "correct_answer": "A bush with thin, sharp leaves and small yellow flowers"
+      "correct_answer": "A lizard-like creature with large eyes and a long tail that can change its colour"
     },
     {
-      "category": "Winnie and the Bees",
-      "question": "Who crawled out from the gorse-bush?",
+      "category": "Chapter 3: Henry",
+      "question": "Through this narrative, the author passes on information on the characteristics of a chameleon along with telling us a story. Which piece of information does this story give us?",
       "options": [
-        "Christopher Robin",
-        "A bee",
-        "Winnie-the-Pooh",
-        "A squirrel"
+        "Chameleons are harmful.",
+        "Chameleons are poisonous.",
+        "Chameleons are reptiles.",
+        "Chameleons are amphibians."
       ],
-      "correct_answer": "Winnie-the-Pooh"
+      "correct_answer": "Chameleons are reptiles."
     },
     {
-      "category": "Winnie and the Bees",
-      "question": "Why did Winnie-the-Pooh think of Christopher Robin?",
+      "category": "Chapter 3: Henry",
+      "question": "An anecdote is a story that narrates in short something interesting or exciting that happened. What is this anecdote mainly about?",
       "options": [
-        "Because he wanted to play with him",
-        "Because he was scared of bees",
-        "Because he was his friend and would help him",
-        "Because he needed someone to climb the tree"
+        "The ripe papayas grown by the gardener.",
+        "The incident caused by Henry at the school.",
+        "The way Henry sunned himself on the garden wall.",
+        "Henry's journey to the market."
       ],
-      "correct_answer": "Because he was his friend and would help him"
+      "correct_answer": "The incident caused by Henry at the school."
     },
     {
-      "category": "Winnie and the Bees",
-      "question": "What does 'gracefully' mean?",
+      "category": "Chapter 3: Henry",
+      "question": "Which of the following is the theme of 'Henry'?",
       "options": [
-        "In a rough and fast way",
-        "In a loud and clumsy way",
-        "In a smooth and relaxed way",
-        "In a fearful and shaky way"
+        "Be kind to harmless creatures.",
+        "Shout and scream when you see a chameleon.",
+        "Use animals to frighten others.",
+        "Ignore animals completely."
       ],
-      "correct_answer": "In a smooth and relaxed way"
+      "correct_answer": "Be kind to harmless creatures."
     },
     {
-      "category": "Winnie and the Bees",
-      "question": "What is the meaning of 'anxiously'?",
+      "category": "Chapter 3: Henry",
+      "question": "Why do you think the writer has chosen to write this story?",
       "options": [
-        "In a calm way",
-        "In a sleepy manner",
-        "In a worried or nervous manner",
-        "In a happy mood"
+        "To make readers feel scared.",
+        "To make readers feel bored.",
+        "To make readers laugh.",
+        "To teach science."
       ],
-      "correct_answer": "In a worried or nervous manner"
+      "correct_answer": "To make readers laugh."
     },
     {
-      "category": "Winnie and the Bees",
-      "question": "What does 'suspicious' mean?",
+      "category": "Chapter 3: Henry",
+      "question": "Where was the chameleon when grandfather saved it?",
       "options": [
-        "Feeling that something is right",
-        "Feeling that something is wrong, doubtful",
-        "Feeling very sleepy",
-        "Feeling overjoyed"
+        "On a tree branch",
+        "Sunning himself on a shrub at the garden gate",
+        "Inside the classroom",
+        "In the basket"
       ],
-      "correct_answer": "Feeling that something is wrong, doubtful"
+      "correct_answer": "Sunning himself on a shrub at the garden gate"
     },
     {
-      "category": "Winnie and the Bees",
-      "question": "What reason did Winnie-the-Pooh give for coming down at the end of the story?",
+      "category": "Chapter 3: Henry",
+      "question": "Why would the chameleon have faced 'certain death'?",
       "options": [
-        "He was tired",
-        "He wanted to eat",
-        "These were the wrong sort of bees",
-        "He saw Christopher Robin"
+        "It was very sick",
+        "People thought it was poisonous and dangerous, so they wanted to kill it",
+        "It fell into water",
+        "It was too small"
       ],
-      "correct_answer": "These were the wrong sort of bees"
+      "correct_answer": "People thought it was poisonous and dangerous, so they wanted to kill it"
     },
     {
-      "category": "Winnie and the Bees",
-      "question": "What does 'deceive' mean?",
+      "category": "Chapter 3: Henry",
+      "question": "Which words does the author use to tell us that the chameleon was harmless?",
       "options": [
-        "To make someone believe something that is not true",
-        "A random guess",
-        "A name of a place",
-        "None of the above"
+        "Harmless creature and patient",
+        "Dangerous and poisonous",
+        "Angry and rigid",
+        "Slender and capable"
       ],
-      "correct_answer": "To make someone believe something that is not true"
+      "correct_answer": "Harmless creature and patient"
     },
     {
-      "category": "Winnie and the Bees",
-      "question": "What does 'suspect' mean?",
+      "category": "Chapter 3: Henry",
+      "question": "What does the line about the grandfather saving Henry tell us about his qualities?",
       "options": [
-        "To believe that someone is possibly up to something bad",
-        "A random guess",
-        "A name of a place",
-        "None of the above"
+        "He is kind and brave",
+        "He is scared of animals",
+        "He is lazy",
+        "He is strict and angry"
       ],
-      "correct_answer": "To believe that someone is possibly up to something bad"
+      "correct_answer": "He is kind and brave"
     },
     {
-      "category": "Winnie and the Bees",
-      "question": "What does 'deception' mean?",
+      "category": "Chapter 3: Henry",
+      "question": "What incident did Grandmother hear about from Mrs Ghosh?",
       "options": [
-        "The act of making someone believe something that is not true, trickery",
-        "A random guess",
-        "A name of a place",
-        "None of the above"
+        "Henry had escaped from the basket and caused a noisy scene at school",
+        "Henry was sunbathing",
+        "Henry was eaten by a cat",
+        "Henry was lost in the garden"
       ],
-      "correct_answer": "The act of making someone believe something that is not true, trickery"
+      "correct_answer": "Henry had escaped from the basket and caused a noisy scene at school"
     },
     {
-      "category": "The Sick Young Dragon",
-      "question": "What does 'alight' mean?",
+      "category": "Chapter 3: Henry",
+      "question": "Why was Mrs Ghosh not told that the chameleon belonged to the author's family?",
       "options": [
-        "Feeling cold",
-        "On fire, burning",
-        "Very tired",
-        "Flying high"
+        "Because it was a secret",
+        "Because people were scared of the chameleon and thought it was poisonous",
+        "Because it ran away",
+        "Because it was a gift"
       ],
-      "correct_answer": "On fire, burning"
+      "correct_answer": "Because people were scared of the chameleon and thought it was poisonous"
     },
     {
-      "category": "The Sick Young Dragon",
-      "question": "What did the dragon have to do to feel better?",
+      "category": "Chapter 3: Henry",
+      "question": "When the children saw Henry, why did they run in all directions?",
       "options": [
-        "Drink milk and sleep",
-        "Take medicine and rest",
-        "Drink petrol, chew nails, watch TV, and relax",
-        "Fly around the world"
+        "They were playing a game",
+        "They were scared of Henry because they didn’t know much about chameleons",
+        "They wanted to catch him",
+        "They were late for class"
       ],
-      "correct_answer": "Drink petrol, chew nails, watch TV, and relax"
+      "correct_answer": "They were scared of Henry because they didn’t know much about chameleons"
     },
     {
-      "category": "The Sick Young Dragon",
-      "question": "Which sign showed the dragon had recovered?",
+      "category": "Chapter 3: Henry",
+      "question": "What do we learn about the writer's feelings for animals from this story?",
       "options": [
-        "He flew away",
-        "He ate a lot",
-        "He sneezed sparks and his face glowed bright",
-        "He cried loudly"
+        "The writer dislikes animals",
+        "The writer cares for animals and thinks they should be treated kindly",
+        "The writer ignores animals",
+        "The writer is afraid of animals"
       ],
-      "correct_answer": "He sneezed sparks and his face glowed bright"
+      "correct_answer": "The writer cares for animals and thinks they should be treated kindly"
     },
     {
-      "category": "The Sick Young Dragon",
-      "question": "What does 'no wonder' mean?",
+      "category": "Chapter 3: Henry",
+      "question": "Which is the odd one out: Sparrow, Earthworm, Ladybird, Giraffe, Octopus?",
       "options": [
-        "Very shocking",
-        "Used to say something is not surprising",
-        "Quite confusing",
-        "Suddenly unexpected"
+        "Sparrow",
+        "Earthworm",
+        "Ladybird",
+        "Giraffe",
+        "Octopus"
       ],
-      "correct_answer": "Used to say something is not surprising"
+      "correct_answer": "Earthworm"
     },
     {
-      "category": "The Sick Young Dragon",
-      "question": "What are 'scales' on a dragon?",
+      "category": "Chapter 3: Henry",
+      "question": "Complete the analogy: Cheetah is to fast as tortoise is to ____?",
       "options": [
-        "His ears",
-        "Small flat pieces that cover the body",
-        "His claws",
-        "His teeth"
+        "Slow",
+        "Lazy",
+        "Weak",
+        "Strong"
       ],
-      "correct_answer": "Small flat pieces that cover the body"
+      "correct_answer": "Slow"
     },
     {
-      "category": "The Sick Young Dragon",
-      "question": "What does 'as right as rain' mean?",
+      "category": "Chapter 3: Henry",
+      "question": "Complete the analogy: Spider is to web as rabbit is to ____?",
       "options": [
-        "Very sad",
-        "Perfectly all right",
-        "Extremely dirty",
-        "Very angry"
+        "Hole",
+        "Burrow",
+        "Nest",
+        "Tree"
       ],
-      "correct_answer": "Perfectly all right"
+      "correct_answer": "Burrow"
     },
     {
-      "category": "The Sick Young Dragon",
-      "question": "What does 'chill' mean?",
+      "category": "Chapter 3: Henry",
+      "question": "Complete the analogy: Dolphin is to swim as bat is to ____?",
       "options": [
-        "A cold",
-        "A hot fever",
-        "Running nose",
-        "Sleepy"
+        "Run",
+        "Fly",
+        "Jump",
+        "Climb"
       ],
-      "correct_answer": "A cold"
+      "correct_answer": "Fly"
     },
     {
-      "category": "The Sick Young Dragon",
-      "question": "What does 'temperature' mean?",
+      "category": "Chapter 3: Henry",
+      "question": "Complete the analogy: Butterfly is to caterpillar as frog is to ____?",
       "options": [
-        "The measurement of how hot somebody's body is",
-        "How fast someone walks",
-        "How sleepy a dragon is",
-        "How strong the dragon is"
+        "Tadpole",
+        "Insect",
+        "Egg",
+        "Worm"
       ],
-      "correct_answer": "The measurement of how hot somebody's body is"
+      "correct_answer": "Tadpole"
     },
     {
-      "category": "Shangmiyang – The Tangkhul Giant",
-      "question": "What does 'captivated' mean?",
+      "category": "Chapter 3: Henry",
+      "question": "Complete the analogy: Porcupine is to prickly as worm is to ____?",
       "options": [
-        "Very bored",
-        "Very interested or fascinated",
-        "Very scared",
-        "Very confused"
+        "Slippery",
+        "Slimy",
+        "Soft",
+        "Dry"
       ],
-      "correct_answer": "Very interested or fascinated"
+      "correct_answer": "Slimy"
     },
     {
-      "category": "Shangmiyang – The Tangkhul Giant",
-      "question": "What were the mountain caves the potters entered?",
+      "category": "Chapter 3: Henry",
+      "question": "Complete the analogy: Spider is to eight legs as octopus is to ____?",
       "options": [
-        "Real caves in a mountain",
-        "Shangmiyang’s ears",
-        "Shangmiyang’s nostrils",
-        "Shangmiyang’s eyes"
+        "Six tentacles",
+        "Eight tentacles",
+        "Ten tentacles",
+        "Four tentacles"
       ],
-      "correct_answer": "Shangmiyang’s nostrils"
+      "correct_answer": "Eight tentacles"
     },
     {
-      "category": "Shangmiyang – The Tangkhul Giant",
-      "question": "What could be the small prickly trees in the ravine?",
+      "category": "Chapter 4: The Hero of Haarlem",
+      "question": "What does the word 'Netherlands' mean?",
       "options": [
-        "His eyebrows",
-        "His moustache",
-        "His beard",
-        "His hair"
+        "A country in Western Europe called 'Low Countries'",
+        "A city in Germany",
+        "A mountain range",
+        "A river in Europe"
       ],
-      "correct_answer": "His moustache"
+      "correct_answer": "A country in Western Europe called 'Low Countries'"
     },
     {
-      "category": "Shangmiyang – The Tangkhul Giant",
-      "question": "What does 'trudged' mean?",
+      "category": "Chapter 4: The Hero of Haarlem",
+      "question": "What are 'dykes'?",
       "options": [
-        "Walked quickly with joy",
-        "Jumped happily",
-        "Walked slowly or with heavy steps",
-        "Ran fast due to fear"
+        "Great thick walls as wide as roads to hold back sea water",
+        "Small boats used in rivers",
+        "A type of tree",
+        "Bridges connecting villages"
       ],
-      "correct_answer": "Walked slowly or with heavy steps"
+      "correct_answer": "Great thick walls as wide as roads to hold back sea water"
     },
     {
-      "category": "Shangmiyang – The Tangkhul Giant",
-      "question": "What is a 'gale'?",
+      "category": "Chapter 4: The Hero of Haarlem",
+      "question": "What does 'elderly' mean?",
       "options": [
-        "A soft breeze",
-        "An extremely strong wind",
-        "A light rain shower",
-        "A foggy morning"
+        "Young",
+        "Old (polite word)",
+        "Angry",
+        "Tired"
       ],
-      "correct_answer": "An extremely strong wind"
+      "correct_answer": "Old (polite word)"
     },
     {
-      "category": "Shangmiyang – The Tangkhul Giant",
-      "question": "What does 'gathered' mean?",
+      "category": "Chapter 4: The Hero of Haarlem",
+      "question": "What does 'swollen' mean?",
       "options": [
-        "Came together in one place",
-        "Lost something",
-        "Searched the forest",
-        "Cried loudly"
+        "Larger than usual",
+        "Very small",
+        "Angry",
+        "Hard"
       ],
-      "correct_answer": "Came together in one place"
+      "correct_answer": "Larger than usual"
     },
     {
-      "category": "Shangmiyang – The Tangkhul Giant",
-      "question": "What does 'clambered' mean?",
+      "category": "Chapter 4: The Hero of Haarlem",
+      "question": "What does 'chores' mean?",
       "options": [
-        "Climbed or moved with difficulty or a lot of effort",
-        "Ran quickly",
-        "Shouted for help",
-        "Flew over trees"
+        "Fun activities",
+        "Tasks that you do regularly",
+        "Sports",
+        "Games"
       ],
-      "correct_answer": "Climbed or moved with difficulty or a lot of effort"
-    }]}  
+      "correct_answer": "Tasks that you do regularly"
+    },
+    {
+      "category": "Chapter 4: The Hero of Haarlem",
+      "question": "While the wind turned the windmills and the rain watered the tulips, the strained and swollen dykes kept filling, worrying Hans as he passed. Where was Hans going?",
+      "options": [
+        "To the market",
+        "To his father's trip",
+        "To Mr Jansen's house",
+        "To school"
+      ],
+      "correct_answer": "To Mr Jansen's house"
+    },
+    {
+      "category": "Chapter 4: The Hero of Haarlem",
+      "question": "What was Hans worried about?",
+      "options": [
+        "The food",
+        "The dykes filling up and breaking",
+        "The rain stopping",
+        "The windmills falling"
+      ],
+      "correct_answer": "The dykes filling up and breaking"
+    },
+    {
+      "category": "Chapter 4: The Hero of Haarlem",
+      "question": "Apart from the dykes, which two things tell us where the story is set?",
+      "options": [
+        "Rain and wind",
+        "Windmills and tulips",
+        "Sea and sand",
+        "Mountains and rivers"
+      ],
+      "correct_answer": "Windmills and tulips"
+    },
+    {
+      "category": "Chapter 4: The Hero of Haarlem",
+      "question": "How is the setting of the story tied to the plot?",
+      "options": [
+        "The sea floods the town",
+        "The dyke prevents the sea from flooding the town",
+        "The story is set on a mountain",
+        "The rain creates crops"
+      ],
+      "correct_answer": "The dyke prevents the sea from flooding the town"
+    },
+    {
+      "category": "Chapter 4: The Hero of Haarlem",
+      "question": "How did Hans discover the leak in the dyke?",
+      "options": [
+        "He heard a noise",
+        "He saw a small hole with water trickling through",
+        "Someone told him",
+        "He felt the ground shaking"
+      ],
+      "correct_answer": "He saw a small hole with water trickling through"
+    },
+    {
+      "category": "Chapter 4: The Hero of Haarlem",
+      "question": "Which quality in Hans' character is shown when he keeps his fist in the hole?",
+      "options": [
+        "He is scared",
+        "He is lazy",
+        "He is brave and responsible",
+        "He is careless"
+      ],
+      "correct_answer": "He is brave and responsible"
+    },
+    {
+      "category": "Chapter 4: The Hero of Haarlem",
+      "question": "What motivated Hans to act in this manner?",
+      "options": [
+        "Fear of punishment",
+        "Love for his town and duty",
+        "To impress his father",
+        "Curiosity"
+      ],
+      "correct_answer": "Love for his town and duty"
+    },
+    {
+      "category": "Chapter 4: The Hero of Haarlem",
+      "question": "List words and phrases from the story that describe the weather.",
+      "options": [
+        "Heavy rain, spring rain, hard rain, piercing cold wind, swelling dykes, pelted rain",
+        "Sunny, dry, calm wind",
+        "Foggy and misty",
+        "Hot and humid"
+      ],
+      "correct_answer": "Heavy rain, spring rain, hard rain, piercing cold wind, swelling dykes, pelted rain"
+    },
+    {
+      "category": "Chapter 4: The Hero of Haarlem",
+      "question": "Why was Mr Jansen happy when Hans visited?",
+      "options": [
+        "Because Hans was kind, patient, and brought goodies",
+        "Because Hans cleaned the house",
+        "Because Hans brought money",
+        "Because Hans helped in the market"
+      ],
+      "correct_answer": "Because Hans was kind, patient, and brought goodies"
+    },
+    {
+      "category": "Chapter 4: The Hero of Haarlem",
+      "question": "Do you think 'The Hero of Haarlem' is a good title? Suggest another suitable title.",
+      "options": [
+        "Yes, and another title could be 'Hans and the Leaky Dyke'",
+        "No, it should be 'The Brave Child'",
+        "Yes, and another title could be 'The Rainy Day'",
+        "No, it should be 'The Windmills Story'"
+      ],
+      "correct_answer": "Yes, and another title could be 'Hans and the Leaky Dyke'"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "What does the word 'vaguely' mean?",
+      "options": [
+        "In a way that is not detailed or exact",
+        "Clearly and exactly",
+        "In a loud manner",
+        "Carefully and slowly"
+      ],
+      "correct_answer": "In a way that is not detailed or exact"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "What does 'imitate' mean?",
+      "options": [
+        "To copy",
+        "To create",
+        "To destroy",
+        "To ignore"
+      ],
+      "correct_answer": "To copy"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "What does 'tussle' mean?",
+      "options": [
+        "A short argument or struggle",
+        "A long journey",
+        "A happy event",
+        "A type of toy"
+      ],
+      "correct_answer": "A short argument or struggle"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "What does 'regret' mean?",
+      "options": [
+        "Feeling happy about something",
+        "Feeling sad or sorry about something",
+        "Feeling curious",
+        "Feeling surprised"
+      ],
+      "correct_answer": "Feeling sad or sorry about something"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "What does 'pleasure' mean?",
+      "options": [
+        "Feeling happy or satisfied",
+        "Feeling angry",
+        "Feeling sleepy",
+        "Feeling hungry"
+      ],
+      "correct_answer": "Feeling happy or satisfied"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "What is 'honeysuckle'?",
+      "options": [
+        "A climbing plant with nice smelling flowers",
+        "A type of fruit",
+        "A small bird",
+        "A garden tool"
+      ],
+      "correct_answer": "A climbing plant with nice smelling flowers"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "What does 'spout' mean?",
+      "options": [
+        "A stream of liquid coming out with force",
+        "A type of plant",
+        "A small hill",
+        "A loud sound"
+      ],
+      "correct_answer": "A stream of liquid coming out with force"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "What does 'gushed' mean?",
+      "options": [
+        "Flowed out suddenly and quickly",
+        "Flowed slowly",
+        "Stopped flowing",
+        "Spilled accidentally"
+      ],
+      "correct_answer": "Flowed out suddenly and quickly"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "Number these events from the text in the correct order.",
+      "options": [
+        "b, f, a, c, h, e, d, g",
+        "a, b, c, d, e, f, g, h",
+        "f, b, a, h, c, e, d, g",
+        "b, a, f, c, h, e, g, d"
+      ],
+      "correct_answer": "b, f, a, c, h, e, d, g"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "'A Day to Remember' is a personal narrative because:",
+      "options": [
+        "Anne Sullivan tells Helen's story",
+        "Helen's mother tells the story",
+        "Helen tells her own story",
+        "A narrator tells the story about someone else"
+      ],
+      "correct_answer": "Helen tells her own story"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "Which of the following makes this text an autobiographical narrative?",
+      "options": [
+        "The author mentions personal thoughts and feelings",
+        "The narrator of the story is the author",
+        "The plot is created in sequence",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "Who is the narrator of the story?",
+      "options": [
+        "Anne Sullivan",
+        "Helen Keller",
+        "Helen's mother",
+        "A teacher"
+      ],
+      "correct_answer": "Helen Keller"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "How could the narrator guess that this day was important?",
+      "options": [
+        "Because she was told by her mother",
+        "Because she felt something different was going to happen",
+        "Because it was her birthday",
+        "Because she saw Anne Sullivan at school"
+      ],
+      "correct_answer": "Because she felt something different was going to happen"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "Why does the narrator say it was the most important day?",
+      "options": [
+        "Because it was her birthday",
+        "Because it was a holiday",
+        "Because it was the day her teacher came and changed her life",
+        "Because she received a gift"
+      ],
+      "correct_answer": "Because it was the day her teacher came and changed her life"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "What qualities does the narrator’s teacher have?",
+      "options": [
+        "Patience, kindness, and determination",
+        "Anger, strictness, and impatience",
+        "Laziness and carelessness",
+        "Humor and curiosity"
+      ],
+      "correct_answer": "Patience, kindness, and determination"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "What had happened when Helen understood the 'living word'?",
+      "options": [
+        "She understood that words had meaning",
+        "She ignored the lesson",
+        "She broke the doll again",
+        "She ran away"
+      ],
+      "correct_answer": "She understood that words had meaning"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "Why does the author use the phrase 'living word'?",
+      "options": [
+        "Because it was a real word connected to something she could feel",
+        "Because it sounded nice",
+        "Because it was a made-up word",
+        "Because it was written in the book"
+      ],
+      "correct_answer": "Because it was a real word connected to something she could feel"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "What do you think about the teaching method?",
+      "options": [
+        "It was effective because Helen learned by feeling and connecting words",
+        "It was ineffective",
+        "It was confusing",
+        "It was too simple"
+      ],
+      "correct_answer": "It was effective because Helen learned by feeling and connecting words"
+    },
+    {
+      "category": "Chapter 5: A Day to Remember",
+      "question": "How do you learn difficult words?",
+      "options": [
+        "By asking, seeing, and practicing",
+        "By ignoring them",
+        "By copying from books",
+        "By guessing"
+      ],
+      "correct_answer": "By asking, seeing, and practicing"
+    },
+    {
+      "category": "Chapter 6: Tenali Rama and the Dream Kingdom",
+      "question": "What does the word 'mighty' mean?",
+      "options": [
+        "Very strong or powerful",
+        "Very small",
+        "Weak",
+        "Funny"
+      ],
+      "correct_answer": "Very strong or powerful"
+    },
+    {
+      "category": "Chapter 6: Tenali Rama and the Dream Kingdom",
+      "question": "What is an 'empire'?",
+      "options": [
+        "A group of states ruled by one person",
+        "A city",
+        "A market",
+        "A kingdom of animals"
+      ],
+      "correct_answer": "A group of states ruled by one person"
+    },
+    {
+      "category": "Chapter 6: Tenali Rama and the Dream Kingdom",
+      "question": "What does 'splendid' mean?",
+      "options": [
+        "Very beautiful",
+        "Ordinary",
+        "Ugly",
+        "Tiny"
+      ],
+      "correct_answer": "Very beautiful"
+    },
+    {
+      "category": "Chapter 6: Tenali Rama and the Dream Kingdom",
+      "question": "Who are 'courtiers'?",
+      "options": [
+        "People who attend a king’s court",
+        "Soldiers",
+        "Farmers",
+        "Artists"
+      ],
+      "correct_answer": "People who attend a king’s court"
+    },
+    {
+      "category": "Chapter 6: Tenali Rama and the Dream Kingdom",
+      "question": "What does 'flatter' mean?",
+      "options": [
+        "To say nice things to please someone",
+        "To criticize",
+        "To ignore",
+        "To fight"
+      ],
+      "correct_answer": "To say nice things to please someone"
+    },
+    {
+      "category": "Chapter 6: Tenali Rama and the Dream Kingdom",
+      "question": "What is 'reasoning'?",
+      "options": [
+        "Talking logically to convince someone",
+        "Yelling at someone",
+        "Sleeping",
+        "Drawing pictures"
+      ],
+      "correct_answer": "Talking logically to convince someone"
+    },
+    {
+      "category": "Chapter 6: Tenali Rama and the Dream Kingdom",
+      "question": "Who is a 'jester'?",
+      "options": [
+        "A person who entertains in the king’s court",
+        "A soldier",
+        "A minister",
+        "A farmer"
+      ],
+      "correct_answer": "A person who entertains in the king’s court"
+    },
+    {
+      "category": "Chapter 6: Tenali Rama and the Dream Kingdom",
+      "question": "What does 'astonished' mean?",
+      "options": [
+        "Very surprised",
+        "Angry",
+        "Sad",
+        "Tired"
+      ],
+      "correct_answer": "Very surprised"
+    },
+    {
+      "category": "Chapter 6: Tenali Rama and the Dream Kingdom",
+      "question": "What is an 'entourage'?",
+      "options": [
+        "Group that follows an important person",
+        "A type of palace",
+        "A vehicle",
+        "A court jester"
+      ],
+      "correct_answer": "Group that follows an important person"
+    },
+    {
+      "category": "Chapter 6: Tenali Rama and the Dream Kingdom",
+      "question": "From where did the king get the idea of building a palace in the air?",
+      "options": [
+        "From a story",
+        "From a dream",
+        "From his ministers",
+        "From a book"
+      ],
+      "correct_answer": "From a dream"
+    },
+    {
+      "category": "Chapter 6: Tenali Rama and the Dream Kingdom",
+      "question": "What did the courtiers think about this idea?",
+      "options": [
+        "It was possible",
+        "It was impossible",
+        "They did not say anything",
+        "It was easy"
+      ],
+      "correct_answer": "It was impossible"
+    },
+    {
+      "category": "Chapter 6: Tenali Rama and the Dream Kingdom",
+      "question": "Which word in the title tells us the idea is impossible?",
+      "options": [
+        "Dream",
+        "Palace",
+        "Kingdom",
+        "Tenali"
+      ],
+      "correct_answer": "Dream"
+    },
+    {
+      "category": "Chapter 6: Tenali Rama and the Dream Kingdom",
+      "question": "Is the king stubborn and foolish or wise and just? Give reasons.",
+      "options": [
+        "Stubborn and foolish because he insists on something impossible despite advice",
+        "Wise and just because he listens to everyone",
+        "Stubborn and clever",
+        "Kind and patient"
+      ],
+      "correct_answer": "Stubborn and foolish because he insists on something impossible despite advice"
+    },
+    {
+      "category": "Chapter 6: Tenali Rama and the Dream Kingdom",
+      "question": "What was the king’s reaction to the statement about being robbed in a dream?",
+      "options": [
+        "He was surprised and did not believe it",
+        "He got angry",
+        "He laughed",
+        "He ignored it"
+      ],
+      "correct_answer": "He was surprised and did not believe it"
+    },
+    {
+      "category": "Chapter 6: Tenali Rama and the Dream Kingdom",
+      "question": "Did the king’s reaction show fault in his logic?",
+      "options": [
+        "Yes, because he believed his own dream but not that of another person",
+        "No, he was correct",
+        "Yes, because he trusted everyone",
+        "No, he ignored the dream"
+      ],
+      "correct_answer": "Yes, because he believed his own dream but not that of another person"
+    },
+    {
+      "category": "Chapter 6: Tenali Rama and the Dream Kingdom",
+      "question": "Why was the king not angry at Tenali Rama’s trick?",
+      "options": [
+        "Because the trick helped him see the truth cleverly",
+        "Because he did not notice",
+        "Because he did not care",
+        "Because he was asleep"
+      ],
+      "correct_answer": "Because the trick helped him see the truth cleverly"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "What does 'abroad' mean?",
+      "options": [
+        "All around",
+        "At home",
+        "Near",
+        "Far away"
+      ],
+      "correct_answer": "All around"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "What does 'foreign' mean?",
+      "options": [
+        "From a different country",
+        "Local",
+        "Domestic",
+        "Nearby"
+      ],
+      "correct_answer": "From a different country"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "What is a 'dimpling river'?",
+      "options": [
+        "A river that appears to have small folds or dents",
+        "A wide river",
+        "A muddy river",
+        "A river with fish"
+      ],
+      "correct_answer": "A river that appears to have small folds or dents"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "What is a 'looking-glass'?",
+      "options": [
+        "A mirror",
+        "A window",
+        "A painting",
+        "A telescope"
+      ],
+      "correct_answer": "A mirror"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "What are 'playthings'?",
+      "options": [
+        "Toys",
+        "Games",
+        "Sports",
+        "Books"
+      ],
+      "correct_answer": "Toys"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "What does 'trampling' mean?",
+      "options": [
+        "Walking heavily",
+        "Jumping lightly",
+        "Running fast",
+        "Skipping"
+      ],
+      "correct_answer": "Walking heavily"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "What does 'adorned' mean?",
+      "options": [
+        "Decorated",
+        "Plain",
+        "Empty",
+        "Ugly"
+      ],
+      "correct_answer": "Decorated"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "What does 'on either hand' mean?",
+      "options": [
+        "On both sides",
+        "On one side",
+        "In the middle",
+        "Far away"
+      ],
+      "correct_answer": "On both sides"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "The river is compared to a _________ for the sky.",
+      "options": [
+        "looking-glass",
+        "mirror",
+        "pond",
+        "fountain"
+      ],
+      "correct_answer": "looking-glass"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "We know the speaker is a child because he uses the word ________ himself.",
+      "options": [
+        "me",
+        "I",
+        "mine",
+        "myself"
+      ],
+      "correct_answer": "me"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "‘Abroad’ means ‘at a great distance’ and is often confused with ________.",
+      "options": [
+        "further",
+        "farther",
+        "nearby",
+        "more"
+      ],
+      "correct_answer": "further"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "Because the river seems to crease, fold and unfold, it is described as ________.",
+      "options": [
+        "dimpling",
+        "wide",
+        "trickling",
+        "flowing"
+      ],
+      "correct_answer": "dimpling"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "Rivers start in mountains and end in seas. So if the river is young in the mountains, it will be ________ by the time it reaches the sea.",
+      "options": [
+        "old",
+        "young",
+        "wide",
+        "narrow"
+      ],
+      "correct_answer": "old"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "Who has climbed the tree? What tree is it?",
+      "options": [
+        "A child has climbed the cherry tree",
+        "An adult has climbed the oak tree",
+        "A child has climbed a mango tree",
+        "The speaker climbed a pine tree"
+      ],
+      "correct_answer": "A child has climbed the cherry tree"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "What are the foreign lands seen from the top of the tree?",
+      "options": [
+        "Next-door gardens and many pleasant places",
+        "Other countries",
+        "Mountains and rivers",
+        "The city streets"
+      ],
+      "correct_answer": "Next-door gardens and many pleasant places"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "Are these really foreign lands? Why does the speaker say they are?",
+      "options": [
+        "They are not really foreign; the child finds them new and exciting",
+        "They are foreign countries",
+        "They are fictional lands",
+        "They are the ocean"
+      ],
+      "correct_answer": "They are not really foreign; the child finds them new and exciting"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "Why does the speaker wish to find a higher tree?",
+      "options": [
+        "To see further and more places",
+        "To escape home",
+        "To play with friends",
+        "To climb for exercise"
+      ],
+      "correct_answer": "To see further and more places"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "What does the speaker wish to see?",
+      "options": [
+        "The grown-up river slipping into the sea and roads leading to fairy land",
+        "Mountains only",
+        "His house from above",
+        "The forest nearby"
+      ],
+      "correct_answer": "The grown-up river slipping into the sea and roads leading to fairy land"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "Why is the word ‘farther’ repeated?",
+      "options": [
+        "To show the child's desire to keep climbing higher",
+        "By mistake",
+        "To emphasize distance",
+        "To rhyme"
+      ],
+      "correct_answer": "To show the child's desire to keep climbing higher"
+    },
+    {
+      "category": "Poem: Foreign Lands",
+      "question": "Would you like to travel and see foreign lands? What would you like to see?",
+      "options": [
+        "Yes, I want to travel and see beautiful mountains, rivers, and different cities",
+        "No, I prefer staying home",
+        "I would like to see only my city",
+        "I would like to see forests only"
+      ],
+      "correct_answer": "Yes, I want to travel and see beautiful mountains, rivers, and different cities"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "What does the word 'mischief' mean?",
+      "options": [
+        "Behaviour or acts that cause trouble but are not harmful",
+        "Harmful behaviour",
+        "A type of animal",
+        "A toy"
+      ],
+      "correct_answer": "Behaviour or acts that cause trouble but are not harmful"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "What does 'tis' mean?",
+      "options": [
+        "It is",
+        "It was",
+        "It will",
+        "It can"
+      ],
+      "correct_answer": "It is"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "What does 'scatters' mean?",
+      "options": [
+        "Throws or drops things in different directions",
+        "Collects items carefully",
+        "Hides things",
+        "Breaks things"
+      ],
+      "correct_answer": "Throws or drops things in different directions"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "What does 'prithee' mean?",
+      "options": [
+        "An exclamation used when asking politely",
+        "An insult",
+        "A greeting",
+        "A sound of anger"
+      ],
+      "correct_answer": "An exclamation used when asking politely"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "What does 'damp' mean?",
+      "options": [
+        "Slightly wet",
+        "Completely dry",
+        "Very wet",
+        "Frozen"
+      ],
+      "correct_answer": "Slightly wet"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "What does 'mislaid' mean?",
+      "options": [
+        "Put something somewhere and then be unable to find it for a short time",
+        "Thrown away",
+        "Lost forever",
+        "Hidden intentionally"
+      ],
+      "correct_answer": "Put something somewhere and then be unable to find it for a short time"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "What does 'soil' mean?",
+      "options": [
+        "Become dirty",
+        "Clean",
+        "Wash",
+        "Paint"
+      ],
+      "correct_answer": "Become dirty"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "What does 'ajar' mean?",
+      "options": [
+        "Slightly open",
+        "Completely closed",
+        "Wide open",
+        "Locked"
+      ],
+      "correct_answer": "Slightly open"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "What are 'blinds'?",
+      "options": [
+        "Rolls of cloth fixed at the top of a window to block sunlight",
+        "Curtains",
+        "Doors",
+        "Windows"
+      ],
+      "correct_answer": "Rolls of cloth fixed at the top of a window to block sunlight"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "What is the poem mostly about?",
+      "options": [
+        "An actual person who does mischief",
+        "An imaginary person blamed for mischief",
+        "Everybody in the house",
+        "Animals causing trouble"
+      ],
+      "correct_answer": "An imaginary person blamed for mischief"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "Which of the following is a comparison?",
+      "options": [
+        "A funny little man",
+        "As quiet as a mouse",
+        "'Tis he who always tears out books",
+        "Cracks plates"
+      ],
+      "correct_answer": "As quiet as a mouse"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "In 'He pulls the buttons from our shirts, and scatters pins afar;', what does 'afar' mean?",
+      "options": [
+        "At a distance",
+        "Close by",
+        "Nowhere",
+        "Near the table"
+      ],
+      "correct_answer": "At a distance"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "Who is blamed for putting damp wood upon the fire?",
+      "options": [
+        "Mr Nobody",
+        "Helen",
+        "Mother",
+        "Father"
+      ],
+      "correct_answer": "Mr Nobody"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "What is the effect of the damp wood on the fire?",
+      "options": [
+        "It stops the kettles from boiling",
+        "It burns fast",
+        "It makes smoke only",
+        "It lights the room"
+      ],
+      "correct_answer": "It stops the kettles from boiling"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "What soils the carpets?",
+      "options": [
+        "The feet of Mr Nobody bringing in mud",
+        "The dogs",
+        "The children",
+        "Water from rain"
+      ],
+      "correct_answer": "The feet of Mr Nobody bringing in mud"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "Which of the following are rhyming pairs from the poem?",
+      "options": [
+        "mouse-house and made-fade",
+        "man-done and spill-all",
+        "ajar-afar only",
+        "spill-all only"
+      ],
+      "correct_answer": "mouse-house and made-fade"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "Complete the list of mischief and mess described in the poem: Cracks plates, Tears out books, Leaves the door ajar, Pulls buttons from shirts, Scatters pins, Does not oil the door, Puts damp wood on the fire, Brings in mud, Soils the carpets, Mislays papers, Leaves the blinds open, Spills ink, Leaves boots lying around. What is this showing?",
+      "options": [
+        "That Mr Nobody is blamed for all mischief and mess in the house",
+        "That Helen causes mischief",
+        "That animals are naughty",
+        "That the children are messy"
+      ],
+      "correct_answer": "That Mr Nobody is blamed for all mischief and mess in the house"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "What does the poet want to show through the poem?",
+      "options": [
+        "Whenever there is mischief or mess, everyone blames it on Mr Nobody",
+        "Everyone is responsible for mischief",
+        "The house is messy",
+        "Children play too much"
+      ],
+      "correct_answer": "Whenever there is mischief or mess, everyone blames it on Mr Nobody"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "Write M against metaphors and S against similes: 'Books are treasure chests.'",
+      "options": [
+        "M",
+        "S"
+      ],
+      "correct_answer": "M"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "Write M against metaphors and S against similes: 'Reading a book is like taking a journey into new lands.'",
+      "options": [
+        "M",
+        "S"
+      ],
+      "correct_answer": "S"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "Write M against metaphors and S against similes: 'My pillow feels as soft as a cloud.'",
+      "options": [
+        "M",
+        "S"
+      ],
+      "correct_answer": "S"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "Write M against metaphors and S against similes: 'My grandmother is a mountain of strength.'",
+      "options": [
+        "M",
+        "S"
+      ],
+      "correct_answer": "M"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "Write M against metaphors and S against similes: 'Our teacher is a walking encyclopaedia.'",
+      "options": [
+        "M",
+        "S"
+      ],
+      "correct_answer": "M"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "Write M against metaphors and S against similes: 'Nurses are angels.'",
+      "options": [
+        "M",
+        "S"
+      ],
+      "correct_answer": "M"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "Write M against metaphors and S against similes: 'The setting sun was like a pot of melting butter.'",
+      "options": [
+        "M",
+        "S"
+      ],
+      "correct_answer": "S"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "Write M against metaphors and S against similes: 'This train moves as slow as a snail.'",
+      "options": [
+        "M",
+        "S"
+      ],
+      "correct_answer": "S"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "Use similes to describe yourself.",
+      "options": [
+        "I am as brave as a lion, I am as funny as a clown, I am as smart as a fox, I am as sweet as honey, I am as happy as a lark, I am as loud as thunder",
+        "I am a lion, I am a clown",
+        "I am smart",
+        "I am sweet"
+      ],
+      "correct_answer": "I am as brave as a lion, I am as funny as a clown, I am as smart as a fox, I am as sweet as honey, I am as happy as a lark, I am as loud as thunder"
+    },
+    {
+      "category": "Poem: Mr Nobody",
+      "question": "Use metaphors to describe any five nouns.",
+      "options": [
+        "The moon is a silver ball, My best friend is a shining star, My class is a beehive of activity, My mother is a guiding light, A tree is a green umbrella",
+        "The moon is bright",
+        "My class is large",
+        "My mother is kind"
+      ],
+      "correct_answer": "The moon is a silver ball, My best friend is a shining star, My class is a beehive of activity, My mother is a guiding light, A tree is a green umbrella"
+    }
+  ]
+}

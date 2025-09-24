@@ -5,6 +5,15 @@ const path = require('path');
 
 app.use(express.json());
 
+// Ensure a directory exists before writing files
+async function ensureDirExists(dirPath) {
+  try {
+    await fs.mkdir(dirPath, { recursive: true });
+  } catch (err) {
+    // ignore errors creating existing dir
+  }
+}
+
 // Save individual attempt
 app.post('/api/save-attempt', async (req, res) => {
   try {
@@ -26,7 +35,8 @@ app.post('/api/save-attempt', async (req, res) => {
       timestamp: new Date().toISOString()
     });
     
-    // Save back to file
+    // Ensure directory and save back to file
+    await ensureDirExists(path.dirname(filePath));
     await fs.writeFile(filePath, JSON.stringify(attempts, null, 2));
     
     res.json({ success: true });
@@ -38,7 +48,22 @@ app.post('/api/save-attempt', async (req, res) => {
 // Save test result
 app.post('/api/save-test-result', async (req, res) => {
   try {
-    const testData = req.body;
+    const incoming = req.body || {};
+    const attempted = Number(incoming.attemptedQuestions || 0);
+    const correct = Number(incoming.correctAnswers || 0);
+    const percentage = attempted > 0 ? Math.round((correct / attempted) * 100) : 0;
+    const grade = percentage >= 90 ? 'A+' :
+                  percentage >= 80 ? 'A' :
+                  percentage >= 70 ? 'B+' :
+                  percentage >= 60 ? 'B' :
+                  percentage >= 50 ? 'C' : 'D';
+
+    const testData = {
+      ...incoming,
+      percentage,
+      grade,
+      timestamp: incoming.timestamp || new Date().toISOString()
+    };
     const filePath = path.join(__dirname, 'data', 'test-results.json');
     
     let results = [];
@@ -51,6 +76,7 @@ app.post('/api/save-test-result', async (req, res) => {
     
     results.push(testData);
     
+    await ensureDirExists(path.dirname(filePath));
     await fs.writeFile(filePath, JSON.stringify(results, null, 2));
     
     res.json({ success: true });
