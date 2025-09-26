@@ -819,6 +819,1037 @@
         "Water pollution"
       ],
       "correct_answer": "Air pollution from smoke and gases"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "What is the meaning of 'Responsibility'?",
+      "options": [
+        "A right to vote",
+        "A duty to take care of somebody or something",
+        "A type of property",
+        "A government rule"
+      ],
+      "correct_answer": "A duty to take care of somebody or something"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "What is a 'Citizen'?",
+      "options": [
+        "A person who stands for election",
+        "A person who belongs to a country or city",
+        "A type of property owner",
+        "A government officer"
+      ],
+      "correct_answer": "A person who belongs to a country or city"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "What is 'Public Property'?",
+      "options": [
+        "Personal belongings",
+        "Things owned by the government for everyone’s use",
+        "Private homes",
+        "School furniture"
+      ],
+      "correct_answer": "Things owned by the government for everyone’s use"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "What is 'Private Property'?",
+      "options": [
+        "Roads and parks",
+        "Things owned by individuals or groups",
+        "Government monuments",
+        "Playgrounds"
+      ],
+      "correct_answer": "Things owned by individuals or groups"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Who is a 'Candidate'?",
+      "options": [
+        "A person who belongs to a city",
+        "A person who stands for election",
+        "A person who votes",
+        "A person who teaches civics"
+      ],
+      "correct_answer": "A person who stands for election"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "What is a 'Polling Booth'?",
+      "options": [
+        "A place where citizens meet",
+        "The place where voters go to vote in elections",
+        "A government office",
+        "A private property"
+      ],
+      "correct_answer": "The place where voters go to vote in elections"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "How does civic sense apply to students while in school?",
+      "options": [
+        "By ignoring rules",
+        "By keeping the school clean and safe",
+        "By damaging property",
+        "By not helping others"
+      ],
+      "correct_answer": "By keeping the school clean and safe"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Who was a good neighbour to the injured men?",
+      "options": [
+        "The man who ignored them",
+        "The man who stopped his car to help",
+        "The people who walked away",
+        "None of the above"
+      ],
+      "correct_answer": "The man who stopped his car to help"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Why do people spoil monuments and burn public property?",
+      "options": [
+        "To show respect",
+        "Because of carelessness, anger, or lack of respect",
+        "To clean them",
+        "To protect them"
+      ],
+      "correct_answer": "Because of carelessness, anger, or lack of respect"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Why is it important for citizens to vote?",
+      "options": [
+        "To damage property",
+        "To elect representatives and participate in democracy",
+        "To avoid rules",
+        "To ignore responsibilities"
+      ],
+      "correct_answer": "To elect representatives and participate in democracy"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Fill in the blank: Facilities such as roads, buses and parks, which are for everyone, are called ____.",
+      "options": [
+        "Private property",
+        "Public property",
+        "Personal property",
+        "School property"
+      ],
+      "correct_answer": "Public property"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Who can vote in India?",
+      "options": [
+        "Anyone",
+        "Children under 10",
+        "Citizens aged 18 years and above",
+        "Only government workers"
+      ],
+      "correct_answer": "Citizens aged 18 years and above"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is the Hydrosphere?",
+      "options": [
+        "All living things",
+        "All water on Earth",
+        "Solid rocks and soil",
+        "The air around us"
+      ],
+      "correct_answer": "All water on Earth"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is the Atmosphere?",
+      "options": [
+        "Water bodies",
+        "The layer of gases surrounding Earth",
+        "The solid crust",
+        "Habitats"
+      ],
+      "correct_answer": "The layer of gases surrounding Earth"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is the Lithosphere?",
+      "options": [
+        "Air layer",
+        "Water vapor",
+        "Solid outer part of Earth",
+        "Living beings"
+      ],
+      "correct_answer": "Solid outer part of Earth"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is the Biosphere?",
+      "options": [
+        "Mountains",
+        "All habitats where living things live",
+        "Air and gases",
+        "Water cycle"
+      ],
+      "correct_answer": "All habitats where living things live"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is Precipitation?",
+      "options": [
+        "Water turning to vapor",
+        "Water falling as rain or snow",
+        "Cloud formation",
+        "Plants growing"
+      ],
+      "correct_answer": "Water falling as rain or snow"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "How much of Earth’s surface is covered with water?",
+      "options": [
+        "One-fourth",
+        "Half",
+        "Three-fourths",
+        "All of it"
+      ],
+      "correct_answer": "Three-fourths"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "Name the seven continents.",
+      "options": [
+        "Asia, Africa, Europe, North America, South America, Antarctica, Australia",
+        "Asia, Africa, Europe, USA, Canada, Antarctica, Australia",
+        "Asia, Africa, Europe, North America, South America, Greenland, Australia",
+        "None of these"
+      ],
+      "correct_answer": "Asia, Africa, Europe, North America, South America, Antarctica, Australia"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "What is a mountain range?",
+      "options": [
+        "A single tall mountain",
+        "A group of joined mountains",
+        "A desert area",
+        "A flat land"
+      ],
+      "correct_answer": "A group of joined mountains"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "What is a plateau?",
+      "options": [
+        "Low land",
+        "Elevated flat land",
+        "A desert",
+        "A sea"
+      ],
+      "correct_answer": "Elevated flat land"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "Fill in the blank: An island is ____.",
+      "options": [
+        "Water surrounded by land",
+        "Land surrounded by water",
+        "Flat land",
+        "Mountain top"
+      ],
+      "correct_answer": "Land surrounded by water"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What is Pollution?",
+      "options": [
+        "Cleaning air and water",
+        "Adding harmful substances to the environment",
+        "Growing more plants",
+        "Recycling waste"
+      ],
+      "correct_answer": "Adding harmful substances to the environment"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What is Smog?",
+      "options": [
+        "Clean air",
+        "Mix of smoke and fog",
+        "Pure oxygen",
+        "Rainfall"
+      ],
+      "correct_answer": "Mix of smoke and fog"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What causes fish to die suddenly in water?",
+      "options": [
+        "Freshwater",
+        "Industrial waste and sewage",
+        "Clean rivers",
+        "Evaporation"
+      ],
+      "correct_answer": "Industrial waste and sewage"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What unit is sound measured in?",
+      "options": [
+        "Meters",
+        "Litres",
+        "Decibels",
+        "Kilograms"
+      ],
+      "correct_answer": "Decibels"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "Which type of pollution is caused by loudspeakers?",
+      "options": [
+        "Soil pollution",
+        "Air pollution",
+        "Noise pollution",
+        "Water pollution"
+      ],
+      "correct_answer": "Noise pollution"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What is non-biodegradable waste?",
+      "options": [
+        "Paper",
+        "Vegetable peels",
+        "Plastic",
+        "Leaves"
+      ],
+      "correct_answer": "Plastic"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What is the correct 'R' for using old towels for cleaning?",
+      "options": [
+        "Reduce",
+        "Reuse",
+        "Recycle",
+        "Reject"
+      ],
+      "correct_answer": "Reuse"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "What is Civics?",
+      "options": [
+        "A subject about numbers",
+        "A subject that teaches about citizens’ duties and government",
+        "A type of property",
+        "A festival"
+      ],
+      "correct_answer": "A subject that teaches about citizens’ duties and government"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Why do you think the others did not stop to help the injured men?",
+      "options": [
+        "They were afraid of police",
+        "They thought only about themselves and did not care",
+        "They were in a hurry",
+        "They wanted to call later"
+      ],
+      "correct_answer": "They thought only about themselves and did not care"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Can we be good neighbours to people we do not know?",
+      "options": [
+        "No, only to friends",
+        "Yes, by being kind and helpful to everyone",
+        "Only to relatives",
+        "Never"
+      ],
+      "correct_answer": "Yes, by being kind and helpful to everyone"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Why should citizens take care of public and private property?",
+      "options": [
+        "Because it belongs to no one",
+        "Because both belong to people and must be respected",
+        "To get money",
+        "To avoid fines only"
+      ],
+      "correct_answer": "Because both belong to people and must be respected"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Why do we have rules? What would happen if there were no rules?",
+      "options": [
+        "Rules create chaos",
+        "Rules keep society orderly; without them there would be confusion",
+        "Rules are only for schools",
+        "Rules are not needed"
+      ],
+      "correct_answer": "Rules keep society orderly; without them there would be confusion"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "What do we learn in Civics?",
+      "options": [
+        "About sports",
+        "About history",
+        "About citizens’ rights, duties, responsibilities, and government",
+        "About mathematics"
+      ],
+      "correct_answer": "About citizens’ rights, duties, responsibilities, and government"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Why should we take care of historical buildings?",
+      "options": [
+        "Because they are our heritage and must be preserved",
+        "Because they are new",
+        "Because no one visits them",
+        "Because they are private"
+      ],
+      "correct_answer": "Because they are our heritage and must be preserved"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Write three sentences about a good citizen.",
+      "options": [
+        "A good citizen damages property",
+        "A good citizen helps others, respects property, and follows rules",
+        "A good citizen never votes",
+        "A good citizen avoids responsibility"
+      ],
+      "correct_answer": "A good citizen helps others, respects property, and follows rules"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Tick (√) or Cross (×): People throw garbage in a dustbin after a picnic.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "correct_answer": "√"
+    },
+    {
+      "category": "Chapter 4: A Good Citizen",
+      "question": "Tick (√) or Cross (×): Students play cricket using school furniture.",
+      "options": [
+        "√",
+        "×"
+      ],
+      "correct_answer": "×"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is Evaporation?",
+      "options": [
+        "Turning water into ice",
+        "Process of water turning into vapor when heated",
+        "Rain falling to Earth",
+        "Air movement"
+      ],
+      "correct_answer": "Process of water turning into vapor when heated"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is Condensation?",
+      "options": [
+        "Water vapor cooling into liquid",
+        "Water heating into vapor",
+        "Plants making food",
+        "Snow melting"
+      ],
+      "correct_answer": "Water vapor cooling into liquid"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "What is a Habitat?",
+      "options": [
+        "Place where plants and animals live",
+        "Only deserts",
+        "Only oceans",
+        "Air around Earth"
+      ],
+      "correct_answer": "Place where plants and animals live"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "Name the four domains of the Earth.",
+      "options": [
+        "Hydrosphere, Atmosphere, Lithosphere, Biosphere",
+        "Air, Land, Fire, Water",
+        "Mountains, Rivers, Forests, Deserts",
+        "North, South, East, West"
+      ],
+      "correct_answer": "Hydrosphere, Atmosphere, Lithosphere, Biosphere"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "Why is soil important?",
+      "options": [
+        "For animals to drink",
+        "For plants to grow and life to survive",
+        "For building houses only",
+        "It is not important"
+      ],
+      "correct_answer": "For plants to grow and life to survive"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "How does the biosphere depend on other domains?",
+      "options": [
+        "It does not depend",
+        "It needs water, air, and soil to support life",
+        "It only needs air",
+        "It only needs soil"
+      ],
+      "correct_answer": "It needs water, air, and soil to support life"
+    },
+    {
+      "category": "Chapter 5: The Four Domains of Earth",
+      "question": "Name three types of habitats.",
+      "options": [
+        "Underwater, Jungle, Desert",
+        "School, Office, Playground",
+        "Road, Park, Bridge",
+        "None"
+      ],
+      "correct_answer": "Underwater, Jungle, Desert"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "What is a Sea?",
+      "options": [
+        "Large water body connected to oceans",
+        "Flat land",
+        "A desert",
+        "A plateau"
+      ],
+      "correct_answer": "Large water body connected to oceans"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "What forms plains?",
+      "options": [
+        "Mountains growing",
+        "Soil deposited by rivers during floods",
+        "Desert winds",
+        "Oceans drying"
+      ],
+      "correct_answer": "Soil deposited by rivers during floods"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "Name two types of deserts.",
+      "options": [
+        "Hot deserts and cold deserts",
+        "Green deserts and dry deserts",
+        "Hilly deserts and flat deserts",
+        "None"
+      ],
+      "correct_answer": "Hot deserts and cold deserts"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "Multiple choice: Hills of sand are called ____.",
+      "options": [
+        "Peaks",
+        "Dunes",
+        "Valleys",
+        "Plains"
+      ],
+      "correct_answer": "Dunes"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "Multiple choice: A group of islands is called ____.",
+      "options": [
+        "Archipelago",
+        "Strait",
+        "Plateau",
+        "Valley"
+      ],
+      "correct_answer": "Archipelago"
+    },
+    {
+      "category": "Chapter 6: Major Geographical Forms",
+      "question": "Multiple choice: Land surrounded by sea on three sides is a ____.",
+      "options": [
+        "Peninsula",
+        "Island",
+        "Isthmus",
+        "Coast"
+      ],
+      "correct_answer": "Peninsula"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What is Ozone?",
+      "options": [
+        "Gas that protects Earth from harmful sun rays",
+        "Water vapor",
+        "Air pollution",
+        "Soil mineral"
+      ],
+      "correct_answer": "Gas that protects Earth from harmful sun rays"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What is Sewage?",
+      "options": [
+        "Clean water",
+        "Waste water from toilets",
+        "Factory smoke",
+        "Rain water"
+      ],
+      "correct_answer": "Waste water from toilets"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What is meant by 'Treat' in pollution control?",
+      "options": [
+        "To punish",
+        "To clean or make safe",
+        "To burn waste",
+        "To recycle"
+      ],
+      "correct_answer": "To clean or make safe"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What kind of pollution causes watery eyes in traffic?",
+      "options": [
+        "Noise pollution",
+        "Air pollution",
+        "Water pollution",
+        "Soil pollution"
+      ],
+      "correct_answer": "Air pollution"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "How does noise pollution affect people and animals?",
+      "options": [
+        "Causes hearing loss and stress",
+        "Makes plants grow",
+        "Produces clean energy",
+        "Helps sleep"
+      ],
+      "correct_answer": "Causes hearing loss and stress"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What causes soil pollution?",
+      "options": [
+        "Factory chemicals, pesticides, dumping plastic, acid rain",
+        "Fresh air",
+        "Clean water",
+        "Rainfall"
+      ],
+      "correct_answer": "Factory chemicals, pesticides, dumping plastic, acid rain"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "Factories must ___ before releasing waste.",
+      "options": [
+        "Burn it",
+        "Purify it",
+        "Throw it",
+        "Ignore it"
+      ],
+      "correct_answer": "Purify it"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "Identify pollution type: Factory smoke.",
+      "options": [
+        "Soil pollution",
+        "Air pollution",
+        "Noise pollution",
+        "Water pollution"
+      ],
+      "correct_answer": "Air pollution"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What are the problems of oil spills?",
+      "options": [
+        "Harm aquatic life and pollute water",
+        "Clean the sea",
+        "Help fish grow",
+        "Reduce pollution"
+      ],
+      "correct_answer": "Harm aquatic life and pollute water"
+    },
+    {
+      "category": "Chapter 17: Our Environment – Pollution and Protection",
+      "question": "What are the long-term effects of soil pollution?",
+      "options": [
+        "Reduced soil fertility and harm to plants and animals",
+        "Better crops",
+        "More forests",
+        "Cleaner air"
+      ],
+      "correct_answer": "Reduced soil fertility and harm to plants and animals"
+    },
+    {
+      "category": "A Good Citizen",
+      "question": "Give one example of a historical building in India.",
+      "options": [
+        "Red Fort",
+        "Marine Drive",
+        "Charminar",
+        "Gateway of India"
+      ],
+      "correct_answer": "Red Fort"
+    },
+    {
+      "category": "A Good Citizen",
+      "question": "Name one quality you should show as a good neighbour.",
+      "options": [
+        "Helping in need",
+        "Being rude",
+        "Making noise",
+        "Damaging property"
+      ],
+      "correct_answer": "Helping in need"
+    },
+    {
+      "category": "The Four Domains of Earth",
+      "question": "Why is the atmosphere important for life?",
+      "options": [
+        "It provides oxygen to breathe",
+        "It has rocks and soil",
+        "It contains rivers",
+        "It is home to animals"
+      ],
+      "correct_answer": "It provides oxygen to breathe"
+    },
+    {
+      "category": "The Four Domains of Earth",
+      "question": "Give one example each of lithosphere, hydrosphere, atmosphere, and biosphere.",
+      "options": [
+        "Mountain, River, Air, Forest",
+        "Desert, Ocean, Soil, Grass",
+        "Island, Rain, Breeze, Animals",
+        "Hill, Lake, Clouds, Trees"
+      ],
+      "correct_answer": "Mountain, River, Air, Forest"
+    },
+    {
+      "category": "Major Geographical Forms",
+      "question": "Name one example of a peninsula, a strait, an archipelago, and an isthmus.",
+      "options": [
+        "India, Palk Strait, Andaman & Nicobar Islands, Panama Isthmus",
+        "Australia, Malacca Strait, Maldives, Sahara",
+        "Africa, Bering Strait, Lakshadweep, Himalaya",
+        "Europe, Gibraltar, Iceland, Arctic"
+      ],
+      "correct_answer": "India, Palk Strait, Andaman & Nicobar Islands, Panama Isthmus"
+    },
+    {
+      "category": "Major Geographical Forms",
+      "question": "How do rivers help human beings?",
+      "options": [
+        "Provide water for drinking, farming, and transport",
+        "Make deserts",
+        "Form islands",
+        "Create sand dunes"
+      ],
+      "correct_answer": "Provide water for drinking, farming, and transport"
+    },
+    {
+      "category": "Our Environment – Pollution and Protection",
+      "question": "What is global warming?",
+      "options": [
+        "Increase in Earth's temperature due to greenhouse gases",
+        "Decrease in Earth's temperature",
+        "Seasonal change of weather",
+        "Formation of clouds"
+      ],
+      "correct_answer": "Increase in Earth's temperature due to greenhouse gases"
+    },
+    {
+      "category": "Our Environment – Pollution and Protection",
+      "question": "How can planting trees reduce pollution?",
+      "options": [
+        "They absorb carbon dioxide and give oxygen",
+        "They make deserts",
+        "They cause soil erosion",
+        "They increase noise"
+      ],
+      "correct_answer": "They absorb carbon dioxide and give oxygen"
+    },
+    {
+      "category": "The Four Domains of Earth",
+      "question": "Which domain of the Earth contains air?",
+      "options": [
+        "Lithosphere",
+        "Hydrosphere",
+        "Atmosphere",
+        "Biosphere"
+      ],
+      "correct_answer": "Atmosphere"
+    },
+    {
+      "category": "Major Geographical Forms",
+      "question": "Which landform is most suitable for farming and settlement?",
+      "options": [
+        "Mountains",
+        "Plateaus",
+        "Plains",
+        "Deserts"
+      ],
+      "correct_answer": "Plains"
+    },
+    {
+      "category": "A Good Citizen",
+      "question": "Which of these shows responsible behaviour?",
+      "options": [
+        "Throwing garbage on the road",
+        "Helping elders cross the road",
+        "Damaging public property",
+        "Quarrelling in public places"
+      ],
+      "correct_answer": "Helping elders cross the road"
+    },
+    {
+      "category": "The Four Domains of Earth",
+      "question": "Which two domains together support life?",
+      "options": [
+        "Lithosphere and Atmosphere",
+        "Hydrosphere and Lithosphere",
+        "Atmosphere and Hydrosphere",
+        "Biosphere and Hydrosphere"
+      ],
+      "correct_answer": "Biosphere and Hydrosphere"
+    },
+    {
+      "category": "Our Environment – Pollution and Protection",
+      "question": "Which of these is a type of pollution?",
+      "options": [
+        "Air",
+        "Noise",
+        "Water",
+        "All of these"
+      ],
+      "correct_answer": "All of these"
+    },
+    {
+      "category": "A Good Citizen",
+      "question": "Assertion (A): A good citizen enjoys rights. Reason (R): Rights are given without any responsibilities.",
+      "options": [
+        "Both A and R are true",
+        "Both A and R are false",
+        "A is true, R is false",
+        "A is false, R is true"
+      ],
+      "correct_answer": "A is true, R is false"
+    },
+    {
+      "category": "The Four Domains of Earth",
+      "question": "Which of the following pairs is incorrectly matched?",
+      "options": [
+        "Lithosphere – Land",
+        "Hydrosphere – Water",
+        "Atmosphere – Animals",
+        "Biosphere – Life"
+      ],
+      "correct_answer": "Atmosphere – Animals"
+    },
+    {
+      "category": "Our Environment – Pollution and Protection",
+      "question": "Which of the following is NOT a preventive measure for pollution?",
+      "options": [
+        "Using public transport",
+        "Growing more trees",
+        "Burning plastic waste",
+        "Recycling paper"
+      ],
+      "correct_answer": "Burning plastic waste"
+    },
+    {
+      "category": "A Good Citizen",
+      "question": "Identify the incorrect statement.",
+      "options": [
+        "Citizens must follow laws of the country",
+        "Good citizens care for their community",
+        "Citizens should ignore social duties as long as they pay taxes",
+        "Respecting national symbols is a duty of every citizen"
+      ],
+      "correct_answer": "Citizens should ignore social duties as long as they pay taxes"
+    },
+    {
+      "category": "The Four Domains of Earth",
+      "question": "Which of these combinations is essential for survival of humans?",
+      "options": [
+        "Lithosphere + Atmosphere",
+        "Atmosphere + Hydrosphere + Lithosphere",
+        "Biosphere only",
+        "Atmosphere + Biosphere"
+      ],
+      "correct_answer": "Atmosphere + Hydrosphere + Lithosphere"
+    },
+    {
+      "category": "Major Geographical Forms",
+      "question": "Plateaus are also called tablelands. (True/False)",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Our Environment – Pollution and Protection",
+      "question": "Pollution has no effect on the health of living beings. (True/False)",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Major Geographical Forms",
+      "question": "Valleys are formed between mountains and hills. (True/False)",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "The Four Domains of Earth",
+      "question": "The biosphere is the zone where life exists on Earth. (True/False)",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Our Environment – Pollution and Protection",
+      "question": "Cutting trees helps in protecting the environment. (True/False)",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "The Four Domains of Earth",
+      "question": "Meaning of Precipitation?",
+      "options": [
+        "Any form of water that falls from the sky",
+        "Formation of valleys",
+        "Eruption of volcano",
+        "Shaking of Earth"
+      ],
+      "correct_answer": "Any form of water that falls from the sky"
+    },
+    {
+      "category": "A Good Citizen",
+      "question": "Meaning of Polling booth?",
+      "options": [
+        "Place where voting takes place",
+        "Place where laws are made",
+        "Place where elections are announced",
+        "Place where citizens gather"
+      ],
+      "correct_answer": "Place where voting takes place"
+    },
+    {
+      "category": "The Four Domains of Earth",
+      "question": "Meaning of Domain?",
+      "options": [
+        "A part of the Earth’s surface",
+        "A national boundary",
+        "A political area",
+        "An ocean current"
+      ],
+      "correct_answer": "A part of the Earth’s surface"
+    },
+    {
+      "category": "Major Geographical Forms",
+      "question": "Meaning of Archipelago?",
+      "options": [
+        "A group of islands",
+        "A large mountain",
+        "A desert area",
+        "A frozen river"
+      ],
+      "correct_answer": "A group of islands"
+    },
+    {
+      "category": "Our Environment – Pollution and Protection",
+      "question": "Meaning of Decibel?",
+      "options": [
+        "Unit of measuring sound",
+        "Unit of measuring distance",
+        "Unit of measuring weight",
+        "Unit of measuring rainfall"
+      ],
+      "correct_answer": "Unit of measuring sound"
+    },
+    {
+      "category": "Major Geographical Forms",
+      "question": "Which landform is most suitable for farming?",
+      "options": [
+        "Mountains",
+        "Plateaus",
+        "Plains",
+        "Deserts"
+      ],
+      "correct_answer": "Plains"
+    },
+    {
+      "category": "Our Environment – Pollution and Protection",
+      "question": "Name two main causes of air pollution.",
+      "options": [
+        "Smoke from factories and vehicles",
+        "Planting trees and recycling",
+        "Burning compost and soil",
+        "Rain and snowfall"
+      ],
+      "correct_answer": "Smoke from factories and vehicles"
+    },
+    {
+      "category": "A Good Citizen",
+      "question": "Why should we follow traffic rules?",
+      "options": [
+        "To prevent accidents and maintain order",
+        "To waste time on roads",
+        "To avoid paying taxes",
+        "To damage public property"
+      ],
+      "correct_answer": "To prevent accidents and maintain order"
+    },
+    {
+      "category": "The Four Domains of Earth",
+      "question": "Which domain of the Earth contains water?",
+      "options": [
+        "Lithosphere",
+        "Hydrosphere",
+        "Atmosphere",
+        "Biosphere"
+      ],
+      "correct_answer": "Hydrosphere"
+    },
+    {
+      "category": "A Good Citizen",
+      "question": "How can children show good citizenship?",
+      "options": [
+        "By obeying elders and helping in community activities",
+        "By damaging property",
+        "By wasting resources",
+        "By ignoring cleanliness"
+      ],
+      "correct_answer": "By obeying elders and helping in community activities"
     }
   ]
 }

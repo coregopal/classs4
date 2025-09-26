@@ -1,0 +1,396 @@
+{
+  "questions": [
+    {
+      "category": "Storage and Memory Devices",
+      "question": "What is data?",
+      "options": [
+        "Processed information",
+        "Raw facts like name or age",
+        "Computer commands",
+        "Output from a program"
+      ],
+      "correct_answer": "Raw facts like name or age",
+      "explanation": "Data refers to unprocessed raw facts (e.g., your name or roll number)."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "What is the difference between data and information?",
+      "options": [
+        "Data is processed, information is raw",
+        "Data is raw, information is processed",
+        "They are the same thing",
+        "Data is digital, information is analog"
+      ],
+      "correct_answer": "Data is raw, information is processed",
+      "explanation": "Data refers to raw facts, while information is the meaningful output after processing data."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "What are instructions in computing?",
+      "options": [
+        "Raw facts entered into a computer",
+        "Commands that tell the computer what to do",
+        "The output produced by a computer",
+        "Memory storage devices"
+      ],
+      "correct_answer": "Commands that tell the computer what to do",
+      "explanation": "Instructions are commands that direct the computer's operations."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "What is the IPO cycle in a mixer blender example?",
+      "options": [
+        "Input: Mango shake, Process: Blending, Output: Ingredients",
+        "Input: Mango pulp/milk/sugar, Process: Blending, Output: Mango shake",
+        "Input: Blender, Process: Mixing, Output: Juice",
+        "None of these"
+      ],
+      "correct_answer": "Input: Mango pulp/milk/sugar, Process: Blending, Output: Mango shake",
+      "explanation": "IPO cycle: Input (ingredients) → Process (blending) → Output (mango shake)."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "In the IPO cycle for drawing a triangle, what would be the output?",
+      "options": [
+        "Three numbers representing sides",
+        "The command 'draw triangle'",
+        "A triangle drawing",
+        "A blank screen"
+      ],
+      "correct_answer": "A triangle drawing",
+      "explanation": "The output is the visual result of processing the input (three sides) with the instruction."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "How many bits are in a byte?",
+      "options": ["4", "8", "12", "16"],
+      "correct_answer": "8",
+      "explanation": "1 byte = 8 bits, the fundamental unit of computer memory."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "What is 1 nibble equal to?",
+      "options": ["2 bits", "4 bits", "8 bits", "16 bits"],
+      "correct_answer": "4 bits",
+      "explanation": "A nibble is 4 bits, used in older computing devices."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "1 KB is equal to how many bytes?",
+      "options": ["1000 bytes", "1024 bytes", "8 bytes", "2048 bytes"],
+      "correct_answer": "1024 bytes",
+      "explanation": "1 Kilobyte (KB) = 1024 bytes in binary systems."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "1 PB (Petabyte) is equal to:",
+      "options": ["1024 TB", "1024 GB", "1024 MB", "1024 KB"],
+      "correct_answer": "1024 TB",
+      "explanation": "1 PB = 1024 TB (as per the conversion hierarchy: PB → TB → GB → MB → KB)."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "Which is larger: 1 MB or 1024 KB?",
+      "options": [
+        "1 MB is larger",
+        "1024 KB is larger",
+        "They are equal",
+        "Depends on the computer"
+      ],
+      "correct_answer": "They are equal",
+      "explanation": "1 MB = 1024 KB in binary systems."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "Which memory is non-volatile?",
+      "options": ["RAM", "Cache", "ROM", "None of these"],
+      "correct_answer": "ROM",
+      "explanation": "ROM (Read-Only Memory) retains data even when power is off."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "Why is RAM compared to a whiteboard with erasable marker?",
+      "options": [
+        "Because it's white in color",
+        "Because it's temporary and can be rewritten",
+        "Because it's only used for drawing",
+        "Because it's very large"
+      ],
+      "correct_answer": "Because it's temporary and can be rewritten",
+      "explanation": "RAM is volatile and can be written/erased repeatedly, like a whiteboard."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "Which type of ROM can be erased using electrical signals?",
+      "options": ["PROM", "EPROM", "EEPROM", "All of these"],
+      "correct_answer": "EEPROM",
+      "explanation": "EEPROM (Electrically Erasable PROM) can be erased electrically."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "What is the full form of PROM?",
+      "options": [
+        "Programmable Read-Only Memory",
+        "Primary Read-Only Memory",
+        "Portable Read-Only Memory",
+        "Protected Read-Only Memory"
+      ],
+      "correct_answer": "Programmable Read-Only Memory",
+      "explanation": "PROM can be programmed once but not erased."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "What is the storage capacity of a CD?",
+      "options": ["4.7 GB", "700 MB", "25 GB", "1 TB"],
+      "correct_answer": "700 MB",
+      "explanation": "A standard CD stores up to 700 MB of data."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "Which device uses a blue-violet laser?",
+      "options": ["CD", "DVD", "Blu-ray", "Hard Disk"],
+      "correct_answer": "Blu-ray",
+      "explanation": "Blu-ray discs use a blue-violet laser for high-capacity storage."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "What is the main advantage of secondary memory?",
+      "options": [
+        "Faster access than primary memory",
+        "Directly accessed by CPU",
+        "Non-volatile and stores large amounts of data",
+        "More expensive than RAM"
+      ],
+      "correct_answer": "Non-volatile and stores large amounts of data",
+      "explanation": "Secondary memory retains data without power and has high capacity."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "Which storage device is magnetic?",
+      "options": ["CD", "DVD", "Hard Disk", "Blu-ray"],
+      "correct_answer": "Hard Disk",
+      "explanation": "Hard disks use magnetic storage, while others are optical."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "Which is NOT an external memory device?",
+      "options": ["Hard Disk", "RAM", "Flash Drive", "DVD"],
+      "correct_answer": "RAM",
+      "explanation": "RAM is internal/primary memory, not external."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "What does 'volatile memory' mean?",
+      "options": [
+        "Memory that retains data without power",
+        "Memory that loses data when power is off",
+        "Memory used only for reading",
+        "Memory with slow access speed"
+      ],
+      "correct_answer": "Memory that loses data when power is off",
+      "explanation": "Volatile memory (e.g., RAM) requires power to retain data."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "Which is true about primary memory?",
+      "options": [
+        "Slower than secondary memory",
+        "Includes hard disks and CDs",
+        "Directly accessed by the CPU",
+        "Non-volatile only"
+      ],
+      "correct_answer": "Directly accessed by the CPU",
+      "explanation": "Primary memory (RAM/ROM) is faster and directly accessible to the CPU."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "What does 'DVD' stand for?",
+      "options": [
+        "Digital Video Disc",
+        "Digital Versatile Disc",
+        "Data Volume Device",
+        "Dynamic Visual Data"
+      ],
+      "correct_answer": "Digital Versatile Disc",
+      "explanation": "DVD originally stood for Digital Video Disc but now means Digital Versatile Disc."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "What is a flash drive?",
+      "options": [
+        "A type of RAM",
+        "A portable USB storage device",
+        "An optical disc reader",
+        "A computer processor"
+      ],
+      "correct_answer": "A portable USB storage device",
+      "explanation": "Flash drives are portable USB-based storage devices."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "What is computer language represented in bits called?",
+      "options": [
+        "Machine language",
+        "Binary language",
+        "Programming language",
+        "Assembly language"
+      ],
+      "correct_answer": "Binary language",
+      "explanation": "Computers use binary (0s and 1s) as their fundamental language."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "Is primary memory also called internal memory?",
+      "options": ["True", "False"],
+      "correct_answer": "True",
+      "explanation": "Primary memory (RAM/ROM) is directly accessible by CPU and called internal memory."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "Which can store more: a CD or a DVD?",
+      "options": ["CD", "DVD", "They store the same", "Depends on brand"],
+      "correct_answer": "DVD",
+      "explanation": "DVDs (4.7GB) store more than CDs (700MB)."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "1 TB is equal to how many GB?",
+      "options": ["100 GB", "512 GB", "1024 GB", "2048 GB"],
+      "correct_answer": "1024 GB",
+      "explanation": "1 Terabyte (TB) = 1024 Gigabytes (GB)."
+    },
+    {
+      "category": "Storage and Memory Devices",
+      "question": "Which is NOT a type of ROM?",
+      "options": ["PROM", "EPROM", "EEPROM", "VRAM"],
+      "correct_answer": "VRAM",
+      "explanation": "VRAM is video RAM, not a type of ROM."
+    },
+    {
+      "category": "Desktop Management",
+      "question": "What is the first screen you see when starting a computer?",
+      "options": ["Taskbar", "Desktop", "Start Menu", "Recycle Bin"],
+      "correct_answer": "Desktop",
+      "explanation": "The desktop is the main screen with icons and taskbar."
+    },
+    {
+      "category": "Desktop Management",
+      "question": "What are the small pictures on the desktop called?",
+      "options": ["Wallpapers", "Icons", "Shortcuts", "Thumbnails"],
+      "correct_answer": "Icons",
+      "explanation": "Icons represent files, folders, or programs."
+    },
+    {
+      "category": "Desktop Management",
+      "question": "Which part of the desktop displays the Start button and open programs?",
+      "options": ["Icons", "Taskbar", "Recycle Bin", "Wallpaper"],
+      "correct_answer": "Taskbar",
+      "explanation": "The taskbar is at the bottom of the desktop and includes the Start menu and program buttons."
+    },
+    {
+      "category": "Desktop Management",
+      "question": "Which is NOT part of the taskbar?",
+      "options": [
+        "Start button",
+        "Open program buttons",
+        "System tray",
+        "Desktop icons"
+      ],
+      "correct_answer": "Desktop icons",
+      "explanation": "Desktop icons are on the desktop, not the taskbar."
+    },
+    {
+      "category": "Desktop Management",
+      "question": "What does the system tray contain?",
+      "options": [
+        "Only the clock",
+        "Clock, volume, and notifications",
+        "All installed programs",
+        "Deleted files"
+      ],
+      "correct_answer": "Clock, volume, and notifications",
+      "explanation": "System tray shows system icons like clock and notifications."
+    },
+    {
+      "category": "Desktop Management",
+      "question": "What is the purpose of the Recycle Bin?",
+      "options": [
+        "To store new files",
+        "To temporarily hold deleted files",
+        "To display open programs",
+        "To change the desktop background"
+      ],
+      "correct_answer": "To temporarily hold deleted files",
+      "explanation": "Deleted files go to the Recycle Bin and can be restored before permanent deletion."
+    },
+    {
+      "category": "Desktop Management",
+      "question": "Can files be recovered from the Recycle Bin?",
+      "options": [
+        "Yes, until permanently deleted",
+        "No, once deleted they're gone",
+        "Only if the computer is on",
+        "Only system files can be recovered"
+      ],
+      "correct_answer": "Yes, until permanently deleted",
+      "explanation": "Files stay in Recycle Bin until emptied or restored."
+    },
+    {
+      "category": "Desktop Management",
+      "question": "How do you open a shortcut menu on the desktop?",
+      "options": ["Left-click", "Double-click", "Right-click", "Drag and drop"],
+      "correct_answer": "Right-click",
+      "explanation": "Right-clicking opens a context menu with quick options."
+    },
+    {
+      "category": "Desktop Management",
+      "question": "What is the background image of the desktop called?",
+      "options": ["Icon", "Wallpaper", "Screensaver", "Taskbar"],
+      "correct_answer": "Wallpaper",
+      "explanation": "The wallpaper is the customizable background image or color."
+    },
+    {
+      "category": "Desktop Management",
+      "question": "How can you customize your desktop?",
+      "options": [
+        "Only by changing icons",
+        "By changing wallpaper and screen saver",
+        "Desktop cannot be customized",
+        "Only programmers can customize it"
+      ],
+      "correct_answer": "By changing wallpaper and screen saver",
+      "explanation": "Wallpaper and screen savers are common customization options."
+    },
+    {
+      "category": "Desktop Management",
+      "question": "What happens when you double-click a desktop icon?",
+      "options": [
+        "A shortcut menu appears",
+        "The item opens",
+        "The icon is deleted",
+        "The computer shuts down"
+      ],
+      "correct_answer": "The item opens",
+      "explanation": "Double-clicking opens the file/folder/program."
+    },
+    {
+      "category": "Desktop Management",
+      "question": "What does the Start Menu provide access to?",
+      "options": [
+        "Only installed programs",
+        "Programs, files, and settings",
+        "Only the Recycle Bin",
+        "Only the desktop icons"
+      ],
+      "correct_answer": "Programs, files, and settings",
+      "explanation": "The Start Menu is a hub for programs, files, and system settings."
+    },
+    {
+      "category": "Desktop Management",
+      "question": "Which of these is NOT a part of the desktop?",
+      "options": ["Icons", "Taskbar", "Start Menu", "CPU"],
+      "correct_answer": "CPU",
+      "explanation": "The CPU is hardware inside the computer, not a visible part of the desktop."
+    }
+  ]
+}
