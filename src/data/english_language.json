@@ -1036,127 +1036,6 @@
     },
     {
       "category": "Verb",
-      "question": "Which is correct?",
-      "options": [
-        "She singed a song.",
-        "She sang a song.",
-        "She sings a song.",
-        "She sung a song."
-      ],
-      "correct_answer": "She sang a song."
-    },
-    {
-      "category": "Verb",
-      "question": "Give the base and participle form of 'drank'.",
-      "options": [
-        "Drink – Drunk",
-        "Drink – Drinking",
-        "Drank – Drunken",
-        "Drink – Drinked"
-      ],
-      "correct_answer": "Drink – Drunk"
-    },
-    {
-      "category": "Verb",
-      "question": "Give the three forms of the verb 'go'.",
-      "options": [
-        "Go – Went – Gone",
-        "Go – Goes – Going",
-        "Go – Gone – Going",
-        "Go – Went – Going"
-      ],
-      "correct_answer": "Go – Went – Gone"
-    },
-    {
-      "category": "Verb",
-      "question": "He has ___ (swim) across the river many times.",
-      "options": [
-        "swim",
-        "swam",
-        "swum",
-        "swimming"
-      ],
-      "correct_answer": "swum"
-    },
-    {
-      "category": "Verb",
-      "question": "Write present, past, and past participle of 'begin'.",
-      "options": [
-        "Begin – Began – Begun",
-        "Begin – Begin – Beginned",
-        "Begins – Began – Begun",
-        "Began – Begin – Begun"
-      ],
-      "correct_answer": "Begin – Began – Begun"
-    },
-    {
-      "category": "Verb",
-      "question": "They ___ (choose) the wrong leader yesterday.",
-      "options": [
-        "choosed",
-        "chosen",
-        "chose",
-        "choosing"
-      ],
-      "correct_answer": "chose"
-    },
-    {
-      "category": "Verb",
-      "question": "Which is correct?",
-      "options": [
-        "I had ate my lunch.",
-        "I had eaten my lunch.",
-        "I had eat my lunch.",
-        "I had eating my lunch."
-      ],
-      "correct_answer": "I had eaten my lunch."
-    },
-    {
-      "category": "Verb",
-      "question": "Give the three forms of 'teach'. Regular or irregular?",
-      "options": [
-        "Teach – Taught – Taught (Irregular)",
-        "Teach – Teached – Teached (Regular)",
-        "Teach – Teach – Teaching (Regular)",
-        "Teach – Teaching – Taught (Irregular)"
-      ],
-      "correct_answer": "Teach – Taught – Taught (Irregular)"
-    },
-    {
-      "category": "Verb",
-      "question": "Write the past tense of 'catch'.",
-      "options": [
-        "catched",
-        "catch",
-        "caught",
-        "catches"
-      ],
-      "correct_answer": "caught"
-    },
-    {
-      "category": "Verb",
-      "question": "The thief has ___ (steal) the necklace.",
-      "options": [
-        "steal",
-        "stealed",
-        "stolen",
-        "stealing"
-      ],
-      "correct_answer": "stolen"
-    },
-    {
-      "category": "Verb",
-      "question": "Which is correct?",
-      "options": [
-        "She singed a song.",
-        "She sang a song.",
-        "She sings a song.",
-        "She sung a song."
-      ],
-      "correct_answer": "She sang a song."
-    },
-    {
-      "category": "Verb",
       "question": "Give the base and participle form of 'drank'.",
       "options": [
         "Drink – Drunk",
@@ -1355,17 +1234,6 @@
     },
     {
       "category": "Adjective",
-      "question": "Which is correct?",
-      "options": [
-        "This is the most unique painting.",
-        "This is a unique painting.",
-        "This is the uniquemost painting.",
-        "This painting is more unique."
-      ],
-      "correct_answer": "This is a unique painting."
-    },
-    {
-      "category": "Adjective",
       "question": "He is the ___ (tall) boy in the class.",
       "options": [
         "tall",
@@ -1421,17 +1289,6 @@
     },
     {
       "category": "Adjective",
-      "question": "Which is correct?",
-      "options": [
-        "He is elder than me.",
-        "He is older than me.",
-        "He is more elder than me.",
-        "He is eldest than me."
-      ],
-      "correct_answer": "He is older than me."
-    },
-    {
-      "category": "Adjective",
       "question": "There is ___ milk left in the jug.",
       "options": [
         "few",
@@ -1440,281 +1297,6 @@
         "many"
       ],
       "correct_answer": "little"
-    },
-    {
-      "category": "Verb",
-      "question": "Give the three forms of the verb 'go'.",
-      "options": [
-        "Go – Went – Gone",
-        "Go – Goes – Going",
-        "Go – Gone – Going",
-        "Go – Went – Going"
-      ],
-      "correct_answer": "Go – Went – Gone"
-    },
-    {
-      "category": "Verb",
-      "question": "He has ___ (swim) across the river many times.",
-      "options": [
-        "swim",
-        "swam",
-        "swum",
-        "swimming"
-      ],
-      "correct_answer": "swum"
-    },
-    {
-      "category": "Verb",
-      "question": "Write present, past, and past participle of 'begin'.",
-      "options": [
-        "Begin – Began – Begun",
-        "Begin – Begin – Beginned",
-        "Begins – Began – Begun",
-        "Began – Begin – Begun"
-      ],
-      "correct_answer": "Begin – Began – Begun"
-    },
-    {
-      "category": "Verb",
-      "question": "They ___ (choose) the wrong leader yesterday.",
-      "options": [
-        "choosed",
-        "chosen",
-        "chose",
-        "choosing"
-      ],
-      "correct_answer": "chose"
-    },
-    {
-      "category": "Verb",
-      "question": "Which is correct?",
-      "options": [
-        "I had ate my lunch.",
-        "I had eaten my lunch.",
-        "I had eat my lunch.",
-        "I had eating my lunch."
-      ],
-      "correct_answer": "I had eaten my lunch."
-    },
-    {
-      "category": "Verb",
-      "question": "Give the three forms of 'teach'. Regular or irregular?",
-      "options": [
-        "Teach – Taught – Taught (Irregular)",
-        "Teach – Teached – Teached (Regular)",
-        "Teach – Teach – Teaching (Regular)",
-        "Teach – Teaching – Taught (Irregular)"
-      ],
-      "correct_answer": "Teach – Taught – Taught (Irregular)"
-    },
-    {
-      "category": "Verb",
-      "question": "Write the past tense of 'catch'.",
-      "options": [
-        "catched",
-        "catch",
-        "caught",
-        "catches"
-      ],
-      "correct_answer": "caught"
-    },
-    {
-      "category": "Verb",
-      "question": "The thief has ___ (steal) the necklace.",
-      "options": [
-        "steal",
-        "stealed",
-        "stolen",
-        "stealing"
-      ],
-      "correct_answer": "stolen"
-    },
-    {
-      "category": "Verb",
-      "question": "Which is correct?",
-      "options": [
-        "She singed a song.",
-        "She sang a song.",
-        "She sings a song.",
-        "She sung a song."
-      ],
-      "correct_answer": "She sang a song."
-    },
-    {
-      "category": "Verb",
-      "question": "Give the base and participle form of 'drank'.",
-      "options": [
-        "Drink – Drunk",
-        "Drink – Drinking",
-        "Drank – Drunken",
-        "Drink – Drinked"
-      ],
-      "correct_answer": "Drink – Drunk"
-    },
-    {
-      "category": "Verb",
-      "question": "Identify the participle: 'The crying baby needs attention.'",
-      "options": [
-        "baby",
-        "crying",
-        "attention",
-        "needs"
-      ],
-      "correct_answer": "crying"
-    },
-    {
-      "category": "Verb",
-      "question": "The ___ (break) glass lay on the floor.",
-      "options": [
-        "broke",
-        "breaking",
-        "broken",
-        "breaked"
-      ],
-      "correct_answer": "broken"
-    },
-    {
-      "category": "Verb",
-      "question": "Rewrite: 'The boy who was running fell down.' (use participle)",
-      "options": [
-        "The boy fell running.",
-        "The running boy fell down.",
-        "The run boy fell down.",
-        "The ran boy fell down."
-      ],
-      "correct_answer": "The running boy fell down."
-    },
-    {
-      "category": "Verb",
-      "question": "Underline the past participle: 'The letter was written carefully.'",
-      "options": [
-        "letter",
-        "was",
-        "written",
-        "carefully"
-      ],
-      "correct_answer": "written"
-    },
-    {
-      "category": "Verb",
-      "question": "___ (Tire) after work, he went to bed early.",
-      "options": [
-        "Tires",
-        "Tired",
-        "Tiring",
-        "Tire"
-      ],
-      "correct_answer": "Tired"
-    },
-    {
-      "category": "Verb",
-      "question": "Change to past tense: 'She writes a letter.'",
-      "options": [
-        "She is writing a letter.",
-        "She wrote a letter.",
-        "She was writing a letter.",
-        "She will write a letter."
-      ],
-      "correct_answer": "She wrote a letter."
-    },
-    {
-      "category": "Verb",
-      "question": "Change to future tense: 'I am playing cricket.'",
-      "options": [
-        "I play cricket.",
-        "I played cricket.",
-        "I will be playing cricket.",
-        "I am cricket playing."
-      ],
-      "correct_answer": "I will be playing cricket."
-    },
-    {
-      "category": "Verb",
-      "question": "They ___ (finish) their homework. (present perfect)",
-      "options": [
-        "have finished",
-        "finished",
-        "finishing",
-        "finish"
-      ],
-      "correct_answer": "have finished"
-    },
-    {
-      "category": "Verb",
-      "question": "Change to past continuous: 'They eat dinner.'",
-      "options": [
-        "They are eating dinner.",
-        "They ate dinner.",
-        "They were eating dinner.",
-        "They will eat dinner."
-      ],
-      "correct_answer": "They were eating dinner."
-    },
-    {
-      "category": "Verb",
-      "question": "Convert: 'He will go tomorrow.' (to present continuous)",
-      "options": [
-        "He goes tomorrow.",
-        "He went tomorrow.",
-        "He is going tomorrow.",
-        "He will going tomorrow."
-      ],
-      "correct_answer": "He is going tomorrow."
-    },
-    {
-      "category": "Verb",
-      "question": "Correct the error: 'She have gone to school.'",
-      "options": [
-        "She had gone to school.",
-        "She has gone to school.",
-        "She goes to school.",
-        "She going to school."
-      ],
-      "correct_answer": "She has gone to school."
-    },
-    {
-      "category": "Verb",
-      "question": "Correct the error: 'They was singing.'",
-      "options": [
-        "They is singing.",
-        "They were singing.",
-        "They are singing.",
-        "They have singing."
-      ],
-      "correct_answer": "They were singing."
-    },
-    {
-      "category": "Verb",
-      "question": "Correct the error: 'I did not wrote the letter.'",
-      "options": [
-        "I did not write the letter.",
-        "I not wrote the letter.",
-        "I did not written the letter.",
-        "I did not writing the letter."
-      ],
-      "correct_answer": "I did not write the letter."
-    },
-    {
-      "category": "Verb",
-      "question": "Correct the error: 'He run fast yesterday.'",
-      "options": [
-        "He runs fast yesterday.",
-        "He is running fast yesterday.",
-        "He ran fast yesterday.",
-        "He running fast yesterday."
-      ],
-      "correct_answer": "He ran fast yesterday."
-    },
-    {
-      "category": "Verb",
-      "question": "Correct the error: 'I am agree with you.'",
-      "options": [
-        "I agrees with you.",
-        "I agree with you.",
-        "I am agreed with you.",
-        "I agreeing with you."
-      ],
-      "correct_answer": "I agree with you."
     },
     {
       "category": "Verb",
@@ -1762,17 +1344,6 @@
     },
     {
       "category": "Verb",
-      "question": "Which is correct?",
-      "options": [
-        "She has went to the market.",
-        "She has gone to the market.",
-        "She has go to the market.",
-        "She gone to the market."
-      ],
-      "correct_answer": "She has gone to the market."
-    },
-    {
-      "category": "Verb",
       "question": "Choose the correct sentence.",
       "options": [
         "He is married with her.",
@@ -1806,17 +1377,6 @@
     },
     {
       "category": "Verb",
-      "question": "Which is correct?",
-      "options": [
-        "He has ate lunch.",
-        "He has eaten lunch.",
-        "He eaten lunch.",
-        "He eating lunch."
-      ],
-      "correct_answer": "He has eaten lunch."
-    },
-    {
-      "category": "Verb",
       "question": "Give the forms of 'freeze'.",
       "options": [
         "Freeze – Freezed – Freezed",
@@ -1825,17 +1385,6 @@
         "Freeze – Freeze – Freezed"
       ],
       "correct_answer": "Freeze – Froze – Frozen"
-    },
-    {
-      "category": "Verb",
-      "question": "Which is correct?",
-      "options": [
-        "She has gave me a gift.",
-        "She has given me a gift.",
-        "She gave me a gifted.",
-        "She given me a gift."
-      ],
-      "correct_answer": "She has given me a gift."
     },
     {
       "category": "Verb",
@@ -1858,127 +1407,6 @@
         "ridden"
       ],
       "correct_answer": "rode"
-    },
-    {
-      "category": "Verb",
-      "question": "Which is correct?",
-      "options": [
-        "He is senior than me.",
-        "He is senior to me.",
-        "He is more senior than me.",
-        "He is senior as me."
-      ],
-      "correct_answer": "He is senior to me."
-    },
-    {
-      "category": "Adjective",
-      "question": "This book is ___ (good) than that one.",
-      "options": [
-        "good",
-        "better",
-        "best",
-        "well"
-      ],
-      "correct_answer": "better"
-    },
-    {
-      "category": "Adjective",
-      "question": "Write the three degrees of 'bad'.",
-      "options": [
-        "bad – badder – baddest",
-        "bad – worse – worst",
-        "bad – more bad – most bad",
-        "bad – worser – worstest"
-      ],
-      "correct_answer": "bad – worse – worst"
-    },
-    {
-      "category": "Adjective",
-      "question": "Which is correct?",
-      "options": [
-        "This is the most unique painting.",
-        "This is a unique painting.",
-        "This is the uniquemost painting.",
-        "This painting is more unique."
-      ],
-      "correct_answer": "This is a unique painting."
-    },
-    {
-      "category": "Adjective",
-      "question": "He is the ___ (tall) boy in the class.",
-      "options": [
-        "tall",
-        "taller",
-        "tallest",
-        "talling"
-      ],
-      "correct_answer": "tallest"
-    },
-    {
-      "category": "Adjective",
-      "question": "Write the positive degree: 'Ramesh is the wisest man here.'",
-      "options": [
-        "wiser",
-        "wise",
-        "wisest",
-        "most wise"
-      ],
-      "correct_answer": "wise"
-    },
-    {
-      "category": "Adjective",
-      "question": "Each / Every student must bring his notebook. (choose correct)",
-      "options": [
-        "Each",
-        "Every",
-        "Either",
-        "Neither"
-      ],
-      "correct_answer": "Every"
-    },
-    {
-      "category": "Adjective",
-      "question": "She has ___ friends. (few / a few / the few)",
-      "options": [
-        "few",
-        "a few",
-        "the few",
-        "little"
-      ],
-      "correct_answer": "a few"
-    },
-    {
-      "category": "Adjective",
-      "question": "Identify the adjective: 'Honesty is the best policy.'",
-      "options": [
-        "Honesty",
-        "is",
-        "best",
-        "policy"
-      ],
-      "correct_answer": "best"
-    },
-    {
-      "category": "Adjective",
-      "question": "Which is correct?",
-      "options": [
-        "He is elder than me.",
-        "He is older than me.",
-        "He is more elder than me.",
-        "He is eldest than me."
-      ],
-      "correct_answer": "He is older than me."
-    },
-    {
-      "category": "Adjective",
-      "question": "There is ___ milk left in the jug.",
-      "options": [
-        "few",
-        "a few",
-        "little",
-        "many"
-      ],
-      "correct_answer": "little"
     },
     {
       "category": "Adjective",
@@ -2089,187 +1517,281 @@
         "This problem is difficulter."
       ],
       "correct_answer": "This is the most difficult problem."
-    },  {
-          "category": "Verb",
-          "question": "Give the three forms of the verb 'see'.",
-          "options": ["See – Saw – Seen", "See – Seed – Seen", "See – Saw – Sawed", "See – Sees – Seen"],
-          "correct_answer": "See – Saw – Seen"
-        },
-        {
-          "category": "Verb",
-          "question": "He ___ (forget) to bring his bag yesterday.",
-          "options": ["forgets", "forgot", "forget", "forgetted"],
-          "correct_answer": "forgot"
-        },
-        {
-          "category": "Verb",
-          "question": "Fill in the blank: She has ___ (write) a letter to her friend.",
-          "options": ["writed", "wrote", "written", "writing"],
-          "correct_answer": "written"
-        },
-        {
-          "category": "Verb",
-          "question": "Which is correct?",
-          "options": ["I had drank tea.", "I had drunk tea.", "I had drink tea.", "I had drinking tea."],
-          "correct_answer": "I had drunk tea."
-        },
-        {
-          "category": "Verb",
-          "question": "Identify the participle in: 'The shining stars looked beautiful.'",
-          "options": ["shining", "stars", "looked", "beautiful"],
-          "correct_answer": "shining"
-        },
-        {
-          "category": "Verb",
-          "question": "Change to future tense: 'They are singing now.'",
-          "options": ["They sang later.", "They will sing.", "They sings.", "They will sang."],
-          "correct_answer": "They will sing."
-        },
-        {
-          "category": "Verb",
-          "question": "Convert to past perfect: 'I eat my lunch.'",
-          "options": ["I had eaten my lunch.", "I ate my lunch.", "I am eating my lunch.", "I will have eaten my lunch."],
-          "correct_answer": "I had eaten my lunch."
-        },
-        {
-          "category": "Verb",
-          "question": "Choose the correct past participle of 'ring'.",
-          "options": ["rang", "ringed", "rung", "rings"],
-          "correct_answer": "rung"
-        },
-        {
-          "category": "Verb",
-          "question": "The bell ___ (ring) loudly a few minutes ago.",
-          "options": ["ring", "rang", "rung", "ringed"],
-          "correct_answer": "rang"
-        },
-        {
-          "category": "Verb",
-          "question": "Find the error: 'She did not went to school.'",
-          "options": ["did not went", "did not go", "went", "was going"],
-          "correct_answer": "did not go"
-        },
-        {
-          "category": "Verb",
-          "question": "Give the three forms of 'bring'.",
-          "options": ["Bring – Brought – Brought", "Bring – Brang – Brang", "Bring – Bringed – Brought", "Bring – Brings – Bringing"],
-          "correct_answer": "Bring – Brought – Brought"
-        },
-        {
-          "category": "Verb",
-          "question": "Which is correct?",
-          "options": ["She had ate breakfast.", "She had eaten breakfast.", "She had eat breakfast.", "She had eating breakfast."],
-          "correct_answer": "She had eaten breakfast."
-        },
-        {
-          "category": "Verb",
-          "question": "Fill in the blank: He has ___ (draw) a beautiful picture.",
-          "options": ["drew", "drawn", "drawing", "drawed"],
-          "correct_answer": "drawn"
-        },
-        {
-          "category": "Verb",
-          "question": "Identify the tense: 'They will have finished their work by evening.'",
-          "options": ["Future Perfect", "Future Continuous", "Present Perfect", "Past Perfect"],
-          "correct_answer": "Future Perfect"
-        },
-        {
-          "category": "Verb",
-          "question": "She ___ (sleep) when I called her last night.",
-          "options": ["is sleeping", "was sleeping", "sleeps", "slept"],
-          "correct_answer": "was sleeping"
-        },
-        {
-          "category": "Verb",
-          "question": "Give the three forms of 'fly'.",
-          "options": ["Fly – Flew – Flown", "Fly – Flyed – Flown", "Fly – Fley – Flied", "Fly – Flies – Flying"],
-          "correct_answer": "Fly – Flew – Flown"
-        },
-        {
-          "category": "Verb",
-          "question": "Change to past continuous: 'I read a book.'",
-          "options": ["I read a book.", "I was reading a book.", "I had read a book.", "I am reading a book."],
-          "correct_answer": "I was reading a book."
-        },
-        {
-          "category": "Verb",
-          "question": "Which is correct?",
-          "options": ["He has went home.", "He has gone home.", "He have gone home.", "He had go home."],
-          "correct_answer": "He has gone home."
-        },
-        {
-          "category": "Verb",
-          "question": "Give the past tense of 'keep'.",
-          "options": ["kept", "keeped", "keep", "keeping"],
-          "correct_answer": "kept"
-        },
-        {
-          "category": "Verb",
-          "question": "Identify the participle: 'A broken chair lay in the corner.'",
-          "options": ["broken", "chair", "lay", "corner"],
-          "correct_answer": "broken"
-        },
-    
-        {
-          "category": "Adjective",
-          "question": "Write the degrees of 'beautiful'.",
-          "options": ["beautiful – more beautiful – most beautiful", "beautiful – beautifuller – beautifullest", "beautiful – beauty – most beautiful", "beautiful – beautify – beautified"],
-          "correct_answer": "beautiful – more beautiful – most beautiful"
-        },
-        {
-          "category": "Adjective",
-          "question": "Which is correct?",
-          "options": ["She is more elder than her sister.", "She is elder to her sister.", "She is older than her sister.", "She is most old than her sister."],
-          "correct_answer": "She is older than her sister."
-        },
-        {
-          "category": "Adjective",
-          "question": "Give the three degrees of 'good'.",
-          "options": ["good – gooder – goodest", "good – better – best", "good – more good – most good", "good – well – best"],
-          "correct_answer": "good – better – best"
-        },
-        {
-          "category": "Adjective",
-          "question": "This is the ___ (little) time we have to prepare.",
-          "options": ["little", "less", "least", "littlest"],
-          "correct_answer": "least"
-        },
-        {
-          "category": "Adjective",
-          "question": "Identify the adjective: 'The poor man needed food.'",
-          "options": ["poor", "man", "needed", "food"],
-          "correct_answer": "poor"
-        },
-        {
-          "category": "Adjective",
-          "question": "Choose the correct option: She has ___ friends in this city.",
-          "options": ["few", "a few", "the few", "little"],
-          "correct_answer": "a few"
-        },
-        {
-          "category": "Adjective",
-          "question": "Fill in the blank: The ___ (happy) she is, the more friends she has.",
-          "options": ["happy", "happier", "happiest", "happiness"],
-          "correct_answer": "happier"
-        },
-        {
-          "category": "Adjective",
-          "question": "He is one of the ___ (great) leaders of India.",
-          "options": ["great", "greater", "greatest", "greatful"],
-          "correct_answer": "greatest"
-        },
-        {
-          "category": "Adjective",
-          "question": "Which is correct?",
-          "options": ["This problem is more simpler.", "This problem is simpler.", "This problem is most simple.", "This problem is simple more."],
-          "correct_answer": "This problem is simpler."
-        },
-        {
-          "category": "Adjective",
-          "question": "Complete: Mount Everest is the ___ mountain in the world.",
-          "options": ["high", "higher", "highest", "most high"],
-          "correct_answer": "highest"
-        }
-      ]
+    },
+    {
+      "category": "Verb",
+      "question": "Give the three forms of the verb 'see'.",
+      "options": [
+        "See – Saw – Seen",
+        "See – Seed – Seen",
+        "See – Saw – Sawed",
+        "See – Sees – Seen"
+      ],
+      "correct_answer": "See – Saw – Seen"
+    },
+    {
+      "category": "Verb",
+      "question": "He ___ (forget) to bring his bag yesterday.",
+      "options": [
+        "forgets",
+        "forgot",
+        "forget",
+        "forgetted"
+      ],
+      "correct_answer": "forgot"
+    },
+    {
+      "category": "Verb",
+      "question": "Fill in the blank: She has ___ (write) a letter to her friend.",
+      "options": [
+        "writed",
+        "wrote",
+        "written",
+        "writing"
+      ],
+      "correct_answer": "written"
+    },
+    {
+      "category": "Verb",
+      "question": "Identify the participle in: 'The shining stars looked beautiful.'",
+      "options": [
+        "shining",
+        "stars",
+        "looked",
+        "beautiful"
+      ],
+      "correct_answer": "shining"
+    },
+    {
+      "category": "Verb",
+      "question": "Change to future tense: 'They are singing now.'",
+      "options": [
+        "They sang later.",
+        "They will sing.",
+        "They sings.",
+        "They will sang."
+      ],
+      "correct_answer": "They will sing."
+    },
+    {
+      "category": "Verb",
+      "question": "Convert to past perfect: 'I eat my lunch.'",
+      "options": [
+        "I had eaten my lunch.",
+        "I ate my lunch.",
+        "I am eating my lunch.",
+        "I will have eaten my lunch."
+      ],
+      "correct_answer": "I had eaten my lunch."
+    },
+    {
+      "category": "Verb",
+      "question": "Choose the correct past participle of 'ring'.",
+      "options": [
+        "rang",
+        "ringed",
+        "rung",
+        "rings"
+      ],
+      "correct_answer": "rung"
+    },
+    {
+      "category": "Verb",
+      "question": "The bell ___ (ring) loudly a few minutes ago.",
+      "options": [
+        "ring",
+        "rang",
+        "rung",
+        "ringed"
+      ],
+      "correct_answer": "rang"
+    },
+    {
+      "category": "Verb",
+      "question": "Find the error: 'She did not went to school.'",
+      "options": [
+        "did not went",
+        "did not go",
+        "went",
+        "was going"
+      ],
+      "correct_answer": "did not go"
+    },
+    {
+      "category": "Verb",
+      "question": "Give the three forms of 'bring'.",
+      "options": [
+        "Bring – Brought – Brought",
+        "Bring – Brang – Brang",
+        "Bring – Bringed – Brought",
+        "Bring – Brings – Bringing"
+      ],
+      "correct_answer": "Bring – Brought – Brought"
+    },
+    {
+      "category": "Verb",
+      "question": "Fill in the blank: He has ___ (draw) a beautiful picture.",
+      "options": [
+        "drew",
+        "drawn",
+        "drawing",
+        "drawed"
+      ],
+      "correct_answer": "drawn"
+    },
+    {
+      "category": "Verb",
+      "question": "Identify the tense: 'They will have finished their work by evening.'",
+      "options": [
+        "Future Perfect",
+        "Future Continuous",
+        "Present Perfect",
+        "Past Perfect"
+      ],
+      "correct_answer": "Future Perfect"
+    },
+    {
+      "category": "Verb",
+      "question": "She ___ (sleep) when I called her last night.",
+      "options": [
+        "is sleeping",
+        "was sleeping",
+        "sleeps",
+        "slept"
+      ],
+      "correct_answer": "was sleeping"
+    },
+    {
+      "category": "Verb",
+      "question": "Give the three forms of 'fly'.",
+      "options": [
+        "Fly – Flew – Flown",
+        "Fly – Flyed – Flown",
+        "Fly – Fley – Flied",
+        "Fly – Flies – Flying"
+      ],
+      "correct_answer": "Fly – Flew – Flown"
+    },
+    {
+      "category": "Verb",
+      "question": "Change to past continuous: 'I read a book.'",
+      "options": [
+        "I read a book.",
+        "I was reading a book.",
+        "I had read a book.",
+        "I am reading a book."
+      ],
+      "correct_answer": "I was reading a book."
+    },
+    {
+      "category": "Verb",
+      "question": "Give the past tense of 'keep'.",
+      "options": [
+        "kept",
+        "keeped",
+        "keep",
+        "keeping"
+      ],
+      "correct_answer": "kept"
+    },
+    {
+      "category": "Verb",
+      "question": "Identify the participle: 'A broken chair lay in the corner.'",
+      "options": [
+        "broken",
+        "chair",
+        "lay",
+        "corner"
+      ],
+      "correct_answer": "broken"
+    },
+    {
+      "category": "Adjective",
+      "question": "Write the degrees of 'beautiful'.",
+      "options": [
+        "beautiful – more beautiful – most beautiful",
+        "beautiful – beautifuller – beautifullest",
+        "beautiful – beauty – most beautiful",
+        "beautiful – beautify – beautified"
+      ],
+      "correct_answer": "beautiful – more beautiful – most beautiful"
+    },
+    {
+      "category": "Adjective",
+      "question": "Give the three degrees of 'good'.",
+      "options": [
+        "good – gooder – goodest",
+        "good – better – best",
+        "good – more good – most good",
+        "good – well – best"
+      ],
+      "correct_answer": "good – better – best"
+    },
+    {
+      "category": "Adjective",
+      "question": "This is the ___ (little) time we have to prepare.",
+      "options": [
+        "little",
+        "less",
+        "least",
+        "littlest"
+      ],
+      "correct_answer": "least"
+    },
+    {
+      "category": "Adjective",
+      "question": "Identify the adjective: 'The poor man needed food.'",
+      "options": [
+        "poor",
+        "man",
+        "needed",
+        "food"
+      ],
+      "correct_answer": "poor"
+    },
+    {
+      "category": "Adjective",
+      "question": "Choose the correct option: She has ___ friends in this city.",
+      "options": [
+        "few",
+        "a few",
+        "the few",
+        "little"
+      ],
+      "correct_answer": "a few"
+    },
+    {
+      "category": "Adjective",
+      "question": "Fill in the blank: The ___ (happy) she is, the more friends she has.",
+      "options": [
+        "happy",
+        "happier",
+        "happiest",
+        "happiness"
+      ],
+      "correct_answer": "happier"
+    },
+    {
+      "category": "Adjective",
+      "question": "He is one of the ___ (great) leaders of India.",
+      "options": [
+        "great",
+        "greater",
+        "greatest",
+        "greatful"
+      ],
+      "correct_answer": "greatest"
+    },
+    {
+      "category": "Adjective",
+      "question": "Complete: Mount Everest is the ___ mountain in the world.",
+      "options": [
+        "high",
+        "higher",
+        "highest",
+        "most high"
+      ],
+      "correct_answer": "highest"
     }
-    
+  ]
+}

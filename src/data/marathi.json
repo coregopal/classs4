@@ -991,17 +991,6 @@
     },
     {
       "category": "Worksheet",
-      "question": "‘पुरस्कार’ चा समानार्थी शब्द कोणता?",
-      "options": [
-        "बक्षीस",
-        "शाळा",
-        "कुटुंब",
-        "डबा"
-      ],
-      "correct_answer": "बक्षीस"
-    },
-    {
-      "category": "Worksheet",
       "question": "‘सूर्य’ चा समानार्थी शब्द कोणता?",
       "options": [
         "रवि",
@@ -1131,28 +1120,6 @@
         "80"
       ],
       "correct_answer": "8"
-    },
-    {
-      "category": "Worksheet",
-      "question": "कविताच्या घरात जेवण कोण बनवते?",
-      "options": [
-        "आई",
-        "आजी",
-        "मावशी",
-        "आत्या"
-      ],
-      "correct_answer": "आई"
-    },
-    {
-      "category": "Worksheet",
-      "question": "मावशीने खायला काय आणले होते?",
-      "options": [
-        "लाडू आणि चिवडा",
-        "भाकरी",
-        "फळे",
-        "भाजी"
-      ],
-      "correct_answer": "लाडू आणि चिवडा"
     },
     {
       "category": "Worksheet",
