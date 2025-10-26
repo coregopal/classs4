@@ -1792,6 +1792,446 @@
         "most high"
       ],
       "correct_answer": "highest"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: She goes to school every day.",
+      "options": [
+        "Present Simple",
+        "Past Simple",
+        "Future Indefinite",
+        "Present Continuous"
+      ],
+      "correct_answer": "Present Simple"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: I was reading a novel when you called.",
+      "options": [
+        "Past Continuous",
+        "Present Continuous",
+        "Past Perfect",
+        "Future Continuous"
+      ],
+      "correct_answer": "Past Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: They will complete the work tomorrow.",
+      "options": [
+        "Future Indefinite",
+        "Present Continuous",
+        "Future Continuous",
+        "Past Indefinite"
+      ],
+      "correct_answer": "Future Indefinite"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: He has just finished his homework.",
+      "options": [
+        "Present Perfect",
+        "Past Perfect",
+        "Present Indefinite",
+        "Future Perfect"
+      ],
+      "correct_answer": "Present Perfect"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: The train had left before we reached the station.",
+      "options": [
+        "Past Perfect",
+        "Present Perfect",
+        "Future Perfect",
+        "Past Continuous"
+      ],
+      "correct_answer": "Past Perfect"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: Children are playing in the garden.",
+      "options": [
+        "Present Continuous",
+        "Present Perfect",
+        "Future Continuous",
+        "Past Continuous"
+      ],
+      "correct_answer": "Present Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: The sun rises in the east.",
+      "options": [
+        "Present Simple",
+        "Present Continuous",
+        "Past Indefinite",
+        "Future Indefinite"
+      ],
+      "correct_answer": "Present Simple"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: She had been waiting for two hours when the bus arrived.",
+      "options": [
+        "Past Perfect Continuous",
+        "Past Continuous",
+        "Present Perfect Continuous",
+        "Future Continuous"
+      ],
+      "correct_answer": "Past Perfect Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: I shall be visiting Delhi next week.",
+      "options": [
+        "Future Continuous",
+        "Future Indefinite",
+        "Present Continuous",
+        "Past Indefinite"
+      ],
+      "correct_answer": "Future Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: He sings very beautifully.",
+      "options": [
+        "Present Simple",
+        "Past Indefinite",
+        "Present Continuous",
+        "Present Perfect"
+      ],
+      "correct_answer": "Present Simple"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: By 2026, we will have been living here for 10 years.",
+      "options": [
+        "Future Perfect Continuous",
+        "Future Perfect",
+        "Future Continuous",
+        "Present Perfect Continuous"
+      ],
+      "correct_answer": "Future Perfect Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: He was writing a letter when I entered the room.",
+      "options": [
+        "Past Continuous",
+        "Present Continuous",
+        "Past Perfect",
+        "Future Continuous"
+      ],
+      "correct_answer": "Past Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: She will have completed the project by Monday.",
+      "options": [
+        "Future Perfect",
+        "Future Continuous",
+        "Present Perfect",
+        "Past Perfect"
+      ],
+      "correct_answer": "Future Perfect"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: The baby is sleeping peacefully.",
+      "options": [
+        "Present Continuous",
+        "Past Continuous",
+        "Present Perfect Continuous",
+        "Future Continuous"
+      ],
+      "correct_answer": "Present Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: They played cricket yesterday.",
+      "options": [
+        "Past Indefinite",
+        "Present Perfect",
+        "Past Perfect",
+        "Future Indefinite"
+      ],
+      "correct_answer": "Past Indefinite"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: The teacher teaches us English.",
+      "options": [
+        "Present Simple",
+        "Past Indefinite",
+        "Present Continuous",
+        "Future Indefinite"
+      ],
+      "correct_answer": "Present Simple"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: She is going to buy a new phone.",
+      "options": [
+        "Future Indefinite",
+        "Present Continuous",
+        "Future Continuous",
+        "Present Perfect"
+      ],
+      "correct_answer": "Future Indefinite"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: I have been studying since morning.",
+      "options": [
+        "Present Perfect Continuous",
+        "Present Continuous",
+        "Past Perfect Continuous",
+        "Future Continuous"
+      ],
+      "correct_answer": "Present Perfect Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: We ate dinner at 8 p.m. last night.",
+      "options": [
+        "Past Indefinite",
+        "Past Continuous",
+        "Past Perfect",
+        "Present Perfect"
+      ],
+      "correct_answer": "Past Indefinite"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: Ravi will be playing the guitar during the function.",
+      "options": [
+        "Future Continuous",
+        "Future Indefinite",
+        "Present Continuous",
+        "Future Perfect"
+      ],
+      "correct_answer": "Future Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: She sings a song. (Change to Past Continuous)",
+      "options": [
+        "She was singing a song.",
+        "She had sung a song.",
+        "She will sing a song.",
+        "She is singing a song."
+      ],
+      "correct_answer": "She was singing a song."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: They were writing an essay. (Change to Future Indefinite)",
+      "options": [
+        "They will write an essay.",
+        "They wrote an essay.",
+        "They write an essay.",
+        "They have written an essay."
+      ],
+      "correct_answer": "They will write an essay."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: He will play cricket. (Change to Present Perfect)",
+      "options": [
+        "He has played cricket.",
+        "He is playing cricket.",
+        "He played cricket.",
+        "He was playing cricket."
+      ],
+      "correct_answer": "He has played cricket."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: We had completed our work. (Change to Future Perfect Continuous)",
+      "options": [
+        "We will have been completing our work.",
+        "We will have completed our work.",
+        "We will complete our work.",
+        "We are completing our work."
+      ],
+      "correct_answer": "We will have been completing our work."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: She is cooking dinner. (Change to Past Perfect)",
+      "options": [
+        "She had cooked dinner.",
+        "She was cooking dinner.",
+        "She has cooked dinner.",
+        "She will cook dinner."
+      ],
+      "correct_answer": "She had cooked dinner."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: You study English every day. (Change to Present Continuous)",
+      "options": [
+        "You are studying English every day.",
+        "You were studying English every day.",
+        "You studied English every day.",
+        "You have studied English every day."
+      ],
+      "correct_answer": "You are studying English every day."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: They will have reached by noon. (Change to Past Indefinite)",
+      "options": [
+        "They reached by noon.",
+        "They have reached by noon.",
+        "They were reaching by noon.",
+        "They will reach by noon."
+      ],
+      "correct_answer": "They reached by noon."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: He works very hard. (Change to Future Continuous)",
+      "options": [
+        "He will be working very hard.",
+        "He is working very hard.",
+        "He was working very hard.",
+        "He has been working very hard."
+      ],
+      "correct_answer": "He will be working very hard."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: The train leaves at 6 a.m. (Change to Past Continuous)",
+      "options": [
+        "The train was leaving at 6 a.m.",
+        "The train left at 6 a.m.",
+        "The train had left at 6 a.m.",
+        "The train will leave at 6 a.m."
+      ],
+      "correct_answer": "The train was leaving at 6 a.m."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: I was watching television. (Change to Present Perfect)",
+      "options": [
+        "I have watched television.",
+        "I had watched television.",
+        "I watch television.",
+        "I am watching television."
+      ],
+      "correct_answer": "I have watched television."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: She will deliver the speech. (Change to Present Indefinite)",
+      "options": [
+        "She delivers the speech.",
+        "She delivered the speech.",
+        "She is delivering the speech.",
+        "She has delivered the speech."
+      ],
+      "correct_answer": "She delivers the speech."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: They are playing football. (Change to Past Perfect Continuous)",
+      "options": [
+        "They had been playing football.",
+        "They were playing football.",
+        "They played football.",
+        "They have been playing football."
+      ],
+      "correct_answer": "They had been playing football."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: We will start the business next year. (Change to Present Continuous)",
+      "options": [
+        "We are starting the business next year.",
+        "We start the business next year.",
+        "We have started the business next year.",
+        "We were starting the business next year."
+      ],
+      "correct_answer": "We are starting the business next year."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: She has written a letter. (Change to Future Indefinite)",
+      "options": [
+        "She will write a letter.",
+        "She wrote a letter.",
+        "She is writing a letter.",
+        "She had written a letter."
+      ],
+      "correct_answer": "She will write a letter."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: I went to the market yesterday. (Change to Present Perfect Continuous)",
+      "options": [
+        "I have been going to the market.",
+        "I was going to the market.",
+        "I go to the market.",
+        "I have gone to the market."
+      ],
+      "correct_answer": "I have been going to the market."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: He is reading a storybook. (Change to Past Indefinite)",
+      "options": [
+        "He read a storybook.",
+        "He was reading a storybook.",
+        "He has read a storybook.",
+        "He had read a storybook."
+      ],
+      "correct_answer": "He read a storybook."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: They had been working for hours. (Change to Future Indefinite)",
+      "options": [
+        "They will work for hours.",
+        "They worked for hours.",
+        "They are working for hours.",
+        "They will be working for hours."
+      ],
+      "correct_answer": "They will work for hours."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: She will be watching TV. (Change to Present Perfect Continuous)",
+      "options": [
+        "She has been watching TV.",
+        "She is watching TV.",
+        "She watched TV.",
+        "She was watching TV."
+      ],
+      "correct_answer": "She has been watching TV."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: We eat lunch at 2 p.m. (Change to Future Continuous)",
+      "options": [
+        "We will be eating lunch at 2 p.m.",
+        "We will eat lunch at 2 p.m.",
+        "We ate lunch at 2 p.m.",
+        "We are eating lunch at 2 p.m."
+      ],
+      "correct_answer": "We will be eating lunch at 2 p.m."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: He was solving a problem. (Change to Future Perfect)",
+      "options": [
+        "He will have solved a problem.",
+        "He has solved a problem.",
+        "He solved a problem.",
+        "He will solve a problem."
+      ],
+      "correct_answer": "He will have solved a problem."
     }
   ]
 }
