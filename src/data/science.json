@@ -1,209 +1,294 @@
 {
   "questions": [
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "What is the process by which food is broken down into a simpler form so that it can be easily taken in or absorbed by our body?",
+      "category": "Chapter 9: Light",
+      "question": "What is light?",
       "options": [
-        "Digestion",
-        "Excretion",
-        "Absorption",
-        "Peristalsis"
+        "A form of energy that helps us see things around us",
+        "A type of sound wave",
+        "A form of heat energy",
+        "A type of magnetic field"
       ],
-      "correct_answer": "Digestion"
+      "correct_answer": "A form of energy that helps us see things around us"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Which organ does digestion start in?",
+      "category": "Chapter 9: Light",
+      "question": "What are luminous objects?",
       "options": [
-        "Mouth",
-        "Stomach",
-        "Small intestine",
-        "Large intestine"
+        "Objects that reflect light from other sources",
+        "Objects that give out light of their own",
+        "Objects that absorb all light",
+        "Objects that change color in light"
       ],
-      "correct_answer": "Mouth"
+      "correct_answer": "Objects that give out light of their own"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "The teeth help to break and chew food.",
+      "category": "Chapter 9: Light",
+      "question": "Which of these is an example of a luminous object?",
       "options": [
-        "True",
-        "False"
+        "Moon",
+        "Tree",
+        "Chair",
+        "Sun"
       ],
-      "correct_answer": "True"
+      "correct_answer": "Sun"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Saliva is produced in the food pipe.",
+      "category": "Chapter 9: Light",
+      "question": "What are non-luminous objects?",
       "options": [
-        "True",
-        "False"
+        "Objects that produce their own light",
+        "Objects that do not have their own light",
+        "Objects that change color in darkness",
+        "Objects that reflect all light perfectly"
       ],
-      "correct_answer": "False"
+      "correct_answer": "Objects that do not have their own light"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "The stomach churns food and mixes it with digestive juices.",
+      "category": "Chapter 9: Light",
+      "question": "What is reflection of light?",
       "options": [
-        "True",
-        "False"
+        "The bending of light when it passes through water",
+        "When light falls on the surface of an opaque object and bounces back",
+        "The splitting of light into different colors",
+        "The absorption of light by dark objects"
       ],
-      "correct_answer": "True"
+      "correct_answer": "When light falls on the surface of an opaque object and bounces back"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Useful nutrients are absorbed in the large intestine.",
+      "category": "Chapter 9: Light",
+      "question": "What is refraction of light?",
       "options": [
-        "True",
-        "False"
+        "The bouncing back of light from a surface",
+        "The bending of light as it passes from one medium to another",
+        "The splitting of white light into colors",
+        "The absorption of light by objects"
       ],
-      "correct_answer": "False"
+      "correct_answer": "The bending of light as it passes from one medium to another"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "What is peristalsis?",
+      "category": "Chapter 9: Light",
+      "question": "What are transparent materials?",
       "options": [
-        "Wave-like movement of muscles in the food pipe that pushes food down",
-        "Chewing food",
-        "Absorption of nutrients",
-        "Production of saliva"
+        "Materials that allow no light to pass through",
+        "Materials that allow only some light to pass through",
+        "Materials that allow light to pass through them completely",
+        "Materials that change the color of light"
       ],
-      "correct_answer": "Wave-like movement of muscles in the food pipe that pushes food down"
+      "correct_answer": "Materials that allow light to pass through them completely"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Why is it important to chew food well?",
+      "category": "Chapter 9: Light",
+      "question": "Which of these is a transparent material?",
       "options": [
-        "Breaks food into smaller particles and mixes it with saliva",
-        "Increases appetite",
-        "Stores nutrients",
-        "Removes water"
+        "Wood",
+        "Cardboard",
+        "Butter paper",
+        "Clear water"
       ],
-      "correct_answer": "Breaks food into smaller particles and mixes it with saliva"
+      "correct_answer": "Clear water"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Why should we drink water every day?",
+      "category": "Chapter 9: Light",
+      "question": "What are translucent materials?",
       "options": [
-        "Helps in absorption of food and prevents constipation",
-        "Cleans teeth only",
-        "Provides taste to food",
-        "Increases digestion speed only"
+        "Materials that allow all light to pass through",
+        "Materials that allow only some light to pass through",
+        "Materials that block all light",
+        "Materials that produce their own light"
       ],
-      "correct_answer": "Helps in absorption of food and prevents constipation"
+      "correct_answer": "Materials that allow only some light to pass through"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "What is excretion?",
+      "category": "Chapter 9: Light",
+      "question": "Which of these is a translucent material?",
       "options": [
-        "Process of removing waste from our body",
-        "Process of digesting food",
-        "Process of absorbing nutrients",
-        "Process of chewing food"
+        "Glass",
+        "Clear water",
+        "Butter paper",
+        "Wood"
       ],
-      "correct_answer": "Process of removing waste from our body"
+      "correct_answer": "Butter paper"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Write two healthy habits related to digestion and excretion.",
+      "category": "Chapter 9: Light",
+      "question": "What are opaque materials?",
       "options": [
-        "Eat food rich in fibre and drink lots of water",
-        "Sleep early and wake late",
-        "Eat junk food and avoid water",
-        "Exercise only"
+        "Materials that allow all light to pass through",
+        "Materials that allow some light to pass through",
+        "Materials that do not allow any light to pass through",
+        "Materials that produce light"
       ],
-      "correct_answer": "Eat food rich in fibre and drink lots of water"
+      "correct_answer": "Materials that do not allow any light to pass through"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "What is the impact of polluted water on humans’ digestive and excretory systems?",
+      "category": "Chapter 9: Light",
+      "question": "Which of these is an opaque material?",
       "options": [
-        "Diarrhoea, vomiting, and diseases such as typhoid",
-        "Improved digestion",
-        "Enhanced absorption",
-        "Better excretion"
+        "Glass",
+        "Clear water",
+        "Frosted glass",
+        "Wood"
       ],
-      "correct_answer": "Diarrhoea, vomiting, and diseases such as typhoid"
+      "correct_answer": "Wood"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "What measures is the government of India taking to reduce water pollution?",
+      "category": "Chapter 9: Light",
+      "question": "What is a shadow?",
       "options": [
-        "Building new sewer treatment plants and repairing existing ones",
-        "Reducing taxes",
-        "Providing free water",
-        "Planting trees only"
+        "A bright patch formed when light passes through an object",
+        "A colored patch formed when light splits",
+        "A dark patch formed when an opaque object comes in front of light and blocks it",
+        "A reflection of an object"
       ],
-      "correct_answer": "Building new sewer treatment plants and repairing existing ones"
+      "correct_answer": "A dark patch formed when an opaque object comes in front of light and blocks it"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "What steps can we take as individuals to avoid water pollution?",
+      "category": "Chapter 9: Light",
+      "question": "What does 'emit' mean?",
       "options": [
-        "Do not throw waste into water bodies and minimize use of household chemicals",
-        "Use more water",
-        "Drink less water",
-        "Ignore waste disposal"
+        "To absorb",
+        "To reflect",
+        "To give out",
+        "To block"
       ],
-      "correct_answer": "Do not throw waste into water bodies and minimize use of household chemicals"
+      "correct_answer": "To give out"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "In which of the following organs does digestion start in the human body?",
+      "category": "Chapter 9: Light",
+      "question": "What does VIBGYOR stand for?",
       "options": [
-        "Small intestine",
-        "Blood vessels",
-        "Stomach",
-        "Mouth"
+        "The seven colors of visible light",
+        "Types of light sources",
+        "Different types of shadows",
+        "Categories of materials"
       ],
-      "correct_answer": "Mouth"
+      "correct_answer": "The seven colors of visible light"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Which of the following organs helps in the absorption of nutrients in the body?",
+      "category": "Chapter 9: Light",
+      "question": "What is the main source of natural light on Earth?",
       "options": [
-        "Small intestine",
-        "Stomach",
-        "Liver",
-        "Urethra"
+        "Moon",
+        "Stars",
+        "Sun",
+        "Glow-worms"
       ],
-      "correct_answer": "Small intestine"
+      "correct_answer": "Sun"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Which of the following organs helps in the absorption of water?",
+      "category": "Chapter 9: Light",
+      "question": "How does light travel?",
       "options": [
-        "Large intestine",
-        "Stomach",
-        "Urethra",
-        "Oesophagus"
+        "In a zigzag line",
+        "In a curved line",
+        "In a straight line",
+        "In a spiral"
       ],
-      "correct_answer": "Large intestine"
+      "correct_answer": "In a straight line"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Which of the following organs store urine?",
+      "category": "Chapter 9: Light",
+      "question": "What is the speed of light?",
       "options": [
-        "Urethra",
-        "Kidneys",
-        "Ureter",
-        "Urinary bladder"
+        "3×10^8 metres per second",
+        "1000 metres per second",
+        "300 kilometres per hour",
+        "186,000 miles per hour"
       ],
-      "correct_answer": "Urinary bladder"
+      "correct_answer": "3×10^8 metres per second"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Which of the following is required for good bowel movement?",
+      "category": "Chapter 9: Light",
+      "question": "When are shadows longest?",
       "options": [
-        "Saliva",
-        "Fibre",
-        "Nutrient",
-        "Enzyme"
+        "At noon",
+        "In the morning and late afternoon",
+        "At midnight",
+        "In the evening only"
       ],
-      "correct_answer": "Fibre"
+      "correct_answer": "In the morning and late afternoon"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Assertion (A): Faeces are stored in the rectum for a short time. Reason (R): Rectum is the last organ of the digestive system.",
+      "category": "Chapter 9: Light",
+      "question": "When are shadows shortest?",
+      "options": [
+        "At noon",
+        "In the morning",
+        "In the afternoon",
+        "At sunset"
+      ],
+      "correct_answer": "At noon"
+    },
+    {
+      "category": "Chapter 9: Light",
+      "question": "Which of the following is a natural source of light?",
+      "options": [
+        "Glow-worm",
+        "Electric bulb",
+        "Candle",
+        "Tube light"
+      ],
+      "correct_answer": "Glow-worm"
+    },
+    {
+      "category": "Chapter 9: Light",
+      "question": "A candle is a:",
+      "options": [
+        "Non-luminous object",
+        "Luminous object",
+        "Transparent object",
+        "Opaque object"
+      ],
+      "correct_answer": "Luminous object"
+    },
+    {
+      "category": "Chapter 9: Light",
+      "question": "Visible light can be split into how many colors?",
+      "options": [
+        "Five",
+        "Seven",
+        "Eight",
+        "Ten"
+      ],
+      "correct_answer": "Seven"
+    },
+    {
+      "category": "Chapter 9: Light",
+      "question": "Wood and cardboard are:",
+      "options": [
+        "Transparent objects",
+        "Opaque objects",
+        "Translucent objects",
+        "Luminous objects"
+      ],
+      "correct_answer": "Opaque objects"
+    },
+    {
+      "category": "Chapter 9: Light",
+      "question": "A shadow is a:",
+      "options": [
+        "Light patch",
+        "Dark patch",
+        "Colorful patch",
+        "Transparent patch"
+      ],
+      "correct_answer": "Dark patch"
+    },
+    {
+      "category": "Chapter 9: Light",
+      "question": "Assertion (A): Table is a transparent object. Reason (R): Transparent objects do not allow light to pass through them.",
+      "options": [
+        "Both A and R are True",
+        "Both A and R are False",
+        "A is True and R is False",
+        "A is False and R is True"
+      ],
+      "correct_answer": "Both A and R are False"
+    },
+    {
+      "category": "Chapter 9: Light",
+      "question": "Assertion (A): The length of a shadow is the shortest at noon. Reason (R): A shadow is always formed on the opposite side of the object.",
       "options": [
         "Both A and R are True",
         "Both A and R are False",
@@ -213,213 +298,63 @@
       "correct_answer": "Both A and R are True"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Assertion (A): Urine is formed inside the kidneys. Reason (R): It contains useful substances that are formed inside our body.",
+      "category": "Chapter 9: Light",
+      "question": "The ______ is the main source of light on Earth.",
       "options": [
-        "Both A and R are True",
-        "Both A and R are False",
-        "A is True and R is False",
-        "A is False and R is True"
+        "Moon",
+        "Sun",
+        "Stars",
+        "Earth itself"
       ],
-      "correct_answer": "A is True and R is False"
+      "correct_answer": "Sun"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "From the mouth, the chewed food reaches the stomach via the ______.",
+      "category": "Chapter 9: Light",
+      "question": "A kerosene lamp is an example of an ______ source of light.",
       "options": [
-        "Oesophagus",
-        "Kidneys"
+        "Artificial",
+        "Natural",
+        "Luminous",
+        "Non-luminous"
       ],
-      "correct_answer": "Oesophagus"
+      "correct_answer": "Artificial"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "The liver secretes ______ that helps in the digestion of food.",
+      "category": "Chapter 9: Light",
+      "question": "A glow-worm ______ light.",
       "options": [
-        "Digestive juices",
-        "Saliva"
+        "Does not emit",
+        "Emits",
+        "Reflects",
+        "Absorbs"
       ],
-      "correct_answer": "Digestive juices"
+      "correct_answer": "Emits"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "The ______ system helps in removing wastes from our body.",
+      "category": "Chapter 9: Light",
+      "question": "Light always travels in a ______ line.",
       "options": [
-        "Excretory",
-        "Circulatory"
+        "Straight",
+        "Zigzag",
+        "Curved",
+        "Spiral"
       ],
-      "correct_answer": "Excretory"
+      "correct_answer": "Straight"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Waste from our body is removed by the ______.",
+      "category": "Chapter 9: Light",
+      "question": "An opaque object ______ light to pass through it.",
       "options": [
-        "Kidneys",
-        "Stomach"
+        "Allows",
+        "Does not allow",
+        "Sometimes allows",
+        "Reflects"
       ],
-      "correct_answer": "Kidneys"
+      "correct_answer": "Does not allow"
     },
     {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Urine is formed inside the ______.",
-      "options": [
-        "Kidneys",
-        "Ureters"
-      ],
-      "correct_answer": "Kidneys"
-    },
-    {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Match the following: 1. Churning 2. Saliva 3. Food pipe 4. Kidney 5. Fibre",
-      "options": [
-        "b. Stomach, a. Enzyme, d. Oesophagus, e. Urine, c. Roughage"
-      ],
-      "correct_answer": "b. Stomach, a. Enzyme, d. Oesophagus, e. Urine, c. Roughage"
-    },
-    {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Define digestion.",
-      "options": [
-        "Process of breaking down food into a simpler form so it can be absorbed by the body",
-        "Process of removing waste",
-        "Absorption of water",
-        "Making food only"
-      ],
-      "correct_answer": "Process of breaking down food into a simpler form so it can be absorbed by the body"
-    },
-    {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "What is the role of tongue in the digestive process?",
-      "options": [
-        "Mixes saliva with food and pushes food into the food pipe",
-        "Absorbs nutrients",
-        "Stores food",
-        "Removes water"
-      ],
-      "correct_answer": "Mixes saliva with food and pushes food into the food pipe"
-    },
-    {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "What happens to the undigested food?",
-      "options": [
-        "Passes to large intestine where water is absorbed and rest expelled as waste",
-        "Absorbed fully",
-        "Stored in stomach",
-        "Removed via skin"
-      ],
-      "correct_answer": "Passes to large intestine where water is absorbed and rest expelled as waste"
-    },
-    {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Define excretion.",
-      "options": [
-        "Process of removing waste products from our body",
-        "Process of digesting food",
-        "Absorption of nutrients",
-        "Chewing food"
-      ],
-      "correct_answer": "Process of removing waste products from our body"
-    },
-    {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Name two waste products of our body.",
-      "options": [
-        "Faeces and urine",
-        "Saliva and water",
-        "Food and water",
-        "Nutrients and vitamins"
-      ],
-      "correct_answer": "Faeces and urine"
-    },
-    {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Name the main parts of the digestive system and their functions.",
-      "options": [
-        "Mouth (chews), Food pipe (carries), Stomach (churns), Liver/Pancreas (make juices), Small intestine (absorbs nutrients), Large intestine (absorbs water), Rectum (stores faeces), Anus (removes faeces)",
-        "Kidneys, Ureter, Bladder",
-        "Heart, Lungs",
-        "Brain, Spinal cord"
-      ],
-      "correct_answer": "Mouth (chews), Food pipe (carries), Stomach (churns), Liver/Pancreas (make juices), Small intestine (absorbs nutrients), Large intestine (absorbs water), Rectum (stores faeces), Anus (removes faeces)"
-    },
-    {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Name the organs of the excretory system in sequence and their functions.",
-      "options": [
-        "Kidneys (make urine), Ureters (carry urine), Urinary bladder (stores urine), Urethra (removes urine)",
-        "Stomach, Small intestine, Large intestine",
-        "Mouth, Oesophagus, Stomach",
-        "Heart, Lungs, Blood vessels"
-      ],
-      "correct_answer": "Kidneys (make urine), Ureters (carry urine), Urinary bladder (stores urine), Urethra (removes urine)"
-    },
-    {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Write a short note on healthy habits for digestion.",
-      "options": [
-        "Eat from clean plate, chew well, eat fibre-rich foods, drink water, avoid junk food, wash hands",
-        "Eat junk food only",
-        "Skip water",
-        "Sleep only"
-      ],
-      "correct_answer": "Eat from clean plate, chew well, eat fibre-rich foods, drink water, avoid junk food, wash hands"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Plants are important to maintain the ___ of nature.",
-      "options": [
-        "balance",
-        "growth",
-        "color",
-        "temperature"
-      ],
-      "correct_answer": "balance"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "The stem gives ___ to the plant.",
-      "options": [
-        "support",
-        "food",
-        "water",
-        "flowers"
-      ],
-      "correct_answer": "support"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Rice plants have ___ roots.",
-      "options": [
-        "fibrous",
-        "taproot",
-        "thick",
-        "weak"
-      ],
-      "correct_answer": "fibrous"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Roots of carrots are ___ as they store ___ in them.",
-      "options": [
-        "thick and fleshy, food",
-        "thin, water",
-        "weak, nutrients",
-        "fibrous, sugar"
-      ],
-      "correct_answer": "thick and fleshy, food"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Grapevine has a weak stem.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "True"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Mango leaf has a broader leaf blade as compared to banana leaf.",
+      "category": "Chapter 9: Light",
+      "question": "True or False: Table is a luminous object.",
       "options": [
         "True",
         "False"
@@ -427,8 +362,8 @@
       "correct_answer": "False"
     },
     {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Through the stomata of leaf, carbon dioxide is taken in for photosynthesis.",
+      "category": "Chapter 9: Light",
+      "question": "True or False: Light helps us to see the things around us.",
       "options": [
         "True",
         "False"
@@ -436,8 +371,8 @@
       "correct_answer": "True"
     },
     {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Iodine test is used to test for the presence of carbon dioxide inside a leaf.",
+      "category": "Chapter 9: Light",
+      "question": "True or False: Stars are non-luminous objects.",
       "options": [
         "True",
         "False"
@@ -445,8 +380,8 @@
       "correct_answer": "False"
     },
     {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Starch turns blue-black in the presence of iodine in a leaf.",
+      "category": "Chapter 9: Light",
+      "question": "True or False: We can see a pencil bent when placed in a glass of water.",
       "options": [
         "True",
         "False"
@@ -454,129 +389,323 @@
       "correct_answer": "True"
     },
     {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "What are the two types of roots?",
+      "category": "Chapter 9: Light",
+      "question": "True or False: Light is a form of energy.",
       "options": [
-        "Taproot and fibrous root",
-        "Thick and thin root",
-        "Primary and secondary root",
-        "Carrot and radish root"
+        "True",
+        "False"
       ],
-      "correct_answer": "Taproot and fibrous root"
+      "correct_answer": "True"
     },
     {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "What is the process by which green plants prepare their own food?",
+      "category": "Chapter 9: Light",
+      "question": "True or False: Shadows are longest at noon.",
       "options": [
-        "Photosynthesis",
-        "Respiration",
-        "Transpiration",
-        "Digestion"
+        "True",
+        "False"
       ],
-      "correct_answer": "Photosynthesis"
+      "correct_answer": "False"
     },
     {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "What is the main function of stem?",
+      "category": "Chapter 9: Light",
+      "question": "Which of the following are examples of transparent objects?",
       "options": [
-        "Support the plant and carry water and food",
-        "Prepare food",
-        "Store starch",
-        "Release gases"
+        "Clear water and glass",
+        "Butter paper and frosted glass",
+        "Wood and cardboard",
+        "Sun and candle"
       ],
-      "correct_answer": "Support the plant and carry water and food"
+      "correct_answer": "Clear water and glass"
     },
     {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Which part absorbs water and minerals from the soil?",
+      "category": "Chapter 9: Light",
+      "question": "Which of the following are examples of translucent objects?",
       "options": [
-        "Leaf",
-        "Stem",
-        "Root",
-        "Flower"
+        "Clear water and glass",
+        "Butter paper and frosted glass",
+        "Wood and cardboard",
+        "Sun and candle"
       ],
-      "correct_answer": "Root"
+      "correct_answer": "Butter paper and frosted glass"
     },
     {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Which part is also known as the kitchen of a plant?",
+      "category": "Chapter 9: Light",
+      "question": "Which of the following are examples of opaque objects?",
       "options": [
-        "Leaf",
-        "Stomata",
-        "Flower",
-        "Leaf stalk"
+        "Clear water and glass",
+        "Butter paper and frosted glass",
+        "Wood and cardboard",
+        "Sun and candle"
       ],
-      "correct_answer": "Leaf"
+      "correct_answer": "Wood and cardboard"
     },
     {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Chlorophyll helps to absorb",
+      "category": "Chapter 9: Light",
+      "question": "What is a 'source of light'?",
       "options": [
-        "Oxygen",
-        "Carbon dioxide",
-        "Nutrients",
-        "Sunlight"
+        "Objects that give out (emit) light",
+        "Objects that reflect light",
+        "Objects that absorb light",
+        "Objects that block light"
       ],
-      "correct_answer": "Sunlight"
+      "correct_answer": "Objects that give out (emit) light"
     },
     {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "The flat part of a leaf is called",
+      "category": "Chapter 9: Light",
+      "question": "Why can't we see anything through a book?",
       "options": [
-        "Vein",
-        "Midrib",
-        "Leaf blade",
-        "Leaf stalk"
+        "Because it is transparent",
+        "Because it is translucent",
+        "Because it is opaque",
+        "Because it is luminous"
       ],
-      "correct_answer": "Leaf blade"
+      "correct_answer": "Because it is opaque"
     },
     {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Tiny pores on leaves are called",
+      "category": "Chapter 9: Light",
+      "question": "What are two uses of transparent objects?",
       "options": [
-        "Veins",
-        "Leaf stalk",
-        "Stomata",
-        "Midrib"
+        "Used in spectacles and windowpanes",
+        "Used to block light and create shadows",
+        "Used to absorb heat and light",
+        "Used to reflect light in mirrors"
       ],
-      "correct_answer": "Stomata"
+      "correct_answer": "Used in spectacles and windowpanes"
     },
     {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "___ is the food prepared by plants by the process of photosynthesis.",
+      "category": "Chapter 9: Light",
+      "question": "What are the seven colors in which light splits when it passes through a prism?",
       "options": [
-        "Glucose",
-        "Oxygen",
-        "Chlorophyll",
-        "Minerals"
+        "Red, Orange, Yellow, Green, Blue, Indigo, Violet",
+        "Violet, Indigo, Blue, Green, Yellow, Orange, Red",
+        "Red, Yellow, Green, Blue, Violet, Indigo, Orange",
+        "All colors of the rainbow"
       ],
-      "correct_answer": "Glucose"
+      "correct_answer": "Violet, Indigo, Blue, Green, Yellow, Orange, Red"
     },
     {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "A potato plant stores extra food in its",
+      "category": "Chapter 9: Light",
+      "question": "Which of the following is a property of light?",
       "options": [
-        "Stomata",
-        "Leaves",
-        "Roots",
-        "Stem"
+        "It is a form of energy",
+        "It travels in a straight line",
+        "It travels at a speed of 3×10^8 m/s",
+        "All of the above"
       ],
-      "correct_answer": "Stem"
+      "correct_answer": "All of the above"
     },
     {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Assertion (A): Stem helps in the transportation of water and minerals in the plant. Reason (R): It transports water and minerals from the leaves to the other parts of the plant.",
+      "category": "Chapter 9: Light",
+      "question": "What is the difference between reflection and refraction of light?",
       "options": [
-        "Both A and R are True",
-        "Both A and R are False",
-        "A is True and R is False",
-        "A is False and R is True"
+        "Reflection is bouncing back of light, refraction is bending of light",
+        "Reflection is bending of light, refraction is bouncing back of light",
+        "Both are the same",
+        "Reflection occurs only in mirrors, refraction only in water"
       ],
-      "correct_answer": "A is True and R is False"
+      "correct_answer": "Reflection is bouncing back of light, refraction is bending of light"
     },
     {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Assertion (A): Plants take in carbon dioxide through stomata during photosynthesis. Reason (R): Plants prepare their own food through photosynthesis.",
+      "category": "Chapter 9: Light",
+      "question": "How does a table differ from a glass in terms of allowing light to pass?",
+      "options": [
+        "Table is opaque, glass is transparent",
+        "Table is transparent, glass is opaque",
+        "Both are opaque",
+        "Both are transparent"
+      ],
+      "correct_answer": "Table is opaque, glass is transparent"
+    },
+    {
+      "category": "Chapter 9: Light",
+      "question": "Why does the length of shadow change from morning to noon?",
+      "options": [
+        "Because the position of the Sun changes",
+        "Because the object changes size",
+        "Because the light source changes",
+        "Because of temperature changes"
+      ],
+      "correct_answer": "Because the position of the Sun changes"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "What is measurement?",
+      "options": [
+        "The process of finding out the size or the quantity of something",
+        "The process of comparing two objects",
+        "The process of weighing objects",
+        "The process of counting objects"
+      ],
+      "correct_answer": "The process of finding out the size or the quantity of something"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "What is a unit?",
+      "options": [
+        "A measuring instrument",
+        "A fixed quantity used as a standard of measurement",
+        "A type of measurement",
+        "A mathematical calculation"
+      ],
+      "correct_answer": "A fixed quantity used as a standard of measurement"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "What are standard units?",
+      "options": [
+        "Units that change based on who is measuring",
+        "Fixed units that give correct and consistent measurements regardless of who measures",
+        "Units used only in laboratories",
+        "Ancient methods of measurement"
+      ],
+      "correct_answer": "Fixed units that give correct and consistent measurements regardless of who measures"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "What is length?",
+      "options": [
+        "The amount of material an object contains",
+        "The size or measure of how long an object is",
+        "The amount of liquid a container can hold",
+        "How hot or cold an object is"
+      ],
+      "correct_answer": "The size or measure of how long an object is"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "What is mass?",
+      "options": [
+        "The size of an object",
+        "The amount of material an object contains",
+        "The volume of an object",
+        "The temperature of an object"
+      ],
+      "correct_answer": "The amount of material an object contains"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "What is capacity?",
+      "options": [
+        "The weight of an object",
+        "The length of an object",
+        "The amount of liquid a container can hold",
+        "The temperature of a liquid"
+      ],
+      "correct_answer": "The amount of liquid a container can hold"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "What is time?",
+      "options": [
+        "The measure of weight",
+        "The measure of length",
+        "The measure of how long an action takes",
+        "The measure of temperature"
+      ],
+      "correct_answer": "The measure of how long an action takes"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "What is temperature?",
+      "options": [
+        "A measure of weight",
+        "A measure of length",
+        "A measure of how hot or cold an object is",
+        "A measure of volume"
+      ],
+      "correct_answer": "A measure of how hot or cold an object is"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "What are handspan, cubit, and foot span?",
+      "options": [
+        "Modern measuring instruments",
+        "Ancient, non-standard methods of measuring length using body parts",
+        "Units for measuring weight",
+        "Units for measuring time"
+      ],
+      "correct_answer": "Ancient, non-standard methods of measuring length using body parts"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "What is a clinical thermometer used for?",
+      "options": [
+        "Measuring body temperature",
+        "Measuring room temperature",
+        "Measuring length",
+        "Measuring weight"
+      ],
+      "correct_answer": "Measuring body temperature"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "What is normal human body temperature?",
+      "options": [
+        "98.6 °F or 37 °C",
+        "100 °F or 38 °C",
+        "96.8 °F or 36 °C",
+        "102 °F or 39 °C"
+      ],
+      "correct_answer": "98.6 °F or 37 °C"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "Fixed quantity used as standard of measurement is called a/an:",
+      "options": [
+        "Instrument",
+        "Measurement",
+        "Quantity",
+        "Unit"
+      ],
+      "correct_answer": "Unit"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "The standard unit of length is:",
+      "options": [
+        "Metre",
+        "Kilogram",
+        "Litre",
+        "Second"
+      ],
+      "correct_answer": "Metre"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "Amount of material an object contains is called:",
+      "options": [
+        "Length",
+        "Mass",
+        "Capacity",
+        "Temperature"
+      ],
+      "correct_answer": "Mass"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "The measuring cylinder measures:",
+      "options": [
+        "Capacity",
+        "Length",
+        "Mass",
+        "Temperature"
+      ],
+      "correct_answer": "Capacity"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "The thermometer measures:",
+      "options": [
+        "Length",
+        "Mass",
+        "Temperature",
+        "Time"
+      ],
+      "correct_answer": "Temperature"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "Assertion (A): The actual length of an object is not measured correctly if it is not kept along the zero mark of the ruler. Reason (R): There are no markings before the zero mark on the ruler.",
       "options": [
         "Both A and R are True",
         "Both A and R are False",
@@ -586,339 +715,8 @@
       "correct_answer": "Both A and R are True"
     },
     {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Tap roots have a thick main root.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "True"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "A plant uses the food prepared by it for its growth.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "True"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Spinach stores food in its leaf.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "True"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "The midrib is the main vein of the leaf.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "True"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "The petiole attaches the leaf to the stem.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "True"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Many thin, bushy roots instead of one main root are called?",
-      "options": [
-        "Fibrous roots",
-        "Taproots",
-        "Trunks",
-        "Stems"
-      ],
-      "correct_answer": "Fibrous roots"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "A green substance present in leaves that helps them to absorb sunlight is called?",
-      "options": [
-        "Chlorophyll",
-        "Carotene",
-        "Glucose",
-        "Starch"
-      ],
-      "correct_answer": "Chlorophyll"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Leaves take in which gas from air?",
-      "options": [
-        "Carbon dioxide",
-        "Oxygen",
-        "Nitrogen",
-        "Hydrogen"
-      ],
-      "correct_answer": "Carbon dioxide"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "In plants, the extra food is stored in which form?",
-      "options": [
-        "Starch",
-        "Glucose",
-        "Chlorophyll",
-        "Water"
-      ],
-      "correct_answer": "Starch"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Stem of banyan and mango tree is called?",
-      "options": [
-        "Trunk",
-        "Branch",
-        "Petiole",
-        "Root"
-      ],
-      "correct_answer": "Trunk"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Name one plant that has taproot.",
-      "options": [
-        "Carrot",
-        "Wheat",
-        "Rice",
-        "Spinach"
-      ],
-      "correct_answer": "Carrot"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Name one plant that has fibrous root.",
-      "options": [
-        "Wheat",
-        "Carrot",
-        "Radish",
-        "Pea"
-      ],
-      "correct_answer": "Wheat"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Name one root that we eat as a vegetable.",
-      "options": [
-        "Radish",
-        "Spinach",
-        "Carrot leaves",
-        "Potato stem"
-      ],
-      "correct_answer": "Radish"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "What are stomata and how do they help a plant?",
-      "options": [
-        "Tiny openings on the leaf that help in taking carbon dioxide and releasing oxygen and water vapour",
-        "Root hairs",
-        "Leaf veins",
-        "Flowers"
-      ],
-      "correct_answer": "Tiny openings on the leaf that help in taking carbon dioxide and releasing oxygen and water vapour"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "What are the functions of a leaf?",
-      "options": [
-        "Prepare food, store food, release water vapour",
-        "Absorb minerals only",
-        "Support the plant",
-        "Store water only"
-      ],
-      "correct_answer": "Prepare food, store food, release water vapour"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Name two plants that we use to make medicines.",
-      "options": [
-        "Tulsi and neem",
-        "Wheat and rice",
-        "Mango and Guava",
-        "Spinach and Carrot"
-      ],
-      "correct_answer": "Tulsi and neem"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "What is transpiration?",
-      "options": [
-        "The process by which plants lose water as vapour through stomata in leaves",
-        "Absorption of water by roots",
-        "Storage of food",
-        "Photosynthesis"
-      ],
-      "correct_answer": "The process by which plants lose water as vapour through stomata in leaves"
-    },
-    {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Write the names of any two plants generally found in mountains.",
-      "options": [
-        "Pine, Fir",
-        "Cactus, Acacia",
-        "Mango, Ashoka",
-        "Rubber, Teak"
-      ],
-      "correct_answer": "Pine, Fir"
-    },
-    {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Write the names of any two plants generally found in deserts.",
-      "options": [
-        "Pine, Fir",
-        "Cactus, Acacia",
-        "Mango, Ashoka",
-        "Rubber, Teak"
-      ],
-      "correct_answer": "Cactus, Acacia"
-    },
-    {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Write the names of any two plants generally found in plains (low rainfall).",
-      "options": [
-        "Pine, Fir",
-        "Cactus, Acacia",
-        "Mango, Ashoka",
-        "Rubber, Teak"
-      ],
-      "correct_answer": "Mango, Ashoka"
-    },
-    {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Write the names of any two plants generally found in plains (heavy rainfall).",
-      "options": [
-        "Pine, Fir",
-        "Cactus, Acacia",
-        "Mango, Ashoka",
-        "Rubber, Teak"
-      ],
-      "correct_answer": "Rubber, Teak"
-    },
-    {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Why are trees in mountains cone shaped?",
-      "options": [
-        "To help snow slide off easily",
-        "To store water",
-        "To prepare food",
-        "To support branches"
-      ],
-      "correct_answer": "To help snow slide off easily"
-    },
-    {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Why do desert plants have spines and thick stems?",
-      "options": [
-        "To reduce water loss and store water",
-        "To capture insects",
-        "To grow taller",
-        "To spread seeds"
-      ],
-      "correct_answer": "To reduce water loss and store water"
-    },
-    {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "How do floating plants stay on the surface of water?",
-      "options": [
-        "They have light and spongy stems and loose roots",
-        "They have heavy roots",
-        "They store water in leaves",
-        "They have thick stems"
-      ],
-      "correct_answer": "They have light and spongy stems and loose roots"
-    },
-    {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Why does the leaf turn blue-black when iodine is added?",
-      "options": [
-        "The leaf contains starch, and iodine turns starch blue-black",
-        "The leaf contains chlorophyll",
-        "The leaf absorbs water",
-        "The leaf is dry"
-      ],
-      "correct_answer": "The leaf contains starch, and iodine turns starch blue-black"
-    },
-    {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Why did the leaf that was kept in the dark not change color with iodine?",
-      "options": [
-        "Because no starch was made without sunlight",
-        "Because leaf is old",
-        "Because it was washed",
-        "Because of water content"
-      ],
-      "correct_answer": "Because no starch was made without sunlight"
-    },
-    {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Plants that absorb water and minerals from the soil are:",
-      "options": [
-        "Leaf",
-        "Stem",
-        "Root",
-        "Flower"
-      ],
-      "correct_answer": "Root"
-    },
-    {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Plants prepare food by the process of:",
-      "options": [
-        "Respiration",
-        "Photosynthesis",
-        "Transpiration",
-        "Germination"
-      ],
-      "correct_answer": "Photosynthesis"
-    },
-    {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Taproot plants are:",
-      "options": [
-        "Wheat",
-        "Grass",
-        "Pea",
-        "Rice"
-      ],
-      "correct_answer": "Pea"
-    },
-    {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "The green substance in leaves is called:",
-      "options": [
-        "Chlorophyll",
-        "Carotene",
-        "Oxygen",
-        "Water"
-      ],
-      "correct_answer": "Chlorophyll"
-    },
-    {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Assertion (A): Stem transports water and minerals in plants. Reason (R): Stem transports water from the leaves.",
-      "options": [
-        "Both A and R are True",
-        "Both A and R are False",
-        "A is True and R is False",
-        "A is False and R is True"
-      ],
-      "correct_answer": "A is True and R is False"
-    },
-    {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Assertion (A): Plants take in carbon dioxide through stomata. Reason (R): They prepare their own food through photosynthesis.",
+      "category": "Chapter 10: Measurement",
+      "question": "Assertion (A): We can measure the amount of water we drink using a beaker. Reason (R): Beakers are used to measure capacity.",
       "options": [
         "Both A and R are True",
         "Both A and R are False",
@@ -928,8 +726,17 @@
       "correct_answer": "Both A and R are True"
     },
     {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Taproot plants have a thick main root.",
+      "category": "Chapter 10: Measurement",
+      "question": "True or False: Second is the standard unit for measuring mass.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Chapter 10: Measurement",
+      "question": "True or False: Handspan was used in the past to measure length.",
       "options": [
         "True",
         "False"
@@ -937,8 +744,8 @@
       "correct_answer": "True"
     },
     {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "A plant uses the food prepared by it for growth.",
+      "category": "Chapter 10: Measurement",
+      "question": "True or False: Measuring tape is used to measure the length of a rope.",
       "options": [
         "True",
         "False"
@@ -946,8 +753,8 @@
       "correct_answer": "True"
     },
     {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Spinach stores food in its leaves.",
+      "category": "Chapter 10: Measurement",
+      "question": "True or False: A measuring cylinder is used to measure capacity.",
       "options": [
         "True",
         "False"
@@ -955,218 +762,314 @@
       "correct_answer": "True"
     },
     {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Midrib is the main vein of a leaf.",
+      "category": "Chapter 10: Measurement",
+      "question": "True or False: We can check our height on a weighing scale.",
       "options": [
         "True",
         "False"
       ],
-      "correct_answer": "True"
+      "correct_answer": "False"
     },
     {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Petiole attaches the leaf to the stem.",
+      "category": "Chapter 10: Measurement",
+      "question": "Match: Thermometer is used to measure:",
       "options": [
-        "True",
-        "False"
+        "Time",
+        "Amount of water",
+        "Temperature",
+        "Mass of a sack of flour"
       ],
-      "correct_answer": "True"
+      "correct_answer": "Temperature"
     },
     {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Name one plant with taproot.",
+      "category": "Chapter 10: Measurement",
+      "question": "Match: Weighing machine is used to measure:",
       "options": [
-        "Carrot",
-        "Rice",
-        "Spinach",
-        "Wheat"
+        "Time",
+        "Amount of water",
+        "Temperature",
+        "Mass of a sack of flour"
       ],
-      "correct_answer": "Carrot"
+      "correct_answer": "Mass of a sack of flour"
     },
     {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Name one plant with fibrous root.",
+      "category": "Chapter 10: Measurement",
+      "question": "Match: Watch is used to measure:",
       "options": [
-        "Rice",
-        "Carrot",
-        "Pea",
-        "Wheat"
+        "Time",
+        "Amount of water",
+        "Temperature",
+        "Length of a table"
       ],
-      "correct_answer": "Rice"
+      "correct_answer": "Time"
     },
     {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "What are the function of leaves?",
+      "category": "Chapter 10: Measurement",
+      "question": "Match: Measuring tape is used to measure:",
       "options": [
-        "Leaves prepare food, release water vapour, and store food in some plants",
-        "Absorb minerals only",
-        "Support the plant",
-        "Store water only"
+        "Time",
+        "Amount of water",
+        "Temperature",
+        "Length of a table"
       ],
-      "correct_answer": "Leaves prepare food, release water vapour, and store food in some plants"
+      "correct_answer": "Length of a table"
     },
     {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Name two plants used to make medicines.",
+      "category": "Chapter 10: Measurement",
+      "question": "Match: Measuring cylinder is used to measure:",
       "options": [
-        "Tulsi and neem",
-        "Spinach and Carrot",
-        "Rice and Wheat",
-        "Mango and Guava"
+        "Time",
+        "Amount of water",
+        "Temperature",
+        "Mass of a sack of flour"
       ],
-      "correct_answer": "Tulsi and neem"
+      "correct_answer": "Amount of water"
     },
     {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Carrots and radishes are roots that store food and are eaten as vegetables.",
+      "category": "Chapter 10: Measurement",
+      "question": "What instrument is used to measure body temperature?",
       "options": [
-        "True",
-        "False"
+        "Measuring tape",
+        "Clinical thermometer",
+        "Weighing scale",
+        "Measuring cylinder"
       ],
-      "correct_answer": "True"
+      "correct_answer": "Clinical thermometer"
     },
     {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Stem supports the plant and carries water and food to all parts.",
+      "category": "Chapter 10: Measurement",
+      "question": "What is the symbol for gram?",
       "options": [
-        "True",
-        "False"
+        "g",
+        "kg",
+        "Gm",
+        "gr"
       ],
-      "correct_answer": "True"
+      "correct_answer": "g"
     },
     {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Photosynthesis is the process by which green plants make food using sunlight, CO₂, water, and chlorophyll.",
+      "category": "Chapter 10: Measurement",
+      "question": "What is the symbol for degree Celsius?",
       "options": [
-        "True",
-        "False"
+        "°C",
+        "°F",
+        "C°",
+        "Deg"
       ],
-      "correct_answer": "True"
+      "correct_answer": "°C"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Why do animals need to adapt?",
+      "category": "Chapter 10: Measurement",
+      "question": "What is the symbol for metre?",
       "options": [
-        "To get food, shelter, and protect themselves and their young",
-        "To travel long distances",
-        "To compete with humans",
-        "To sleep all the time"
+        "m",
+        "M",
+        "mt",
+        "met"
       ],
-      "correct_answer": "To get food, shelter, and protect themselves and their young"
+      "correct_answer": "m"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "What are the adaptations of desert animals?",
+      "category": "Chapter 10: Measurement",
+      "question": "What standard unit is used to weigh potatoes?",
       "options": [
-        "Drink lots of water at once, have thick pads under feet, some aestivate during hot months",
-        "Live in water",
-        "Hibernate in summer",
-        "Have webbed feet"
+        "Gram",
+        "Kilogram",
+        "Litre",
+        "Metre"
       ],
-      "correct_answer": "Drink lots of water at once, have thick pads under feet, some aestivate during hot months"
+      "correct_answer": "Kilogram"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "How do polar animals stay warm?",
+      "category": "Chapter 10: Measurement",
+      "question": "What is used to measure temperature?",
       "options": [
-        "They have thick layers of fat called blubber and thick fur",
-        "They drink hot water",
-        "They migrate to deserts",
-        "They hibernate all year"
+        "Thermometer",
+        "Weighing scale",
+        "Measuring tape",
+        "Clock"
       ],
-      "correct_answer": "They have thick layers of fat called blubber and thick fur"
+      "correct_answer": "Thermometer"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "What adaptations help aquatic animals?",
+      "category": "Chapter 11: Push and Pull",
+      "question": "What is force?",
       "options": [
-        "They have fins or limbs for swimming, gills for breathing, and streamlined bodies",
-        "They climb trees",
-        "They store water in body",
-        "They have thick fur"
+        "A type of energy",
+        "A push or a pull acting on an object",
+        "A measurement",
+        "A form of light"
       ],
-      "correct_answer": "They have fins or limbs for swimming, gills for breathing, and streamlined bodies"
+      "correct_answer": "A push or a pull acting on an object"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "What makes amphibians special?",
+      "category": "Chapter 11: Push and Pull",
+      "question": "What is pushing?",
       "options": [
-        "They have webbed feet for swimming, moist skin for breathing in water, and lungs for breathing on land",
-        "They have scales only",
-        "They hibernate all year",
-        "They eat plants only"
+        "Moving an object closer to us",
+        "Holding an object and using strength to move it forward, away from us",
+        "Lifting an object upward",
+        "Stopping an object"
       ],
-      "correct_answer": "They have webbed feet for swimming, moist skin for breathing in water, and lungs for breathing on land"
+      "correct_answer": "Holding an object and using strength to move it forward, away from us"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Terrestrial animals live in/on:",
+      "category": "Chapter 11: Push and Pull",
+      "question": "Which is an example of pushing?",
       "options": [
-        "Land",
-        "Water",
-        "Air",
-        "Both land and water"
+        "Opening a drawer",
+        "Kicking a football",
+        "Pulling up socks",
+        "Lifting a bag"
       ],
-      "correct_answer": "Land"
+      "correct_answer": "Kicking a football"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Porcupines have:",
+      "category": "Chapter 11: Push and Pull",
+      "question": "What is pulling?",
       "options": [
-        "Spines",
-        "Spiracles",
-        "Moist skin",
-        "Shells"
+        "Moving an object away from us",
+        "Holding an object and using strength to move it closer to us",
+        "Pushing an object sideways",
+        "Stopping a moving object"
       ],
-      "correct_answer": "Spines"
+      "correct_answer": "Holding an object and using strength to move it closer to us"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Most of the ______ have moist skin to help them breathe in water.",
+      "category": "Chapter 11: Push and Pull",
+      "question": "Which is an example of pulling?",
       "options": [
-        "Amphibians",
-        "Aerial animals",
-        "Terrestrial animals",
-        "Aquatic animals"
+        "Kicking a ball",
+        "Closing a drawer",
+        "Opening a drawer",
+        "Pushing a cart"
       ],
-      "correct_answer": "Amphibians"
+      "correct_answer": "Opening a drawer"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Lions are:",
+      "category": "Chapter 11: Push and Pull",
+      "question": "What is gravitational force (gravity)?",
       "options": [
-        "Herbivores",
-        "Scavengers",
-        "Carnivores",
-        "Omnivores"
+        "Force that pushes objects upward",
+        "Force that pulls every object downwards towards the centre of the Earth",
+        "Force that moves objects sideways",
+        "Force that stops moving objects"
       ],
-      "correct_answer": "Carnivores"
+      "correct_answer": "Force that pulls every object downwards towards the centre of the Earth"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "______ birds have strong beaks and claws.",
+      "category": "Chapter 11: Push and Pull",
+      "question": "What is frictional force (friction)?",
       "options": [
-        "Parasitic",
-        "Herbivorous",
-        "Amphibian",
-        "Omnivorous"
+        "Force that makes objects fall",
+        "Force that attracts metals",
+        "Force that acts whenever two objects rub together, slowing down or stopping motion",
+        "Force exerted by muscles"
       ],
-      "correct_answer": "Omnivorous"
+      "correct_answer": "Force that acts whenever two objects rub together, slowing down or stopping motion"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Assertion (A): Eagles have strong and sharp talons. Reason (R): They help them to fly.",
+      "category": "Chapter 11: Push and Pull",
+      "question": "What is magnetic force?",
       "options": [
-        "Both A and R are True",
-        "Both A and R are False",
-        "A is True and R is False",
-        "A is False and R is True"
+        "Force that pulls objects downward",
+        "Force with which a magnet attracts certain metals like iron and nickel",
+        "Force that stops motion",
+        "Force exerted by muscles"
       ],
-      "correct_answer": "A is True and R is False"
+      "correct_answer": "Force with which a magnet attracts certain metals like iron and nickel"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Assertion (A): Humans are herbivores. Reason (R): They eat both plants and flesh of other animals.",
+      "category": "Chapter 11: Push and Pull",
+      "question": "What is muscular force?",
+      "options": [
+        "Force of gravity",
+        "Force of friction",
+        "Force exerted by the muscles to do work",
+        "Magnetic force"
+      ],
+      "correct_answer": "Force exerted by the muscles to do work"
+    },
+    {
+      "category": "Chapter 11: Push and Pull",
+      "question": "Who discovered the force of gravity?",
+      "options": [
+        "Albert Einstein",
+        "Sir Isaac Newton",
+        "Galileo Galilei",
+        "Marie Curie"
+      ],
+      "correct_answer": "Sir Isaac Newton"
+    },
+    {
+      "category": "Chapter 11: Push and Pull",
+      "question": "Which of the following is an example of pull?",
+      "options": [
+        "Kicking a football",
+        "Closing a drawer",
+        "Opening a drawer",
+        "Pushing a box"
+      ],
+      "correct_answer": "Opening a drawer"
+    },
+    {
+      "category": "Chapter 11: Push and Pull",
+      "question": "Which of the following actions does NOT require force?",
+      "options": [
+        "Watching a movie",
+        "Lifting a bag",
+        "Pushing a car",
+        "Kicking a ball"
+      ],
+      "correct_answer": "Watching a movie"
+    },
+    {
+      "category": "Chapter 11: Push and Pull",
+      "question": "Which is NOT an effect of force on an object?",
+      "options": [
+        "Moving a stationary object",
+        "Stopping a moving object",
+        "Changing the colour of an object",
+        "Changing the direction of a moving object"
+      ],
+      "correct_answer": "Changing the colour of an object"
+    },
+    {
+      "category": "Chapter 11: Push and Pull",
+      "question": "Why does a coconut fall from a coconut tree?",
+      "options": [
+        "Because of magnetic force",
+        "Because of frictional force",
+        "Because of gravity",
+        "Because of muscular force"
+      ],
+      "correct_answer": "Because of gravity"
+    },
+    {
+      "category": "Chapter 11: Push and Pull",
+      "question": "The force exerted by our muscles is ______ force.",
+      "options": [
+        "Muscular",
+        "Magnetic",
+        "Gravitational",
+        "Frictional"
+      ],
+      "correct_answer": "Muscular"
+    },
+    {
+      "category": "Chapter 11: Push and Pull",
+      "question": "The force with which a magnet attracts other substances is ______ force.",
+      "options": [
+        "Magnetic",
+        "Muscular",
+        "Gravitational",
+        "Frictional"
+      ],
+      "correct_answer": "Magnetic"
+    },
+    {
+      "category": "Chapter 11: Push and Pull",
+      "question": "Assertion (A): Taking your books out of your bag is an example of push. Reason (R): A force can move an object.",
       "options": [
         "Both A and R are True",
         "Both A and R are False",
@@ -1176,8 +1079,336 @@
       "correct_answer": "A is False and R is True"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Animals that live on land are called aquatic animals.",
+      "category": "Chapter 11: Push and Pull",
+      "question": "Assertion (A): When you try to push a table, friction acts in opposite direction. Reason (R): The direction of frictional force is in the direction of movement of object.",
+      "options": [
+        "Both A and R are True",
+        "Both A and R are False",
+        "A is True and R is False",
+        "A is False and R is True"
+      ],
+      "correct_answer": "A is True and R is False"
+    },
+    {
+      "category": "Chapter 11: Push and Pull",
+      "question": "What force is involved when we use our strength to move an object?",
+      "options": [
+        "Muscular force",
+        "Magnetic force",
+        "Gravitational force",
+        "Frictional force"
+      ],
+      "correct_answer": "Muscular force"
+    },
+    {
+      "category": "Chapter 11: Push and Pull",
+      "question": "What force causes a magnet to pull a nail toward itself?",
+      "options": [
+        "Gravitational force",
+        "Magnetic force",
+        "Frictional force",
+        "Muscular force"
+      ],
+      "correct_answer": "Magnetic force"
+    },
+    {
+      "category": "Chapter 11: Push and Pull",
+      "question": "What force causes a mango to fall from a tree?",
+      "options": [
+        "Magnetic force",
+        "Frictional force",
+        "Gravitational force",
+        "Muscular force"
+      ],
+      "correct_answer": "Gravitational force"
+    },
+    {
+      "category": "Chapter 11: Push and Pull",
+      "question": "What force helps you to write?",
+      "options": [
+        "Gravitational force",
+        "Magnetic force",
+        "Frictional force",
+        "Muscular force"
+      ],
+      "correct_answer": "Frictional force"
+    },
+    {
+      "category": "Chapter 11: Push and Pull",
+      "question": "What is moving an object away from us called?",
+      "options": [
+        "Pulling",
+        "Pushing",
+        "Lifting",
+        "Dropping"
+      ],
+      "correct_answer": "Pushing"
+    },
+    {
+      "category": "Chapter 11: Push and Pull",
+      "question": "What are two metals attracted by a magnet?",
+      "options": [
+        "Iron and copper",
+        "Iron and nickel",
+        "Aluminum and copper",
+        "Gold and silver"
+      ],
+      "correct_answer": "Iron and nickel"
+    },
+    {
+      "category": "Chapter 11: Push and Pull",
+      "question": "What force is involved while running?",
+      "options": [
+        "Gravitational force",
+        "Magnetic force",
+        "Muscular force",
+        "Frictional force"
+      ],
+      "correct_answer": "Muscular force"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "What is friction?",
+      "options": [
+        "The force that pushes objects upward",
+        "The force that acts between a moving object and a surface, slowing or stopping it",
+        "The force that attracts metals",
+        "The force of gravity"
+      ],
+      "correct_answer": "The force that acts between a moving object and a surface, slowing or stopping it"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "What is a contact force?",
+      "options": [
+        "A force that acts at a distance",
+        "A force that acts at the point of contact between two objects",
+        "A magnetic force",
+        "A gravitational force"
+      ],
+      "correct_answer": "A force that acts at the point of contact between two objects"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "What are lubricants?",
+      "options": [
+        "Substances that increase friction",
+        "Substances that reduce friction by smoothening surfaces",
+        "Substances that create friction",
+        "Substances that measure friction"
+      ],
+      "correct_answer": "Substances that reduce friction by smoothening surfaces"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "What are streamlined shapes?",
+      "options": [
+        "Shapes that increase friction",
+        "Special shapes designed to reduce the effect of friction while moving through air or water",
+        "Shapes that create more surface area",
+        "Irregular shapes"
+      ],
+      "correct_answer": "Special shapes designed to reduce the effect of friction while moving through air or water"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "In what direction does friction always act?",
+      "options": [
+        "Same direction as motion",
+        "Opposite direction to motion",
+        "Upward direction",
+        "Downward direction"
+      ],
+      "correct_answer": "Opposite direction to motion"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "Which surfaces have more friction?",
+      "options": [
+        "Smooth surfaces",
+        "Rough surfaces",
+        "Both have equal friction",
+        "Neither have friction"
+      ],
+      "correct_answer": "Rough surfaces"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "What does friction generate?",
+      "options": [
+        "Light",
+        "Sound",
+        "Heat",
+        "Electricity"
+      ],
+      "correct_answer": "Heat"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "What can make it easier to slide a heavy box across the floor?",
+      "options": [
+        "Powder",
+        "Oil",
+        "Grease",
+        "All of these"
+      ],
+      "correct_answer": "All of these"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "Why do we add powder on a carrom board?",
+      "options": [
+        "To increase friction",
+        "To decrease friction",
+        "To make it colorful",
+        "To clean the board"
+      ],
+      "correct_answer": "To decrease friction"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "Friction is more on a ______ surface.",
+      "options": [
+        "Smooth",
+        "Rough",
+        "Wet",
+        "Dry"
+      ],
+      "correct_answer": "Rough"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "______ is applied on door hinges to reduce friction.",
+      "options": [
+        "Oil",
+        "Water",
+        "Powder",
+        "Sand"
+      ],
+      "correct_answer": "Oil"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "You are able to walk due to ______.",
+      "options": [
+        "Gravity",
+        "Magnetism",
+        "Friction",
+        "Muscular force"
+      ],
+      "correct_answer": "Friction"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "Aeroplanes have a ______ shape to reduce the effect of friction.",
+      "options": [
+        "Square",
+        "Round",
+        "Streamlined",
+        "Triangular"
+      ],
+      "correct_answer": "Streamlined"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "Assertion (A): Oil is applied on the door hinges. Reason (R): Oil helps in reducing the creaking noise while opening or closing a door.",
+      "options": [
+        "Both A and R are True",
+        "Both A and R are False",
+        "A is True and R is False",
+        "A is False and R is True"
+      ],
+      "correct_answer": "Both A and R are True"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "Assertion (A): Aeroplanes have streamlined body. Reason (R): It helps to reduce the effect of friction while moving at high speed through air.",
+      "options": [
+        "Both A and R are True",
+        "Both A and R are False",
+        "A is True and R is False",
+        "A is False and R is True"
+      ],
+      "correct_answer": "Both A and R are True"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "Friction acts at the point of ______.",
+      "options": [
+        "Contact",
+        "Rest",
+        "Distance",
+        "Balance"
+      ],
+      "correct_answer": "Contact"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "Friction helps us to ______ a matchstick.",
+      "options": [
+        "Light",
+        "Put off",
+        "Break",
+        "Hold"
+      ],
+      "correct_answer": "Light"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "Frictional force is always in the direction ______ to that of a moving object.",
+      "options": [
+        "Similar",
+        "Opposite",
+        "Parallel",
+        "Perpendicular"
+      ],
+      "correct_answer": "Opposite"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "The force between two surfaces in contact is called ______.",
+      "options": [
+        "Friction",
+        "Lubricant",
+        "Gravity",
+        "Magnetism"
+      ],
+      "correct_answer": "Friction"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "______ is a substance that reduces friction by smoothening out the surfaces.",
+      "options": [
+        "Lubricant",
+        "Sand",
+        "Water",
+        "Air"
+      ],
+      "correct_answer": "Lubricant"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "We can walk because there is ______ between our feet and ground.",
+      "options": [
+        "Friction",
+        "Lubrication",
+        "Magnetism",
+        "Gravity"
+      ],
+      "correct_answer": "Friction"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "True or False: Friction makes it possible for a car to stop.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "True or False: On a rough surface, a ball will roll to a greater distance than on a smooth surface.",
       "options": [
         "True",
         "False"
@@ -1185,8 +1416,17 @@
       "correct_answer": "False"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Dogs are terrestrial animals.",
+      "category": "Chapter 12: Friction as a Force",
+      "question": "True or False: Friction causes no damage to tyres, soles of shoes, or machine parts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Chapter 12: Friction as a Force",
+      "question": "True or False: Friction is useful as well as harmful for us.",
       "options": [
         "True",
         "False"
@@ -1194,8 +1434,8 @@
       "correct_answer": "True"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Crow is an example of an omnivorous bird.",
+      "category": "Chapter 12: Friction as a Force",
+      "question": "True or False: Friction should be reduced in engines.",
       "options": [
         "True",
         "False"
@@ -1203,8 +1443,8 @@
       "correct_answer": "True"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Desert animals drink a lot of water at a time.",
+      "category": "Chapter 12: Friction as a Force",
+      "question": "True or False: Friction generates unwanted heat.",
       "options": [
         "True",
         "False"
@@ -1212,257 +1452,26 @@
       "correct_answer": "True"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Animals that live in water:",
+      "category": "Chapter 12: Friction as a Force",
+      "question": "Why is grease used in engines?",
       "options": [
-        "Aquatic animals",
-        "Terrestrial animals",
-        "Amphibians",
-        "Birds"
+        "To increase friction",
+        "To reduce friction between moving parts",
+        "To create more heat",
+        "To make engines louder"
       ],
-      "correct_answer": "Aquatic animals"
+      "correct_answer": "To reduce friction between moving parts"
     },
     {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "A thick layer of fat under the skin of penguin:",
+      "category": "Chapter 12: Friction as a Force",
+      "question": "What would happen if there was no friction?",
       "options": [
-        "Blubber",
-        "Fur",
-        "Feathers",
-        "Scales"
+        "We would walk more easily",
+        "Objects would never stop moving",
+        "Cars would stop faster",
+        "Writing would be easier"
       ],
-      "correct_answer": "Blubber"
-    },
-    {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Fish use it for breathing:",
-      "options": [
-        "Gills",
-        "Lungs",
-        "Talons",
-        "Fins"
-      ],
-      "correct_answer": "Gills"
-    },
-    {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "The inactivity shown by some animals during winter months:",
-      "options": [
-        "Hibernation",
-        "Aestivation",
-        "Migration",
-        "Adaptation"
-      ],
-      "correct_answer": "Hibernation"
-    },
-    {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Carnivorous birds use it to catch prey:",
-      "options": [
-        "Talons",
-        "Beaks",
-        "Fins",
-        "Claws only"
-      ],
-      "correct_answer": "Talons"
-    },
-    {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Match the following: Cow",
-      "options": [
-        "Herbivore",
-        "Omnivore",
-        "Aquatic animal",
-        "Terrestrial animal"
-      ],
-      "correct_answer": "Herbivore"
-    },
-    {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Match the following: Bear",
-      "options": [
-        "Herbivore",
-        "Omnivore",
-        "Aquatic animal",
-        "Terrestrial animal"
-      ],
-      "correct_answer": "Omnivore"
-    },
-    {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Match the following: Whale",
-      "options": [
-        "Herbivore",
-        "Omnivore",
-        "Aquatic animal",
-        "Terrestrial animal"
-      ],
-      "correct_answer": "Aquatic animal"
-    },
-    {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Match the following: Tiger",
-      "options": [
-        "Herbivore",
-        "Omnivore",
-        "Aquatic animal",
-        "Terrestrial animal"
-      ],
-      "correct_answer": "Terrestrial animal"
-    },
-    {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Define adaptation.",
-      "options": [
-        "Special features of animals that help them survive in their surroundings",
-        "Sleeping habit",
-        "Feeding habit",
-        "Migration pattern"
-      ],
-      "correct_answer": "Special features of animals that help them survive in their surroundings"
-    },
-    {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "What do you understand by hibernation?",
-      "options": [
-        "A long sleep animals take during cold winter months",
-        "Sleeping in summer",
-        "Migration",
-        "Feeding habit"
-      ],
-      "correct_answer": "A long sleep animals take during cold winter months"
-    },
-    {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "What is aestivation?",
-      "options": [
-        "A long sleep animals take during hot summer months",
-        "Sleeping in winter",
-        "Migration",
-        "Hunting habit"
-      ],
-      "correct_answer": "A long sleep animals take during hot summer months"
-    },
-    {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Write one method of protecting animals.",
-      "options": [
-        "Protect animals by not cutting down their homes, such as trees",
-        "Hunting animals",
-        "Feeding them junk food",
-        "Disturbing their nests"
-      ],
-      "correct_answer": "Protect animals by not cutting down their homes, such as trees"
-    },
-    {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Name any three animals found in deserts and their adaptations.",
-      "options": [
-        "Camels (store water and have padded feet), lizards (dry skin), scorpions (nocturnal to avoid heat)",
-        "Fish, Frogs, Turtles",
-        "Eagles, Hawks, Crows",
-        "Elephant, Tiger, Bear"
-      ],
-      "correct_answer": "Camels (store water and have padded feet), lizards (dry skin), scorpions (nocturnal to avoid heat)"
-    },
-    {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Write three adaptations of aquatic animals.",
-      "options": [
-        "Fins to swim, gills to breathe underwater, streamlined bodies",
-        "Webbed feet only",
-        "Thick fur, claws, teeth",
-        "Hooves, horns, fur"
-      ],
-      "correct_answer": "Fins to swim, gills to breathe underwater, streamlined bodies"
-    },
-    {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Name the category and adaptations of frogs and toads.",
-      "options": [
-        "Amphibians; webbed feet, moist skin for breathing in water, lungs for breathing on land",
-        "Reptiles; scales and claws",
-        "Birds; wings and beaks",
-        "Mammals; hair and lungs"
-      ],
-      "correct_answer": "Amphibians; webbed feet, moist skin for breathing in water, lungs for breathing on land"
-    },
-    {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "How should Ruhi take care of her new pet dog?",
-      "options": [
-        "Provide healthy food, clean water, shelter, regular baths, and veterinary care when sick",
-        "Keep it outside always",
-        "Feed only bones",
-        "Never bathe it"
-      ],
-      "correct_answer": "Provide healthy food, clean water, shelter, regular baths, and veterinary care when sick"
-    },
-    {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Why is water important for digestion?",
-      "options": [
-        "It helps in absorption of food and prevents constipation",
-        "It helps in chewing food",
-        "It helps in making digestive juices",
-        "It helps to churn food in the stomach"
-      ],
-      "correct_answer": "It helps in absorption of food and prevents constipation"
-    },
-    {
-      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
-      "question": "Name two healthy habits for digestion and excretion.",
-      "options": [
-        "Eat food rich in fibre and drink lots of water",
-        "Eat junk food and skip meals",
-        "Eat only sweets and drink soda",
-        "Sleep after every meal"
-      ],
-      "correct_answer": "Eat food rich in fibre and drink lots of water"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Which roots store food?",
-      "options": [
-        "Taproots like carrot and radish",
-        "Fibrous roots like grass",
-        "Adventitious roots like banyan",
-        "Roots like sweet potato"
-      ],
-      "correct_answer": "Taproots like carrot and radish"
-    },
-    {
-      "category": "Chapter 4: Plants in the Surroundings and Environment",
-      "question": "Why does a leaf turn blue-black with iodine?",
-      "options": [
-        "Because the leaf contains starch",
-        "Because the leaf contains water",
-        "Because the leaf contains chlorophyll",
-        "Because the leaf contains sugar"
-      ],
-      "correct_answer": "Because the leaf contains starch"
-    },
-    {
-      "category": "Chapter 5: Adaptation in Plants",
-      "question": "Why are trees in mountains cone-shaped?",
-      "options": [
-        "To help snow slide off easily",
-        "To store more water",
-        "To absorb more sunlight",
-        "To trap insects"
-      ],
-      "correct_answer": "To help snow slide off easily"
-    },
-    {
-      "category": "Chapter 6: Adaptation in Animals",
-      "question": "Name animals generally found in mountains, desert, plains (low rainfall), and plains (heavy rainfall).",
-      "options": [
-        "Mountains: Pine, Fir; Desert: Cactus, Acacia; Plains (low rainfall): Mango, Ashoka; Plains (heavy rainfall): Rubber, Teak",
-        "Mountains: Cactus, Acacia; Desert: Pine, Fir; Plains (low rainfall): Rubber, Teak; Plains (heavy rainfall): Mango, Ashoka",
-        "Mountains: Mango, Ashoka; Desert: Rubber, Teak; Plains (low rainfall): Pine, Fir; Plains (heavy rainfall): Cactus, Acacia",
-        "Mountains: Rubber, Teak; Desert: Mango, Ashoka; Plains (low rainfall): Cactus, Acacia; Plains (heavy rainfall): Pine, Fir"
-      ],
-      "correct_answer": "Mountains: Pine, Fir; Desert: Cactus, Acacia; Plains (low rainfall): Mango, Ashoka; Plains (heavy rainfall): Rubber, Teak"
+      "correct_answer": "Objects would never stop moving"
     }
   ]
 }

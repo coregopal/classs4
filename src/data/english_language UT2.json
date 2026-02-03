@@ -1,0 +1,2237 @@
+{
+  "questions": [
+    {
+      "category": "Ch-3 Pronouns I",
+      "question": "What is the definition of pronouns?",
+      "options": [
+        "Pronouns are naming words",
+        "Pronouns replace nouns to avoid repetition",
+        "Pronouns describe actions",
+        "Pronouns show ownership"
+      ],
+      "correct_answer": "Pronouns replace nouns to avoid repetition"
+    },
+    {
+      "category": "Ch-3 Pronouns I",
+      "question": "Which of the following is a personal pronoun?",
+      "options": [
+        "Book",
+        "He",
+        "Table",
+        "Apple"
+      ],
+      "correct_answer": "He"
+    },
+    {
+      "category": "Ch-3 Pronouns I",
+      "question": "Choose the correct pronoun: ______ is going to the park.",
+      "options": [
+        "She",
+        "Her",
+        "Him",
+        "They's"
+      ],
+      "correct_answer": "She"
+    },
+    {
+      "category": "Ch-3 Pronouns I",
+      "question": "Identify the pronoun in the sentence: 'They are my friends.'",
+      "options": [
+        "They",
+        "are",
+        "my",
+        "friends"
+      ],
+      "correct_answer": "They"
+    },
+    {
+      "category": "Ch-3 Pronouns I",
+      "question": "Which sentence uses a pronoun correctly?",
+      "options": [
+        "Me is happy.",
+        "She is happy.",
+        "Her am happy.",
+        "Him is happy."
+      ],
+      "correct_answer": "She is happy."
+    },
+    {
+      "category": "Ch-3 Pronouns I",
+      "question": "Which of the following is NOT a pronoun?",
+      "options": [
+        "We",
+        "Us",
+        "Cat",
+        "You"
+      ],
+      "correct_answer": "Cat"
+    },
+    {
+      "category": "Ch-3 Pronouns I",
+      "question": "In the sentence 'I like to play,' the personal pronoun is:",
+      "options": [
+        "play",
+        "like",
+        "I",
+        "to"
+      ],
+      "correct_answer": "I"
+    },
+    {
+      "category": "Ch-3 Pronouns I",
+      "question": "Choose the third person singular pronoun:",
+      "options": [
+        "I",
+        "We",
+        "He",
+        "You"
+      ],
+      "correct_answer": "He"
+    },
+    {
+      "category": "Ch-3 Pronouns I",
+      "question": "Which sentence has a second person pronoun?",
+      "options": [
+        "You are my best friend.",
+        "He is my brother.",
+        "They are good students.",
+        "I am ten years old."
+      ],
+      "correct_answer": "You are my best friend."
+    },
+    {
+      "category": "Ch-3 Pronouns I",
+      "question": "Fill in the blank: This is Riya. ______ is my sister.",
+      "options": [
+        "She",
+        "Her",
+        "He",
+        "Him"
+      ],
+      "correct_answer": "She"
+    },
+    {
+      "category": "Ch-3 Pronouns I",
+      "question": "Fill in the blank: Ravi and I are friends. ______ go to school together.",
+      "options": [
+        "He",
+        "They",
+        "We",
+        "She"
+      ],
+      "correct_answer": "We"
+    },
+    {
+      "category": "Ch-4 Pronouns II",
+      "question": "Which of the following is a reflexive pronoun?",
+      "options": [
+        "herself",
+        "her",
+        "she",
+        "his"
+      ],
+      "correct_answer": "herself"
+    },
+    {
+      "category": "Ch-4 Pronouns II",
+      "question": "Identify the demonstrative pronoun: ______ is mine.",
+      "options": [
+        "That",
+        "Her",
+        "He",
+        "Us"
+      ],
+      "correct_answer": "That"
+    },
+    {
+      "category": "Ch-4 Pronouns II",
+      "question": "Which is a relative pronoun?",
+      "options": [
+        "which",
+        "these",
+        "me",
+        "yours"
+      ],
+      "correct_answer": "which"
+    },
+    {
+      "category": "Ch-4 Pronouns II",
+      "question": "Which is an interrogative pronoun?",
+      "options": [
+        "who",
+        "she",
+        "them",
+        "mine"
+      ],
+      "correct_answer": "who"
+    },
+    {
+      "category": "Ch-5 Possessive Adjectives and Pronouns",
+      "question": "Identify the possessive adjective:",
+      "options": [
+        "mine",
+        "my",
+        "me",
+        "I"
+      ],
+      "correct_answer": "my"
+    },
+    {
+      "category": "Ch-5 Possessive Adjectives and Pronouns",
+      "question": "Choose the correct sentence with a possessive adjective:",
+      "options": [
+        "This is mine book.",
+        "This is my book.",
+        "This is I book.",
+        "This is me book."
+      ],
+      "correct_answer": "This is my book."
+    },
+    {
+      "category": "Ch-5 Possessive Adjectives and Pronouns",
+      "question": "Which of the following is a possessive pronoun?",
+      "options": [
+        "mine",
+        "my",
+        "me",
+        "I"
+      ],
+      "correct_answer": "mine"
+    },
+    {
+      "category": "Ch-6 Verbs I & Ch-8 Verbs Definitions",
+      "question": "What is the definition of a verb?",
+      "options": [
+        "A verb expresses actions, occurrences, or states of being",
+        "A verb names a person, place, or thing",
+        "A verb shows ownership",
+        "A verb describes qualities"
+      ],
+      "correct_answer": "A verb expresses actions, occurrences, or states of being"
+    },
+    {
+      "category": "Ch-6 Verbs I & Ch-8 Verbs Definitions",
+      "question": "Which is an action verb?",
+      "options": [
+        "run",
+        "is",
+        "have",
+        "was"
+      ],
+      "correct_answer": "run"
+    },
+    {
+      "category": "Ch-6 Verbs I & Ch-8 Verbs Definitions",
+      "question": "Which is a linking verb?",
+      "options": [
+        "is",
+        "jump",
+        "think",
+        "write"
+      ],
+      "correct_answer": "is"
+    },
+    {
+      "category": "Ch-6 Verbs I & Ch-8 Verbs Definitions",
+      "question": "Which is a helping verb?",
+      "options": [
+        "will",
+        "table",
+        "apple",
+        "tree"
+      ],
+      "correct_answer": "will"
+    },
+    {
+      "category": "Ch-7 Past Participles & Perfect Tenses",
+      "question": "Which is a past participle form?",
+      "options": [
+        "eaten",
+        "eat",
+        "eating",
+        "eats"
+      ],
+      "correct_answer": "eaten"
+    },
+    {
+      "category": "Ch-7 Past Participles & Perfect Tenses",
+      "question": "Which sentence shows present perfect tense?",
+      "options": [
+        "She has finished her work.",
+        "She finished her work.",
+        "She will finish her work.",
+        "She is finishing her work."
+      ],
+      "correct_answer": "She has finished her work."
+    },
+    {
+      "category": "Ch-7 Past Participles & Perfect Tenses",
+      "question": "Which sentence shows past perfect tense?",
+      "options": [
+        "They had left before I came.",
+        "They left yesterday.",
+        "They leave daily.",
+        "They will leave tomorrow."
+      ],
+      "correct_answer": "They had left before I came."
+    },
+    {
+      "category": "Ch-7 Past Participles & Perfect Tenses",
+      "question": "Which sentence shows future perfect tense?",
+      "options": [
+        "He will have arrived by noon.",
+        "He arrives daily.",
+        "He arrived yesterday.",
+        "He is arriving now."
+      ],
+      "correct_answer": "He will have arrived by noon."
+    },
+    {
+      "category": "Participles and Gerunds",
+      "question": "Which of the following is a present participle?",
+      "options": [
+        "running",
+        "ran",
+        "runs",
+        "run"
+      ],
+      "correct_answer": "running"
+    },
+    {
+      "category": "Participles and Gerunds",
+      "question": "Which of the following is a gerund?",
+      "options": [
+        "Swimming is fun.",
+        "She swims.",
+        "He swam fast.",
+        "They swim daily."
+      ],
+      "correct_answer": "Swimming is fun."
+    },
+    {
+      "category": "Degrees of Adjectives",
+      "question": "What is the comparative form of 'happy'?",
+      "options": [
+        "happiest",
+        "happy",
+        "happier",
+        "more happy"
+      ],
+      "correct_answer": "happier"
+    },
+    {
+      "category": "Degrees of Adjectives",
+      "question": "Which is the superlative form of 'tall'?",
+      "options": [
+        "taller",
+        "tallest",
+        "most tall",
+        "tall"
+      ],
+      "correct_answer": "tallest"
+    },
+    {
+      "category": "Irregular Degrees of Adjectives",
+      "question": "What is the comparative form of 'good'?",
+      "options": [
+        "better",
+        "gooder",
+        "more good",
+        "best"
+      ],
+      "correct_answer": "better"
+    },
+    {
+      "category": "Irregular Degrees of Adjectives",
+      "question": "Which is the superlative form of 'bad'?",
+      "options": [
+        "worse",
+        "worst",
+        "baddest",
+        "more bad"
+      ],
+      "correct_answer": "worst"
+    },
+    {
+      "category": "Letter Writing",
+      "question": "Which of these is a polite closing for a letter?",
+      "options": [
+        "Yours sincerely",
+        "Bye",
+        "See you",
+        "Okay"
+      ],
+      "correct_answer": "Yours sincerely"
+    },
+    {
+      "category": "Essay Writing",
+      "question": "Which is the correct structure of an essay?",
+      "options": [
+        "Introduction, Body, Conclusion",
+        "Greeting, Body, Closing",
+        "Question, Answer, Ending",
+        "Topic, Words, Lines"
+      ],
+      "correct_answer": "Introduction, Body, Conclusion"
+    },
+    {
+      "category": "Tense Rules",
+      "question": "Which tense is used to express a general truth?",
+      "options": [
+        "Present Simple",
+        "Present Continuous",
+        "Past Perfect",
+        "Future Continuous"
+      ],
+      "correct_answer": "Present Simple"
+    },
+    {
+      "category": "Tense Rules",
+      "question": "Which tense is formed using 'has/have + past participle'?",
+      "options": [
+        "Present Perfect",
+        "Past Perfect",
+        "Future Perfect",
+        "Present Continuous"
+      ],
+      "correct_answer": "Present Perfect"
+    },
+    {
+      "category": "Tense Rules",
+      "question": "Which tense is used for an action completed before another action in the past?",
+      "options": [
+        "Past Continuous",
+        "Past Perfect",
+        "Present Perfect",
+        "Future Perfect"
+      ],
+      "correct_answer": "Past Perfect"
+    },
+    {
+      "category": "Verb Forms",
+      "question": "Which is the correct sequence of principal parts of verbs?",
+      "options": [
+        "Base form, Past tense, Past participle",
+        "Past participle, Past tense, Base form",
+        "Past tense, Base form, Past participle",
+        "Base form, Gerund, Past tense"
+      ],
+      "correct_answer": "Base form, Past tense, Past participle"
+    },
+    {
+      "category": "Verb Forms",
+      "question": "What is the past participle of 'write'?",
+      "options": [
+        "wrote",
+        "writing",
+        "written",
+        "writes"
+      ],
+      "correct_answer": "written"
+    },
+    {
+      "category": "Verb Forms",
+      "question": "What is the base form of the verb 'went'?",
+      "options": [
+        "go",
+        "gone",
+        "goes",
+        "going"
+      ],
+      "correct_answer": "go"
+    },
+    {
+      "category": "Participles",
+      "question": "Which sentence uses a present participle?",
+      "options": [
+        "The crying baby needs attention.",
+        "He has written a book.",
+        "They played football yesterday.",
+        "She will go to school."
+      ],
+      "correct_answer": "The crying baby needs attention."
+    },
+    {
+      "category": "Participles",
+      "question": "Which sentence uses a past participle?",
+      "options": [
+        "The broken glass was on the floor.",
+        "She is dancing on stage.",
+        "He runs very fast.",
+        "We are playing outside."
+      ],
+      "correct_answer": "The broken glass was on the floor."
+    },
+    {
+      "category": "Rules of Essays",
+      "question": "What should the introduction of an essay contain?",
+      "options": [
+        "A brief overview of the topic",
+        "The main body arguments",
+        "A summary of points",
+        "Greetings to the reader"
+      ],
+      "correct_answer": "A brief overview of the topic"
+    },
+    {
+      "category": "Rules of Essays",
+      "question": "What is the main purpose of the body of an essay?",
+      "options": [
+        "To present supporting details and examples",
+        "To introduce the essay",
+        "To greet the teacher",
+        "To write the conclusion"
+      ],
+      "correct_answer": "To present supporting details and examples"
+    },
+    {
+      "category": "Rules of Essays",
+      "question": "What should the conclusion of an essay do?",
+      "options": [
+        "Summarize the main points",
+        "Introduce new ideas",
+        "Repeat the introduction",
+        "Ask questions"
+      ],
+      "correct_answer": "Summarize the main points"
+    },
+    {
+      "category": "Rules of Letters",
+      "question": "What comes first in a formal letter?",
+      "options": [
+        "Sender’s address",
+        "Date",
+        "Receiver’s address",
+        "Greeting"
+      ],
+      "correct_answer": "Sender’s address"
+    },
+    {
+      "category": "Rules of Letters",
+      "question": "Which of the following is an appropriate salutation for a formal letter?",
+      "options": [
+        "Dear Sir/Madam",
+        "Hi there",
+        "Hey friend",
+        "What’s up"
+      ],
+      "correct_answer": "Dear Sir/Madam"
+    },
+    {
+      "category": "Rules of Letters",
+      "question": "What should be included in the body of a letter?",
+      "options": [
+        "The main message and details",
+        "Only greetings",
+        "Only conclusion",
+        "Just the writer’s name"
+      ],
+      "correct_answer": "The main message and details"
+    },
+    {
+      "category": "Rules of Letters",
+      "question": "Which is the correct polite closing for a formal letter?",
+      "options": [
+        "Yours faithfully",
+        "See ya",
+        "Take care",
+        "Cheers"
+      ],
+      "correct_answer": "Yours faithfully"
+    },
+    {
+      "category": "Tense Rules",
+      "question": "Which tense is used for habits and routines?",
+      "options": [
+        "Present Simple",
+        "Past Continuous",
+        "Future Perfect",
+        "Present Perfect"
+      ],
+      "correct_answer": "Present Simple"
+    },
+    {
+      "category": "Tense Rules",
+      "question": "Identify the tense: 'She is reading a book now.'",
+      "options": [
+        "Present Simple",
+        "Present Continuous",
+        "Past Perfect",
+        "Future Simple"
+      ],
+      "correct_answer": "Present Continuous"
+    },
+    {
+      "category": "Tense Rules",
+      "question": "Which tense expresses an action that started in the past and continues in the present?",
+      "options": [
+        "Present Perfect Continuous",
+        "Past Perfect",
+        "Future Continuous",
+        "Present Simple"
+      ],
+      "correct_answer": "Present Perfect Continuous"
+    },
+    {
+      "category": "Verb Forms (Irregular)",
+      "question": "Choose the correct forms of 'go': Base, Past, Past Participle.",
+      "options": [
+        "go, went, gone",
+        "go, gone, went",
+        "went, gone, go",
+        "go, going, gone"
+      ],
+      "correct_answer": "go, went, gone"
+    },
+    {
+      "category": "Verb Forms (Irregular)",
+      "question": "What is the past participle of 'eat'?",
+      "options": [
+        "eated",
+        "ate",
+        "eaten",
+        "eating"
+      ],
+      "correct_answer": "eaten"
+    },
+    {
+      "category": "Verb Forms (Irregular)",
+      "question": "Choose the correct sequence for 'begin':",
+      "options": [
+        "begin, began, begun",
+        "begin, begun, began",
+        "began, begin, begun",
+        "begin, beginning, began"
+      ],
+      "correct_answer": "begin, began, begun"
+    },
+    {
+      "category": "Verb Forms (Irregular)",
+      "question": "Which is the correct past participle of 'swim'?",
+      "options": [
+        "swam",
+        "swum",
+        "swimming",
+        "swimed"
+      ],
+      "correct_answer": "swum"
+    },
+    {
+      "category": "Participles",
+      "question": "Identify the participle: 'Having finished his work, he went out.'",
+      "options": [
+        "Present participle",
+        "Past participle",
+        "Perfect participle",
+        "Gerund"
+      ],
+      "correct_answer": "Perfect participle"
+    },
+    {
+      "category": "Participles",
+      "question": "Identify the participle: 'The shining stars look beautiful.'",
+      "options": [
+        "Present participle",
+        "Past participle",
+        "Perfect participle",
+        "Gerund"
+      ],
+      "correct_answer": "Present participle"
+    },
+    {
+      "category": "Participles",
+      "question": "Identify the participle: 'The broken chair was lying in the corner.'",
+      "options": [
+        "Past participle",
+        "Present participle",
+        "Perfect participle",
+        "Gerund"
+      ],
+      "correct_answer": "Past participle"
+    },
+    {
+      "category": "Degrees of Adjectives",
+      "question": "What is the comparative form of 'little'?",
+      "options": [
+        "less",
+        "least",
+        "littler",
+        "littlest"
+      ],
+      "correct_answer": "less"
+    },
+    {
+      "category": "Degrees of Adjectives",
+      "question": "Which is the correct superlative of 'far'?",
+      "options": [
+        "farest",
+        "farthest/furthest",
+        "most far",
+        "fartherest"
+      ],
+      "correct_answer": "farthest/furthest"
+    },
+    {
+      "category": "Degrees of Adjectives",
+      "question": "Which is the comparative of 'many/much'?",
+      "options": [
+        "most",
+        "more",
+        "muchest",
+        "manier"
+      ],
+      "correct_answer": "more"
+    },
+    {
+      "category": "Degrees of Adjectives",
+      "question": "Which is the superlative form of 'good'?",
+      "options": [
+        "better",
+        "best",
+        "goodest",
+        "most good"
+      ],
+      "correct_answer": "best"
+    },
+    {
+      "category": "Verb Confusions (Exceptions)",
+      "question": "Choose the correct form: 'Yesterday I ____ on the bed to rest.'",
+      "options": [
+        "lie",
+        "lay",
+        "lain",
+        "lied"
+      ],
+      "correct_answer": "lay"
+    },
+    {
+      "category": "Verb Confusions (Exceptions)",
+      "question": "Choose the correct form: 'He has ____ the book on the table.'",
+      "options": [
+        "lay",
+        "lain",
+        "laid",
+        "lie"
+      ],
+      "correct_answer": "laid"
+    },
+    {
+      "category": "Verb Confusions (Exceptions)",
+      "question": "Choose the correct past participle of 'drink'.",
+      "options": [
+        "drank",
+        "drunk",
+        "drinken",
+        "drinked"
+      ],
+      "correct_answer": "drunk"
+    },
+    {
+      "category": "Verb Confusions (Exceptions)",
+      "question": "Choose the correct form: 'She has ____ him since morning.'",
+      "options": [
+        "see",
+        "saw",
+        "seen",
+        "seeing"
+      ],
+      "correct_answer": "seen"
+    },
+    {
+      "category": "Tense Rules",
+      "question": "Identify the tense: 'She has lived here for five years.'",
+      "options": [
+        "Present Perfect",
+        "Past Perfect",
+        "Future Perfect",
+        "Present Continuous"
+      ],
+      "correct_answer": "Present Perfect"
+    },
+    {
+      "category": "Tense Rules",
+      "question": "Which tense is used for actions happening at the moment of speaking?",
+      "options": [
+        "Present Continuous",
+        "Past Continuous",
+        "Future Continuous",
+        "Present Perfect"
+      ],
+      "correct_answer": "Present Continuous"
+    },
+    {
+      "category": "Tense Change",
+      "question": "Change into Past Tense: 'He writes a letter.'",
+      "options": [
+        "He wrote a letter.",
+        "He write a letter.",
+        "He has written a letter.",
+        "He was writing a letter."
+      ],
+      "correct_answer": "He wrote a letter."
+    },
+    {
+      "category": "Tense Change",
+      "question": "Change into Future Tense: 'She is playing tennis.'",
+      "options": [
+        "She will play tennis.",
+        "She was playing tennis.",
+        "She has played tennis.",
+        "She will have been playing tennis."
+      ],
+      "correct_answer": "She will play tennis."
+    },
+    {
+      "category": "Tense Change",
+      "question": "Change into Present Continuous: 'They eat lunch.'",
+      "options": [
+        "They are eating lunch.",
+        "They ate lunch.",
+        "They will eat lunch.",
+        "They have eaten lunch."
+      ],
+      "correct_answer": "They are eating lunch."
+    },
+    {
+      "category": "Tense Change",
+      "question": "Change into Past Perfect: 'We finished our work.'",
+      "options": [
+        "We had finished our work.",
+        "We have finished our work.",
+        "We finish our work.",
+        "We are finishing our work."
+      ],
+      "correct_answer": "We had finished our work."
+    },
+    {
+      "category": "Verb Forms (Irregular)",
+      "question": "Choose the correct forms of 'take':",
+      "options": [
+        "take, took, taken",
+        "take, taked, taken",
+        "take, took, tooken",
+        "take, taking, took"
+      ],
+      "correct_answer": "take, took, taken"
+    },
+    {
+      "category": "Verb Forms (Irregular)",
+      "question": "What is the past participle of 'give'?",
+      "options": [
+        "gave",
+        "given",
+        "gived",
+        "giving"
+      ],
+      "correct_answer": "given"
+    },
+    {
+      "category": "Verb Forms (Irregular)",
+      "question": "Choose the correct sequence for 'see':",
+      "options": [
+        "see, saw, seen",
+        "see, seen, saw",
+        "saw, see, seen",
+        "see, seeing, saw"
+      ],
+      "correct_answer": "see, saw, seen"
+    },
+    {
+      "category": "Verb Forms (Irregular)",
+      "question": "What is the past participle of 'break'?",
+      "options": [
+        "broke",
+        "broken",
+        "breaking",
+        "breaked"
+      ],
+      "correct_answer": "broken"
+    },
+    {
+      "category": "Participles",
+      "question": "Identify the participle: 'The exhausted runner sat down.'",
+      "options": [
+        "Present participle",
+        "Past participle",
+        "Perfect participle",
+        "Gerund"
+      ],
+      "correct_answer": "Past participle"
+    },
+    {
+      "category": "Participles",
+      "question": "Identify the participle: 'Smiling, she waved goodbye.'",
+      "options": [
+        "Present participle",
+        "Past participle",
+        "Perfect participle",
+        "Gerund"
+      ],
+      "correct_answer": "Present participle"
+    },
+    {
+      "category": "Degrees of Adjectives",
+      "question": "What is the comparative of 'old' (for age of people)?",
+      "options": [
+        "older",
+        "elder",
+        "oldest",
+        "eldest"
+      ],
+      "correct_answer": "elder"
+    },
+    {
+      "category": "Degrees of Adjectives",
+      "question": "What is the superlative form of 'little'?",
+      "options": [
+        "less",
+        "least",
+        "littlest",
+        "most little"
+      ],
+      "correct_answer": "least"
+    },
+    {
+      "category": "Degrees of Adjectives",
+      "question": "Which is the irregular comparative of 'bad'?",
+      "options": [
+        "worse",
+        "badder",
+        "more bad",
+        "worst"
+      ],
+      "correct_answer": "worse"
+    },
+    {
+      "category": "Verb Confusions (Exceptions)",
+      "question": "Choose the correct form: 'He has ____ down to rest.'",
+      "options": [
+        "lay",
+        "lain",
+        "laid",
+        "lying"
+      ],
+      "correct_answer": "lain"
+    },
+    {
+      "category": "Verb Confusions (Exceptions)",
+      "question": "Choose the correct form: 'She ____ the table yesterday.'",
+      "options": [
+        "lay",
+        "lain",
+        "laid",
+        "lays"
+      ],
+      "correct_answer": "laid"
+    },
+    {
+      "category": "Verb Confusions (Exceptions)",
+      "question": "Choose the correct form: 'He ____ me a secret yesterday.'",
+      "options": [
+        "told",
+        "tell",
+        "tellen",
+        "telling"
+      ],
+      "correct_answer": "told"
+    },
+    {
+      "category": "Verb Confusions (Exceptions)",
+      "question": "Choose the correct past participle of 'sing'.",
+      "options": [
+        "sang",
+        "sung",
+        "singed",
+        "singing"
+      ],
+      "correct_answer": "sung"
+    },
+    {
+      "category": "Verb",
+      "question": "Give the three forms of the verb 'go'.",
+      "options": [
+        "Go – Went – Gone",
+        "Go – Goes – Going",
+        "Go – Gone – Going",
+        "Go – Went – Going"
+      ],
+      "correct_answer": "Go – Went – Gone"
+    },
+    {
+      "category": "Verb",
+      "question": "He has ___ (swim) across the river many times.",
+      "options": [
+        "swim",
+        "swam",
+        "swum",
+        "swimming"
+      ],
+      "correct_answer": "swum"
+    },
+    {
+      "category": "Verb",
+      "question": "Write present, past, and past participle of 'begin'.",
+      "options": [
+        "Begin – Began – Begun",
+        "Begin – Begin – Beginned",
+        "Begins – Began – Begun",
+        "Began – Begin – Begun"
+      ],
+      "correct_answer": "Begin – Began – Begun"
+    },
+    {
+      "category": "Verb",
+      "question": "They ___ (choose) the wrong leader yesterday.",
+      "options": [
+        "choosed",
+        "chosen",
+        "chose",
+        "choosing"
+      ],
+      "correct_answer": "chose"
+    },
+    {
+      "category": "Verb",
+      "question": "Which is correct?",
+      "options": [
+        "I had ate my lunch.",
+        "I had eaten my lunch.",
+        "I had eat my lunch.",
+        "I had eating my lunch."
+      ],
+      "correct_answer": "I had eaten my lunch."
+    },
+    {
+      "category": "Verb",
+      "question": "Give the three forms of 'teach'. Regular or irregular?",
+      "options": [
+        "Teach – Taught – Taught (Irregular)",
+        "Teach – Teached – Teached (Regular)",
+        "Teach – Teach – Teaching (Regular)",
+        "Teach – Teaching – Taught (Irregular)"
+      ],
+      "correct_answer": "Teach – Taught – Taught (Irregular)"
+    },
+    {
+      "category": "Verb",
+      "question": "Write the past tense of 'catch'.",
+      "options": [
+        "catched",
+        "catch",
+        "caught",
+        "catches"
+      ],
+      "correct_answer": "caught"
+    },
+    {
+      "category": "Verb",
+      "question": "The thief has ___ (steal) the necklace.",
+      "options": [
+        "steal",
+        "stealed",
+        "stolen",
+        "stealing"
+      ],
+      "correct_answer": "stolen"
+    },
+    {
+      "category": "Verb",
+      "question": "Give the base and participle form of 'drank'.",
+      "options": [
+        "Drink – Drunk",
+        "Drink – Drinking",
+        "Drank – Drunken",
+        "Drink – Drinked"
+      ],
+      "correct_answer": "Drink – Drunk"
+    },
+    {
+      "category": "Verb",
+      "question": "Identify the participle: 'The crying baby needs attention.'",
+      "options": [
+        "baby",
+        "crying",
+        "attention",
+        "needs"
+      ],
+      "correct_answer": "crying"
+    },
+    {
+      "category": "Verb",
+      "question": "The ___ (break) glass lay on the floor.",
+      "options": [
+        "broke",
+        "breaking",
+        "broken",
+        "breaked"
+      ],
+      "correct_answer": "broken"
+    },
+    {
+      "category": "Verb",
+      "question": "Rewrite: 'The boy who was running fell down.' (use participle)",
+      "options": [
+        "The boy fell running.",
+        "The running boy fell down.",
+        "The run boy fell down.",
+        "The ran boy fell down."
+      ],
+      "correct_answer": "The running boy fell down."
+    },
+    {
+      "category": "Verb",
+      "question": "Underline the past participle: 'The letter was written carefully.'",
+      "options": [
+        "letter",
+        "was",
+        "written",
+        "carefully"
+      ],
+      "correct_answer": "written"
+    },
+    {
+      "category": "Verb",
+      "question": "___ (Tire) after work, he went to bed early.",
+      "options": [
+        "Tires",
+        "Tired",
+        "Tiring",
+        "Tire"
+      ],
+      "correct_answer": "Tired"
+    },
+    {
+      "category": "Verb",
+      "question": "Change to past tense: 'She writes a letter.'",
+      "options": [
+        "She is writing a letter.",
+        "She wrote a letter.",
+        "She was writing a letter.",
+        "She will write a letter."
+      ],
+      "correct_answer": "She wrote a letter."
+    },
+    {
+      "category": "Verb",
+      "question": "Change to future tense: 'I am playing cricket.'",
+      "options": [
+        "I play cricket.",
+        "I played cricket.",
+        "I will be playing cricket.",
+        "I am cricket playing."
+      ],
+      "correct_answer": "I will be playing cricket."
+    },
+    {
+      "category": "Verb",
+      "question": "They ___ (finish) their homework. (present perfect)",
+      "options": [
+        "have finished",
+        "finished",
+        "finishing",
+        "finish"
+      ],
+      "correct_answer": "have finished"
+    },
+    {
+      "category": "Verb",
+      "question": "Change to past continuous: 'They eat dinner.'",
+      "options": [
+        "They are eating dinner.",
+        "They ate dinner.",
+        "They were eating dinner.",
+        "They will eat dinner."
+      ],
+      "correct_answer": "They were eating dinner."
+    },
+    {
+      "category": "Verb",
+      "question": "Convert: 'He will go tomorrow.' (to present continuous)",
+      "options": [
+        "He goes tomorrow.",
+        "He went tomorrow.",
+        "He is going tomorrow.",
+        "He will going tomorrow."
+      ],
+      "correct_answer": "He is going tomorrow."
+    },
+    {
+      "category": "Verb",
+      "question": "Correct the error: 'She have gone to school.'",
+      "options": [
+        "She had gone to school.",
+        "She has gone to school.",
+        "She goes to school.",
+        "She going to school."
+      ],
+      "correct_answer": "She has gone to school."
+    },
+    {
+      "category": "Verb",
+      "question": "Correct the error: 'They was singing.'",
+      "options": [
+        "They is singing.",
+        "They were singing.",
+        "They are singing.",
+        "They have singing."
+      ],
+      "correct_answer": "They were singing."
+    },
+    {
+      "category": "Verb",
+      "question": "Correct the error: 'I did not wrote the letter.'",
+      "options": [
+        "I did not write the letter.",
+        "I not wrote the letter.",
+        "I did not written the letter.",
+        "I did not writing the letter."
+      ],
+      "correct_answer": "I did not write the letter."
+    },
+    {
+      "category": "Verb",
+      "question": "Correct the error: 'He run fast yesterday.'",
+      "options": [
+        "He runs fast yesterday.",
+        "He is running fast yesterday.",
+        "He ran fast yesterday.",
+        "He running fast yesterday."
+      ],
+      "correct_answer": "He ran fast yesterday."
+    },
+    {
+      "category": "Verb",
+      "question": "Correct the error: 'I am agree with you.'",
+      "options": [
+        "I agrees with you.",
+        "I agree with you.",
+        "I am agreed with you.",
+        "I agreeing with you."
+      ],
+      "correct_answer": "I agree with you."
+    },
+    {
+      "category": "Adjective",
+      "question": "This book is ___ (good) than that one.",
+      "options": [
+        "good",
+        "better",
+        "best",
+        "well"
+      ],
+      "correct_answer": "better"
+    },
+    {
+      "category": "Adjective",
+      "question": "Write the three degrees of 'bad'.",
+      "options": [
+        "bad – badder – baddest",
+        "bad – worse – worst",
+        "bad – more bad – most bad",
+        "bad – worser – worstest"
+      ],
+      "correct_answer": "bad – worse – worst"
+    },
+    {
+      "category": "Adjective",
+      "question": "He is the ___ (tall) boy in the class.",
+      "options": [
+        "tall",
+        "taller",
+        "tallest",
+        "talling"
+      ],
+      "correct_answer": "tallest"
+    },
+    {
+      "category": "Adjective",
+      "question": "Write the positive degree: 'Ramesh is the wisest man here.'",
+      "options": [
+        "wiser",
+        "wise",
+        "wisest",
+        "most wise"
+      ],
+      "correct_answer": "wise"
+    },
+    {
+      "category": "Adjective",
+      "question": "Each / Every student must bring his notebook. (choose correct)",
+      "options": [
+        "Each",
+        "Every",
+        "Either",
+        "Neither"
+      ],
+      "correct_answer": "Every"
+    },
+    {
+      "category": "Adjective",
+      "question": "She has ___ friends. (few / a few / the few)",
+      "options": [
+        "few",
+        "a few",
+        "the few",
+        "little"
+      ],
+      "correct_answer": "a few"
+    },
+    {
+      "category": "Adjective",
+      "question": "Identify the adjective: 'Honesty is the best policy.'",
+      "options": [
+        "Honesty",
+        "is",
+        "best",
+        "policy"
+      ],
+      "correct_answer": "best"
+    },
+    {
+      "category": "Adjective",
+      "question": "There is ___ milk left in the jug.",
+      "options": [
+        "few",
+        "a few",
+        "little",
+        "many"
+      ],
+      "correct_answer": "little"
+    },
+    {
+      "category": "Verb",
+      "question": "What is the past tense of 'fly'?",
+      "options": [
+        "flyed",
+        "flew",
+        "flown",
+        "flying"
+      ],
+      "correct_answer": "flew"
+    },
+    {
+      "category": "Verb",
+      "question": "Choose the correct form: 'He has ___ the picture on the wall.'",
+      "options": [
+        "hang",
+        "hanged",
+        "hung",
+        "hanging"
+      ],
+      "correct_answer": "hung"
+    },
+    {
+      "category": "Verb",
+      "question": "Give the three forms of 'lie' (to recline).",
+      "options": [
+        "Lie – Lay – Lain",
+        "Lie – Lied – Lied",
+        "Lie – Lay – Lied",
+        "Lie – Lain – Lain"
+      ],
+      "correct_answer": "Lie – Lay – Lain"
+    },
+    {
+      "category": "Verb",
+      "question": "Give the three forms of 'lay' (to put something down).",
+      "options": [
+        "Lay – Laid – Laid",
+        "Lay – Lay – Lain",
+        "Lay – Lied – Lied",
+        "Lay – Lain – Laid"
+      ],
+      "correct_answer": "Lay – Laid – Laid"
+    },
+    {
+      "category": "Verb",
+      "question": "Choose the correct sentence.",
+      "options": [
+        "He is married with her.",
+        "He is married to her.",
+        "He married with her.",
+        "He married at her."
+      ],
+      "correct_answer": "He is married to her."
+    },
+    {
+      "category": "Verb",
+      "question": "Change to future perfect: 'I write a letter.'",
+      "options": [
+        "I will have written a letter.",
+        "I will be writing a letter.",
+        "I will wrote a letter.",
+        "I will writing a letter."
+      ],
+      "correct_answer": "I will have written a letter."
+    },
+    {
+      "category": "Verb",
+      "question": "Fill in: 'By next year, she ___ (complete) her studies.'",
+      "options": [
+        "completed",
+        "will complete",
+        "will have completed",
+        "completes"
+      ],
+      "correct_answer": "will have completed"
+    },
+    {
+      "category": "Verb",
+      "question": "Give the forms of 'freeze'.",
+      "options": [
+        "Freeze – Freezed – Freezed",
+        "Freeze – Froze – Frozen",
+        "Freeze – Frozen – Frozen",
+        "Freeze – Freeze – Freezed"
+      ],
+      "correct_answer": "Freeze – Froze – Frozen"
+    },
+    {
+      "category": "Verb",
+      "question": "Change to past perfect: 'She sings a song.'",
+      "options": [
+        "She has sung a song.",
+        "She had sung a song.",
+        "She sung a song.",
+        "She had sang a song."
+      ],
+      "correct_answer": "She had sung a song."
+    },
+    {
+      "category": "Verb",
+      "question": "Choose the correct past form of 'ride'.",
+      "options": [
+        "ride",
+        "rode",
+        "rided",
+        "ridden"
+      ],
+      "correct_answer": "rode"
+    },
+    {
+      "category": "Adjective",
+      "question": "Correct the error: 'This road is more shorter.'",
+      "options": [
+        "This road is more short.",
+        "This road is shortest.",
+        "This road is shorter.",
+        "This road shorter."
+      ],
+      "correct_answer": "This road is shorter."
+    },
+    {
+      "category": "Adjective",
+      "question": "Correct the error: 'She is most intelligent than her sister.'",
+      "options": [
+        "She is intelligent than her sister.",
+        "She is more intelligent than her sister.",
+        "She is most intelligent of her sister.",
+        "She is intelligence than her sister."
+      ],
+      "correct_answer": "She is more intelligent than her sister."
+    },
+    {
+      "category": "Adjective",
+      "question": "Correct the error: 'He is senior than me.'",
+      "options": [
+        "He is senior to me.",
+        "He is senior from me.",
+        "He is more senior than me.",
+        "He is senior as me."
+      ],
+      "correct_answer": "He is senior to me."
+    },
+    {
+      "category": "Adjective",
+      "question": "Correct the error: 'This is the better book of the two.'",
+      "options": [
+        "This is the best book of the two.",
+        "This is the better of the two books.",
+        "This is the most better of the two books.",
+        "This is better book of two."
+      ],
+      "correct_answer": "This is the better of the two books."
+    },
+    {
+      "category": "Adjective",
+      "question": "Correct the error: 'He is one of the most finest singers.'",
+      "options": [
+        "He is one of the finer singers.",
+        "He is one of the finest singers.",
+        "He is one of the more fine singers.",
+        "He is one of finest singer."
+      ],
+      "correct_answer": "He is one of the finest singers."
+    },
+    {
+      "category": "Adjective",
+      "question": "Change to comparative: 'This pen is cheap.'",
+      "options": [
+        "This pen is cheaper than that.",
+        "This pen is the cheapest.",
+        "This pen is most cheap.",
+        "This pen is cheap as that."
+      ],
+      "correct_answer": "This pen is cheaper than that."
+    },
+    {
+      "category": "Adjective",
+      "question": "Change to superlative: 'He is tall.'",
+      "options": [
+        "He is taller.",
+        "He is tallest.",
+        "He is the tallest.",
+        "He is more tall."
+      ],
+      "correct_answer": "He is the tallest."
+    },
+    {
+      "category": "Adjective",
+      "question": "Change to positive degree: 'Mount Everest is higher than all other mountains.'",
+      "options": [
+        "Mount Everest is high.",
+        "No other mountain is as high as Mount Everest.",
+        "Mount Everest is the highest mountain.",
+        "Mount Everest is higher than most."
+      ],
+      "correct_answer": "No other mountain is as high as Mount Everest."
+    },
+    {
+      "category": "Adjective",
+      "question": "Change to comparative: 'This painting is beautiful.'",
+      "options": [
+        "This painting is more beautiful than that one.",
+        "This painting is the most beautiful.",
+        "This painting is beautifuller.",
+        "This painting is beauty than that."
+      ],
+      "correct_answer": "This painting is more beautiful than that one."
+    },
+    {
+      "category": "Adjective",
+      "question": "Change to superlative: 'This problem is difficult.'",
+      "options": [
+        "This problem is more difficult.",
+        "This problem is most difficult.",
+        "This is the most difficult problem.",
+        "This problem is difficulter."
+      ],
+      "correct_answer": "This is the most difficult problem."
+    },
+    {
+      "category": "Verb",
+      "question": "Give the three forms of the verb 'see'.",
+      "options": [
+        "See – Saw – Seen",
+        "See – Seed – Seen",
+        "See – Saw – Sawed",
+        "See – Sees – Seen"
+      ],
+      "correct_answer": "See – Saw – Seen"
+    },
+    {
+      "category": "Verb",
+      "question": "He ___ (forget) to bring his bag yesterday.",
+      "options": [
+        "forgets",
+        "forgot",
+        "forget",
+        "forgetted"
+      ],
+      "correct_answer": "forgot"
+    },
+    {
+      "category": "Verb",
+      "question": "Fill in the blank: She has ___ (write) a letter to her friend.",
+      "options": [
+        "writed",
+        "wrote",
+        "written",
+        "writing"
+      ],
+      "correct_answer": "written"
+    },
+    {
+      "category": "Verb",
+      "question": "Identify the participle in: 'The shining stars looked beautiful.'",
+      "options": [
+        "shining",
+        "stars",
+        "looked",
+        "beautiful"
+      ],
+      "correct_answer": "shining"
+    },
+    {
+      "category": "Verb",
+      "question": "Change to future tense: 'They are singing now.'",
+      "options": [
+        "They sang later.",
+        "They will sing.",
+        "They sings.",
+        "They will sang."
+      ],
+      "correct_answer": "They will sing."
+    },
+    {
+      "category": "Verb",
+      "question": "Convert to past perfect: 'I eat my lunch.'",
+      "options": [
+        "I had eaten my lunch.",
+        "I ate my lunch.",
+        "I am eating my lunch.",
+        "I will have eaten my lunch."
+      ],
+      "correct_answer": "I had eaten my lunch."
+    },
+    {
+      "category": "Verb",
+      "question": "Choose the correct past participle of 'ring'.",
+      "options": [
+        "rang",
+        "ringed",
+        "rung",
+        "rings"
+      ],
+      "correct_answer": "rung"
+    },
+    {
+      "category": "Verb",
+      "question": "The bell ___ (ring) loudly a few minutes ago.",
+      "options": [
+        "ring",
+        "rang",
+        "rung",
+        "ringed"
+      ],
+      "correct_answer": "rang"
+    },
+    {
+      "category": "Verb",
+      "question": "Find the error: 'She did not went to school.'",
+      "options": [
+        "did not went",
+        "did not go",
+        "went",
+        "was going"
+      ],
+      "correct_answer": "did not go"
+    },
+    {
+      "category": "Verb",
+      "question": "Give the three forms of 'bring'.",
+      "options": [
+        "Bring – Brought – Brought",
+        "Bring – Brang – Brang",
+        "Bring – Bringed – Brought",
+        "Bring – Brings – Bringing"
+      ],
+      "correct_answer": "Bring – Brought – Brought"
+    },
+    {
+      "category": "Verb",
+      "question": "Fill in the blank: He has ___ (draw) a beautiful picture.",
+      "options": [
+        "drew",
+        "drawn",
+        "drawing",
+        "drawed"
+      ],
+      "correct_answer": "drawn"
+    },
+    {
+      "category": "Verb",
+      "question": "Identify the tense: 'They will have finished their work by evening.'",
+      "options": [
+        "Future Perfect",
+        "Future Continuous",
+        "Present Perfect",
+        "Past Perfect"
+      ],
+      "correct_answer": "Future Perfect"
+    },
+    {
+      "category": "Verb",
+      "question": "She ___ (sleep) when I called her last night.",
+      "options": [
+        "is sleeping",
+        "was sleeping",
+        "sleeps",
+        "slept"
+      ],
+      "correct_answer": "was sleeping"
+    },
+    {
+      "category": "Verb",
+      "question": "Give the three forms of 'fly'.",
+      "options": [
+        "Fly – Flew – Flown",
+        "Fly – Flyed – Flown",
+        "Fly – Fley – Flied",
+        "Fly – Flies – Flying"
+      ],
+      "correct_answer": "Fly – Flew – Flown"
+    },
+    {
+      "category": "Verb",
+      "question": "Change to past continuous: 'I read a book.'",
+      "options": [
+        "I read a book.",
+        "I was reading a book.",
+        "I had read a book.",
+        "I am reading a book."
+      ],
+      "correct_answer": "I was reading a book."
+    },
+    {
+      "category": "Verb",
+      "question": "Give the past tense of 'keep'.",
+      "options": [
+        "kept",
+        "keeped",
+        "keep",
+        "keeping"
+      ],
+      "correct_answer": "kept"
+    },
+    {
+      "category": "Verb",
+      "question": "Identify the participle: 'A broken chair lay in the corner.'",
+      "options": [
+        "broken",
+        "chair",
+        "lay",
+        "corner"
+      ],
+      "correct_answer": "broken"
+    },
+    {
+      "category": "Adjective",
+      "question": "Write the degrees of 'beautiful'.",
+      "options": [
+        "beautiful – more beautiful – most beautiful",
+        "beautiful – beautifuller – beautifullest",
+        "beautiful – beauty – most beautiful",
+        "beautiful – beautify – beautified"
+      ],
+      "correct_answer": "beautiful – more beautiful – most beautiful"
+    },
+    {
+      "category": "Adjective",
+      "question": "Give the three degrees of 'good'.",
+      "options": [
+        "good – gooder – goodest",
+        "good – better – best",
+        "good – more good – most good",
+        "good – well – best"
+      ],
+      "correct_answer": "good – better – best"
+    },
+    {
+      "category": "Adjective",
+      "question": "This is the ___ (little) time we have to prepare.",
+      "options": [
+        "little",
+        "less",
+        "least",
+        "littlest"
+      ],
+      "correct_answer": "least"
+    },
+    {
+      "category": "Adjective",
+      "question": "Identify the adjective: 'The poor man needed food.'",
+      "options": [
+        "poor",
+        "man",
+        "needed",
+        "food"
+      ],
+      "correct_answer": "poor"
+    },
+    {
+      "category": "Adjective",
+      "question": "Choose the correct option: She has ___ friends in this city.",
+      "options": [
+        "few",
+        "a few",
+        "the few",
+        "little"
+      ],
+      "correct_answer": "a few"
+    },
+    {
+      "category": "Adjective",
+      "question": "Fill in the blank: The ___ (happy) she is, the more friends she has.",
+      "options": [
+        "happy",
+        "happier",
+        "happiest",
+        "happiness"
+      ],
+      "correct_answer": "happier"
+    },
+    {
+      "category": "Adjective",
+      "question": "He is one of the ___ (great) leaders of India.",
+      "options": [
+        "great",
+        "greater",
+        "greatest",
+        "greatful"
+      ],
+      "correct_answer": "greatest"
+    },
+    {
+      "category": "Adjective",
+      "question": "Complete: Mount Everest is the ___ mountain in the world.",
+      "options": [
+        "high",
+        "higher",
+        "highest",
+        "most high"
+      ],
+      "correct_answer": "highest"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: She goes to school every day.",
+      "options": [
+        "Present Simple",
+        "Past Simple",
+        "Future Indefinite",
+        "Present Continuous"
+      ],
+      "correct_answer": "Present Simple"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: I was reading a novel when you called.",
+      "options": [
+        "Past Continuous",
+        "Present Continuous",
+        "Past Perfect",
+        "Future Continuous"
+      ],
+      "correct_answer": "Past Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: They will complete the work tomorrow.",
+      "options": [
+        "Future Indefinite",
+        "Present Continuous",
+        "Future Continuous",
+        "Past Indefinite"
+      ],
+      "correct_answer": "Future Indefinite"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: He has just finished his homework.",
+      "options": [
+        "Present Perfect",
+        "Past Perfect",
+        "Present Indefinite",
+        "Future Perfect"
+      ],
+      "correct_answer": "Present Perfect"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: The train had left before we reached the station.",
+      "options": [
+        "Past Perfect",
+        "Present Perfect",
+        "Future Perfect",
+        "Past Continuous"
+      ],
+      "correct_answer": "Past Perfect"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: Children are playing in the garden.",
+      "options": [
+        "Present Continuous",
+        "Present Perfect",
+        "Future Continuous",
+        "Past Continuous"
+      ],
+      "correct_answer": "Present Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: The sun rises in the east.",
+      "options": [
+        "Present Simple",
+        "Present Continuous",
+        "Past Indefinite",
+        "Future Indefinite"
+      ],
+      "correct_answer": "Present Simple"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: She had been waiting for two hours when the bus arrived.",
+      "options": [
+        "Past Perfect Continuous",
+        "Past Continuous",
+        "Present Perfect Continuous",
+        "Future Continuous"
+      ],
+      "correct_answer": "Past Perfect Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: I shall be visiting Delhi next week.",
+      "options": [
+        "Future Continuous",
+        "Future Indefinite",
+        "Present Continuous",
+        "Past Indefinite"
+      ],
+      "correct_answer": "Future Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: He sings very beautifully.",
+      "options": [
+        "Present Simple",
+        "Past Indefinite",
+        "Present Continuous",
+        "Present Perfect"
+      ],
+      "correct_answer": "Present Simple"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: By 2026, we will have been living here for 10 years.",
+      "options": [
+        "Future Perfect Continuous",
+        "Future Perfect",
+        "Future Continuous",
+        "Present Perfect Continuous"
+      ],
+      "correct_answer": "Future Perfect Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: He was writing a letter when I entered the room.",
+      "options": [
+        "Past Continuous",
+        "Present Continuous",
+        "Past Perfect",
+        "Future Continuous"
+      ],
+      "correct_answer": "Past Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: She will have completed the project by Monday.",
+      "options": [
+        "Future Perfect",
+        "Future Continuous",
+        "Present Perfect",
+        "Past Perfect"
+      ],
+      "correct_answer": "Future Perfect"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: The baby is sleeping peacefully.",
+      "options": [
+        "Present Continuous",
+        "Past Continuous",
+        "Present Perfect Continuous",
+        "Future Continuous"
+      ],
+      "correct_answer": "Present Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: They played cricket yesterday.",
+      "options": [
+        "Past Indefinite",
+        "Present Perfect",
+        "Past Perfect",
+        "Future Indefinite"
+      ],
+      "correct_answer": "Past Indefinite"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: The teacher teaches us English.",
+      "options": [
+        "Present Simple",
+        "Past Indefinite",
+        "Present Continuous",
+        "Future Indefinite"
+      ],
+      "correct_answer": "Present Simple"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: She is going to buy a new phone.",
+      "options": [
+        "Future Indefinite",
+        "Present Continuous",
+        "Future Continuous",
+        "Present Perfect"
+      ],
+      "correct_answer": "Future Indefinite"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: I have been studying since morning.",
+      "options": [
+        "Present Perfect Continuous",
+        "Present Continuous",
+        "Past Perfect Continuous",
+        "Future Continuous"
+      ],
+      "correct_answer": "Present Perfect Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: We ate dinner at 8 p.m. last night.",
+      "options": [
+        "Past Indefinite",
+        "Past Continuous",
+        "Past Perfect",
+        "Present Perfect"
+      ],
+      "correct_answer": "Past Indefinite"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section A: Identify the Tense)",
+      "question": "Identify the tense: Ravi will be playing the guitar during the function.",
+      "options": [
+        "Future Continuous",
+        "Future Indefinite",
+        "Present Continuous",
+        "Future Perfect"
+      ],
+      "correct_answer": "Future Continuous"
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: She sings a song. (Change to Past Continuous)",
+      "options": [
+        "She was singing a song.",
+        "She had sung a song.",
+        "She will sing a song.",
+        "She is singing a song."
+      ],
+      "correct_answer": "She was singing a song."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: They were writing an essay. (Change to Future Indefinite)",
+      "options": [
+        "They will write an essay.",
+        "They wrote an essay.",
+        "They write an essay.",
+        "They have written an essay."
+      ],
+      "correct_answer": "They will write an essay."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: He will play cricket. (Change to Present Perfect)",
+      "options": [
+        "He has played cricket.",
+        "He is playing cricket.",
+        "He played cricket.",
+        "He was playing cricket."
+      ],
+      "correct_answer": "He has played cricket."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: We had completed our work. (Change to Future Perfect Continuous)",
+      "options": [
+        "We will have been completing our work.",
+        "We will have completed our work.",
+        "We will complete our work.",
+        "We are completing our work."
+      ],
+      "correct_answer": "We will have been completing our work."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: She is cooking dinner. (Change to Past Perfect)",
+      "options": [
+        "She had cooked dinner.",
+        "She was cooking dinner.",
+        "She has cooked dinner.",
+        "She will cook dinner."
+      ],
+      "correct_answer": "She had cooked dinner."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: You study English every day. (Change to Present Continuous)",
+      "options": [
+        "You are studying English every day.",
+        "You were studying English every day.",
+        "You studied English every day.",
+        "You have studied English every day."
+      ],
+      "correct_answer": "You are studying English every day."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: They will have reached by noon. (Change to Past Indefinite)",
+      "options": [
+        "They reached by noon.",
+        "They have reached by noon.",
+        "They were reaching by noon.",
+        "They will reach by noon."
+      ],
+      "correct_answer": "They reached by noon."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: He works very hard. (Change to Future Continuous)",
+      "options": [
+        "He will be working very hard.",
+        "He is working very hard.",
+        "He was working very hard.",
+        "He has been working very hard."
+      ],
+      "correct_answer": "He will be working very hard."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: The train leaves at 6 a.m. (Change to Past Continuous)",
+      "options": [
+        "The train was leaving at 6 a.m.",
+        "The train left at 6 a.m.",
+        "The train had left at 6 a.m.",
+        "The train will leave at 6 a.m."
+      ],
+      "correct_answer": "The train was leaving at 6 a.m."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: I was watching television. (Change to Present Perfect)",
+      "options": [
+        "I have watched television.",
+        "I had watched television.",
+        "I watch television.",
+        "I am watching television."
+      ],
+      "correct_answer": "I have watched television."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: She will deliver the speech. (Change to Present Indefinite)",
+      "options": [
+        "She delivers the speech.",
+        "She delivered the speech.",
+        "She is delivering the speech.",
+        "She has delivered the speech."
+      ],
+      "correct_answer": "She delivers the speech."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: They are playing football. (Change to Past Perfect Continuous)",
+      "options": [
+        "They had been playing football.",
+        "They were playing football.",
+        "They played football.",
+        "They have been playing football."
+      ],
+      "correct_answer": "They had been playing football."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: We will start the business next year. (Change to Present Continuous)",
+      "options": [
+        "We are starting the business next year.",
+        "We start the business next year.",
+        "We have started the business next year.",
+        "We were starting the business next year."
+      ],
+      "correct_answer": "We are starting the business next year."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: She has written a letter. (Change to Future Indefinite)",
+      "options": [
+        "She will write a letter.",
+        "She wrote a letter.",
+        "She is writing a letter.",
+        "She had written a letter."
+      ],
+      "correct_answer": "She will write a letter."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: I went to the market yesterday. (Change to Present Perfect Continuous)",
+      "options": [
+        "I have been going to the market.",
+        "I was going to the market.",
+        "I go to the market.",
+        "I have gone to the market."
+      ],
+      "correct_answer": "I have been going to the market."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: He is reading a storybook. (Change to Past Indefinite)",
+      "options": [
+        "He read a storybook.",
+        "He was reading a storybook.",
+        "He has read a storybook.",
+        "He had read a storybook."
+      ],
+      "correct_answer": "He read a storybook."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: They had been working for hours. (Change to Future Indefinite)",
+      "options": [
+        "They will work for hours.",
+        "They worked for hours.",
+        "They are working for hours.",
+        "They will be working for hours."
+      ],
+      "correct_answer": "They will work for hours."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: She will be watching TV. (Change to Present Perfect Continuous)",
+      "options": [
+        "She has been watching TV.",
+        "She is watching TV.",
+        "She watched TV.",
+        "She was watching TV."
+      ],
+      "correct_answer": "She has been watching TV."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: We eat lunch at 2 p.m. (Change to Future Continuous)",
+      "options": [
+        "We will be eating lunch at 2 p.m.",
+        "We will eat lunch at 2 p.m.",
+        "We ate lunch at 2 p.m.",
+        "We are eating lunch at 2 p.m."
+      ],
+      "correct_answer": "We will be eating lunch at 2 p.m."
+    },
+    {
+      "category": "Tenses – Identification and Conversion (Section B: Convert the Tense)",
+      "question": "Convert the tense: He was solving a problem. (Change to Future Perfect)",
+      "options": [
+        "He will have solved a problem.",
+        "He has solved a problem.",
+        "He solved a problem.",
+        "He will solve a problem."
+      ],
+      "correct_answer": "He will have solved a problem."
+    }
+  ]
+}

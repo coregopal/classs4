@@ -1,0 +1,1468 @@
+{
+  "questions": [
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "What is the process by which food is broken down into a simpler form so that it can be easily taken in or absorbed by our body?",
+      "options": [
+        "Digestion",
+        "Excretion",
+        "Absorption",
+        "Peristalsis"
+      ],
+      "correct_answer": "Digestion"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Which organ does digestion start in?",
+      "options": [
+        "Mouth",
+        "Stomach",
+        "Small intestine",
+        "Large intestine"
+      ],
+      "correct_answer": "Mouth"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "The teeth help to break and chew food.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Saliva is produced in the food pipe.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "The stomach churns food and mixes it with digestive juices.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Useful nutrients are absorbed in the large intestine.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "What is peristalsis?",
+      "options": [
+        "Wave-like movement of muscles in the food pipe that pushes food down",
+        "Chewing food",
+        "Absorption of nutrients",
+        "Production of saliva"
+      ],
+      "correct_answer": "Wave-like movement of muscles in the food pipe that pushes food down"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Why is it important to chew food well?",
+      "options": [
+        "Breaks food into smaller particles and mixes it with saliva",
+        "Increases appetite",
+        "Stores nutrients",
+        "Removes water"
+      ],
+      "correct_answer": "Breaks food into smaller particles and mixes it with saliva"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Why should we drink water every day?",
+      "options": [
+        "Helps in absorption of food and prevents constipation",
+        "Cleans teeth only",
+        "Provides taste to food",
+        "Increases digestion speed only"
+      ],
+      "correct_answer": "Helps in absorption of food and prevents constipation"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "What is excretion?",
+      "options": [
+        "Process of removing waste from our body",
+        "Process of digesting food",
+        "Process of absorbing nutrients",
+        "Process of chewing food"
+      ],
+      "correct_answer": "Process of removing waste from our body"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Write two healthy habits related to digestion and excretion.",
+      "options": [
+        "Eat food rich in fibre and drink lots of water",
+        "Sleep early and wake late",
+        "Eat junk food and avoid water",
+        "Exercise only"
+      ],
+      "correct_answer": "Eat food rich in fibre and drink lots of water"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "What is the impact of polluted water on humans’ digestive and excretory systems?",
+      "options": [
+        "Diarrhoea, vomiting, and diseases such as typhoid",
+        "Improved digestion",
+        "Enhanced absorption",
+        "Better excretion"
+      ],
+      "correct_answer": "Diarrhoea, vomiting, and diseases such as typhoid"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "What measures is the government of India taking to reduce water pollution?",
+      "options": [
+        "Building new sewer treatment plants and repairing existing ones",
+        "Reducing taxes",
+        "Providing free water",
+        "Planting trees only"
+      ],
+      "correct_answer": "Building new sewer treatment plants and repairing existing ones"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "What steps can we take as individuals to avoid water pollution?",
+      "options": [
+        "Do not throw waste into water bodies and minimize use of household chemicals",
+        "Use more water",
+        "Drink less water",
+        "Ignore waste disposal"
+      ],
+      "correct_answer": "Do not throw waste into water bodies and minimize use of household chemicals"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "In which of the following organs does digestion start in the human body?",
+      "options": [
+        "Small intestine",
+        "Blood vessels",
+        "Stomach",
+        "Mouth"
+      ],
+      "correct_answer": "Mouth"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Which of the following organs helps in the absorption of nutrients in the body?",
+      "options": [
+        "Small intestine",
+        "Stomach",
+        "Liver",
+        "Urethra"
+      ],
+      "correct_answer": "Small intestine"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Which of the following organs helps in the absorption of water?",
+      "options": [
+        "Large intestine",
+        "Stomach",
+        "Urethra",
+        "Oesophagus"
+      ],
+      "correct_answer": "Large intestine"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Which of the following organs store urine?",
+      "options": [
+        "Urethra",
+        "Kidneys",
+        "Ureter",
+        "Urinary bladder"
+      ],
+      "correct_answer": "Urinary bladder"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Which of the following is required for good bowel movement?",
+      "options": [
+        "Saliva",
+        "Fibre",
+        "Nutrient",
+        "Enzyme"
+      ],
+      "correct_answer": "Fibre"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Assertion (A): Faeces are stored in the rectum for a short time. Reason (R): Rectum is the last organ of the digestive system.",
+      "options": [
+        "Both A and R are True",
+        "Both A and R are False",
+        "A is True and R is False",
+        "A is False and R is True"
+      ],
+      "correct_answer": "Both A and R are True"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Assertion (A): Urine is formed inside the kidneys. Reason (R): It contains useful substances that are formed inside our body.",
+      "options": [
+        "Both A and R are True",
+        "Both A and R are False",
+        "A is True and R is False",
+        "A is False and R is True"
+      ],
+      "correct_answer": "A is True and R is False"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "From the mouth, the chewed food reaches the stomach via the ______.",
+      "options": [
+        "Oesophagus",
+        "Kidneys"
+      ],
+      "correct_answer": "Oesophagus"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "The liver secretes ______ that helps in the digestion of food.",
+      "options": [
+        "Digestive juices",
+        "Saliva"
+      ],
+      "correct_answer": "Digestive juices"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "The ______ system helps in removing wastes from our body.",
+      "options": [
+        "Excretory",
+        "Circulatory"
+      ],
+      "correct_answer": "Excretory"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Waste from our body is removed by the ______.",
+      "options": [
+        "Kidneys",
+        "Stomach"
+      ],
+      "correct_answer": "Kidneys"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Urine is formed inside the ______.",
+      "options": [
+        "Kidneys",
+        "Ureters"
+      ],
+      "correct_answer": "Kidneys"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Match the following: 1. Churning 2. Saliva 3. Food pipe 4. Kidney 5. Fibre",
+      "options": [
+        "b. Stomach, a. Enzyme, d. Oesophagus, e. Urine, c. Roughage"
+      ],
+      "correct_answer": "b. Stomach, a. Enzyme, d. Oesophagus, e. Urine, c. Roughage"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Define digestion.",
+      "options": [
+        "Process of breaking down food into a simpler form so it can be absorbed by the body",
+        "Process of removing waste",
+        "Absorption of water",
+        "Making food only"
+      ],
+      "correct_answer": "Process of breaking down food into a simpler form so it can be absorbed by the body"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "What is the role of tongue in the digestive process?",
+      "options": [
+        "Mixes saliva with food and pushes food into the food pipe",
+        "Absorbs nutrients",
+        "Stores food",
+        "Removes water"
+      ],
+      "correct_answer": "Mixes saliva with food and pushes food into the food pipe"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "What happens to the undigested food?",
+      "options": [
+        "Passes to large intestine where water is absorbed and rest expelled as waste",
+        "Absorbed fully",
+        "Stored in stomach",
+        "Removed via skin"
+      ],
+      "correct_answer": "Passes to large intestine where water is absorbed and rest expelled as waste"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Define excretion.",
+      "options": [
+        "Process of removing waste products from our body",
+        "Process of digesting food",
+        "Absorption of nutrients",
+        "Chewing food"
+      ],
+      "correct_answer": "Process of removing waste products from our body"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Name two waste products of our body.",
+      "options": [
+        "Faeces and urine",
+        "Saliva and water",
+        "Food and water",
+        "Nutrients and vitamins"
+      ],
+      "correct_answer": "Faeces and urine"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Name the main parts of the digestive system and their functions.",
+      "options": [
+        "Mouth (chews), Food pipe (carries), Stomach (churns), Liver/Pancreas (make juices), Small intestine (absorbs nutrients), Large intestine (absorbs water), Rectum (stores faeces), Anus (removes faeces)",
+        "Kidneys, Ureter, Bladder",
+        "Heart, Lungs",
+        "Brain, Spinal cord"
+      ],
+      "correct_answer": "Mouth (chews), Food pipe (carries), Stomach (churns), Liver/Pancreas (make juices), Small intestine (absorbs nutrients), Large intestine (absorbs water), Rectum (stores faeces), Anus (removes faeces)"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Name the organs of the excretory system in sequence and their functions.",
+      "options": [
+        "Kidneys (make urine), Ureters (carry urine), Urinary bladder (stores urine), Urethra (removes urine)",
+        "Stomach, Small intestine, Large intestine",
+        "Mouth, Oesophagus, Stomach",
+        "Heart, Lungs, Blood vessels"
+      ],
+      "correct_answer": "Kidneys (make urine), Ureters (carry urine), Urinary bladder (stores urine), Urethra (removes urine)"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Write a short note on healthy habits for digestion.",
+      "options": [
+        "Eat from clean plate, chew well, eat fibre-rich foods, drink water, avoid junk food, wash hands",
+        "Eat junk food only",
+        "Skip water",
+        "Sleep only"
+      ],
+      "correct_answer": "Eat from clean plate, chew well, eat fibre-rich foods, drink water, avoid junk food, wash hands"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Plants are important to maintain the ___ of nature.",
+      "options": [
+        "balance",
+        "growth",
+        "color",
+        "temperature"
+      ],
+      "correct_answer": "balance"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "The stem gives ___ to the plant.",
+      "options": [
+        "support",
+        "food",
+        "water",
+        "flowers"
+      ],
+      "correct_answer": "support"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Rice plants have ___ roots.",
+      "options": [
+        "fibrous",
+        "taproot",
+        "thick",
+        "weak"
+      ],
+      "correct_answer": "fibrous"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Roots of carrots are ___ as they store ___ in them.",
+      "options": [
+        "thick and fleshy, food",
+        "thin, water",
+        "weak, nutrients",
+        "fibrous, sugar"
+      ],
+      "correct_answer": "thick and fleshy, food"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Grapevine has a weak stem.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Mango leaf has a broader leaf blade as compared to banana leaf.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Through the stomata of leaf, carbon dioxide is taken in for photosynthesis.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Iodine test is used to test for the presence of carbon dioxide inside a leaf.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Starch turns blue-black in the presence of iodine in a leaf.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "What are the two types of roots?",
+      "options": [
+        "Taproot and fibrous root",
+        "Thick and thin root",
+        "Primary and secondary root",
+        "Carrot and radish root"
+      ],
+      "correct_answer": "Taproot and fibrous root"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "What is the process by which green plants prepare their own food?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Digestion"
+      ],
+      "correct_answer": "Photosynthesis"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "What is the main function of stem?",
+      "options": [
+        "Support the plant and carry water and food",
+        "Prepare food",
+        "Store starch",
+        "Release gases"
+      ],
+      "correct_answer": "Support the plant and carry water and food"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Which part absorbs water and minerals from the soil?",
+      "options": [
+        "Leaf",
+        "Stem",
+        "Root",
+        "Flower"
+      ],
+      "correct_answer": "Root"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Which part is also known as the kitchen of a plant?",
+      "options": [
+        "Leaf",
+        "Stomata",
+        "Flower",
+        "Leaf stalk"
+      ],
+      "correct_answer": "Leaf"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Chlorophyll helps to absorb",
+      "options": [
+        "Oxygen",
+        "Carbon dioxide",
+        "Nutrients",
+        "Sunlight"
+      ],
+      "correct_answer": "Sunlight"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "The flat part of a leaf is called",
+      "options": [
+        "Vein",
+        "Midrib",
+        "Leaf blade",
+        "Leaf stalk"
+      ],
+      "correct_answer": "Leaf blade"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Tiny pores on leaves are called",
+      "options": [
+        "Veins",
+        "Leaf stalk",
+        "Stomata",
+        "Midrib"
+      ],
+      "correct_answer": "Stomata"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "___ is the food prepared by plants by the process of photosynthesis.",
+      "options": [
+        "Glucose",
+        "Oxygen",
+        "Chlorophyll",
+        "Minerals"
+      ],
+      "correct_answer": "Glucose"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "A potato plant stores extra food in its",
+      "options": [
+        "Stomata",
+        "Leaves",
+        "Roots",
+        "Stem"
+      ],
+      "correct_answer": "Stem"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Assertion (A): Stem helps in the transportation of water and minerals in the plant. Reason (R): It transports water and minerals from the leaves to the other parts of the plant.",
+      "options": [
+        "Both A and R are True",
+        "Both A and R are False",
+        "A is True and R is False",
+        "A is False and R is True"
+      ],
+      "correct_answer": "A is True and R is False"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Assertion (A): Plants take in carbon dioxide through stomata during photosynthesis. Reason (R): Plants prepare their own food through photosynthesis.",
+      "options": [
+        "Both A and R are True",
+        "Both A and R are False",
+        "A is True and R is False",
+        "A is False and R is True"
+      ],
+      "correct_answer": "Both A and R are True"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Tap roots have a thick main root.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "A plant uses the food prepared by it for its growth.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Spinach stores food in its leaf.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "The midrib is the main vein of the leaf.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "The petiole attaches the leaf to the stem.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Many thin, bushy roots instead of one main root are called?",
+      "options": [
+        "Fibrous roots",
+        "Taproots",
+        "Trunks",
+        "Stems"
+      ],
+      "correct_answer": "Fibrous roots"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "A green substance present in leaves that helps them to absorb sunlight is called?",
+      "options": [
+        "Chlorophyll",
+        "Carotene",
+        "Glucose",
+        "Starch"
+      ],
+      "correct_answer": "Chlorophyll"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Leaves take in which gas from air?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correct_answer": "Carbon dioxide"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "In plants, the extra food is stored in which form?",
+      "options": [
+        "Starch",
+        "Glucose",
+        "Chlorophyll",
+        "Water"
+      ],
+      "correct_answer": "Starch"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Stem of banyan and mango tree is called?",
+      "options": [
+        "Trunk",
+        "Branch",
+        "Petiole",
+        "Root"
+      ],
+      "correct_answer": "Trunk"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Name one plant that has taproot.",
+      "options": [
+        "Carrot",
+        "Wheat",
+        "Rice",
+        "Spinach"
+      ],
+      "correct_answer": "Carrot"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Name one plant that has fibrous root.",
+      "options": [
+        "Wheat",
+        "Carrot",
+        "Radish",
+        "Pea"
+      ],
+      "correct_answer": "Wheat"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Name one root that we eat as a vegetable.",
+      "options": [
+        "Radish",
+        "Spinach",
+        "Carrot leaves",
+        "Potato stem"
+      ],
+      "correct_answer": "Radish"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "What are stomata and how do they help a plant?",
+      "options": [
+        "Tiny openings on the leaf that help in taking carbon dioxide and releasing oxygen and water vapour",
+        "Root hairs",
+        "Leaf veins",
+        "Flowers"
+      ],
+      "correct_answer": "Tiny openings on the leaf that help in taking carbon dioxide and releasing oxygen and water vapour"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "What are the functions of a leaf?",
+      "options": [
+        "Prepare food, store food, release water vapour",
+        "Absorb minerals only",
+        "Support the plant",
+        "Store water only"
+      ],
+      "correct_answer": "Prepare food, store food, release water vapour"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Name two plants that we use to make medicines.",
+      "options": [
+        "Tulsi and neem",
+        "Wheat and rice",
+        "Mango and Guava",
+        "Spinach and Carrot"
+      ],
+      "correct_answer": "Tulsi and neem"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "What is transpiration?",
+      "options": [
+        "The process by which plants lose water as vapour through stomata in leaves",
+        "Absorption of water by roots",
+        "Storage of food",
+        "Photosynthesis"
+      ],
+      "correct_answer": "The process by which plants lose water as vapour through stomata in leaves"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Write the names of any two plants generally found in mountains.",
+      "options": [
+        "Pine, Fir",
+        "Cactus, Acacia",
+        "Mango, Ashoka",
+        "Rubber, Teak"
+      ],
+      "correct_answer": "Pine, Fir"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Write the names of any two plants generally found in deserts.",
+      "options": [
+        "Pine, Fir",
+        "Cactus, Acacia",
+        "Mango, Ashoka",
+        "Rubber, Teak"
+      ],
+      "correct_answer": "Cactus, Acacia"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Write the names of any two plants generally found in plains (low rainfall).",
+      "options": [
+        "Pine, Fir",
+        "Cactus, Acacia",
+        "Mango, Ashoka",
+        "Rubber, Teak"
+      ],
+      "correct_answer": "Mango, Ashoka"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Write the names of any two plants generally found in plains (heavy rainfall).",
+      "options": [
+        "Pine, Fir",
+        "Cactus, Acacia",
+        "Mango, Ashoka",
+        "Rubber, Teak"
+      ],
+      "correct_answer": "Rubber, Teak"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Why are trees in mountains cone shaped?",
+      "options": [
+        "To help snow slide off easily",
+        "To store water",
+        "To prepare food",
+        "To support branches"
+      ],
+      "correct_answer": "To help snow slide off easily"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Why do desert plants have spines and thick stems?",
+      "options": [
+        "To reduce water loss and store water",
+        "To capture insects",
+        "To grow taller",
+        "To spread seeds"
+      ],
+      "correct_answer": "To reduce water loss and store water"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "How do floating plants stay on the surface of water?",
+      "options": [
+        "They have light and spongy stems and loose roots",
+        "They have heavy roots",
+        "They store water in leaves",
+        "They have thick stems"
+      ],
+      "correct_answer": "They have light and spongy stems and loose roots"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Why does the leaf turn blue-black when iodine is added?",
+      "options": [
+        "The leaf contains starch, and iodine turns starch blue-black",
+        "The leaf contains chlorophyll",
+        "The leaf absorbs water",
+        "The leaf is dry"
+      ],
+      "correct_answer": "The leaf contains starch, and iodine turns starch blue-black"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Why did the leaf that was kept in the dark not change color with iodine?",
+      "options": [
+        "Because no starch was made without sunlight",
+        "Because leaf is old",
+        "Because it was washed",
+        "Because of water content"
+      ],
+      "correct_answer": "Because no starch was made without sunlight"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Plants that absorb water and minerals from the soil are:",
+      "options": [
+        "Leaf",
+        "Stem",
+        "Root",
+        "Flower"
+      ],
+      "correct_answer": "Root"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Plants prepare food by the process of:",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Germination"
+      ],
+      "correct_answer": "Photosynthesis"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Taproot plants are:",
+      "options": [
+        "Wheat",
+        "Grass",
+        "Pea",
+        "Rice"
+      ],
+      "correct_answer": "Pea"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "The green substance in leaves is called:",
+      "options": [
+        "Chlorophyll",
+        "Carotene",
+        "Oxygen",
+        "Water"
+      ],
+      "correct_answer": "Chlorophyll"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Assertion (A): Stem transports water and minerals in plants. Reason (R): Stem transports water from the leaves.",
+      "options": [
+        "Both A and R are True",
+        "Both A and R are False",
+        "A is True and R is False",
+        "A is False and R is True"
+      ],
+      "correct_answer": "A is True and R is False"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Assertion (A): Plants take in carbon dioxide through stomata. Reason (R): They prepare their own food through photosynthesis.",
+      "options": [
+        "Both A and R are True",
+        "Both A and R are False",
+        "A is True and R is False",
+        "A is False and R is True"
+      ],
+      "correct_answer": "Both A and R are True"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Taproot plants have a thick main root.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "A plant uses the food prepared by it for growth.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Spinach stores food in its leaves.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Midrib is the main vein of a leaf.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Petiole attaches the leaf to the stem.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Name one plant with taproot.",
+      "options": [
+        "Carrot",
+        "Rice",
+        "Spinach",
+        "Wheat"
+      ],
+      "correct_answer": "Carrot"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Name one plant with fibrous root.",
+      "options": [
+        "Rice",
+        "Carrot",
+        "Pea",
+        "Wheat"
+      ],
+      "correct_answer": "Rice"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "What are the function of leaves?",
+      "options": [
+        "Leaves prepare food, release water vapour, and store food in some plants",
+        "Absorb minerals only",
+        "Support the plant",
+        "Store water only"
+      ],
+      "correct_answer": "Leaves prepare food, release water vapour, and store food in some plants"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Name two plants used to make medicines.",
+      "options": [
+        "Tulsi and neem",
+        "Spinach and Carrot",
+        "Rice and Wheat",
+        "Mango and Guava"
+      ],
+      "correct_answer": "Tulsi and neem"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Carrots and radishes are roots that store food and are eaten as vegetables.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Stem supports the plant and carries water and food to all parts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Photosynthesis is the process by which green plants make food using sunlight, CO₂, water, and chlorophyll.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Why do animals need to adapt?",
+      "options": [
+        "To get food, shelter, and protect themselves and their young",
+        "To travel long distances",
+        "To compete with humans",
+        "To sleep all the time"
+      ],
+      "correct_answer": "To get food, shelter, and protect themselves and their young"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "What are the adaptations of desert animals?",
+      "options": [
+        "Drink lots of water at once, have thick pads under feet, some aestivate during hot months",
+        "Live in water",
+        "Hibernate in summer",
+        "Have webbed feet"
+      ],
+      "correct_answer": "Drink lots of water at once, have thick pads under feet, some aestivate during hot months"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "How do polar animals stay warm?",
+      "options": [
+        "They have thick layers of fat called blubber and thick fur",
+        "They drink hot water",
+        "They migrate to deserts",
+        "They hibernate all year"
+      ],
+      "correct_answer": "They have thick layers of fat called blubber and thick fur"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "What adaptations help aquatic animals?",
+      "options": [
+        "They have fins or limbs for swimming, gills for breathing, and streamlined bodies",
+        "They climb trees",
+        "They store water in body",
+        "They have thick fur"
+      ],
+      "correct_answer": "They have fins or limbs for swimming, gills for breathing, and streamlined bodies"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "What makes amphibians special?",
+      "options": [
+        "They have webbed feet for swimming, moist skin for breathing in water, and lungs for breathing on land",
+        "They have scales only",
+        "They hibernate all year",
+        "They eat plants only"
+      ],
+      "correct_answer": "They have webbed feet for swimming, moist skin for breathing in water, and lungs for breathing on land"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Terrestrial animals live in/on:",
+      "options": [
+        "Land",
+        "Water",
+        "Air",
+        "Both land and water"
+      ],
+      "correct_answer": "Land"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Porcupines have:",
+      "options": [
+        "Spines",
+        "Spiracles",
+        "Moist skin",
+        "Shells"
+      ],
+      "correct_answer": "Spines"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Most of the ______ have moist skin to help them breathe in water.",
+      "options": [
+        "Amphibians",
+        "Aerial animals",
+        "Terrestrial animals",
+        "Aquatic animals"
+      ],
+      "correct_answer": "Amphibians"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Lions are:",
+      "options": [
+        "Herbivores",
+        "Scavengers",
+        "Carnivores",
+        "Omnivores"
+      ],
+      "correct_answer": "Carnivores"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "______ birds have strong beaks and claws.",
+      "options": [
+        "Parasitic",
+        "Herbivorous",
+        "Amphibian",
+        "Omnivorous"
+      ],
+      "correct_answer": "Omnivorous"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Assertion (A): Eagles have strong and sharp talons. Reason (R): They help them to fly.",
+      "options": [
+        "Both A and R are True",
+        "Both A and R are False",
+        "A is True and R is False",
+        "A is False and R is True"
+      ],
+      "correct_answer": "A is True and R is False"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Assertion (A): Humans are herbivores. Reason (R): They eat both plants and flesh of other animals.",
+      "options": [
+        "Both A and R are True",
+        "Both A and R are False",
+        "A is True and R is False",
+        "A is False and R is True"
+      ],
+      "correct_answer": "A is False and R is True"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Animals that live on land are called aquatic animals.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Dogs are terrestrial animals.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Crow is an example of an omnivorous bird.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Desert animals drink a lot of water at a time.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Animals that live in water:",
+      "options": [
+        "Aquatic animals",
+        "Terrestrial animals",
+        "Amphibians",
+        "Birds"
+      ],
+      "correct_answer": "Aquatic animals"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "A thick layer of fat under the skin of penguin:",
+      "options": [
+        "Blubber",
+        "Fur",
+        "Feathers",
+        "Scales"
+      ],
+      "correct_answer": "Blubber"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Fish use it for breathing:",
+      "options": [
+        "Gills",
+        "Lungs",
+        "Talons",
+        "Fins"
+      ],
+      "correct_answer": "Gills"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "The inactivity shown by some animals during winter months:",
+      "options": [
+        "Hibernation",
+        "Aestivation",
+        "Migration",
+        "Adaptation"
+      ],
+      "correct_answer": "Hibernation"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Carnivorous birds use it to catch prey:",
+      "options": [
+        "Talons",
+        "Beaks",
+        "Fins",
+        "Claws only"
+      ],
+      "correct_answer": "Talons"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Match the following: Cow",
+      "options": [
+        "Herbivore",
+        "Omnivore",
+        "Aquatic animal",
+        "Terrestrial animal"
+      ],
+      "correct_answer": "Herbivore"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Match the following: Bear",
+      "options": [
+        "Herbivore",
+        "Omnivore",
+        "Aquatic animal",
+        "Terrestrial animal"
+      ],
+      "correct_answer": "Omnivore"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Match the following: Whale",
+      "options": [
+        "Herbivore",
+        "Omnivore",
+        "Aquatic animal",
+        "Terrestrial animal"
+      ],
+      "correct_answer": "Aquatic animal"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Match the following: Tiger",
+      "options": [
+        "Herbivore",
+        "Omnivore",
+        "Aquatic animal",
+        "Terrestrial animal"
+      ],
+      "correct_answer": "Terrestrial animal"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Define adaptation.",
+      "options": [
+        "Special features of animals that help them survive in their surroundings",
+        "Sleeping habit",
+        "Feeding habit",
+        "Migration pattern"
+      ],
+      "correct_answer": "Special features of animals that help them survive in their surroundings"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "What do you understand by hibernation?",
+      "options": [
+        "A long sleep animals take during cold winter months",
+        "Sleeping in summer",
+        "Migration",
+        "Feeding habit"
+      ],
+      "correct_answer": "A long sleep animals take during cold winter months"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "What is aestivation?",
+      "options": [
+        "A long sleep animals take during hot summer months",
+        "Sleeping in winter",
+        "Migration",
+        "Hunting habit"
+      ],
+      "correct_answer": "A long sleep animals take during hot summer months"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Write one method of protecting animals.",
+      "options": [
+        "Protect animals by not cutting down their homes, such as trees",
+        "Hunting animals",
+        "Feeding them junk food",
+        "Disturbing their nests"
+      ],
+      "correct_answer": "Protect animals by not cutting down their homes, such as trees"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Name any three animals found in deserts and their adaptations.",
+      "options": [
+        "Camels (store water and have padded feet), lizards (dry skin), scorpions (nocturnal to avoid heat)",
+        "Fish, Frogs, Turtles",
+        "Eagles, Hawks, Crows",
+        "Elephant, Tiger, Bear"
+      ],
+      "correct_answer": "Camels (store water and have padded feet), lizards (dry skin), scorpions (nocturnal to avoid heat)"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Write three adaptations of aquatic animals.",
+      "options": [
+        "Fins to swim, gills to breathe underwater, streamlined bodies",
+        "Webbed feet only",
+        "Thick fur, claws, teeth",
+        "Hooves, horns, fur"
+      ],
+      "correct_answer": "Fins to swim, gills to breathe underwater, streamlined bodies"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Name the category and adaptations of frogs and toads.",
+      "options": [
+        "Amphibians; webbed feet, moist skin for breathing in water, lungs for breathing on land",
+        "Reptiles; scales and claws",
+        "Birds; wings and beaks",
+        "Mammals; hair and lungs"
+      ],
+      "correct_answer": "Amphibians; webbed feet, moist skin for breathing in water, lungs for breathing on land"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "How should Ruhi take care of her new pet dog?",
+      "options": [
+        "Provide healthy food, clean water, shelter, regular baths, and veterinary care when sick",
+        "Keep it outside always",
+        "Feed only bones",
+        "Never bathe it"
+      ],
+      "correct_answer": "Provide healthy food, clean water, shelter, regular baths, and veterinary care when sick"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Why is water important for digestion?",
+      "options": [
+        "It helps in absorption of food and prevents constipation",
+        "It helps in chewing food",
+        "It helps in making digestive juices",
+        "It helps to churn food in the stomach"
+      ],
+      "correct_answer": "It helps in absorption of food and prevents constipation"
+    },
+    {
+      "category": "Chapter 3: Human Body – Digestive and Excretory Systems",
+      "question": "Name two healthy habits for digestion and excretion.",
+      "options": [
+        "Eat food rich in fibre and drink lots of water",
+        "Eat junk food and skip meals",
+        "Eat only sweets and drink soda",
+        "Sleep after every meal"
+      ],
+      "correct_answer": "Eat food rich in fibre and drink lots of water"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Which roots store food?",
+      "options": [
+        "Taproots like carrot and radish",
+        "Fibrous roots like grass",
+        "Adventitious roots like banyan",
+        "Roots like sweet potato"
+      ],
+      "correct_answer": "Taproots like carrot and radish"
+    },
+    {
+      "category": "Chapter 4: Plants in the Surroundings and Environment",
+      "question": "Why does a leaf turn blue-black with iodine?",
+      "options": [
+        "Because the leaf contains starch",
+        "Because the leaf contains water",
+        "Because the leaf contains chlorophyll",
+        "Because the leaf contains sugar"
+      ],
+      "correct_answer": "Because the leaf contains starch"
+    },
+    {
+      "category": "Chapter 5: Adaptation in Plants",
+      "question": "Why are trees in mountains cone-shaped?",
+      "options": [
+        "To help snow slide off easily",
+        "To store more water",
+        "To absorb more sunlight",
+        "To trap insects"
+      ],
+      "correct_answer": "To help snow slide off easily"
+    },
+    {
+      "category": "Chapter 6: Adaptation in Animals",
+      "question": "Name animals generally found in mountains, desert, plains (low rainfall), and plains (heavy rainfall).",
+      "options": [
+        "Mountains: Pine, Fir; Desert: Cactus, Acacia; Plains (low rainfall): Mango, Ashoka; Plains (heavy rainfall): Rubber, Teak",
+        "Mountains: Cactus, Acacia; Desert: Pine, Fir; Plains (low rainfall): Rubber, Teak; Plains (heavy rainfall): Mango, Ashoka",
+        "Mountains: Mango, Ashoka; Desert: Rubber, Teak; Plains (low rainfall): Pine, Fir; Plains (heavy rainfall): Cactus, Acacia",
+        "Mountains: Rubber, Teak; Desert: Mango, Ashoka; Plains (low rainfall): Cactus, Acacia; Plains (heavy rainfall): Pine, Fir"
+      ],
+      "correct_answer": "Mountains: Pine, Fir; Desert: Cactus, Acacia; Plains (low rainfall): Mango, Ashoka; Plains (heavy rainfall): Rubber, Teak"
+    }
+  ]
+}

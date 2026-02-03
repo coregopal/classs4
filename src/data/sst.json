@@ -1,1409 +1,409 @@
 {
   "questions": [
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "What does 'Responsibility' mean?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "What does the term 'Subcontinent' mean?",
       "options": [
-        "A duty to take care of somebody or something",
-        "A right to do anything you want",
-        "The freedom to ignore rules",
-        "A task that can be avoided"
+        "A small island surrounded by water",
+        "A large landmass that is part of a larger continent",
+        "A desert region with extreme temperatures",
+        "A mountainous area with permanent snow"
       ],
-      "correct_answer": "A duty to take care of somebody or something"
+      "correct_answer": "A large landmass that is part of a larger continent"
     },
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Who is a 'Citizen'?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "What are 'Deciduous' trees?",
       "options": [
-        "A person who belongs to a country or city",
-        "A person who travels a lot",
-        "A person who works in government only",
-        "A person who owns land"
+        "Trees that remain green throughout the year",
+        "Trees that lose their leaves every year",
+        "Trees that grow only in desert regions",
+        "Trees that have roots above the ground"
       ],
-      "correct_answer": "A person who belongs to a country or city"
+      "correct_answer": "Trees that lose their leaves every year"
     },
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "What is 'Public Property'?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "What is 'Alluvium'?",
       "options": [
-        "Things owned by the government for everyone to use",
-        "Things owned by private individuals",
-        "Personal belongings of citizens",
-        "Private schools and colleges"
+        "Hard rocks found in mountains",
+        "Silt and gravel left by rivers making soil fertile",
+        "Dry soil found in desert regions",
+        "Volcanic ash from eruptions"
       ],
-      "correct_answer": "Things owned by the government for everyone to use"
+      "correct_answer": "Silt and gravel left by rivers making soil fertile"
     },
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "What is 'Private Property'?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "How many natural regions is India divided into?",
       "options": [
-        "Things owned by individuals or groups",
-        "Parks and roads",
-        "Monuments owned by the government",
-        "Public schools and hospitals"
+        "Three",
+        "Four",
+        "Five",
+        "Six"
       ],
-      "correct_answer": "Things owned by individuals or groups"
+      "correct_answer": "Six"
     },
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Who is a 'Candidate'?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "Which of the following is a perennial river?",
       "options": [
-        "A person who stands for election",
-        "A government official",
-        "A citizen who votes",
-        "A teacher in school"
+        "Mahanadi",
+        "Krishna",
+        "Ganga",
+        "Godavari"
       ],
-      "correct_answer": "A person who stands for election"
+      "correct_answer": "Ganga"
     },
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "What is a 'Polling Booth'?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "Match the following: Scrub vegetation is found in",
       "options": [
-        "The place where voters go to vote in elections",
-        "A place for public meetings",
-        "A government office",
-        "A private property"
+        "Coasts, trees with roots seen above the ground",
+        "Not that much rain, trees shed their leaves every year",
+        "Drier places, dwarf deciduous trees and grasses",
+        "Deserts, plants with long roots and thick stems"
       ],
-      "correct_answer": "The place where voters go to vote in elections"
+      "correct_answer": "Drier places, dwarf deciduous trees and grasses"
     },
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "How does 'civic sense' apply to students in school?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "Match the following: Mangrove forests are found in",
       "options": [
-        "Understanding responsibility towards neighbours and school environment",
-        "Ignoring rules",
-        "Playing without caring for others",
-        "Focusing only on personal work"
+        "Heavy rainfall, forests remain green",
+        "Coasts, trees with roots seen above the ground",
+        "Hills and mountains, bamboos, conifers and grass",
+        "Deserts, plants with long roots and thick stems"
       ],
-      "correct_answer": "Understanding responsibility towards neighbours and school environment"
+      "correct_answer": "Coasts, trees with roots seen above the ground"
     },
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Who was a good neighbour to the injured men and why?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "Match the following: Mountain vegetation is found in",
       "options": [
-        "The man who helped them reach the hospital",
-        "The people who passed by without helping",
-        "The policemen who arrived later",
-        "The injured men themselves"
+        "Heavy rainfall, forests remain green",
+        "Not that much rain, trees shed their leaves every year",
+        "Hills and mountains, bamboos, conifers and grass",
+        "Drier places, dwarf deciduous trees and grasses"
       ],
-      "correct_answer": "The man who helped them reach the hospital"
+      "correct_answer": "Hills and mountains, bamboos, conifers and grass"
     },
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Why did some people not stop to help the injured men?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "Complete the sentence: The hills of the north-east are covered with forests and greenery as __________.",
       "options": [
-        "They thought only about themselves",
-        "They were in a hurry to help",
-        "They were following rules",
-        "They called for help immediately"
+        "the soil is very fertile there",
+        "it is very cold there",
+        "it rains a lot there",
+        "there are many rivers there"
       ],
-      "correct_answer": "They thought only about themselves"
+      "correct_answer": "it rains a lot there"
     },
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Can we be good neighbours to people we do not know?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "Complete the sentence: Three plateaus in the plateau region are the Malwa Plateau, Chota Nagpur Plateau, and __________.",
       "options": [
-        "Yes, being kind and helpful to others is part of being a good neighbour",
-        "No, we should only help friends",
-        "Only if asked",
-        "Only in emergencies"
+        "Tibetan Plateau",
+        "Deccan Plateau",
+        "Arabian Plateau",
+        "Gangetic Plateau"
       ],
-      "correct_answer": "Yes, being kind and helpful to others is part of being a good neighbour"
+      "correct_answer": "Deccan Plateau"
     },
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Why should citizens take care of public and private property?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "Complete the sentence: The two archipelagos of India are the Lakshadweep Islands in the Arabian Sea and __________.",
       "options": [
-        "Public property belongs to everyone, and private property belongs to individuals",
-        "It is not necessary",
-        "Only public property matters",
-        "Only private property matters"
+        "Maldives Islands in Indian Ocean",
+        "Sri Lanka in Bay of Bengal",
+        "Andaman and Nicobar Islands in Bay of Bengal",
+        "Mauritius in Indian Ocean"
       ],
-      "correct_answer": "Public property belongs to everyone, and private property belongs to individuals"
+      "correct_answer": "Andaman and Nicobar Islands in Bay of Bengal"
     },
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Why do people spoil monuments or burn public property?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "True or False: The highest mountains are cold and snow-covered, but crops can be grown here.",
       "options": [
-        "Carelessness, anger, or lack of respect",
-        "For fun",
-        "To improve them",
-        "To protect heritage"
+        "True",
+        "False"
       ],
-      "correct_answer": "Carelessness, anger, or lack of respect"
+      "correct_answer": "False"
     },
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Why is it important for citizens to vote?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "True or False: The desert region gets very little rainfall, year after year.",
       "options": [
-        "It is a civic duty to elect government representatives",
-        "It is optional",
-        "Only adults vote",
-        "It does not matter"
+        "True",
+        "False"
       ],
-      "correct_answer": "It is a civic duty to elect government representatives"
+      "correct_answer": "True"
     },
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Why do we have rules?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "True or False: The eastern coastal plain is narrower than the western coastal plain.",
       "options": [
-        "To keep society orderly and safe",
-        "To confuse people",
-        "To stop students from studying",
-        "Rules are unnecessary"
+        "True",
+        "False"
       ],
-      "correct_answer": "To keep society orderly and safe"
+      "correct_answer": "False"
     },
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Fill in the blank: A good citizen cares for ______.",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "What does natural vegetation mean?",
       "options": [
-        "other people",
-        "only themselves",
-        "monuments only",
-        "pets only"
+        "Plants that are planted by farmers for crops",
+        "Gardens created by people in cities",
+        "Trees and plants that grow naturally in a region based on climate and soil",
+        "Forests planted by the government"
       ],
-      "correct_answer": "other people"
+      "correct_answer": "Trees and plants that grow naturally in a region based on climate and soil"
     },
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Fill in the blank: Facilities such as roads, buses, and parks are ______.",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "What are the three divisions of the Himalayas?",
       "options": [
-        "public property",
-        "private property",
-        "heritage sites",
-        "personal belongings"
+        "Eastern, Central, and Western Himalayas",
+        "Himadri, Himachal, and Shiwalik",
+        "Snowy, Green, and Brown Himalayas",
+        "Upper, Middle, and Lower Himalayas"
       ],
-      "correct_answer": "public property"
+      "correct_answer": "Himadri, Himachal, and Shiwalik"
     },
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Match: Citizen",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "Which of these is NOT a way in which the Himalayas are useful?",
       "options": [
-        "A person who belongs to a country or city",
-        "A duty to take care of somebody",
-        "A person who stands for election",
-        "Teaches about citizens' duties"
+        "They prevent cold winds from blowing over India",
+        "They stop rain-bearing clouds to cause rainfall",
+        "Their melting snow fills rivers during hot summer",
+        "They provide direct route to China for trade"
       ],
-      "correct_answer": "A person who belongs to a country or city"
+      "correct_answer": "They provide direct route to China for trade"
     },
     {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Who can vote in India?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "How are the Northern Plains formed?",
       "options": [
-        "Indian citizens aged 18 years and above",
-        "All residents",
-        "Only government employees",
-        "Only property owners"
+        "By volcanic eruptions thousands of years ago",
+        "By wind erosion over millions of years",
+        "By silt deposited by rivers over thousands of years",
+        "By tectonic plate movements creating flat lands"
       ],
-      "correct_answer": "Indian citizens aged 18 years and above"
+      "correct_answer": "By silt deposited by rivers over thousands of years"
     },
     {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "What is the Hydrosphere?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "Which hill ranges surround the Southern Plateau?",
       "options": [
-        "All water on Earth including oceans, rivers, lakes, glaciers, and water vapor",
-        "The layer of gases surrounding Earth",
-        "The solid outer part of Earth",
-        "Part of Earth where living things live"
+        "Himalayas and Vindhyas",
+        "Vindhya, Satpura, Western Ghats, and Eastern Ghats",
+        "Aravali and Satpura only",
+        "Western Ghats and Himalayas"
       ],
-      "correct_answer": "All water on Earth including oceans, rivers, lakes, glaciers, and water vapor"
+      "correct_answer": "Vindhya, Satpura, Western Ghats, and Eastern Ghats"
     },
     {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "What is the Atmosphere?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "What is a 'Tributary'?",
       "options": [
-        "The layer of gases surrounding Earth, including air we breathe",
-        "All water on Earth",
-        "The solid outer layer of Earth",
-        "The part where living things live"
+        "A river that flows into the sea",
+        "A stream or river that flows into a larger river",
+        "A canal built for irrigation",
+        "A waterfall formed by a river"
       ],
-      "correct_answer": "The layer of gases surrounding Earth, including air we breathe"
+      "correct_answer": "A stream or river that flows into a larger river"
     },
     {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "What is the Lithosphere?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "Which of these correctly describes Perennial rivers?",
       "options": [
-        "The solid outer part of Earth including crust and upper mantle",
-        "All water on Earth",
-        "The layer of gases surrounding Earth",
-        "Part of Earth where living things live"
+        "Rivers that dry up in summer and flow only during monsoon",
+        "Snow-fed rivers that have water all year round",
+        "Rivers that flow only through mountainous regions",
+        "Rivers that change their course frequently"
       ],
-      "correct_answer": "The solid outer part of Earth including crust and upper mantle"
+      "correct_answer": "Snow-fed rivers that have water all year round"
     },
     {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "What is the Biosphere?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "Name two ways in which rivers are useful to people.",
       "options": [
-        "Part of Earth where living things live",
-        "The solid outer layer of Earth",
-        "The layer of gases around Earth",
-        "All water on Earth"
+        "They provide drinking water and serve as natural boundaries",
+        "They create waterfalls for tourism and form deltas",
+        "Their water is used for irrigation to grow crops and to produce electricity",
+        "They prevent soil erosion and create fertile floodplains"
       ],
-      "correct_answer": "Part of Earth where living things live"
+      "correct_answer": "Their water is used for irrigation to grow crops and to produce electricity"
     },
     {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "What is Evaporation?",
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "Which of these is a characteristic of Non-perennial rivers?",
       "options": [
-        "Process of water turning into vapor when heated",
-        "Water turning into ice",
-        "Water falling as rain",
-        "Water soaking into soil"
+        "They are snow-fed from the Himalayas",
+        "They have water throughout the year",
+        "They start because of heavy rain and may dry up during low rainfall",
+        "They flow only in the northern plains of India"
       ],
-      "correct_answer": "Process of water turning into vapor when heated"
+      "correct_answer": "They start because of heavy rain and may dry up during low rainfall"
     },
     {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "What is Condensation?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "What are 'Terraces' in the context of farming?",
       "options": [
-        "Water vapor cooling and turning back into liquid",
-        "Water evaporating from lakes",
-        "Rain falling",
-        "Water flowing in rivers"
+        "Flat lands near river banks used for agriculture",
+        "A series of flat areas cut into a slope like steps to create fields",
+        "Roof gardens in urban areas for growing vegetables",
+        "Temporary fields created by clearing forests"
       ],
-      "correct_answer": "Water vapor cooling and turning back into liquid"
+      "correct_answer": "A series of flat areas cut into a slope like steps to create fields"
     },
     {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "What is Precipitation?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "In planned cities like Chandigarh, what is a 'Sector'?",
       "options": [
-        "Rain or snow falling to Earth",
-        "Water vapor rising",
-        "Evaporation from oceans",
-        "Soil erosion"
+        "A commercial area with markets and shops",
+        "A distinct area or portion of a planned city with specific functions",
+        "An industrial zone with factories",
+        "A residential colony for government employees"
       ],
-      "correct_answer": "Rain or snow falling to Earth"
+      "correct_answer": "A distinct area or portion of a planned city with specific functions"
     },
     {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "Why is soil important?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "What is 'Dairy farming'?",
       "options": [
-        "Soil is necessary for plants to grow and supports all life on land",
-        "Soil provides water",
-        "Soil forms clouds",
-        "Soil produces oxygen only"
+        "Growing fodder crops for animals",
+        "A type of farming where cattle are kept to produce milk and milk products",
+        "Raising chickens for eggs and meat",
+        "Cultivating crops using organic manure from animals"
       ],
-      "correct_answer": "Soil is necessary for plants to grow and supports all life on land"
+      "correct_answer": "A type of farming where cattle are kept to produce milk and milk products"
     },
     {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "Name three types of habitats.",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "Which of these states is NOT part of the northern plains region?",
       "options": [
-        "Underwater, jungle, desert",
-        "Mountains, valleys, rivers",
-        "Hills, plains, oceans",
-        "Cities, towns, villages"
+        "Punjab",
+        "Haryana",
+        "Uttar Pradesh",
+        "Uttarakhand"
       ],
-      "correct_answer": "Underwater, jungle, desert"
+      "correct_answer": "Uttarakhand"
     },
     {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "What is a Continent?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "Who am I? I am an expensive spice grown in Kashmir.",
       "options": [
-        "Largest landmasses on Earth",
-        "Large water bodies",
-        "High flat land",
-        "A small island"
+        "Cardamom",
+        "Saffron",
+        "Cinnamon",
+        "Cloves"
       ],
-      "correct_answer": "Largest landmasses on Earth"
+      "correct_answer": "Saffron"
     },
     {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "What is an Ocean?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "Who am I? I am a city that is the capital of two states.",
       "options": [
-        "Large bodies of saltwater around continents",
-        "Large land areas",
-        "High flat land",
-        "A type of mountain"
+        "Delhi",
+        "Chandigarh",
+        "Dehradun",
+        "Shimla"
       ],
-      "correct_answer": "Large bodies of saltwater around continents"
+      "correct_answer": "Chandigarh"
     },
     {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "What is a Mountain?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "Who am I? I am a city that has the Golden Temple.",
       "options": [
-        "Very high land; peaks are mountain tops",
-        "Low land between hills",
-        "Flat land suitable for farming",
-        "Land surrounded by water"
+        "Chandigarh",
+        "Amritsar",
+        "Ludhiana",
+        "Jalandhar"
       ],
-      "correct_answer": "Very high land; peaks are mountain tops"
+      "correct_answer": "Amritsar"
     },
     {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "What is a Plateau?",
-      "options": [
-        "Elevated flat area of land",
-        "Low land between mountains",
-        "A large water body",
-        "A mountain peak"
-      ],
-      "correct_answer": "Elevated flat area of land"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "Name two types of deserts.",
-      "options": [
-        "Hot deserts and cold deserts",
-        "Forests and plains",
-        "Hills and valleys",
-        "Mountains and plateaus"
-      ],
-      "correct_answer": "Hot deserts and cold deserts"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What is Pollution?",
-      "options": [
-        "Adding harmful substances to the environment",
-        "Cleaning the surroundings",
-        "Planting trees",
-        "Using renewable energy"
-      ],
-      "correct_answer": "Adding harmful substances to the environment"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What is a Pollutant?",
-      "options": [
-        "Harmful substance causing pollution",
-        "Pure water",
-        "Clean air",
-        "Biodegradable waste"
-      ],
-      "correct_answer": "Harmful substance causing pollution"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What causes fish to die suddenly in water?",
-      "options": [
-        "Water pollution from chemicals or sewage",
-        "Air pollution",
-        "Noise pollution",
-        "Soil pollution"
-      ],
-      "correct_answer": "Water pollution from chemicals or sewage"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "How does noise pollution affect people and animals?",
-      "options": [
-        "Causes hearing loss, stress, and disturbs rest and health",
-        "Improves hearing",
-        "Helps animals find food",
-        "Cleans the environment"
-      ],
-      "correct_answer": "Causes hearing loss, stress, and disturbs rest and health"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What is biodegradable waste?",
-      "options": [
-        "Waste that can break down naturally",
-        "Plastic waste",
-        "Metal waste",
-        "Glass waste"
-      ],
-      "correct_answer": "Waste that can break down naturally"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "Which fuel is low pollution for vehicles?",
-      "options": [
-        "CNG",
-        "Petrol",
-        "Diesel",
-        "Coal"
-      ],
-      "correct_answer": "CNG"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What are the effects of soil pollution?",
-      "options": [
-        "Reduced soil fertility and harm to plants and animals",
-        "Better crop growth",
-        "Increased rainfall",
-        "Improved air quality"
-      ],
-      "correct_answer": "Reduced soil fertility and harm to plants and animals"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Fill in the blank: Heritage such as monuments belongs to ______.",
-      "options": [
-        "everyone",
-        "government only",
-        "private owners",
-        "neighbours"
-      ],
-      "correct_answer": "everyone"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Fill in the blank: It is the duty of Indian citizens of 18 years and above to ______.",
-      "options": [
-        "vote",
-        "study",
-        "travel",
-        "own property"
-      ],
-      "correct_answer": "vote"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Tick (√) or Cross (×): People throw garbage in a dustbin after a picnic.",
-      "options": [
-        "√",
-        "×"
-      ],
-      "correct_answer": "√"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Tick (√) or Cross (×): People spit from vehicles.",
-      "options": [
-        "√",
-        "×"
-      ],
-      "correct_answer": "×"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Tick (√) or Cross (×): Cars splashing water on pedestrians.",
-      "options": [
-        "√",
-        "×"
-      ],
-      "correct_answer": "×"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Tick (√) or Cross (×): Students help keep the playground clean.",
-      "options": [
-        "√",
-        "×"
-      ],
-      "correct_answer": "√"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Tick (√) or Cross (×): Students play cricket using school furniture.",
-      "options": [
-        "√",
-        "×"
-      ],
-      "correct_answer": "×"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Tick (√) or Cross (×): People keep quiet after 10 pm.",
-      "options": [
-        "√",
-        "×"
-      ],
-      "correct_answer": "√"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Tick (√) or Cross (×): Older children use swings meant for younger kids.",
-      "options": [
-        "√",
-        "×"
-      ],
-      "correct_answer": "×"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Tick (√) or Cross (×): People leave public toilets clean.",
-      "options": [
-        "√",
-        "×"
-      ],
-      "correct_answer": "√"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Match: Responsibility",
-      "options": [
-        "A duty to take care of somebody or something",
-        "A person who belongs to a country",
-        "A person who stands for election",
-        "Teaches about citizens' duties"
-      ],
-      "correct_answer": "A duty to take care of somebody or something"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Match: Candidate",
-      "options": [
-        "A person who stands for election",
-        "A person who belongs to a country",
-        "A duty to take care of somebody",
-        "Teaches about citizens' duties"
-      ],
-      "correct_answer": "A person who stands for election"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Match: Civics",
-      "options": [
-        "Teaches about citizens’ duties and government",
-        "A person who stands for election",
-        "A duty to take care of somebody",
-        "A person who belongs to a country"
-      ],
-      "correct_answer": "Teaches about citizens’ duties and government"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "What is Hydrosphere?",
-      "options": [
-        "All water on Earth including oceans, rivers, lakes, glaciers, and water vapor",
-        "The layer of gases surrounding Earth",
-        "The solid outer part of Earth",
-        "Part of Earth where living things live"
-      ],
-      "correct_answer": "All water on Earth including oceans, rivers, lakes, glaciers, and water vapor"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "What is Atmosphere?",
-      "options": [
-        "The layer of gases surrounding Earth, including air we breathe",
-        "All water on Earth",
-        "The solid outer part of Earth",
-        "Part of Earth where living things live"
-      ],
-      "correct_answer": "The layer of gases surrounding Earth, including air we breathe"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "What is Lithosphere?",
-      "options": [
-        "The solid outer part of Earth including crust and upper mantle",
-        "All water on Earth",
-        "The layer of gases surrounding Earth",
-        "Part of Earth where living things live"
-      ],
-      "correct_answer": "The solid outer part of Earth including crust and upper mantle"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "What is Biosphere?",
-      "options": [
-        "Part of Earth where living things live",
-        "The solid outer part of Earth",
-        "The layer of gases around Earth",
-        "All water on Earth"
-      ],
-      "correct_answer": "Part of Earth where living things live"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "Fill in the blank: The gaseous form of water is ______.",
-      "options": [
-        "water vapor",
-        "ice",
-        "liquid water",
-        "snow"
-      ],
-      "correct_answer": "water vapor"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "Fill in the blank: Water vapour turns into liquid by ______.",
-      "options": [
-        "condensation",
-        "evaporation",
-        "precipitation",
-        "sublimation"
-      ],
-      "correct_answer": "condensation"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "Fill in the blank: The solid outer part of Earth is called ______.",
-      "options": [
-        "lithosphere",
-        "hydrosphere",
-        "biosphere",
-        "atmosphere"
-      ],
-      "correct_answer": "lithosphere"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "Fill in the blank: The atmosphere protects us from ______.",
-      "options": [
-        "harmful sun rays",
-        "rain",
-        "wind",
-        "soil erosion"
-      ],
-      "correct_answer": "harmful sun rays"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "Fill in the blank: The biosphere includes ______.",
-      "options": [
-        "all kinds of habitats",
-        "water only",
-        "rocks and soil only",
-        "air only"
-      ],
-      "correct_answer": "all kinds of habitats"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "Why is water essential?",
-      "options": [
-        "All living things need water to survive",
-        "Water makes soil fertile only",
-        "Water produces oxygen",
-        "Water protects from heat"
-      ],
-      "correct_answer": "All living things need water to survive"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "Name two important gases in the atmosphere.",
-      "options": [
-        "Oxygen and Nitrogen",
-        "Carbon dioxide and Hydrogen",
-        "Helium and Oxygen",
-        "Nitrogen and Carbon monoxide"
-      ],
-      "correct_answer": "Oxygen and Nitrogen"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "Describe the lithosphere.",
-      "options": [
-        "Earth's solid outer shell made of rocks, soil, crust, and mantle",
-        "All water on Earth",
-        "Layer of gases surrounding Earth",
-        "Part of Earth with living organisms"
-      ],
-      "correct_answer": "Earth's solid outer shell made of rocks, soil, crust, and mantle"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "How does the biosphere depend on other domains?",
-      "options": [
-        "It needs water, air, and soil to support life",
-        "It depends only on air",
-        "It depends only on water",
-        "It does not depend on other domains"
-      ],
-      "correct_answer": "It needs water, air, and soil to support life"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "Name the seven continents.",
-      "options": [
-        "Asia, Africa, Europe, North America, South America, Antarctica, Australia",
-        "Asia, Africa, Europe, India, USA, Antarctica, Australia",
-        "Asia, Africa, Europe, North America, South America, Greenland, Australia",
-        "Asia, Africa, Europe, North America, South America, Antarctica, India"
-      ],
-      "correct_answer": "Asia, Africa, Europe, North America, South America, Antarctica, Australia"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "What is a Sea?",
-      "options": [
-        "Smaller saltwater bodies connected to oceans",
-        "Large rivers",
-        "Flat land",
-        "Islands"
-      ],
-      "correct_answer": "Smaller saltwater bodies connected to oceans"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "What forms plains?",
-      "options": [
-        "Soil deposited by rivers during floods over many years",
-        "Lava flows",
-        "Wind deposits",
-        "Glaciers"
-      ],
-      "correct_answer": "Soil deposited by rivers during floods over many years"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "Fill in the blank: Largest landmasses are called ______ and largest water bodies ______.",
-      "options": [
-        "Continents, oceans",
-        "Plains, seas",
-        "Hills, lakes",
-        "Mountains, rivers"
-      ],
-      "correct_answer": "Continents, oceans"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "Fill in the blank: Mountains are the highest land; ______ are smaller landforms.",
-      "options": [
-        "Hills",
-        "Plains",
-        "Plateaus",
-        "Valleys"
-      ],
-      "correct_answer": "Hills"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "Fill in the blank: An island is land surrounded by water; a ______ is water surrounded by land.",
-      "options": [
-        "Lake",
-        "Sea",
-        "River",
-        "Peninsula"
-      ],
-      "correct_answer": "Lake"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "Fill in the blank: Isthmus is narrow land connecting two areas; a ______ is narrow water connecting two water bodies.",
-      "options": [
-        "Strait",
-        "Peninsula",
-        "Bay",
-        "River"
-      ],
-      "correct_answer": "Strait"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "Fill in the blank: A bay is ______.",
-      "options": [
-        "Water curving into the land",
-        "Flat land suitable for farming",
-        "High flat land",
-        "Land surrounded by water"
-      ],
-      "correct_answer": "Water curving into the land"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What is Ozone?",
-      "options": [
-        "Gas that protects Earth from harmful sun rays",
-        "A type of pollutant",
-        "Sewage water",
-        "Smog"
-      ],
-      "correct_answer": "Gas that protects Earth from harmful sun rays"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What is Biodegradable waste?",
-      "options": [
-        "Waste that can break down naturally",
-        "Plastic waste",
-        "Metal waste",
-        "Chemical waste"
-      ],
-      "correct_answer": "Waste that can break down naturally"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What causes watery eyes in traffic?",
-      "options": [
-        "Air pollution from smoke and gases",
-        "Noise pollution",
-        "Soil pollution",
-        "Water pollution"
-      ],
-      "correct_answer": "Air pollution from smoke and gases"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "What is the meaning of 'Responsibility'?",
-      "options": [
-        "A right to vote",
-        "A duty to take care of somebody or something",
-        "A type of property",
-        "A government rule"
-      ],
-      "correct_answer": "A duty to take care of somebody or something"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "What is a 'Citizen'?",
-      "options": [
-        "A person who stands for election",
-        "A person who belongs to a country or city",
-        "A type of property owner",
-        "A government officer"
-      ],
-      "correct_answer": "A person who belongs to a country or city"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "How does civic sense apply to students while in school?",
-      "options": [
-        "By ignoring rules",
-        "By keeping the school clean and safe",
-        "By damaging property",
-        "By not helping others"
-      ],
-      "correct_answer": "By keeping the school clean and safe"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Who was a good neighbour to the injured men?",
-      "options": [
-        "The man who ignored them",
-        "The man who stopped his car to help",
-        "The people who walked away",
-        "None of the above"
-      ],
-      "correct_answer": "The man who stopped his car to help"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Why do people spoil monuments and burn public property?",
-      "options": [
-        "To show respect",
-        "Because of carelessness, anger, or lack of respect",
-        "To clean them",
-        "To protect them"
-      ],
-      "correct_answer": "Because of carelessness, anger, or lack of respect"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Fill in the blank: Facilities such as roads, buses and parks, which are for everyone, are called ____.",
-      "options": [
-        "Private property",
-        "Public property",
-        "Personal property",
-        "School property"
-      ],
-      "correct_answer": "Public property"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "How much of Earth’s surface is covered with water?",
-      "options": [
-        "One-fourth",
-        "Half",
-        "Three-fourths",
-        "All of it"
-      ],
-      "correct_answer": "Three-fourths"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "What is a mountain range?",
-      "options": [
-        "A single tall mountain",
-        "A group of joined mountains",
-        "A desert area",
-        "A flat land"
-      ],
-      "correct_answer": "A group of joined mountains"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "What is a plateau?",
-      "options": [
-        "Low land",
-        "Elevated flat land",
-        "A desert",
-        "A sea"
-      ],
-      "correct_answer": "Elevated flat land"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "Fill in the blank: An island is ____.",
-      "options": [
-        "Water surrounded by land",
-        "Land surrounded by water",
-        "Flat land",
-        "Mountain top"
-      ],
-      "correct_answer": "Land surrounded by water"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What is Smog?",
-      "options": [
-        "Clean air",
-        "Mix of smoke and fog",
-        "Pure oxygen",
-        "Rainfall"
-      ],
-      "correct_answer": "Mix of smoke and fog"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What unit is sound measured in?",
-      "options": [
-        "Meters",
-        "Litres",
-        "Decibels",
-        "Kilograms"
-      ],
-      "correct_answer": "Decibels"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "Which type of pollution is caused by loudspeakers?",
-      "options": [
-        "Soil pollution",
-        "Air pollution",
-        "Noise pollution",
-        "Water pollution"
-      ],
-      "correct_answer": "Noise pollution"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What is non-biodegradable waste?",
-      "options": [
-        "Paper",
-        "Vegetable peels",
-        "Plastic",
-        "Leaves"
-      ],
-      "correct_answer": "Plastic"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What is the correct 'R' for using old towels for cleaning?",
-      "options": [
-        "Reduce",
-        "Reuse",
-        "Recycle",
-        "Reject"
-      ],
-      "correct_answer": "Reuse"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "What is Civics?",
-      "options": [
-        "A subject about numbers",
-        "A subject that teaches about citizens’ duties and government",
-        "A type of property",
-        "A festival"
-      ],
-      "correct_answer": "A subject that teaches about citizens’ duties and government"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Why do you think the others did not stop to help the injured men?",
-      "options": [
-        "They were afraid of police",
-        "They thought only about themselves and did not care",
-        "They were in a hurry",
-        "They wanted to call later"
-      ],
-      "correct_answer": "They thought only about themselves and did not care"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Why do we have rules? What would happen if there were no rules?",
-      "options": [
-        "Rules create chaos",
-        "Rules keep society orderly; without them there would be confusion",
-        "Rules are only for schools",
-        "Rules are not needed"
-      ],
-      "correct_answer": "Rules keep society orderly; without them there would be confusion"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "What do we learn in Civics?",
-      "options": [
-        "About sports",
-        "About history",
-        "About citizens’ rights, duties, responsibilities, and government",
-        "About mathematics"
-      ],
-      "correct_answer": "About citizens’ rights, duties, responsibilities, and government"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Why should we take care of historical buildings?",
-      "options": [
-        "Because they are our heritage and must be preserved",
-        "Because they are new",
-        "Because no one visits them",
-        "Because they are private"
-      ],
-      "correct_answer": "Because they are our heritage and must be preserved"
-    },
-    {
-      "category": "Chapter 4: A Good Citizen",
-      "question": "Write three sentences about a good citizen.",
-      "options": [
-        "A good citizen damages property",
-        "A good citizen helps others, respects property, and follows rules",
-        "A good citizen never votes",
-        "A good citizen avoids responsibility"
-      ],
-      "correct_answer": "A good citizen helps others, respects property, and follows rules"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "What is a Habitat?",
-      "options": [
-        "Place where plants and animals live",
-        "Only deserts",
-        "Only oceans",
-        "Air around Earth"
-      ],
-      "correct_answer": "Place where plants and animals live"
-    },
-    {
-      "category": "Chapter 5: The Four Domains of Earth",
-      "question": "Name the four domains of the Earth.",
-      "options": [
-        "Hydrosphere, Atmosphere, Lithosphere, Biosphere",
-        "Air, Land, Fire, Water",
-        "Mountains, Rivers, Forests, Deserts",
-        "North, South, East, West"
-      ],
-      "correct_answer": "Hydrosphere, Atmosphere, Lithosphere, Biosphere"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "Multiple choice: Hills of sand are called ____.",
-      "options": [
-        "Peaks",
-        "Dunes",
-        "Valleys",
-        "Plains"
-      ],
-      "correct_answer": "Dunes"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "Multiple choice: A group of islands is called ____.",
-      "options": [
-        "Archipelago",
-        "Strait",
-        "Plateau",
-        "Valley"
-      ],
-      "correct_answer": "Archipelago"
-    },
-    {
-      "category": "Chapter 6: Major Geographical Forms",
-      "question": "Multiple choice: Land surrounded by sea on three sides is a ____.",
-      "options": [
-        "Peninsula",
-        "Island",
-        "Isthmus",
-        "Coast"
-      ],
-      "correct_answer": "Peninsula"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What is Sewage?",
-      "options": [
-        "Clean water",
-        "Waste water from toilets",
-        "Factory smoke",
-        "Rain water"
-      ],
-      "correct_answer": "Waste water from toilets"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What is meant by 'Treat' in pollution control?",
-      "options": [
-        "To punish",
-        "To clean or make safe",
-        "To burn waste",
-        "To recycle"
-      ],
-      "correct_answer": "To clean or make safe"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What kind of pollution causes watery eyes in traffic?",
-      "options": [
-        "Noise pollution",
-        "Air pollution",
-        "Water pollution",
-        "Soil pollution"
-      ],
-      "correct_answer": "Air pollution"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What causes soil pollution?",
-      "options": [
-        "Factory chemicals, pesticides, dumping plastic, acid rain",
-        "Fresh air",
-        "Clean water",
-        "Rainfall"
-      ],
-      "correct_answer": "Factory chemicals, pesticides, dumping plastic, acid rain"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "Factories must ___ before releasing waste.",
-      "options": [
-        "Burn it",
-        "Purify it",
-        "Throw it",
-        "Ignore it"
-      ],
-      "correct_answer": "Purify it"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "Identify pollution type: Factory smoke.",
-      "options": [
-        "Soil pollution",
-        "Air pollution",
-        "Noise pollution",
-        "Water pollution"
-      ],
-      "correct_answer": "Air pollution"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What are the problems of oil spills?",
-      "options": [
-        "Harm aquatic life and pollute water",
-        "Clean the sea",
-        "Help fish grow",
-        "Reduce pollution"
-      ],
-      "correct_answer": "Harm aquatic life and pollute water"
-    },
-    {
-      "category": "Chapter 17: Our Environment – Pollution and Protection",
-      "question": "What are the long-term effects of soil pollution?",
-      "options": [
-        "Reduced soil fertility and harm to plants and animals",
-        "Better crops",
-        "More forests",
-        "Cleaner air"
-      ],
-      "correct_answer": "Reduced soil fertility and harm to plants and animals"
-    },
-    {
-      "category": "A Good Citizen",
-      "question": "Give one example of a historical building in India.",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "Who am I? I am a famous monument made of white marble.",
       "options": [
         "Red Fort",
-        "Marine Drive",
-        "Charminar",
-        "Gateway of India"
+        "India Gate",
+        "Taj Mahal",
+        "Qutub Minar"
       ],
-      "correct_answer": "Red Fort"
+      "correct_answer": "Taj Mahal"
     },
     {
-      "category": "A Good Citizen",
-      "question": "Name one quality you should show as a good neighbour.",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "Who am I? I am a city famous for its embroidery.",
       "options": [
-        "Helping in need",
-        "Being rude",
-        "Making noise",
-        "Damaging property"
+        "Varanasi",
+        "Lucknow",
+        "Agra",
+        "Kanpur"
       ],
-      "correct_answer": "Helping in need"
+      "correct_answer": "Lucknow"
     },
     {
-      "category": "The Four Domains of Earth",
-      "question": "Why is the atmosphere important for life?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "Pick the odd one out: Jammu and Kashmir, Haryana, Punjab, Uttar Pradesh",
       "options": [
-        "It provides oxygen to breathe",
-        "It has rocks and soil",
-        "It contains rivers",
-        "It is home to animals"
+        "Jammu and Kashmir - It is a Union Territory while others are states",
+        "Haryana - It is the smallest state among these",
+        "Punjab - It has five rivers flowing through it",
+        "Uttar Pradesh - It is the most populous state"
       ],
-      "correct_answer": "It provides oxygen to breathe"
+      "correct_answer": "Jammu and Kashmir - It is a Union Territory while others are states"
     },
     {
-      "category": "The Four Domains of Earth",
-      "question": "Give one example each of lithosphere, hydrosphere, atmosphere, and biosphere.",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "Pick the odd one out: Dharamshala, Varanasi, Ludhiana, Allahabad",
       "options": [
-        "Mountain, River, Air, Forest",
-        "Desert, Ocean, Soil, Grass",
-        "Island, Rain, Breeze, Animals",
-        "Hill, Lake, Clouds, Trees"
+        "Dharamshala - It is a mountain town while others are in plains",
+        "Varanasi - It is a holy city on the Ganges",
+        "Ludhiana - It is an industrial city",
+        "Allahabad - It is at the confluence of three rivers"
       ],
-      "correct_answer": "Mountain, River, Air, Forest"
+      "correct_answer": "Dharamshala - It is a mountain town while others are in plains"
     },
     {
-      "category": "Major Geographical Forms",
-      "question": "Name one example of a peninsula, a strait, an archipelago, and an isthmus.",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "Pick the odd one out: Kufri, Kanpur, Gulmarg, Nainital",
       "options": [
-        "India, Palk Strait, Andaman & Nicobar Islands, Panama Isthmus",
-        "Australia, Malacca Strait, Maldives, Sahara",
-        "Africa, Bering Strait, Lakshadweep, Himalaya",
-        "Europe, Gibraltar, Iceland, Arctic"
+        "Kufri - It is a small hill station",
+        "Kanpur - It is an industrial city in plains while others are hill stations",
+        "Gulmarg - It is famous for skiing",
+        "Nainital - It has a beautiful lake"
       ],
-      "correct_answer": "India, Palk Strait, Andaman & Nicobar Islands, Panama Isthmus"
+      "correct_answer": "Kanpur - It is an industrial city in plains while others are hill stations"
     },
     {
-      "category": "Major Geographical Forms",
-      "question": "How do rivers help human beings?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "Pick the odd one out: Mustard, wheat, maize, apples",
       "options": [
-        "Provide water for drinking, farming, and transport",
-        "Make deserts",
-        "Form islands",
-        "Create sand dunes"
+        "Mustard - It is an oilseed crop",
+        "Wheat - It is a Rabi crop",
+        "Maize - It is a Kharif crop",
+        "Apples - It is a fruit grown in mountains while others are field crops"
       ],
-      "correct_answer": "Provide water for drinking, farming, and transport"
+      "correct_answer": "Apples - It is a fruit grown in mountains while others are field crops"
     },
     {
-      "category": "Our Environment – Pollution and Protection",
-      "question": "What is global warming?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "Pick the odd one out: Shimla, Dehra Dun, Panipat, Jammu",
       "options": [
-        "Increase in Earth's temperature due to greenhouse gases",
-        "Decrease in Earth's temperature",
-        "Seasonal change of weather",
-        "Formation of clouds"
+        "Shimla - It is a summer capital",
+        "Dehra Dun - It is in Uttarakhand",
+        "Panipat - It is a historical town in plains while others are capital cities in mountains",
+        "Jammu - It is a winter capital"
       ],
-      "correct_answer": "Increase in Earth's temperature due to greenhouse gases"
+      "correct_answer": "Panipat - It is a historical town in plains while others are capital cities in mountains"
     },
     {
-      "category": "Our Environment – Pollution and Protection",
-      "question": "How can planting trees reduce pollution?",
-      "options": [
-        "They absorb carbon dioxide and give oxygen",
-        "They make deserts",
-        "They cause soil erosion",
-        "They increase noise"
-      ],
-      "correct_answer": "They absorb carbon dioxide and give oxygen"
-    },
-    {
-      "category": "The Four Domains of Earth",
-      "question": "Which domain of the Earth contains air?",
-      "options": [
-        "Lithosphere",
-        "Hydrosphere",
-        "Atmosphere",
-        "Biosphere"
-      ],
-      "correct_answer": "Atmosphere"
-    },
-    {
-      "category": "Major Geographical Forms",
-      "question": "Which landform is most suitable for farming and settlement?",
-      "options": [
-        "Mountains",
-        "Plateaus",
-        "Plains",
-        "Deserts"
-      ],
-      "correct_answer": "Plains"
-    },
-    {
-      "category": "A Good Citizen",
-      "question": "Which of these shows responsible behaviour?",
-      "options": [
-        "Throwing garbage on the road",
-        "Helping elders cross the road",
-        "Damaging public property",
-        "Quarrelling in public places"
-      ],
-      "correct_answer": "Helping elders cross the road"
-    },
-    {
-      "category": "The Four Domains of Earth",
-      "question": "Which two domains together support life?",
-      "options": [
-        "Lithosphere and Atmosphere",
-        "Hydrosphere and Lithosphere",
-        "Atmosphere and Hydrosphere",
-        "Biosphere and Hydrosphere"
-      ],
-      "correct_answer": "Biosphere and Hydrosphere"
-    },
-    {
-      "category": "Our Environment – Pollution and Protection",
-      "question": "Which of these is a type of pollution?",
-      "options": [
-        "Air",
-        "Noise",
-        "Water",
-        "All of these"
-      ],
-      "correct_answer": "All of these"
-    },
-    {
-      "category": "A Good Citizen",
-      "question": "Assertion (A): A good citizen enjoys rights. Reason (R): Rights are given without any responsibilities.",
-      "options": [
-        "Both A and R are true",
-        "Both A and R are false",
-        "A is true, R is false",
-        "A is false, R is true"
-      ],
-      "correct_answer": "A is true, R is false"
-    },
-    {
-      "category": "The Four Domains of Earth",
-      "question": "Which of the following pairs is incorrectly matched?",
-      "options": [
-        "Lithosphere – Land",
-        "Hydrosphere – Water",
-        "Atmosphere – Animals",
-        "Biosphere – Life"
-      ],
-      "correct_answer": "Atmosphere – Animals"
-    },
-    {
-      "category": "Our Environment – Pollution and Protection",
-      "question": "Which of the following is NOT a preventive measure for pollution?",
-      "options": [
-        "Using public transport",
-        "Growing more trees",
-        "Burning plastic waste",
-        "Recycling paper"
-      ],
-      "correct_answer": "Burning plastic waste"
-    },
-    {
-      "category": "A Good Citizen",
-      "question": "Identify the incorrect statement.",
-      "options": [
-        "Citizens must follow laws of the country",
-        "Good citizens care for their community",
-        "Citizens should ignore social duties as long as they pay taxes",
-        "Respecting national symbols is a duty of every citizen"
-      ],
-      "correct_answer": "Citizens should ignore social duties as long as they pay taxes"
-    },
-    {
-      "category": "The Four Domains of Earth",
-      "question": "Which of these combinations is essential for survival of humans?",
-      "options": [
-        "Lithosphere + Atmosphere",
-        "Atmosphere + Hydrosphere + Lithosphere",
-        "Biosphere only",
-        "Atmosphere + Biosphere"
-      ],
-      "correct_answer": "Atmosphere + Hydrosphere + Lithosphere"
-    },
-    {
-      "category": "Major Geographical Forms",
-      "question": "Plateaus are also called tablelands. (True/False)",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "True"
-    },
-    {
-      "category": "Our Environment – Pollution and Protection",
-      "question": "Pollution has no effect on the health of living beings. (True/False)",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "True or False: Srinagar is the only capital of Jammu and Kashmir.",
       "options": [
         "True",
         "False"
@@ -1411,8 +411,8 @@
       "correct_answer": "False"
     },
     {
-      "category": "Major Geographical Forms",
-      "question": "Valleys are formed between mountains and hills. (True/False)",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "True or False: Leh is one of the highest cities in India.",
       "options": [
         "True",
         "False"
@@ -1420,17 +420,8 @@
       "correct_answer": "True"
     },
     {
-      "category": "The Four Domains of Earth",
-      "question": "The biosphere is the zone where life exists on Earth. (True/False)",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "True"
-    },
-    {
-      "category": "Our Environment – Pollution and Protection",
-      "question": "Cutting trees helps in protecting the environment. (True/False)",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "True or False: The Jama Masjid is in Himachal Pradesh.",
       "options": [
         "True",
         "False"
@@ -1438,114 +429,1850 @@
       "correct_answer": "False"
     },
     {
-      "category": "The Four Domains of Earth",
-      "question": "Meaning of Precipitation?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "True or False: The Rock Garden in Chandigarh is made of flowers and pebbles.",
       "options": [
-        "Any form of water that falls from the sky",
-        "Formation of valleys",
-        "Eruption of volcano",
-        "Shaking of Earth"
+        "True",
+        "False"
       ],
-      "correct_answer": "Any form of water that falls from the sky"
+      "correct_answer": "False"
     },
     {
-      "category": "A Good Citizen",
-      "question": "Meaning of Polling booth?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "True or False: Dharamshala is an important town for Buddhists.",
       "options": [
-        "Place where voting takes place",
-        "Place where laws are made",
-        "Place where elections are announced",
-        "Place where citizens gather"
+        "True",
+        "False"
       ],
-      "correct_answer": "Place where voting takes place"
+      "correct_answer": "True"
     },
     {
-      "category": "The Four Domains of Earth",
-      "question": "Meaning of Domain?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "Why is jam-making an important occupation in the mountain states?",
       "options": [
-        "A part of the Earth’s surface",
-        "A national boundary",
-        "A political area",
-        "An ocean current"
+        "Because they have abundant sugarcane cultivation",
+        "Because mountain states grow a large variety of delicious fruits",
+        "Because the climate is suitable for sugar preservation",
+        "Because it is a traditional skill passed through generations"
       ],
-      "correct_answer": "A part of the Earth’s surface"
+      "correct_answer": "Because mountain states grow a large variety of delicious fruits"
     },
     {
-      "category": "Major Geographical Forms",
-      "question": "Meaning of Archipelago?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "What is alluvium and why is it important?",
       "options": [
-        "A group of islands",
-        "A large mountain",
-        "A desert area",
-        "A frozen river"
+        "Volcanic soil that is rich in minerals, important for growing tea",
+        "Fertile silt and gravel spread by rivers, making soil ideal for crops",
+        "Clay soil found in river deltas, good for making pottery",
+        "Sandy soil in desert regions that retains little water"
       ],
-      "correct_answer": "A group of islands"
+      "correct_answer": "Fertile silt and gravel spread by rivers, making soil ideal for crops"
     },
     {
-      "category": "Our Environment – Pollution and Protection",
-      "question": "Meaning of Decibel?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "What is interesting about saffron?",
       "options": [
-        "Unit of measuring sound",
-        "Unit of measuring distance",
-        "Unit of measuring weight",
-        "Unit of measuring rainfall"
+        "It is the most expensive spice where each flower provides only three stigmas",
+        "It grows only in Kashmir and cannot be cultivated elsewhere",
+        "It changes color when cooked with different foods",
+        "It has medicinal properties to cure many diseases"
       ],
-      "correct_answer": "Unit of measuring sound"
+      "correct_answer": "It is the most expensive spice where each flower provides only three stigmas"
     },
     {
-      "category": "Major Geographical Forms",
-      "question": "Which landform is most suitable for farming?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "Give two ways in which Chandigarh is different from other cities.",
       "options": [
-        "Mountains",
-        "Plateaus",
-        "Plains",
-        "Deserts"
+        "It is the oldest city in India and has many historical monuments",
+        "It was the first planned city with sectors and is joint capital for two states",
+        "It is located on an island and has no motor vehicles",
+        "It is entirely powered by solar energy and has no pollution"
       ],
-      "correct_answer": "Plains"
+      "correct_answer": "It was the first planned city with sectors and is joint capital for two states"
     },
     {
-      "category": "Our Environment – Pollution and Protection",
-      "question": "Name two main causes of air pollution.",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "What does the name 'Punjab' mean and which rivers give it this name?",
       "options": [
-        "Smoke from factories and vehicles",
-        "Planting trees and recycling",
-        "Burning compost and soil",
-        "Rain and snowfall"
+        "Land of five rivers: Jhelum, Chenab, Ravi, Beas, and Satluj",
+        "Fertile land: Ganga, Yamuna, Saraswati, and two others",
+        "Gateway to mountains: Indus and its four tributaries",
+        "Green fields: Sutlej, Beas, Ravi, and two seasonal rivers"
       ],
-      "correct_answer": "Smoke from factories and vehicles"
+      "correct_answer": "Land of five rivers: Jhelum, Chenab, Ravi, Beas, and Satluj"
     },
     {
-      "category": "A Good Citizen",
-      "question": "Why should we follow traffic rules?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "How are water buffaloes useful to farmers in Haryana?",
       "options": [
-        "To prevent accidents and maintain order",
-        "To waste time on roads",
-        "To avoid paying taxes",
-        "To damage public property"
+        "They provide milk and milk products for dairy farming",
+        "They help in ploughing fields and transportation",
+        "Their dung is used as fuel and fertilizer",
+        "They are sold for meat in urban markets"
       ],
-      "correct_answer": "To prevent accidents and maintain order"
+      "correct_answer": "They provide milk and milk products for dairy farming"
     },
     {
-      "category": "The Four Domains of Earth",
-      "question": "Which domain of the Earth contains water?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "Why does Delhi have many government buildings?",
       "options": [
-        "Lithosphere",
-        "Hydrosphere",
-        "Atmosphere",
-        "Biosphere"
+        "Because it was the capital of Mughal empire",
+        "Because it is the capital of India and seat of Government of India",
+        "Because it has the largest population of government employees",
+        "Because it is centrally located between north and south India"
       ],
-      "correct_answer": "Hydrosphere"
+      "correct_answer": "Because it is the capital of India and seat of Government of India"
     },
     {
-      "category": "A Good Citizen",
-      "question": "How can children show good citizenship?",
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "Which is the most well-known monument in Uttar Pradesh?",
       "options": [
-        "By obeying elders and helping in community activities",
-        "By damaging property",
-        "By wasting resources",
-        "By ignoring cleanliness"
+        "Fatehpur Sikri",
+        "Agra Fort",
+        "Taj Mahal",
+        "Buland Darwaza"
       ],
-      "correct_answer": "By obeying elders and helping in community activities"
+      "correct_answer": "Taj Mahal"
+    },
+    {
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "Which of these is NOT a characteristic of planned cities like Chandigarh?",
+      "options": [
+        "Grid system with straight roads dividing sectors",
+        "Unplanned growth with narrow winding streets",
+        "Separate areas for residential, commercial, and recreational use",
+        "Organized layout with ample green spaces"
+      ],
+      "correct_answer": "Unplanned growth with narrow winding streets"
+    },
+    {
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "True or False: Srinagar is the only capital of Jammu and Kashmir. Why is this statement false?",
+      "options": [
+        "False, because Srinagar is the summer capital and Jammu is the winter capital",
+        "False, because Jammu is the only capital and Srinagar is not a capital",
+        "True, Srinagar is the only capital",
+        "False, because Leh is also a capital of Jammu and Kashmir"
+      ],
+      "correct_answer": "False, because Srinagar is the summer capital and Jammu is the winter capital"
+    },
+    {
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "True or False: The Jama Masjid is in Himachal Pradesh. Why is this statement false?",
+      "options": [
+        "True, it is in Shimla, Himachal Pradesh",
+        "False, because the Jama Masjid is a historical building located in Delhi",
+        "False, because the Jama Masjid is in Uttar Pradesh",
+        "False, because the Jama Masjid is in Jammu and Kashmir"
+      ],
+      "correct_answer": "False, because the Jama Masjid is a historical building located in Delhi"
+    },
+    {
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "True or False: The Rock Garden in Chandigarh is made of flowers and pebbles. Why is this statement false?",
+      "options": [
+        "True, it is made of natural flowers and pebbles",
+        "False, it was created using waste materials like broken bangles, tyres, and electrical fittings",
+        "False, it is made entirely of marble and sandstone",
+        "False, it is a natural rock formation, not a garden"
+      ],
+      "correct_answer": "False, it was created using waste materials like broken bangles, tyres, and electrical fittings"
+    },
+    {
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "Which of these is NOT a correct statement about Chandigarh?",
+      "options": [
+        "It was designed by the architect Le Corbusier",
+        "It is the joint capital of Punjab and Haryana",
+        "It has a grid system with sectors",
+        "It is the oldest city in North India with medieval architecture"
+      ],
+      "correct_answer": "It is the oldest city in North India with medieval architecture"
+    },
+    {
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "What makes Dharamshala an important town for Buddhists?",
+      "options": [
+        "It is the birthplace of Buddha",
+        "It has the largest Buddhist monastery in India",
+        "It is the home of the Dalai Lama and Tibetan government-in-exile",
+        "It has ancient Buddhist rock carvings"
+      ],
+      "correct_answer": "It is the home of the Dalai Lama and Tibetan government-in-exile"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "What are 'Foothills'?",
+      "options": [
+        "The highest peaks of a mountain range",
+        "Low hills or mountains at the base of a higher mountain range",
+        "Hills formed by volcanic activity",
+        "Artificial hills created for terrace farming"
+      ],
+      "correct_answer": "Low hills or mountains at the base of a higher mountain range"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "What is a 'Ferry'?",
+      "options": [
+        "A type of fishing net used in rivers",
+        "A bridge built over a river",
+        "A boat or ship used to carry people and goods across a river",
+        "A canal system for irrigation"
+      ],
+      "correct_answer": "A boat or ship used to carry people and goods across a river"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "What is a 'Refinery'?",
+      "options": [
+        "A factory that produces refined sugar from sugarcane",
+        "An industrial plant where raw materials like oil are purified",
+        "A place where tea leaves are processed",
+        "A facility that purifies drinking water"
+      ],
+      "correct_answer": "An industrial plant where raw materials like oil are purified"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Name the following: An ancient university which had students from different countries.",
+      "options": [
+        "Takshashila University",
+        "Nalanda University",
+        "Vikramshila University",
+        "University of Calcutta"
+      ],
+      "correct_answer": "Nalanda University"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Name the following: A monument of white marble in Kolkata.",
+      "options": [
+        "Howrah Bridge",
+        "Victoria Memorial",
+        "Indian Museum",
+        "Marble Palace"
+      ],
+      "correct_answer": "Victoria Memorial"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Name the following: A temple that is famous for its stone wheels.",
+      "options": [
+        "Konark Sun Temple",
+        "Jagannath Temple, Puri",
+        "Lingaraj Temple",
+        "Kamakhya Temple"
+      ],
+      "correct_answer": "Konark Sun Temple"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Name the following: A town that has steel mills.",
+      "options": [
+        "Rourkela or Durgapur",
+        "Ranchi",
+        "Bhubneshwar",
+        "Bangalore"
+      ],
+      "correct_answer": "Rourkela or Durgapur"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Name the following: A national park famous for its one-horned rhinoceros.",
+      "options": [
+        "Sundarbans National Park",
+        "Kaziranga National Park",
+        "Manas National Park",
+        "Simlipal National Park"
+      ],
+      "correct_answer": "Kaziranga National Park"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Choose the correct answer: Rice grows well in the plains because __________.",
+      "options": [
+        "the climate is cool and dry",
+        "the rivers make the soil fertile",
+        "there are many mountains around",
+        "farmers use modern machinery"
+      ],
+      "correct_answer": "the rivers make the soil fertile"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Choose the correct answer: Tea is grown in __________.",
+      "options": [
+        "Assam and West Bengal",
+        "Bihar and Odisha",
+        "Only in Darjeeling",
+        "All over East India"
+      ],
+      "correct_answer": "Assam and West Bengal"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Choose the correct answer: Buddhist temples can be found in __________.",
+      "options": [
+        "West Bengal",
+        "Odisha",
+        "Assam",
+        "Bihar"
+      ],
+      "correct_answer": "Bihar"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Choose the correct answer: An important occupation in places close to the rivers and seas is __________.",
+      "options": [
+        "Mining",
+        "Fishing",
+        "Weaving",
+        "Pottery making"
+      ],
+      "correct_answer": "Fishing"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Choose the correct answer: Lake Chilika is __________.",
+      "options": [
+        "the largest freshwater lake in India",
+        "the largest saltwater lake in India",
+        "the highest lake in India",
+        "the deepest lake in India"
+      ],
+      "correct_answer": "the largest saltwater lake in India"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Sort me out: Which of these cities belongs to Bihar?",
+      "options": [
+        "Durgapur and Darjiling",
+        "Bhagalpur and Bodh Gaya",
+        "Jorhat and Dibrugarh",
+        "Puri and Cuttack"
+      ],
+      "correct_answer": "Bhagalpur and Bodh Gaya"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Sort me out: Which of these cities belongs to West Bengal?",
+      "options": [
+        "Bhagalpur and Bodh Gaya",
+        "Durgapur and Darjiling",
+        "Jorhat and Dibrugarh",
+        "Puri and Cuttack"
+      ],
+      "correct_answer": "Durgapur and Darjiling"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Sort me out: Which of these cities belongs to Assam?",
+      "options": [
+        "Bhagalpur and Bodh Gaya",
+        "Durgapur and Darjiling",
+        "Jorhat and Dibrugarh",
+        "Puri and Cuttack"
+      ],
+      "correct_answer": "Jorhat and Dibrugarh"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Sort me out: Which of these cities belongs to Odisha?",
+      "options": [
+        "Bhagalpur and Bodh Gaya",
+        "Durgapur and Darjiling",
+        "Jorhat and Dibrugarh",
+        "Puri and Cuttack"
+      ],
+      "correct_answer": "Puri and Cuttack"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "What is the main occupation of most people in East India states?",
+      "options": [
+        "Mining and industry",
+        "Farming, growing crops like rice, jute, and tea",
+        "Tourism and hospitality",
+        "Handicrafts and weaving"
+      ],
+      "correct_answer": "Farming, growing crops like rice, jute, and tea"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Why is the land around Patna very fertile?",
+      "options": [
+        "Because of volcanic soil from ancient eruptions",
+        "Because the Ganga and its tributaries deposit silt when they flood",
+        "Because farmers use chemical fertilizers extensively",
+        "Because it receives heavy rainfall throughout the year"
+      ],
+      "correct_answer": "Because the Ganga and its tributaries deposit silt when they flood"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Why is natural vegetation so varied in West Bengal?",
+      "options": [
+        "Because it has different climatic zones from mountains to sea",
+        "Because the government has planted different trees",
+        "Because of migration of plants from neighboring countries",
+        "Because it has both black and red soil types"
+      ],
+      "correct_answer": "Because it has different climatic zones from mountains to sea"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "What trees do the forests of Odisha have?",
+      "options": [
+        "Pine and deodar trees",
+        "Bamboo and deciduous trees like teak and rosewood",
+        "Mangrove trees only",
+        "Coconut and palm trees"
+      ],
+      "correct_answer": "Bamboo and deciduous trees like teak and rosewood"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "What kind of natural vegetation does Assam have?",
+      "options": [
+        "Only evergreen rainforests",
+        "A mixture of evergreen trees, deciduous trees, grasslands, bamboo, and ferns",
+        "Desert vegetation with thorny bushes",
+        "Alpine vegetation found in high mountains"
+      ],
+      "correct_answer": "A mixture of evergreen trees, deciduous trees, grasslands, bamboo, and ferns"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Which river makes the soil around Patna fertile?",
+      "options": [
+        "Yamuna and its tributaries",
+        "Ganga and its tributaries Kosi and Son",
+        "Brahmaputra and its tributaries",
+        "Mahanadi and its tributaries"
+      ],
+      "correct_answer": "Ganga and its tributaries Kosi and Son"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Which East Indian state is famous for the Sundarbans mangrove forests?",
+      "options": [
+        "Bihar",
+        "West Bengal",
+        "Odisha",
+        "Assam"
+      ],
+      "correct_answer": "West Bengal"
+    },
+    {
+      "category": "Chapter 12: Political Divisions of North-East India - Keywords",
+      "question": "What is Molasses?",
+      "options": [
+        "A thick, brown, sweet sticky liquid obtained while refining sugar cane juice",
+        "A type of forest product",
+        "A silk-producing fibre",
+        "A river in Assam"
+      ],
+      "correct_answer": "A thick, brown, sweet sticky liquid obtained while refining sugar cane juice"
+    },
+    {
+      "category": "Chapter 12: Political Divisions of North-East India - Keywords",
+      "question": "What is Sericulture?",
+      "options": [
+        "The practice of rearing silkworms to produce silk",
+        "The practice of growing rice",
+        "The art of weaving bamboo",
+        "The method of fishing in lakes"
+      ],
+      "correct_answer": "The practice of rearing silkworms to produce silk"
+    },
+    {
+      "category": "Chapter 12: Political Divisions of North-East India - Keywords",
+      "question": "What is Jhoom cultivation?",
+      "options": [
+        "A type of shifting cultivation using forest clearing and burning",
+        "Permanent farming on plains",
+        "Growing crops using canals",
+        "Terrace farming on hills"
+      ],
+      "correct_answer": "A type of shifting cultivation using forest clearing and burning"
+    },
+    {
+      "category": "Chapter 12: Exercises - Perfect Pair",
+      "question": "Match Nagaland with its capital.",
+      "options": [
+        "Kohima",
+        "Imphal",
+        "Gangtok",
+        "Agartala"
+      ],
+      "correct_answer": "Kohima"
+    },
+    {
+      "category": "Chapter 12: Exercises - Perfect Pair",
+      "question": "Match Manipur with its capital.",
+      "options": [
+        "Imphal",
+        "Shillong",
+        "Aizawl",
+        "Itanagar"
+      ],
+      "correct_answer": "Imphal"
+    },
+    {
+      "category": "Chapter 12: Exercises - Perfect Pair",
+      "question": "Match Sikkim with its capital.",
+      "options": [
+        "Gangtok",
+        "Kohima",
+        "Agartala",
+        "Shillong"
+      ],
+      "correct_answer": "Gangtok"
+    },
+    {
+      "category": "Chapter 12: Exercises - Perfect Pair",
+      "question": "Match Arunachal Pradesh with its capital.",
+      "options": [
+        "Itanagar",
+        "Aizawl",
+        "Imphal",
+        "Kohima"
+      ],
+      "correct_answer": "Itanagar"
+    },
+    {
+      "category": "Chapter 12: Exercises - Perfect Pair",
+      "question": "Match Tripura with its capital.",
+      "options": [
+        "Agartala",
+        "Shillong",
+        "Gangtok",
+        "Aizawl"
+      ],
+      "correct_answer": "Agartala"
+    },
+    {
+      "category": "Chapter 12: Exercises - Perfect Pair",
+      "question": "Match Meghalaya with its capital.",
+      "options": [
+        "Shillong",
+        "Imphal",
+        "Gangtok",
+        "Kohima"
+      ],
+      "correct_answer": "Shillong"
+    },
+    {
+      "category": "Chapter 12: Exercises - Perfect Pair",
+      "question": "Match Mizoram with its capital.",
+      "options": [
+        "Aizawl",
+        "Agartala",
+        "Shillong",
+        "Imphal"
+      ],
+      "correct_answer": "Aizawl"
+    },
+    {
+      "category": "Chapter 12: Fill in the Blanks",
+      "question": "The river ______ flows through Sikkim.",
+      "options": [
+        "Tista",
+        "Ganga",
+        "Brahmaputra",
+        "Gomti"
+      ],
+      "correct_answer": "Tista"
+    },
+    {
+      "category": "Chapter 12: Fill in the Blanks",
+      "question": "The Brahmaputra is called ______ in Arunachal Pradesh.",
+      "options": [
+        "Dihang",
+        "Lohit",
+        "Tlawng",
+        "Kaladan"
+      ],
+      "correct_answer": "Dihang"
+    },
+    {
+      "category": "Chapter 12: Fill in the Blanks",
+      "question": "One of the rivers that flows through Nagaland is ______.",
+      "options": [
+        "Doyang (or Dikhu/Barak).",
+        "Gomti",
+        "Tista",
+        "Mandovi"
+      ],
+      "correct_answer": "Doyang (or Dikhu/Barak)."
+    },
+    {
+      "category": "Chapter 12: Fill in the Blanks",
+      "question": "The main source of water in Manipur is ______ Lake.",
+      "options": [
+        "Loktak",
+        "Dal",
+        "Chilika",
+        "Wular"
+      ],
+      "correct_answer": "Loktak"
+    },
+    {
+      "category": "Chapter 12: Fill in the Blanks",
+      "question": "The most important river in Tripura is ______.",
+      "options": [
+        "Gomti",
+        "Tista",
+        "Barak",
+        "Dibang"
+      ],
+      "correct_answer": "Gomti"
+    },
+    {
+      "category": "Chapter 12: Fill in the Blanks",
+      "question": "The state whose name means ‘home of the clouds’ is ______.",
+      "options": [
+        "Meghalaya",
+        "Mizoram",
+        "Assam",
+        "Tripura"
+      ],
+      "correct_answer": "Meghalaya"
+    },
+    {
+      "category": "Chapter 12: Fill in the Blanks",
+      "question": "______ is an important occupation in Mizoram.",
+      "options": [
+        "Sericulture",
+        "Mining",
+        "Shipbuilding",
+        "Oil refining"
+      ],
+      "correct_answer": "Sericulture"
+    },
+    {
+      "category": "Chapter 12: Answer the Following",
+      "question": "Why are the states in the north-east so green?",
+      "options": [
+        "They receive heavy rainfall throughout the year",
+        "They have deserts",
+        "They have many factories",
+        "They have less population"
+      ],
+      "correct_answer": "They receive heavy rainfall throughout the year"
+    },
+    {
+      "category": "Chapter 12: Answer the Following",
+      "question": "What is the difference between jhoom and terrace farming?",
+      "options": [
+        "Jhoom is shifting cultivation, terrace farming uses permanent steps on hills",
+        "Both are the same",
+        "Terrace farming uses burning",
+        "Jhoom farming uses canals"
+      ],
+      "correct_answer": "Jhoom is shifting cultivation, terrace farming uses permanent steps on hills"
+    },
+    {
+      "category": "Chapter 12: Answer the Following",
+      "question": "Which neighbouring countries share borders with the north-eastern states of India?",
+      "options": [
+        "China, Bhutan, Myanmar and Bangladesh",
+        "Pakistan and Afghanistan",
+        "Sri Lanka and Nepal",
+        "Iran and Iraq"
+      ],
+      "correct_answer": "China, Bhutan, Myanmar and Bangladesh"
+    },
+    {
+      "category": "Chapter 12: Answer the Following",
+      "question": "What are the common occupations of the people in the north-eastern states?",
+      "options": [
+        "Farming, weaving, handicrafts and sericulture",
+        "Mining and shipbuilding",
+        "Only fishing",
+        "Oil refining"
+      ],
+      "correct_answer": "Farming, weaving, handicrafts and sericulture"
+    },
+    {
+      "category": "Chapter 12: Answer the Following",
+      "question": "Why is there a fruit preservation industry in the north-eastern states?",
+      "options": [
+        "Because many fruits grow and need to be preserved to avoid waste",
+        "Because there are no markets",
+        "Because people do not eat fruits",
+        "Because fruits are imported"
+      ],
+      "correct_answer": "Because many fruits grow and need to be preserved to avoid waste"
+    },
+    {
+      "category": "Chapter 13: Political Divisions of Central India - Keywords",
+      "question": "What does the term 'Prehistoric' mean?",
+      "options": [
+        "Refers to a time in history before information was written down",
+        "Refers to future history",
+        "Refers to modern times",
+        "Refers to computer age"
+      ],
+      "correct_answer": "Refers to a time in history before information was written down"
+    },
+    {
+      "category": "Chapter 13: Political Divisions of Central India - Keywords",
+      "question": "What is a Confluence?",
+      "options": [
+        "The place where two rivers join together",
+        "A type of forest",
+        "A hill station",
+        "A kind of crop"
+      ],
+      "correct_answer": "The place where two rivers join together"
+    },
+    {
+      "category": "Chapter 13: Political Divisions of Central India - Keywords",
+      "question": "What is Varnish?",
+      "options": [
+        "A liquid used to give a shiny, transparent surface to wood or metal",
+        "A type of paint used on walls",
+        "A medicinal oil",
+        "A forest product"
+      ],
+      "correct_answer": "A liquid used to give a shiny, transparent surface to wood or metal"
+    },
+    {
+      "category": "Chapter 13: Exercises - Name Them",
+      "question": "Name a national park in Madhya Pradesh.",
+      "options": [
+        "Bandhavgarh National Park",
+        "Kaziranga National Park",
+        "Gir National Park",
+        "Periyar National Park"
+      ],
+      "correct_answer": "Bandhavgarh National Park"
+    },
+    {
+      "category": "Chapter 13: Exercises - Name Them",
+      "question": "Which tree feeds silkworms?",
+      "options": [
+        "Asan tree",
+        "Teak tree",
+        "Neem tree",
+        "Sal tree"
+      ],
+      "correct_answer": "Asan tree"
+    },
+    {
+      "category": "Chapter 13: Exercises - Name Them",
+      "question": "Which city is known as the Steel City?",
+      "options": [
+        "Jamshedpur",
+        "Bhubneshwar",
+        "Ranchi",
+        "Raipur"
+      ],
+      "correct_answer": "Jamshedpur"
+    },
+    {
+      "category": "Chapter 13: Exercises - Name Them",
+      "question": "Name a waterfall in Chhattisgarh.",
+      "options": [
+        "Chitrakote Falls",
+        "Jog Falls",
+        "Dudhsagar Falls",
+        "Athirappilly Falls"
+      ],
+      "correct_answer": "Chitrakote Falls"
+    },
+    {
+      "category": "Chapter 13: Exercises - Name Them",
+      "question": "Which city is a joint capital of two states?",
+      "options": [
+        "Hyderabad",
+        "Bhopal",
+        "Ranchi",
+        "Raipur"
+      ],
+      "correct_answer": "Hyderabad"
+    },
+    {
+      "category": "Chapter 13: Exercises - Find the Pairs",
+      "question": "Ranchi belongs to which state?",
+      "options": [
+        "Jharkhand",
+        "Chhattisgarh",
+        "Telangana",
+        "Madhya Pradesh"
+      ],
+      "correct_answer": "Jharkhand"
+    },
+    {
+      "category": "Chapter 13: Exercises - Find the Pairs",
+      "question": "Raipur belongs to which state?",
+      "options": [
+        "Chhattisgarh",
+        "Jharkhand",
+        "Telangana",
+        "Madhya Pradesh"
+      ],
+      "correct_answer": "Chhattisgarh"
+    },
+    {
+      "category": "Chapter 13: Exercises - Find the Pairs",
+      "question": "The river Chambal flows through which state?",
+      "options": [
+        "Madhya Pradesh",
+        "Telangana",
+        "Jharkhand",
+        "Chhattisgarh"
+      ],
+      "correct_answer": "Madhya Pradesh"
+    },
+    {
+      "category": "Chapter 13: Exercises - Find the Pairs",
+      "question": "The river Godavari flows through which state?",
+      "options": [
+        "Telangana",
+        "Jharkhand",
+        "Chhattisgarh",
+        "Madhya Pradesh"
+      ],
+      "correct_answer": "Telangana"
+    },
+    {
+      "category": "Chapter 13: Fill in the Blanks",
+      "question": "The state that is called the heart of India is ______.",
+      "options": [
+        "Madhya Pradesh",
+        "Chhattisgarh",
+        "Jharkhand",
+        "Telangana"
+      ],
+      "correct_answer": "Madhya Pradesh"
+    },
+    {
+      "category": "Chapter 13: Fill in the Blanks",
+      "question": "______ in Chhattisgarh has a huge steel plant.",
+      "options": [
+        "Bhilai",
+        "Raipur",
+        "Ranchi",
+        "Jamshedpur"
+      ],
+      "correct_answer": "Bhilai"
+    },
+    {
+      "category": "Chapter 13: Fill in the Blanks",
+      "question": "Telangana is a state that has factories that make ______.",
+      "options": [
+        "Medicines",
+        "Ships",
+        "Cars",
+        "Aeroplanes"
+      ],
+      "correct_answer": "Medicines"
+    },
+    {
+      "category": "Chapter 13: Fill in the Blanks",
+      "question": "Resin is used to make ______.",
+      "options": [
+        "Varnish",
+        "Soap",
+        "Paper",
+        "Rubber"
+      ],
+      "correct_answer": "Varnish"
+    },
+    {
+      "category": "Chapter 13: Fill in the Blanks",
+      "question": "The Mahanadi meets the river Shivnath near ______.",
+      "options": [
+        "Bilaspur",
+        "Raipur",
+        "Bhopal",
+        "Ranchi"
+      ],
+      "correct_answer": "Bilaspur"
+    },
+    {
+      "category": "Chapter 13: Answer the Following",
+      "question": "What is Bhimbetka known for?",
+      "options": [
+        "Prehistoric rock paintings",
+        "Modern art galleries",
+        "Steel factories",
+        "Famous temples"
+      ],
+      "correct_answer": "Prehistoric rock paintings"
+    },
+    {
+      "category": "Chapter 13: Answer the Following",
+      "question": "Why is Madhya Pradesh called the heart of India?",
+      "options": [
+        "Because it is located in the centre of India",
+        "Because it has many rivers",
+        "Because it is very green",
+        "Because it has deserts"
+      ],
+      "correct_answer": "Because it is located in the centre of India"
+    },
+    {
+      "category": "Chapter 13: Answer the Following",
+      "question": "Why are many factories located in Jharkhand?",
+      "options": [
+        "Because it is rich in minerals like iron and coal",
+        "Because it has many ports",
+        "Because it has fertile soil",
+        "Because it has deserts"
+      ],
+      "correct_answer": "Because it is rich in minerals like iron and coal"
+    },
+    {
+      "category": "Chapter 13: Answer the Following",
+      "question": "What are the main occupations of tribal people in Central India?",
+      "options": [
+        "Farming, cattle rearing and handicrafts",
+        "Fishing and shipping",
+        "Only factory work",
+        "Tourism only"
+      ],
+      "correct_answer": "Farming, cattle rearing and handicrafts"
+    },
+    {
+      "category": "Chapter 13: Answer the Following",
+      "question": "Name some products made from trees in the forests of Chhattisgarh.",
+      "options": [
+        "Resin, incense, medicines and beedis",
+        "Paper and plastic",
+        "Steel and cement",
+        "Glass and rubber"
+      ],
+      "correct_answer": "Resin, incense, medicines and beedis"
+    },
+    {
+      "category": "Chapter 13: Answer the Following",
+      "question": "Which two old monuments are found in Telangana?",
+      "options": [
+        "Thousand Pillar Temple and Golconda Fort",
+        "Qutub Minar and Red Fort",
+        "Sanchi Stupa and Hampi",
+        "Charminar and Taj Mahal"
+      ],
+      "correct_answer": "Thousand Pillar Temple and Golconda Fort"
+    },
+    {
+      "category": "Chapter 13: Answer the Following",
+      "question": "In which two ways are the four Central Indian states similar?",
+      "options": [
+        "They have rocky terrain and grow rice",
+        "They have deserts and grow wheat",
+        "They are coastal states",
+        "They have snow-covered mountains"
+      ],
+      "correct_answer": "They have rocky terrain and grow rice"
+    },
+    {
+      "category": "Chapter 14: Political Divisions of Western India - Keywords",
+      "question": "What does the term 'Irrigate' mean?",
+      "options": [
+        "To supply water to land through man-made means so that crops can grow",
+        "To harvest crops",
+        "To cut forests",
+        "To store rainwater"
+      ],
+      "correct_answer": "To supply water to land through man-made means so that crops can grow"
+    },
+    {
+      "category": "Chapter 14: Political Divisions of Western India - Keywords",
+      "question": "What is a Cooperative?",
+      "options": [
+        "A business owned and run jointly by a group of people sharing profits",
+        "A government office",
+        "A private company owned by one person",
+        "A foreign trade organization"
+      ],
+      "correct_answer": "A business owned and run jointly by a group of people sharing profits"
+    },
+    {
+      "category": "Chapter 14: Exercises - True or False",
+      "question": "Cashew grows well in Rajasthan.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Chapter 14: Exercises - True or False",
+      "question": "Anand is known for its peanut production.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Chapter 14: Exercises - True or False",
+      "question": "Daman and Diu were old Chinese colonies.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Chapter 14: Exercises - True or False",
+      "question": "Dadra and Nagar Haveli has forested land.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 14: Exercises - True or False",
+      "question": "Aurangabad is well known for nearby historical sites.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 14: Exercises - Match the Following",
+      "question": "Match Rajasthan with its main river.",
+      "options": [
+        "Luni",
+        "Godavari",
+        "Sabarmati",
+        "Mandovi"
+      ],
+      "correct_answer": "Luni"
+    },
+    {
+      "category": "Chapter 14: Exercises - Match the Following",
+      "question": "Match Maharashtra with a major river.",
+      "options": [
+        "Godavari",
+        "Luni",
+        "Daman Ganga",
+        "Mandovi"
+      ],
+      "correct_answer": "Godavari"
+    },
+    {
+      "category": "Chapter 14: Exercises - Match the Following",
+      "question": "Match Gujarat with its major river.",
+      "options": [
+        "Sabarmati",
+        "Luni",
+        "Mandovi",
+        "Daman Ganga"
+      ],
+      "correct_answer": "Sabarmati"
+    },
+    {
+      "category": "Chapter 14: Exercises - Match the Following",
+      "question": "Match Dadra and Nagar Haveli with its river.",
+      "options": [
+        "Daman Ganga",
+        "Mandovi",
+        "Sabarmati",
+        "Godavari"
+      ],
+      "correct_answer": "Daman Ganga"
+    },
+    {
+      "category": "Chapter 14: Exercises - Match the Following",
+      "question": "Match Goa with its river.",
+      "options": [
+        "Mandovi",
+        "Luni",
+        "Godavari",
+        "Sabarmati"
+      ],
+      "correct_answer": "Mandovi"
+    },
+    {
+      "category": "Chapter 14: Fill in the Blanks",
+      "question": "Oilseeds grow well in the dry states of ______ and ______.",
+      "options": [
+        "Rajasthan and Gujarat",
+        "Goa and Maharashtra",
+        "Punjab and Haryana",
+        "Kerala and Tamil Nadu"
+      ],
+      "correct_answer": "Rajasthan and Gujarat"
+    },
+    {
+      "category": "Chapter 14: Fill in the Blanks",
+      "question": "The pink flamingoes are found in the salt marshes of ______.",
+      "options": [
+        "Gujarat",
+        "Goa",
+        "Maharashtra",
+        "Rajasthan"
+      ],
+      "correct_answer": "Gujarat"
+    },
+    {
+      "category": "Chapter 14: Fill in the Blanks",
+      "question": "Coconut trees grow well in the coastal states of ______ and ______.",
+      "options": [
+        "Maharashtra and Goa",
+        "Gujarat and Rajasthan",
+        "Punjab and Haryana",
+        "Delhi and Uttar Pradesh"
+      ],
+      "correct_answer": "Maharashtra and Goa"
+    },
+    {
+      "category": "Chapter 14: Fill in the Blanks",
+      "question": "An important nut grown in Maharashtra is ______.",
+      "options": [
+        "Cashewnut",
+        "Almond",
+        "Walnut",
+        "Peanut"
+      ],
+      "correct_answer": "Cashewnut"
+    },
+    {
+      "category": "Chapter 14: Fill in the Blanks",
+      "question": "The marshy lands have ______ forests.",
+      "options": [
+        "Mangrove",
+        "Coniferous",
+        "Deciduous",
+        "Pine"
+      ],
+      "correct_answer": "Mangrove"
+    },
+    {
+      "category": "Chapter 14: Fill in the Blanks",
+      "question": "The Basilica of Bom Jesus is located in ______.",
+      "options": [
+        "Goa",
+        "Gujarat",
+        "Maharashtra",
+        "Rajasthan"
+      ],
+      "correct_answer": "Goa"
+    },
+    {
+      "category": "Chapter 14: Answer the Following",
+      "question": "Why is it possible to grow vegetables in Rajasthan?",
+      "options": [
+        "Because canals bring water for irrigation",
+        "Because of heavy rainfall",
+        "Because of fertile delta soil",
+        "Because of backwaters"
+      ],
+      "correct_answer": "Because canals bring water for irrigation"
+    },
+    {
+      "category": "Chapter 14: Answer the Following",
+      "question": "What are some important occupations in Gujarat?",
+      "options": [
+        "Farming, dairy farming, salt making and factory work",
+        "Fishing only",
+        "Mining only",
+        "Tourism only"
+      ],
+      "correct_answer": "Farming, dairy farming, salt making and factory work"
+    },
+    {
+      "category": "Chapter 14: Answer the Following",
+      "question": "Why do many people come to Mumbai to work?",
+      "options": [
+        "It is a major center of trade, business and industry",
+        "It has deserts",
+        "It has many forests",
+        "It has fewer people"
+      ],
+      "correct_answer": "It is a major center of trade, business and industry"
+    },
+    {
+      "category": "Chapter 14: Answer the Following",
+      "question": "Why do the union territories of Western India show Portuguese influence?",
+      "options": [
+        "They were ruled by the Portuguese for a long time",
+        "They were British capitals",
+        "They were French colonies",
+        "They were part of China"
+      ],
+      "correct_answer": "They were ruled by the Portuguese for a long time"
+    },
+    {
+      "category": "Chapter 14: Answer the Following",
+      "question": "Why is coconut widely used in Goan food?",
+      "options": [
+        "Coconut trees grow abundantly along the coast",
+        "Coconut is imported cheaply",
+        "Coconut grows in deserts",
+        "Coconut is not perishable"
+      ],
+      "correct_answer": "Coconut trees grow abundantly along the coast"
+    },
+    {
+      "category": "Chapter 15: Political Divisions of South India - Keywords",
+      "question": "What is a Barrage?",
+      "options": [
+        "A wall or barrier built across a river to prevent flooding or divert water",
+        "A natural lake",
+        "A mountain pass",
+        "A type of forest"
+      ],
+      "correct_answer": "A wall or barrier built across a river to prevent flooding or divert water"
+    },
+    {
+      "category": "Chapter 15: Political Divisions of South India - Keywords",
+      "question": "What are Backwaters?",
+      "options": [
+        "Parts of a river or sea where water does not flow freely",
+        "Fast flowing rivers",
+        "Man-made canals",
+        "Frozen water bodies"
+      ],
+      "correct_answer": "Parts of a river or sea where water does not flow freely"
+    },
+    {
+      "category": "Chapter 15: Political Divisions of South India - Keywords",
+      "question": "What is Coir?",
+      "options": [
+        "A rough fibre obtained from the outer shell of a coconut",
+        "A silk fibre",
+        "A cotton variety",
+        "A woollen fibre"
+      ],
+      "correct_answer": "A rough fibre obtained from the outer shell of a coconut"
+    },
+    {
+      "category": "Chapter 15: Fill in the Blanks",
+      "question": "A World Heritage Site in Karnataka is ______.",
+      "options": [
+        "Hampi",
+        "Golconda",
+        "Sanchi",
+        "Red Fort"
+      ],
+      "correct_answer": "Hampi"
+    },
+    {
+      "category": "Chapter 15: Fill in the Blanks",
+      "question": "The Prakasam Barrage is built over the river ______.",
+      "options": [
+        "Krishna",
+        "Kaveri",
+        "Godavari",
+        "Vaigai"
+      ],
+      "correct_answer": "Krishna"
+    },
+    {
+      "category": "Chapter 15: Fill in the Blanks",
+      "question": "A starchy crop grown widely in Kerala is ______.",
+      "options": [
+        "Tapioca",
+        "Wheat",
+        "Maize",
+        "Barley"
+      ],
+      "correct_answer": "Tapioca"
+    },
+    {
+      "category": "Chapter 15: Fill in the Blanks",
+      "question": "A hill town in Tamil Nadu is ______.",
+      "options": [
+        "Udhagamandalam",
+        "Munnar",
+        "Coorg",
+        "Wayanad"
+      ],
+      "correct_answer": "Udhagamandalam"
+    },
+    {
+      "category": "Chapter 15: Fill in the Blanks",
+      "question": "A temple that has a golden dome is ______.",
+      "options": [
+        "Matrimandir",
+        "Meenakshi Temple",
+        "Tirupati Temple",
+        "Ramanathaswamy Temple"
+      ],
+      "correct_answer": "Matrimandir"
+    },
+    {
+      "category": "Chapter 15: Fill in the Blanks",
+      "question": "An important historical spot in the Andaman Islands is ______.",
+      "options": [
+        "Cellular Jail",
+        "Red Fort",
+        "Golconda Fort",
+        "Charminar"
+      ],
+      "correct_answer": "Cellular Jail"
+    },
+    {
+      "category": "Chapter 15: Fill in the Blanks",
+      "question": "A group of coral islands is known as ______.",
+      "options": [
+        "Lakshadweep Islands",
+        "Andaman Islands",
+        "Nicobar Islands",
+        "Maldives"
+      ],
+      "correct_answer": "Lakshadweep Islands"
+    },
+    {
+      "category": "Chapter 15: Who Am I?",
+      "question": "Which city is known as the Garden City of South India?",
+      "options": [
+        "Bengaluru",
+        "Chennai",
+        "Hyderabad",
+        "Mysuru"
+      ],
+      "correct_answer": "Bengaluru"
+    },
+    {
+      "category": "Chapter 15: Who Am I?",
+      "question": "Which state shared its capital with a newly formed state in 2014?",
+      "options": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Kerala",
+        "Karnataka"
+      ],
+      "correct_answer": "Andhra Pradesh"
+    },
+    {
+      "category": "Chapter 15: Who Am I?",
+      "question": "Which state is called ‘God’s Own Country’?",
+      "options": [
+        "Kerala",
+        "Karnataka",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "correct_answer": "Kerala"
+    },
+    {
+      "category": "Chapter 15: Who Am I?",
+      "question": "What is Krishna’s Butter Ball?",
+      "options": [
+        "A giant balancing rock",
+        "A famous temple",
+        "A type of sweet",
+        "A waterfall"
+      ],
+      "correct_answer": "A giant balancing rock"
+    },
+    {
+      "category": "Chapter 15: Who Am I?",
+      "question": "Which union territory is made up of two archipelagos?",
+      "options": [
+        "Andaman and Nicobar Islands",
+        "Lakshadweep",
+        "Puducherry",
+        "Daman and Diu"
+      ],
+      "correct_answer": "Andaman and Nicobar Islands"
+    },
+    {
+      "category": "Chapter 15: True or False",
+      "question": "The Mysore Palace is located in Kerala.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Chapter 15: True or False",
+      "question": "Visakhapatnam is a port city.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 15: True or False",
+      "question": "Backwaters form a network for water transport in Kerala.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 15: True or False",
+      "question": "Kanniyakumari lies at the meeting point of three seas.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 15: True or False",
+      "question": "Puducherry was formed from former French colonies.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 15: Answer the Following",
+      "question": "Why are sandalwood trees sometimes stolen in Karnataka?",
+      "options": [
+        "Because sandalwood is expensive and valuable",
+        "Because they grow fast",
+        "Because they are used for food",
+        "Because they are easy to cut"
+      ],
+      "correct_answer": "Because sandalwood is expensive and valuable"
+    },
+    {
+      "category": "Chapter 15: Answer the Following",
+      "question": "Name some handicrafts of Andhra Pradesh.",
+      "options": [
+        "Metalwork, vegetable dyes and leather puppets",
+        "Stone carving only",
+        "Glass work only",
+        "Paper making only"
+      ],
+      "correct_answer": "Metalwork, vegetable dyes and leather puppets"
+    },
+    {
+      "category": "Chapter 15: Answer the Following",
+      "question": "Why is Kerala called ‘God’s Own Country’?",
+      "options": [
+        "Because of its greenery, waterways and natural beauty",
+        "Because of deserts",
+        "Because of industries",
+        "Because of monuments"
+      ],
+      "correct_answer": "Because of its greenery, waterways and natural beauty"
+    },
+    {
+      "category": "Chapter 15: Answer the Following",
+      "question": "Name some tourist attractions in the Union Territories of India.",
+      "options": [
+        "French settlements, beaches, Cellular Jail and coral reefs",
+        "Deserts and glaciers",
+        "Only hill stations",
+        "Only forests"
+      ],
+      "correct_answer": "French settlements, beaches, Cellular Jail and coral reefs"
+    },
+    {
+      "category": "Chapter 15: Answer the Following",
+      "question": "Where are the Lakshadweep Islands located?",
+      "options": [
+        "In the Arabian Sea",
+        "In the Bay of Bengal",
+        "In the Indian Ocean near Sri Lanka",
+        "In the Pacific Ocean"
+      ],
+      "correct_answer": "In the Arabian Sea"
+    },
+    {
+      "category": "Chapter 15: Answer the Following",
+      "question": "What is scuba-diving and where is it popular?",
+      "options": [
+        "Swimming underwater with special equipment, popular in Lakshadweep and Andamans",
+        "Swimming in rivers",
+        "Boat racing",
+        "Fishing activity"
+      ],
+      "correct_answer": "Swimming underwater with special equipment, popular in Lakshadweep and Andamans"
+    },
+    {
+      "category": "SST: States and Capitals",
+      "question": "Match the following states with their capitals or famous cities: Jammu & Kashmir, Ladakh, Himachal Pradesh, Uttarakhand, Punjab.",
+      "options": [
+        "Jammu & Kashmir–Srinagar/Jammu; Ladakh–Leh; Himachal Pradesh–Shimla; Uttarakhand–Dehra Dun; Punjab–Chandigarh/Amritsar",
+        "Jammu & Kashmir–Leh; Ladakh–Shimla; Himachal Pradesh–Dehra Dun; Uttarakhand–Chandigarh; Punjab–Srinagar",
+        "Jammu & Kashmir–Chandigarh; Ladakh–Jammu; Himachal Pradesh–Leh; Uttarakhand–Shimla; Punjab–Dehra Dun",
+        "Jammu & Kashmir–Amritsar; Ladakh–Kullu; Himachal Pradesh–Jammu; Uttarakhand–Leh; Punjab–Shimla"
+      ],
+      "correct_answer": "Jammu & Kashmir–Srinagar/Jammu; Ladakh–Leh; Himachal Pradesh–Shimla; Uttarakhand–Dehra Dun; Punjab–Chandigarh/Amritsar"
+    },
+    {
+      "category": "SST: States and Capitals",
+      "question": "Match the following states/UTs with their capitals or famous cities: Haryana, Delhi, Uttar Pradesh, Bihar, West Bengal.",
+      "options": [
+        "Haryana–Chandigarh/Faridabad; Delhi–New Delhi; Uttar Pradesh–Lucknow/Agra/Varanasi; Bihar–Patna/Bodh Gaya; West Bengal–Kolkata/Darjiling",
+        "Haryana–Lucknow; Delhi–Patna; Uttar Pradesh–Kolkata; Bihar–New Delhi; West Bengal–Chandigarh",
+        "Haryana–Agra; Delhi–Darjiling; Uttar Pradesh–Patna; Bihar–Lucknow; West Bengal–Varanasi",
+        "Haryana–Bodh Gaya; Delhi–Kolkata; Uttar Pradesh–Chandigarh; Bihar–Agra; West Bengal–New Delhi"
+      ],
+      "correct_answer": "Haryana–Chandigarh/Faridabad; Delhi–New Delhi; Uttar Pradesh–Lucknow/Agra/Varanasi; Bihar–Patna/Bodh Gaya; West Bengal–Kolkata/Darjiling"
+    },
+    {
+      "category": "SST: States and Capitals",
+      "question": "Match the following states with their capitals or famous cities: Odisha, Assam, Sikkim, Arunachal Pradesh, Nagaland.",
+      "options": [
+        "Odisha–Bhubaneshwar/Puri; Assam–Dispur/Guwahati; Sikkim–Gangtok; Arunachal Pradesh–Itanagar/Tawang; Nagaland–Kohima/Dimapur",
+        "Odisha–Gangtok; Assam–Itanagar; Sikkim–Kohima; Arunachal Pradesh–Dispur; Nagaland–Bhubaneshwar",
+        "Odisha–Guwahati; Assam–Kohima; Sikkim–Dispur; Arunachal Pradesh–Gangtok; Nagaland–Tawang",
+        "Odisha–Dimapur; Assam–Puri; Sikkim–Itanagar; Arunachal Pradesh–Kohima; Nagaland–Gangtok"
+      ],
+      "correct_answer": "Odisha–Bhubaneshwar/Puri; Assam–Dispur/Guwahati; Sikkim–Gangtok; Arunachal Pradesh–Itanagar/Tawang; Nagaland–Kohima/Dimapur"
+    },
+    {
+      "category": "SST: States and Capitals",
+      "question": "Match the following states with their capitals or famous cities: Manipur, Mizoram, Tripura, Meghalaya, Madhya Pradesh.",
+      "options": [
+        "Manipur–Imphal; Mizoram–Aizawl; Tripura–Agartala; Meghalaya–Shillong; Madhya Pradesh–Bhopal/Gwalior",
+        "Manipur–Aizawl; Mizoram–Imphal; Tripura–Shillong; Meghalaya–Agartala; Madhya Pradesh–Indore",
+        "Manipur–Bhopal; Mizoram–Gwalior; Tripura–Aizawl; Meghalaya–Imphal; Madhya Pradesh–Shillong",
+        "Manipur–Agartala; Mizoram–Shillong; Tripura–Imphal; Meghalaya–Bhopal; Madhya Pradesh–Aizawl"
+      ],
+      "correct_answer": "Manipur–Imphal; Mizoram–Aizawl; Tripura–Agartala; Meghalaya–Shillong; Madhya Pradesh–Bhopal/Gwalior"
+    },
+    {
+      "category": "SST: States and Capitals",
+      "question": "Match the following states with their capitals or famous cities: Jharkhand, Chhattisgarh, Telangana, Rajasthan, Gujarat.",
+      "options": [
+        "Jharkhand–Ranchi/Jamshedpur; Chhattisgarh–Raipur/Bhilai; Telangana–Hyderabad/Warangal; Rajasthan–Jaipur/Udaipur; Gujarat–Gandhinagar/Anand",
+        "Jharkhand–Raipur; Chhattisgarh–Ranchi; Telangana–Jaipur; Rajasthan–Hyderabad; Gujarat–Warangal",
+        "Jharkhand–Udaipur; Chhattisgarh–Anand; Telangana–Bhilai; Rajasthan–Gandhinagar; Gujarat–Ranchi",
+        "Jharkhand–Jaipur; Chhattisgarh–Hyderabad; Telangana–Gandhinagar; Rajasthan–Raipur; Gujarat–Ranchi"
+      ],
+      "correct_answer": "Jharkhand–Ranchi/Jamshedpur; Chhattisgarh–Raipur/Bhilai; Telangana–Hyderabad/Warangal; Rajasthan–Jaipur/Udaipur; Gujarat–Gandhinagar/Anand"
+    },
+    {
+      "category": "SST: States and Capitals",
+      "question": "Match the following states with their capitals or famous cities: Maharashtra, Goa, Karnataka, Andhra Pradesh, Kerala.",
+      "options": [
+        "Maharashtra–Mumbai/Pune/Nagpur; Goa–Panaji/Madgaon; Karnataka–Bengaluru/Mysuru; Andhra Pradesh–Amaravati/Tirupati; Kerala–Thiruvananthapuram",
+        "Maharashtra–Panaji; Goa–Mumbai; Karnataka–Amaravati; Andhra Pradesh–Bengaluru; Kerala–Pune",
+        "Maharashtra–Mysuru; Goa–Nagpur; Karnataka–Panaji; Andhra Pradesh–Thiruvananthapuram; Kerala–Amaravati",
+        "Maharashtra–Tirupati; Goa–Bengaluru; Karnataka–Mumbai; Andhra Pradesh–Panaji; Kerala–Nagpur"
+      ],
+      "correct_answer": "Maharashtra–Mumbai/Pune/Nagpur; Goa–Panaji/Madgaon; Karnataka–Bengaluru/Mysuru; Andhra Pradesh–Amaravati/Tirupati; Kerala–Thiruvananthapuram"
+    },
+    {
+      "category": "SST: States and Capitals",
+      "question": "Match the following states/UTs with their capitals or famous cities: Tamil Nadu, Andaman & Nicobar Islands, Lakshadweep.",
+      "options": [
+        "Tamil Nadu–Chennai/Madurai; Andaman & Nicobar Islands–Port Blair; Lakshadweep–Kavaratti",
+        "Tamil Nadu–Port Blair; Andaman & Nicobar Islands–Chennai; Lakshadweep–Madurai",
+        "Tamil Nadu–Kavaratti; Andaman & Nicobar Islands–Madurai; Lakshadweep–Chennai",
+        "Tamil Nadu–Kochi; Andaman & Nicobar Islands–Kavaratti; Lakshadweep–Port Blair"
+      ],
+      "correct_answer": "Tamil Nadu–Chennai/Madurai; Andaman & Nicobar Islands–Port Blair; Lakshadweep–Kavaratti"
+    },
+    {
+      "category": "SST: Rivers of India",
+      "question": "Match the following states/UTs with their major rivers: Jammu & Kashmir, Ladakh, Himachal Pradesh, Uttarakhand, Punjab.",
+      "options": [
+        "Jammu & Kashmir–Jhelum/Chenab/Tawi; Ladakh–Indus; Himachal Pradesh–Ravi/Beas/Satluj; Uttarakhand–Ganga/Yamuna; Punjab–Ravi/Beas/Satluj",
+        "Jammu & Kashmir–Indus; Ladakh–Ganga; Himachal Pradesh–Yamuna; Uttarakhand–Beas; Punjab–Chenab",
+        "Jammu & Kashmir–Tapi; Ladakh–Narmada; Himachal Pradesh–Godavari; Uttarakhand–Krishna; Punjab–Kaveri",
+        "Jammu & Kashmir–Brahmaputra; Ladakh–Tista; Himachal Pradesh–Son; Uttarakhand–Kosi; Punjab–Mahanadi"
+      ],
+      "correct_answer": "Jammu & Kashmir–Jhelum/Chenab/Tawi; Ladakh–Indus; Himachal Pradesh–Ravi/Beas/Satluj; Uttarakhand–Ganga/Yamuna; Punjab–Ravi/Beas/Satluj"
+    },
+    {
+      "category": "SST: Rivers of India",
+      "question": "Match the following states/UTs with their major rivers: Haryana, Delhi, Uttar Pradesh, Bihar, West Bengal.",
+      "options": [
+        "Haryana–Yamuna/Ghaggar; Delhi–Yamuna; Uttar Pradesh–Ganga/Yamuna/Gomti; Bihar–Ganga/Kosi/Son; West Bengal–Hugli/Tista",
+        "Haryana–Ganga; Delhi–Ghaggar; Uttar Pradesh–Tista; Bihar–Hugli; West Bengal–Yamuna",
+        "Haryana–Brahmaputra; Delhi–Kosi; Uttar Pradesh–Son; Bihar–Yamuna; West Bengal–Gomti",
+        "Haryana–Krishna; Delhi–Godavari; Uttar Pradesh–Narmada; Bihar–Tapi; West Bengal–Luni"
+      ],
+      "correct_answer": "Haryana–Yamuna/Ghaggar; Delhi–Yamuna; Uttar Pradesh–Ganga/Yamuna/Gomti; Bihar–Ganga/Kosi/Son; West Bengal–Hugli/Tista"
+    },
+    {
+      "category": "SST: Rivers of India",
+      "question": "Match the following states with their major rivers: Odisha, Assam, Sikkim, Arunachal Pradesh, Nagaland.",
+      "options": [
+        "Odisha–Mahanadi/Subarnarekha; Assam–Brahmaputra; Sikkim–Tista/Rangit; Arunachal Pradesh–Dihang/Lohit/Dibang; Nagaland–Doyang/Dikhu",
+        "Odisha–Brahmaputra; Assam–Tista; Sikkim–Mahanadi; Arunachal Pradesh–Subarnarekha; Nagaland–Rangit",
+        "Odisha–Godavari; Assam–Krishna; Sikkim–Yamuna; Arunachal Pradesh–Narmada; Nagaland–Tapi",
+        "Odisha–Son; Assam–Kosi; Sikkim–Ghaggar; Arunachal Pradesh–Hugli; Nagaland–Gomti"
+      ],
+      "correct_answer": "Odisha–Mahanadi/Subarnarekha; Assam–Brahmaputra; Sikkim–Tista/Rangit; Arunachal Pradesh–Dihang/Lohit/Dibang; Nagaland–Doyang/Dikhu"
+    },
+    {
+      "category": "SST: Rivers of India",
+      "question": "Match the following states with their major rivers: Manipur, Mizoram, Tripura, Meghalaya, Madhya Pradesh.",
+      "options": [
+        "Manipur–Manipur River; Mizoram–Kaladan/Tlawng; Tripura–Gomti; Meghalaya–Daring/Umkhri; Madhya Pradesh–Narmada/Chambal",
+        "Manipur–Gomti; Mizoram–Manipur River; Tripura–Narmada; Meghalaya–Kaladan; Madhya Pradesh–Daring",
+        "Manipur–Yamuna; Mizoram–Krishna; Tripura–Kaveri; Meghalaya–Godavari; Madhya Pradesh–Brahmaputra",
+        "Manipur–Luni; Mizoram–Banas; Tripura–Tapi; Meghalaya–Ghaggar; Madhya Pradesh–Hugli"
+      ],
+      "correct_answer": "Manipur–Manipur River; Mizoram–Kaladan/Tlawng; Tripura–Gomti; Meghalaya–Daring/Umkhri; Madhya Pradesh–Narmada/Chambal"
+    },
+    {
+      "category": "SST: Rivers of India",
+      "question": "Match the following states with their major rivers: Jharkhand, Chhattisgarh, Telangana, Rajasthan, Gujarat.",
+      "options": [
+        "Jharkhand–Damodar/Subarnarekha; Chhattisgarh–Mahanadi/Indravati; Telangana–Godavari/Krishna; Rajasthan–Luni/Banas; Gujarat–Narmada/Tapi",
+        "Jharkhand–Narmada; Chhattisgarh–Tapi; Telangana–Luni; Rajasthan–Godavari; Gujarat–Damodar",
+        "Jharkhand–Krishna; Chhattisgarh–Yamuna; Telangana–Tista; Rajasthan–Brahmaputra; Gujarat–Kosi",
+        "Jharkhand–Ghaggar; Chhattisgarh–Gomti; Telangana–Son; Rajasthan–Hugli; Gujarat–Rangit"
+      ],
+      "correct_answer": "Jharkhand–Damodar/Subarnarekha; Chhattisgarh–Mahanadi/Indravati; Telangana–Godavari/Krishna; Rajasthan–Luni/Banas; Gujarat–Narmada/Tapi"
+    },
+    {
+      "category": "SST: Rivers of India",
+      "question": "Match the following states with their major rivers: Maharashtra, Goa, Karnataka, Andhra Pradesh, Kerala.",
+      "options": [
+        "Maharashtra–Godavari/Krishna; Goa–Mandovi/Zuari; Karnataka–Kaveri/Krishna; Andhra Pradesh–Krishna/Penneru; Kerala–Periyar/Pamba",
+        "Maharashtra–Kaveri; Goa–Godavari; Karnataka–Penneru; Andhra Pradesh–Mandovi; Kerala–Krishna",
+        "Maharashtra–Pamba; Goa–Periyar; Karnataka–Zuari; Andhra Pradesh–Godavari; Kerala–Kaveri",
+        "Maharashtra–Luni; Goa–Banas; Karnataka–Narmada; Andhra Pradesh–Tapi; Kerala–Ghaggar"
+      ],
+      "correct_answer": "Maharashtra–Godavari/Krishna; Goa–Mandovi/Zuari; Karnataka–Kaveri/Krishna; Andhra Pradesh–Krishna/Penneru; Kerala–Periyar/Pamba"
+    },
+    {
+      "category": "SST: Rivers of India",
+      "question": "Match the following states/UTs with their major rivers: Tamil Nadu, Andaman & Nicobar Islands, Lakshadweep.",
+      "options": [
+        "Tamil Nadu–Kaveri/Vaigai; Andaman & Nicobar Islands–Small streams; Lakshadweep–No rivers",
+        "Tamil Nadu–Godavari; Andaman & Nicobar Islands–Kaveri; Lakshadweep–Vaigai",
+        "Tamil Nadu–Yamuna; Andaman & Nicobar Islands–Ganga; Lakshadweep–Brahmaputra",
+        "Tamil Nadu–Tapi; Andaman & Nicobar Islands–Krishna; Lakshadweep–Narmada"
+      ],
+      "correct_answer": "Tamil Nadu–Kaveri/Vaigai; Andaman & Nicobar Islands–Small streams; Lakshadweep–No rivers"
+    },
+    {
+      "category": "SST: Natural Vegetation of India",
+      "question": "Match the following states/UTs with their natural vegetation: Jammu & Kashmir, Ladakh, Himachal Pradesh, Uttarakhand, Punjab.",
+      "options": [
+        "Jammu & Kashmir–Coniferous/Chinar; Ladakh–Grass/shrubs/willow/poplar; Himachal Pradesh–Pine/deodar/sal; Uttarakhand–Grassy slopes/deciduous; Punjab–Forests cleared for fields",
+        "Jammu & Kashmir–Mangroves; Ladakh–Evergreen forests; Himachal Pradesh–Desert shrubs; Uttarakhand–Coniferous; Punjab–Rainforests",
+        "Jammu & Kashmir–Scrub; Ladakh–Teak; Himachal Pradesh–Bamboo; Uttarakhand–Mangroves; Punjab–Pine",
+        "Jammu & Kashmir–Grasslands; Ladakh–Chinar; Himachal Pradesh–Mangroves; Uttarakhand–Teak; Punjab–Evergreen"
+      ],
+      "correct_answer": "Jammu & Kashmir–Coniferous/Chinar; Ladakh–Grass/shrubs/willow/poplar; Himachal Pradesh–Pine/deodar/sal; Uttarakhand–Grassy slopes/deciduous; Punjab–Forests cleared for fields"
+    },
+    {
+      "category": "SST: Natural Vegetation of India",
+      "question": "Match the following states/UTs with their natural vegetation: Haryana, Delhi, Uttar Pradesh, Bihar, West Bengal.",
+      "options": [
+        "Haryana–Scrub/plantation trees; Delhi–Urban vegetation; Uttar Pradesh–Scrub (south); Bihar–Deciduous forests; West Bengal–Conifers/Mangroves",
+        "Haryana–Mangroves; Delhi–Evergreen forests; Uttar Pradesh–Coniferous; Bihar–Scrub; West Bengal–Grasslands",
+        "Haryana–Teak; Delhi–Sal forests; Uttar Pradesh–Rainforests; Bihar–Pine; West Bengal–Desert shrubs",
+        "Haryana–Bamboo; Delhi–Mangroves; Uttar Pradesh–Grasslands; Bihar–Urban vegetation; West Bengal–Scrub"
+      ],
+      "correct_answer": "Haryana–Scrub/plantation trees; Delhi–Urban vegetation; Uttar Pradesh–Scrub (south); Bihar–Deciduous forests; West Bengal–Conifers/Mangroves"
+    },
+    {
+      "category": "SST: Natural Vegetation of India",
+      "question": "Match the following states with their natural vegetation: Odisha, Assam, Sikkim, Arunachal Pradesh, Nagaland.",
+      "options": [
+        "Odisha–Bamboo/teak/rosewood; Assam–Evergreen/bamboo/ferns; Sikkim–Orchids/ferns/bamboo; Arunachal Pradesh–Swampy rainforests; Nagaland–Evergreen/mahogany",
+        "Odisha–Scrub; Assam–Mangroves; Sikkim–Teak; Arunachal Pradesh–Grasslands; Nagaland–Pine",
+        "Odisha–Desert shrubs; Assam–Coniferous; Sikkim–Sal; Arunachal Pradesh–Urban vegetation; Nagaland–Bamboo",
+        "Odisha–Mangroves; Assam–Scrub; Sikkim–Grass; Arunachal Pradesh–Teak; Nagaland–Rainforests"
+      ],
+      "correct_answer": "Odisha–Bamboo/teak/rosewood; Assam–Evergreen/bamboo/ferns; Sikkim–Orchids/ferns/bamboo; Arunachal Pradesh–Swampy rainforests; Nagaland–Evergreen/mahogany"
+    },
+    {
+      "category": "SST: Natural Vegetation of India",
+      "question": "Match the following states with their natural vegetation: Manipur, Mizoram, Tripura, Meghalaya, Madhya Pradesh.",
+      "options": [
+        "Manipur–Hilly forests/bamboo; Mizoram–Evergreen/ironwood; Tripura–Sal/bamboo; Meghalaya–Pine/oak/bamboo; Madhya Pradesh–Teak/sal/tendu",
+        "Manipur–Mangroves; Mizoram–Grasslands; Tripura–Coniferous; Meghalaya–Scrub; Madhya Pradesh–Rainforests",
+        "Manipur–Urban vegetation; Mizoram–Sal; Tripura–Teak; Meghalaya–Mangroves; Madhya Pradesh–Bamboo only",
+        "Manipur–Pine; Mizoram–Oak; Tripura–Grass; Meghalaya–Scrub; Madhya Pradesh–Coniferous"
+      ],
+      "correct_answer": "Manipur–Hilly forests/bamboo; Mizoram–Evergreen/ironwood; Tripura–Sal/bamboo; Meghalaya–Pine/oak/bamboo; Madhya Pradesh–Teak/sal/tendu"
+    },
+    {
+      "category": "SST: Natural Vegetation of India",
+      "question": "Match the following states with their natural vegetation: Jharkhand, Chhattisgarh, Telangana, Rajasthan, Gujarat.",
+      "options": [
+        "Jharkhand–Sal/asan; Chhattisgarh–Deciduous/bamboo; Telangana–Thorny/teak/neem; Rajasthan–Thorny shrubs/desert; Gujarat–Scrub/teak/papyrus",
+        "Jharkhand–Mangroves; Chhattisgarh–Evergreen forests; Telangana–Coniferous; Rajasthan–Rainforests; Gujarat–Grasslands",
+        "Jharkhand–Urban vegetation; Chhattisgarh–Sal only; Telangana–Bamboo; Rajasthan–Mangroves; Gujarat–Pine",
+        "Jharkhand–Oak; Chhattisgarh–Pine; Telangana–Mangroves; Rajasthan–Teak; Gujarat–Evergreen"
+      ],
+      "correct_answer": "Jharkhand–Sal/asan; Chhattisgarh–Deciduous/bamboo; Telangana–Thorny/teak/neem; Rajasthan–Thorny shrubs/desert; Gujarat–Scrub/teak/papyrus"
+    },
+    {
+      "category": "SST: Natural Vegetation of India",
+      "question": "Match the following states with their natural vegetation: Maharashtra, Goa, Karnataka, Andhra Pradesh, Kerala.",
+      "options": [
+        "Maharashtra–Mangroves/teak; Goa–Coconut/light forests; Karnataka–Sandalwood/deciduous; Andhra Pradesh–Mangroves/neem; Kerala–Coconut groves/rainforests",
+        "Maharashtra–Pine; Goa–Desert shrubs; Karnataka–Mangroves; Andhra Pradesh–Coniferous; Kerala–Scrub",
+        "Maharashtra–Grasslands; Goa–Teak; Karnataka–Evergreen only; Andhra Pradesh–Sal; Kerala–Urban vegetation",
+        "Maharashtra–Oak; Goa–Bamboo; Karnataka–Rainforests; Andhra Pradesh–Pine; Kerala–Thorny shrubs"
+      ],
+      "correct_answer": "Maharashtra–Mangroves/teak; Goa–Coconut/light forests; Karnataka–Sandalwood/deciduous; Andhra Pradesh–Mangroves/neem; Kerala–Coconut groves/rainforests"
+    },
+    {
+      "category": "SST: Natural Vegetation of India",
+      "question": "Match the following states/UTs with their natural vegetation: Tamil Nadu, Andaman & Nicobar Islands, Lakshadweep.",
+      "options": [
+        "Tamil Nadu–Evergreen/deciduous; Andaman & Nicobar Islands–Mangroves/thick forests; Lakshadweep–Coconut palms/tamarind",
+        "Tamil Nadu–Mangroves only; Andaman & Nicobar Islands–Scrub; Lakshadweep–Teak forests",
+        "Tamil Nadu–Pine; Andaman & Nicobar Islands–Grasslands; Lakshadweep–Evergreen forests",
+        "Tamil Nadu–Desert shrubs; Andaman & Nicobar Islands–Urban vegetation; Lakshadweep–Mangroves"
+      ],
+      "correct_answer": "Tamil Nadu–Evergreen/deciduous; Andaman & Nicobar Islands–Mangroves/thick forests; Lakshadweep–Coconut palms/tamarind"
+    },
+    {
+      "category": "SST: Crops of Indian States",
+      "question": "Match the following states/UTs with their main crops: Jammu & Kashmir, Ladakh, Himachal Pradesh, Uttarakhand, Punjab.",
+      "options": [
+        "Jammu & Kashmir–Rice/wheat/saffron/fruits; Ladakh–Barley/wheat; Himachal Pradesh–Wheat/maize/potatoes/fruit; Uttarakhand–Potatoes/maize/fruit; Punjab–Wheat/rice/cotton",
+        "Jammu & Kashmir–Tea/jute; Ladakh–Rice; Himachal Pradesh–Cotton; Uttarakhand–Sugarcane; Punjab–Millets",
+        "Jammu & Kashmir–Rubber; Ladakh–Maize; Himachal Pradesh–Oilseeds; Uttarakhand–Cotton; Punjab–Pulses",
+        "Jammu & Kashmir–Coffee; Ladakh–Fruits; Himachal Pradesh–Tea; Uttarakhand–Jute; Punjab–Barley"
+      ],
+      "correct_answer": "Jammu & Kashmir–Rice/wheat/saffron/fruits; Ladakh–Barley/wheat; Himachal Pradesh–Wheat/maize/potatoes/fruit; Uttarakhand–Potatoes/maize/fruit; Punjab–Wheat/rice/cotton"
+    },
+    {
+      "category": "SST: Crops of Indian States",
+      "question": "Match the following states/UTs with their main crops: Haryana, Delhi, Uttar Pradesh, Bihar, West Bengal.",
+      "options": [
+        "Haryana–Wheat/rice/cotton; Delhi–Wheat/vegetables; Uttar Pradesh–Wheat/sugarcane/rice; Bihar–Rice/sugarcane/lychee; West Bengal–Rice/jute/tea",
+        "Haryana–Tea; Delhi–Cotton; Uttar Pradesh–Coffee; Bihar–Rubber; West Bengal–Millets",
+        "Haryana–Oilseeds; Delhi–Rice; Uttar Pradesh–Barley; Bihar–Maize; West Bengal–Sugarcane",
+        "Haryana–Pulses; Delhi–Fruit; Uttar Pradesh–Jute; Bihar–Cotton; West Bengal–Wheat"
+      ],
+      "correct_answer": "Haryana–Wheat/rice/cotton; Delhi–Wheat/vegetables; Uttar Pradesh–Wheat/sugarcane/rice; Bihar–Rice/sugarcane/lychee; West Bengal–Rice/jute/tea"
+    },
+    {
+      "category": "SST: Crops of Indian States",
+      "question": "Match the following states with their main crops: Odisha, Assam, Sikkim, Arunachal Pradesh, Nagaland.",
+      "options": [
+        "Odisha–Rice/pulses/coconuts; Assam–Rice/tea/jute/fruit; Sikkim–Corn/rice/cardamom; Arunachal Pradesh–Corn/rice/fruit/spices; Nagaland–Rice/corn/sugarcane",
+        "Odisha–Cotton; Assam–Coffee; Sikkim–Rubber; Arunachal Pradesh–Wheat; Nagaland–Tea",
+        "Odisha–Maize; Assam–Barley; Sikkim–Sugarcane; Arunachal Pradesh–Oilseeds; Nagaland–Jute",
+        "Odisha–Millets; Assam–Cotton; Sikkim–Pulses; Arunachal Pradesh–Rice only; Nagaland–Fruit"
+      ],
+      "correct_answer": "Odisha–Rice/pulses/coconuts; Assam–Rice/tea/jute/fruit; Sikkim–Corn/rice/cardamom; Arunachal Pradesh–Corn/rice/fruit/spices; Nagaland–Rice/corn/sugarcane"
+    },
+    {
+      "category": "SST: Crops of Indian States",
+      "question": "Match the following states with their main crops: Manipur, Mizoram, Tripura, Meghalaya, Madhya Pradesh.",
+      "options": [
+        "Manipur–Rice/mustard/pulses; Mizoram–Rice/corn/ginger; Tripura–Rice/jute/rubber; Meghalaya–Rice/betel nuts/chillies; Madhya Pradesh–Wheat/soyabeans/pulses",
+        "Manipur–Tea; Mizoram–Cotton; Tripura–Coffee; Meghalaya–Rubber; Madhya Pradesh–Rice",
+        "Manipur–Maize; Mizoram–Barley; Tripura–Sugarcane; Meghalaya–Jute; Madhya Pradesh–Tea",
+        "Manipur–Fruit; Mizoram–Pulses; Tripura–Millets; Meghalaya–Cotton; Madhya Pradesh–Rice only"
+      ],
+      "correct_answer": "Manipur–Rice/mustard/pulses; Mizoram–Rice/corn/ginger; Tripura–Rice/jute/rubber; Meghalaya–Rice/betel nuts/chillies; Madhya Pradesh–Wheat/soyabeans/pulses"
+    },
+    {
+      "category": "SST: Crops of Indian States",
+      "question": "Match the following states with their main crops: Jharkhand, Chhattisgarh, Telangana, Rajasthan, Gujarat.",
+      "options": [
+        "Jharkhand–Rice/maize/pulses; Chhattisgarh–Rice/maize/millets; Telangana–Rice/tobacco/cotton; Rajasthan–Bajra/pulses/cotton; Gujarat–Oilseeds/cotton/bajra",
+        "Jharkhand–Tea; Chhattisgarh–Coffee; Telangana–Rubber; Rajasthan–Rice; Gujarat–Sugarcane",
+        "Jharkhand–Barley; Chhattisgarh–Fruit; Telangana–Pulses; Rajasthan–Tea; Gujarat–Rice",
+        "Jharkhand–Cotton; Chhattisgarh–Wheat; Telangana–Jute; Rajasthan–Rubber; Gujarat–Fruit"
+      ],
+      "correct_answer": "Jharkhand–Rice/maize/pulses; Chhattisgarh–Rice/maize/millets; Telangana–Rice/tobacco/cotton; Rajasthan–Bajra/pulses/cotton; Gujarat–Oilseeds/cotton/bajra"
+    },
+    {
+      "category": "SST: Crops of Indian States",
+      "question": "Match the following states with their main crops: Maharashtra, Goa, Karnataka, Andhra Pradesh, Kerala.",
+      "options": [
+        "Maharashtra–Rice/sugarcane/cotton; Goa–Coconuts/cashew/rice; Karnataka–Coffee/rice/ragi; Andhra Pradesh–Rice/millets/tobacco; Kerala–Rubber/tapioca/spices",
+        "Maharashtra–Tea; Goa–Wheat; Karnataka–Jute; Andhra Pradesh–Rubber; Kerala–Cotton",
+        "Maharashtra–Maize; Goa–Barley; Karnataka–Sugarcane; Andhra Pradesh–Fruit; Kerala–Rice only",
+        "Maharashtra–Oilseeds; Goa–Millets; Karnataka–Pulses; Andhra Pradesh–Coffee; Kerala–Tea"
+      ],
+      "correct_answer": "Maharashtra–Rice/sugarcane/cotton; Goa–Coconuts/cashew/rice; Karnataka–Coffee/rice/ragi; Andhra Pradesh–Rice/millets/tobacco; Kerala–Rubber/tapioca/spices"
+    },
+    {
+      "category": "SST: Crops of Indian States",
+      "question": "Match the following states/UTs with their main crops: Tamil Nadu, Andaman & Nicobar Islands, Lakshadweep.",
+      "options": [
+        "Tamil Nadu–Rice/sugarcane/cashew; Andaman & Nicobar Islands–Rice/coconut/rubber; Lakshadweep–Jackfruit/banana",
+        "Tamil Nadu–Tea; Andaman & Nicobar Islands–Wheat; Lakshadweep–Rice",
+        "Tamil Nadu–Cotton; Andaman & Nicobar Islands–Millets; Lakshadweep–Sugarcane",
+        "Tamil Nadu–Barley; Andaman & Nicobar Islands–Fruit; Lakshadweep–Rubber"
+      ],
+      "correct_answer": "Tamil Nadu–Rice/sugarcane/cashew; Andaman & Nicobar Islands–Rice/coconut/rubber; Lakshadweep–Jackfruit/banana"
+    },
+    {
+      "category": "SST: Main Occupations of Indian States",
+      "question": "Match the following states/UTs with their main occupations: Jammu & Kashmir, Ladakh, Himachal Pradesh, Uttarakhand, Punjab.",
+      "options": [
+        "Jammu & Kashmir–Agriculture, handicrafts; Ladakh–Livestock rearing, weaving; Himachal Pradesh–Farming, fruit preservation; Uttarakhand–Farming, dairy, tourism; Punjab–Farming, dairy, textiles",
+        "Jammu & Kashmir–Mining; Ladakh–Factories; Himachal Pradesh–IT; Uttarakhand–Film industry; Punjab–Fishing",
+        "Jammu & Kashmir–Tea gardens; Ladakh–Oil refineries; Himachal Pradesh–Coir; Uttarakhand–Silk weaving; Punjab–Rubber production",
+        "Jammu & Kashmir–Tourism; Ladakh–Fishing; Himachal Pradesh–Rubber; Uttarakhand–Mining; Punjab–Coconut products"
+      ],
+      "correct_answer": "Jammu & Kashmir–Agriculture, handicrafts; Ladakh–Livestock rearing, weaving; Himachal Pradesh–Farming, fruit preservation; Uttarakhand–Farming, dairy, tourism; Punjab–Farming, dairy, textiles"
+    },
+    {
+      "category": "SST: Main Occupations of Indian States",
+      "question": "Match the following states/UTs with their main occupations: Haryana, Delhi, Uttar Pradesh, Bihar, West Bengal.",
+      "options": [
+        "Haryana–Agriculture, dairy; Delhi–Government service, offices; Uttar Pradesh–Agriculture, tourism; Bihar–Farming, silk weaving; West Bengal–Farming, fishing, offices",
+        "Haryana–Factories; Delhi–Rubber; Uttar Pradesh–IT; Bihar–Tea gardens; West Bengal–Steel plants",
+        "Haryana–Film industry; Delhi–Coir; Uttar Pradesh–Mining; Bihar–Oil crushing; West Bengal–Tourism",
+        "Haryana–Weaving; Delhi–Fishing; Uttar Pradesh–Handicrafts; Bihar–Sericulture; West Bengal–Rubber"
+      ],
+      "correct_answer": "Haryana–Agriculture, dairy; Delhi–Government service, offices; Uttar Pradesh–Agriculture, tourism; Bihar–Farming, silk weaving; West Bengal–Farming, fishing, offices"
+    },
+    {
+      "category": "SST: Main Occupations of Indian States",
+      "question": "Match the following states with their main occupations: Odisha, Assam, Sikkim, Arunachal Pradesh, Nagaland.",
+      "options": [
+        "Odisha–Farming, fishing, silk; Assam–Tea gardens, oil refineries; Sikkim–Farming, scroll painting; Arunachal Pradesh–Farming (jhoom), silk; Nagaland–Farming, weaving",
+        "Odisha–Mining; Assam–Factories; Sikkim–Tourism; Arunachal Pradesh–Film industry; Nagaland–IT",
+        "Odisha–Rubber; Assam–Coconut products; Sikkim–Coir; Arunachal Pradesh–Oil crushing; Nagaland–Steel plants",
+        "Odisha–Government service; Assam–Handicrafts; Sikkim–Silk weaving; Arunachal Pradesh–Textiles; Nagaland–Fishing"
+      ],
+      "correct_answer": "Odisha–Farming, fishing, silk; Assam–Tea gardens, oil refineries; Sikkim–Farming, scroll painting; Arunachal Pradesh–Farming (jhoom), silk; Nagaland–Farming, weaving"
+    },
+    {
+      "category": "SST: Main Occupations of Indian States",
+      "question": "Match the following states with their main occupations: Manipur, Mizoram, Tripura, Meghalaya, Madhya Pradesh.",
+      "options": [
+        "Manipur–Farming, fishing, soap; Mizoram–Farming, sericulture; Tripura–Agriculture, fish farming; Meghalaya–Agriculture, factories; Madhya Pradesh–Farming, oil crushing",
+        "Manipur–Factories; Mizoram–IT; Tripura–Film industry; Meghalaya–Steel plants; Madhya Pradesh–Mining",
+        "Manipur–Tea gardens; Mizoram–Rubber; Tripura–Tourism; Meghalaya–Silk weaving; Madhya Pradesh–Coir",
+        "Manipur–Coconut products; Mizoram–Handicrafts; Tripura–Government service; Meghalaya–Textiles; Madhya Pradesh–Farming only"
+      ],
+      "correct_answer": "Manipur–Farming, fishing, soap; Mizoram–Farming, sericulture; Tripura–Agriculture, fish farming; Meghalaya–Agriculture, factories; Madhya Pradesh–Farming, oil crushing"
+    },
+    {
+      "category": "SST: Main Occupations of Indian States",
+      "question": "Match the following states with their main occupations: Jharkhand, Chhattisgarh, Telangana, Rajasthan, Gujarat.",
+      "options": [
+        "Jharkhand–Mining, factories; Chhattisgarh–Farming, steel plants; Telangana–Farming, IT, textiles; Rajasthan–Farming, cattle, marble; Gujarat–Farming, dairy, salt",
+        "Jharkhand–Tourism; Chhattisgarh–Film industry; Telangana–Rubber; Rajasthan–Tea gardens; Gujarat–Silk weaving",
+        "Jharkhand–Farming, fishing; Chhattisgarh–Coir; Telangana–Oil crushing; Rajasthan–Factories; Gujarat–Coconut products",
+        "Jharkhand–Handicrafts; Chhattisgarh–IT; Telangana–Mining; Rajasthan–Factories; Gujarat–Film industry"
+      ],
+      "correct_answer": "Jharkhand–Mining, factories; Chhattisgarh–Farming, steel plants; Telangana–Farming, IT, textiles; Rajasthan–Farming, cattle, marble; Gujarat–Farming, dairy, salt"
+    },
+    {
+      "category": "SST: Main Occupations of Indian States",
+      "question": "Match the following states with their main occupations: Maharashtra, Goa, Karnataka, Andhra Pradesh, Kerala.",
+      "options": [
+        "Maharashtra–Farming, film industry; Goa–Tourism, fishing, mining; Karnataka–Farming, IT, silk; Andhra Pradesh–Farming, fishing; Kerala–Farming, coir, IT",
+        "Maharashtra–Tea gardens; Goa–Rubber; Karnataka–Silk weaving; Andhra Pradesh–Oil crushing; Kerala–Factories",
+        "Maharashtra–Coconut products; Goa–Textiles; Karnataka–Mining; Andhra Pradesh–Factories; Kerala–Tea",
+        "Maharashtra–Handicrafts; Goa–Coir; Karnataka–Film industry; Andhra Pradesh–Tourism; Kerala–Fishing"
+      ],
+      "correct_answer": "Maharashtra–Farming, film industry; Goa–Tourism, fishing, mining; Karnataka–Farming, IT, silk; Andhra Pradesh–Farming, fishing; Kerala–Farming, coir, IT"
+    },
+    {
+      "category": "SST: Main Occupations of Indian States",
+      "question": "Match the following states/UTs with their main occupations: Tamil Nadu, Andaman & Nicobar Islands, Lakshadweep.",
+      "options": [
+        "Tamil Nadu–Farming, factories; Andaman & Nicobar Islands–Farming, fishing, tourism; Lakshadweep–Fishing, coconut products",
+        "Tamil Nadu–Tea gardens; Andaman & Nicobar Islands–Silk weaving; Lakshadweep–Factories",
+        "Tamil Nadu–Mining; Andaman & Nicobar Islands–Oil crushing; Lakshadweep–Handicrafts",
+        "Tamil Nadu–IT; Andaman & Nicobar Islands–Coir; Lakshadweep–Tourism"
+      ],
+      "correct_answer": "Tamil Nadu–Farming, factories; Andaman & Nicobar Islands–Farming, fishing, tourism; Lakshadweep–Fishing, coconut products"
     }
   ]
 }

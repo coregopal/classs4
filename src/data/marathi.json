@@ -1,1279 +1,213 @@
 {
   "questions": [
     {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "‘स्वयंपाकघर’ चा अर्थ काय आहे?",
+      "category": "धडा १७: शब्दार्थ (Marathi to English)",
+      "question": "खालील शब्दांचा योग्य इंग्रजी अर्थ निवडा:\n१. प्रेक्षणीय\n२. प्रिय\n३. ऐतिहासिक",
       "options": [
-        "Kitchen",
-        "Garden",
-        "Bedroom",
-        "School"
+        "1. Worth seeing, 2. Dear, 3. Historical",
+        "1. Beautiful, 2. Friend, 3. Old",
+        "1. Famous, 2. Sweet, 3. Victory",
+        "1. New, 2. Best, 3. Story"
       ],
-      "correct_answer": "Kitchen"
+      "correct_answer": "1. Worth seeing, 2. Dear, 3. Historical"
     },
     {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "‘बटाटा’ चा अर्थ काय आहे?",
+      "category": "धडा १७: शब्दार्थ (Family & Places)",
+      "question": "योग्य जोड्या ओळखा: 'काका-काकू' आणि 'गच्चीतून'",
       "options": [
-        "Onion",
-        "Potato",
-        "Tomato",
-        "Cucumber"
+        "Brother-Sister and From terrace",
+        "Uncle-Paternal Aunt and From terrace",
+        "Parents and From garden",
+        "Grandparents and From window"
       ],
-      "correct_answer": "Potato"
+      "correct_answer": "Uncle-Paternal Aunt and From terrace"
     },
     {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "‘भाजी’ चा अर्थ काय आहे?",
+      "category": "धडा १७: शब्दार्थ (Common Nouns)",
+      "question": "या शब्दांचे अर्थ सांगा: समुद्र, जन्म, मंदिर, किल्ला",
       "options": [
-        "Rice",
-        "Vegetable",
-        "Curd",
-        "Tiffin"
+        "River, Life, House, Palace",
+        "Sea, Birth, Temple, Fort",
+        "Lake, Age, School, Bridge",
+        "Water, Name, Office, Wall"
       ],
-      "correct_answer": "Vegetable"
+      "correct_answer": "Sea, Birth, Temple, Fort"
     },
     {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "सुरेखाच्या आईने काय काय बनवले होते?",
+      "category": "धडा १७: एका वाक्यात उत्तरे द्या",
+      "question": "वैशाली तिच्या आजीकडे म्हणजे कोठे गेली होती? (Where had Vaishali gone?)",
       "options": [
-        "बर्गर आणि पिझ्झा",
-        "बटाटा-पालक, भाजी-पोळी, भात आणि सॅलड",
-        "नूडल्स आणि पास्ता",
-        "केक आणि बिस्किट"
+        "मुंबईला (Mumbai)",
+        "रत्नागिरीला (Ratnagiri)",
+        "पुण्याला (Pune)",
+        "कोल्हापूरला (Kolhapur)"
       ],
-      "correct_answer": "बटाटा-पालक, भाजी-पोळी, भात आणि सॅलड"
+      "correct_answer": "रत्नागिरीला (Ratnagiri)"
     },
     {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "जेवण कसे केले पाहिजे?",
+      "category": "धडा १७: एका वाक्यात उत्तरे द्या",
+      "question": "आजीच्या घराच्या गच्चीतून काय दिसते? (What can be seen from the terrace?)",
       "options": [
-        "नेहमी घाईत केले पाहिजे",
-        "नेहमी बाहेर केले पाहिजे",
-        "सावकाश व भरपूर चावून केले पाहिजे",
-        "नेहमी जंकफूड खाल्ले पाहिजे"
+        "मोठी बाग (Big garden)",
+        "खूप डोंगर (Many mountains)",
+        "समुद्र (Sea)",
+        "शाळा (School)"
       ],
-      "correct_answer": "सावकाश व भरपूर चावून केले पाहिजे"
+      "correct_answer": "समुद्र (Sea)"
     },
     {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "सोनिया आपल्या डब्यातून काय आणत असे?",
+      "category": "धडा १७: एका वाक्यात उत्तरे द्या",
+      "question": "वैशालीने कोणाचे जन्मघर बघितले? (Whose birthplace did she see?)",
       "options": [
-        "भाजी आणि पोळी",
-        "भात आणि दही",
-        "नूडल्स, पास्ता, पिझ्झा आणि सॅंडविच",
-        "फळे आणि दूध"
+        "महात्मा गांधी",
+        "लोकमान्य टिळक",
+        "वीर सावरकर",
+        "शिवाजी महाराज"
       ],
-      "correct_answer": "नूडल्स, पास्ता, पिझ्झा आणि सॅंडविच"
+      "correct_answer": "लोकमान्य टिळक"
     },
     {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "जंकफूड खाणे शरीरासाठी चांगले आहे का?",
+      "category": "धडा १७: एका वाक्यात उत्तरे द्या",
+      "question": "रत्नागिरीतील प्रसिद्ध किल्ला कोणता? (Which is the famous fort in Ratnagiri?)",
       "options": [
-        "हो",
-        "नाही",
-        "कधी कधी",
-        "सांगता येत नाही"
+        "रायगड किल्ला",
+        "प्रतापगड किल्ला",
+        "भगवती किल्ला",
+        "सिंहगड किल्ला"
       ],
-      "correct_answer": "नाही"
+      "correct_answer": "भगवती किल्ला"
     },
     {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "भूक लागल्यावरच खाल्ले पाहिजे. (हो / नाही)",
+      "category": "धडा १७: रिकाम्या जागा भरा",
+      "question": "स्वातंत्र्यवीर सावरकरांनी ________ मंदिर बांधले.",
       "options": [
-        "हो",
-        "नाही"
+        "विठ्ठल",
+        "पतितपावन",
+        "देवीचे",
+        "गणपतीचे"
       ],
-      "correct_answer": "हो"
+      "correct_answer": "पतितपावन"
     },
     {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "रोज पिझ्झा, पास्ता, सॅंडविच खाणे चांगले आहे. (हो / नाही)",
+      "category": "धडा १७: रिकाम्या जागा भरा",
+      "question": "भगवती किल्ल्याच्या ________ बाजूंना समुद्र आहे.",
       "options": [
-        "हो",
-        "नाही"
+        "दोन",
+        "तीन",
+        "चार",
+        "एक"
       ],
-      "correct_answer": "नाही"
+      "correct_answer": "तीन"
     },
     {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "‘पालक, बटाटा, कोबी, काकडी’ हे कोणत्या प्रकारात मोडतात?",
+      "category": "धडा १७: रिकाम्या जागा भरा",
+      "question": "गणपतीपुळ्याला ________ देऊळ आहे.",
       "options": [
-        "जंकफूड",
-        "भाज्या",
-        "गोड पदार्थ",
-        "धान्य"
+        "शंकराचे",
+        "विठ्ठलाचे",
+        "गणपतीचे",
+        "हनुमानाचे"
       ],
-      "correct_answer": "भाज्या"
+      "correct_answer": "गणपतीचे"
     },
     {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "‘बर्गर, पिझ्झा, नूडल्स, पास्ता’ हे कोणत्या प्रकारात मोडतात?",
+      "category": "धडा १७: व्याकरण (योग्य क्रियापद निवडा)",
+      "question": "१. मी रत्नागिरीला ________ आहे.\n२. तिथे आम्ही उद्या ________.",
       "options": [
-        "भाज्या",
-        "जंकफूड",
-        "फळे",
-        "धान्य"
+        "1. आले, 2. जाऊ",
+        "1. आलेले आहोत, 2. जाईन",
+        "1. जा, 2. जाऊ",
+        "1. गेले, 2. गेलो"
       ],
-      "correct_answer": "जंकफूड"
+      "correct_answer": "1. आले, 2. जाऊ"
     },
     {
-      "category": "Ch-6 माझी मैत्रीण",
-      "question": "बाहुलीचे डोळे कोणत्या रंगाचे आहेत?",
+      "category": "धडा १७: श्रुतलेखन (Dictation Words)",
+      "question": "खालीलपैकी कोणते शब्द शुद्ध आहेत?",
       "options": [
-        "हिरवे",
-        "निळे",
-        "तपकिरी",
-        "काळे"
+        "रत्नागिरी, महत्त्व, समुद्र",
+        "रतनागिरी, महतव, समिद्र",
+        "रत्नागिरि, महत्तव, समूद्र",
+        "रत्नगिरी, महत्व, समुद्र"
       ],
-      "correct_answer": "निळे"
+      "correct_answer": "रत्नागिरी, महत्त्व, समुद्र"
     },
     {
-      "category": "Ch-6 माझी मैत्रीण",
-      "question": "बाहुली कशी चालते?",
+      "category": "धडा १९: बैलपोळा (Fill in the blanks)",
+      "question": "बैलपोळ्याच्या दिवशी बैलाला ________ खायला मिळते.",
       "options": [
-        "हळूहळू",
-        "डौलात",
-        "धावत",
-        "बसून"
-      ],
-      "correct_answer": "डौलात"
-    },
-    {
-      "category": "Ch-6 माझी मैत्रीण",
-      "question": "बाहुली पाटी कुठे ठेवते?",
-      "options": [
-        "घरात",
-        "दप्तरात",
-        "शाळेत",
-        "टेबलावर"
-      ],
-      "correct_answer": "दप्तरात"
-    },
-    {
-      "category": "Ch-6 माझी मैत्रीण",
-      "question": "बाहुली काय खात नाही?",
-      "options": [
-        "फळे",
+        "चारा",
+        "पुरणपोळी",
         "वरण-भात",
-        "भाकरी",
-        "दही"
-      ],
-      "correct_answer": "वरण-भात"
-    },
-    {
-      "category": "Ch-6 माझी मैत्रीण",
-      "question": "गुलाबी गाल कोणाचे आहेत?",
-      "options": [
-        "सोनियाचे",
-        "बाहुलीचे",
-        "सुरेखाचे",
-        "कविताचे"
-      ],
-      "correct_answer": "बाहुलीचे"
-    },
-    {
-      "category": "Ch-7 गौरी मावशीची मेजवानी",
-      "question": "सौरभच्या घरी कोण-कोण आले होते?",
-      "options": [
-        "मित्र",
-        "गौरी आणि मावशी",
-        "शिक्षक",
-        "शेजारी"
-      ],
-      "correct_answer": "गौरी आणि मावशी"
-    },
-    {
-      "category": "Ch-7 गौरी मावशीची मेजवानी",
-      "question": "आईने कोणत्या झाडाची पाने आणायला सांगितली?",
-      "options": [
-        "आंबा",
-        "तुळस",
-        "वड",
-        "पिंपळ"
-      ],
-      "correct_answer": "तुळस"
-    },
-    {
-      "category": "Ch-7 गौरी मावशीची मेजवानी",
-      "question": "मावशीने खायला काय आणले होते?",
-      "options": [
-        "भजी",
-        "लाडू आणि चिवडा",
-        "पिझ्झा",
-        "बर्गर"
-      ],
-      "correct_answer": "लाडू आणि चिवडा"
-    },
-    {
-      "category": "Ch-7 गौरी मावशीची मेजवानी",
-      "question": "आईने चहा आणि चिवडा कोणाला देऊन यायला सांगितले?",
-      "options": [
-        "शेजाऱ्यांना",
-        "चौकीदाराला",
-        "शिक्षकाला",
-        "गौरीला"
-      ],
-      "correct_answer": "चौकीदाराला"
-    },
-    {
-      "category": "Ch-8 कवितांचे कुटुंब",
-      "question": "कविताचे कुटुंब कसे आहे?",
-      "options": [
-        "सुखी",
-        "दु:खी",
-        "लहान",
-        "मोठे"
-      ],
-      "correct_answer": "सुखी"
-    },
-    {
-      "category": "Ch-8 कवितांचे कुटुंब",
-      "question": "कविताच्या घरात जेवण कोण बनवते?",
-      "options": [
-        "आजोबा",
-        "आई",
-        "आत्या",
-        "कविता"
-      ],
-      "correct_answer": "आई"
-    },
-    {
-      "category": "Ch-8 कवितांचे कुटुंब",
-      "question": "कविताची आत्या काय करते?",
-      "options": [
-        "घराची साफसफाई",
-        "भाजी आणते",
-        "भात शिजवते",
-        "शेतात जाते"
-      ],
-      "correct_answer": "घराची साफसफाई"
-    },
-    {
-      "category": "Ch-8 कवितांचे कुटुंब",
-      "question": "सुट्टीच्या दिवशी घरातील लहान मुले काय करतात?",
-      "options": [
-        "खेळतात",
-        "झोपतात",
-        "आजोबांबरोबर फिरायला जातात",
-        "गातात"
-      ],
-      "correct_answer": "आजोबांबरोबर फिरायला जातात"
-    },
-    {
-      "category": "Ch-8 कवितांचे कुटुंब",
-      "question": "कविताचे कुटुंब छोटे आहे. (हो / नाही)",
-      "options": [
-        "हो",
-        "नाही"
-      ],
-      "correct_answer": "नाही"
-    },
-    {
-      "category": "Ch-8 कवितांचे कुटुंब",
-      "question": "आजोबा बागेला पाणी घालतात. (हो / नाही)",
-      "options": [
-        "हो",
-        "नाही"
-      ],
-      "correct_answer": "हो"
-    },
-    {
-      "category": "Ch-8 कवितांचे कुटुंब",
-      "question": "कविता आईच्या मदतीने भरपूर काम करते. (हो / नाही)",
-      "options": [
-        "हो",
-        "नाही"
-      ],
-      "correct_answer": "हो"
-    },
-    {
-      "category": "Ch-8 कवितांचे कुटुंब",
-      "question": "कविताच्या कुटुंबात भांडणे होतात. (हो / नाही)",
-      "options": [
-        "हो",
-        "नाही"
-      ],
-      "correct_answer": "नाही"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘स्पर्धा’ चा अर्थ काय आहे?",
-      "options": [
-        "Prize",
-        "Competition",
-        "Fame",
-        "Title"
-      ],
-      "correct_answer": "Competition"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "गीतगायन स्पर्धेत पहिला क्रमांक कोणाचा आला?",
-      "options": [
-        "सुलेखा",
-        "सुब्रह्मण्य भारती",
-        "सिया",
-        "सुरेखा"
-      ],
-      "correct_answer": "सुब्रह्मण्य भारती"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "“हम करेंगे आज देश का जयगान” हे गाणे कोणी लिहिले?",
-      "options": [
-        "बालकवी",
-        "कवी भारती",
-        "सिया",
-        "सुरेखा"
-      ],
-      "correct_answer": "कवी भारती"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "कवी भारती यांनी गाणी लिहिण्यास सुरुवात कोणत्या वयात केली?",
-      "options": [
-        "५ वर्षी",
-        "७ वर्षी",
-        "९ वर्षी",
-        "११ वर्षी"
-      ],
-      "correct_answer": "७ वर्षी"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "बालकवी सुब्बैयाला कोणत्या पदवीने सन्मानित केले?",
-      "options": [
-        "कविराज",
-        "भारती",
-        "विद्वान",
-        "महाकवी"
-      ],
-      "correct_answer": "भारती"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "सुब्रह्मण्य यांना लहानपणी कोणत्या नावाने हाक मारत असत?",
-      "options": [
-        "सुब्बैय्या",
-        "सिया",
-        "सुलेखा",
-        "राम"
-      ],
-      "correct_answer": "सुब्बैय्या"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "वयाच्या कितव्या वर्षी त्यांना 'भारती' ही पदवी मिळाली?",
-      "options": [
-        "९",
-        "१०",
-        "११",
-        "१२"
-      ],
-      "correct_answer": "११"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘पुरस्कार’ चा समानार्थी शब्द कोणता?",
-      "options": [
-        "दंड",
-        "बक्षीस",
-        "पाप",
-        "कीर्ती"
-      ],
-      "correct_answer": "बक्षीस"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘पहिला’ चा विरुद्धार्थी शब्द कोणता?",
-      "options": [
-        "शेवटचा",
-        "मधला",
-        "दुसरा",
-        "मोठा"
-      ],
-      "correct_answer": "शेवटचा"
-    },
-    {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "‘कांदा’ चा अर्थ काय आहे?",
-      "options": [
-        "Onion",
-        "Potato",
-        "Tomato",
-        "Curd"
-      ],
-      "correct_answer": "Onion"
-    },
-    {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "‘टोमॅटो’ चा अर्थ काय आहे?",
-      "options": [
-        "Tomato",
-        "Potato",
-        "Cucumber",
-        "Rice"
-      ],
-      "correct_answer": "Tomato"
-    },
-    {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "‘काकडी’ चा अर्थ काय आहे?",
-      "options": [
-        "Onion",
-        "Curd",
-        "Cucumber",
-        "Rice"
-      ],
-      "correct_answer": "Cucumber"
-    },
-    {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "‘आवडते’ चा अर्थ काय आहे?",
-      "options": [
-        "Liked",
-        "Harmful",
-        "Cooked",
-        "Healthy"
-      ],
-      "correct_answer": "Liked"
-    },
-    {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "‘दही’ चा अर्थ काय आहे?",
-      "options": [
-        "Rice",
-        "Curd",
-        "Vegetable",
-        "Chapatti"
-      ],
-      "correct_answer": "Curd"
-    },
-    {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "‘चावून’ चा अर्थ काय आहे?",
-      "options": [
-        "Chewing",
-        "Running",
-        "Drinking",
-        "Writing"
-      ],
-      "correct_answer": "Chewing"
-    },
-    {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "‘चविष्ट’ चा अर्थ काय आहे?",
-      "options": [
-        "Tasty",
-        "Bitter",
-        "Spicy",
-        "Hot"
-      ],
-      "correct_answer": "Tasty"
-    },
-    {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "‘डबा’ चा अर्थ काय आहे?",
-      "options": [
-        "Lunch box",
-        "School bag",
-        "Basket",
-        "Box"
-      ],
-      "correct_answer": "Lunch box"
-    },
-    {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "‘शरीरासाठी’ चा अर्थ काय आहे?",
-      "options": [
-        "For health",
-        "For food",
-        "For school",
-        "For games"
-      ],
-      "correct_answer": "For health"
-    },
-    {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "‘वाईट’ चा अर्थ काय आहे?",
-      "options": [
-        "Good",
-        "Harmful",
-        "Beautiful",
-        "Healthy"
-      ],
-      "correct_answer": "Harmful"
-    },
-    {
-      "category": "Ch-5 आईचे स्वयंपाकघर",
-      "question": "‘कडधान्ये’ चा अर्थ काय आहे?",
-      "options": [
-        "Vegetables",
-        "Pulses",
-        "Grains",
-        "Fruits"
-      ],
-      "correct_answer": "Pulses"
-    },
-    {
-      "category": "Ch-7 गौरी मावशीची मेजवानी",
-      "question": "‘मेजवानी’ चा अर्थ काय आहे?",
-      "options": [
-        "Party",
-        "School",
-        "Festival",
-        "Prayer"
-      ],
-      "correct_answer": "Party"
-    },
-    {
-      "category": "Ch-7 गौरी मावशीची मेजवानी",
-      "question": "‘दरवाजावर’ चा अर्थ काय आहे?",
-      "options": [
-        "On the door",
-        "On the floor",
-        "On the wall",
-        "In the room"
-      ],
-      "correct_answer": "On the door"
-    },
-    {
-      "category": "Ch-7 गौरी मावशीची मेजवानी",
-      "question": "‘कुंडीतील’ चा अर्थ काय आहे?",
-      "options": [
-        "From the pot",
-        "From the garden",
-        "From the house",
-        "From the kitchen"
-      ],
-      "correct_answer": "From the pot"
-    },
-    {
-      "category": "Ch-7 गौरी मावशीची मेजवानी",
-      "question": "‘तुळशीच्या’ चा अर्थ काय आहे?",
-      "options": [
-        "Of Tulsi",
-        "Of Mango",
-        "Of Neem",
-        "Of Peepal"
-      ],
-      "correct_answer": "Of Tulsi"
-    },
-    {
-      "category": "Ch-7 गौरी मावशीची मेजवानी",
-      "question": "‘सुट्टी’ चा अर्थ काय आहे?",
-      "options": [
-        "Holiday",
-        "Play",
-        "Food",
-        "Sleep"
-      ],
-      "correct_answer": "Holiday"
-    },
-    {
-      "category": "Ch-7 गौरी मावशीची मेजवानी",
-      "question": "‘पाने’ चा अर्थ काय आहे?",
-      "options": [
-        "Leaves",
-        "Flowers",
-        "Fruits",
-        "Seeds"
-      ],
-      "correct_answer": "Leaves"
-    },
-    {
-      "category": "Ch-7 गौरी मावशीची मेजवानी",
-      "question": "‘वातावरण’ चा अर्थ काय आहे?",
-      "options": [
-        "Environment",
-        "Family",
-        "Weather",
-        "Room"
-      ],
-      "correct_answer": "Environment"
-    },
-    {
-      "category": "Ch-7 गौरी मावशीची मेजवानी",
-      "question": "‘आनंददायी’ चा अर्थ काय आहे?",
-      "options": [
-        "Pleasant",
-        "Sad",
-        "Difficult",
-        "Angry"
-      ],
-      "correct_answer": "Pleasant"
-    },
-    {
-      "category": "Ch-7 गौरी मावशीची मेजवानी",
-      "question": "रिकामी जागा भरा: तुळशीची ____ पाने घेऊन ये.",
-      "options": [
-        "चार-पाच",
-        "दहा",
-        "एक",
-        "शंभर"
-      ],
-      "correct_answer": "चार-पाच"
-    },
-    {
-      "category": "Ch-7 गौरी मावशीची मेजवानी",
-      "question": "रिकामी जागा भरा: मी ____ आणि चिवडा आणला आहे.",
-      "options": [
-        "लाडू",
-        "भजी",
-        "बर्गर",
-        "भाकरी"
-      ],
-      "correct_answer": "लाडू"
-    },
-    {
-      "category": "Ch-7 गौरी मावशीची मेजवानी",
-      "question": "रिकामी जागा भरा: तुळस घातलेला ____ मस्त झाला.",
-      "options": [
-        "चहा",
-        "भात",
-        "रस",
-        "दूध"
-      ],
-      "correct_answer": "चहा"
-    },
-    {
-      "category": "Ch-7 गौरी मावशीची मेजवानी",
-      "question": "रिकामी जागा भरा: सगळ्यांनी मिळून ____ चा आनंद घेतला.",
-      "options": [
-        "मेजवानी",
-        "शाळा",
-        "बाजार",
-        "खेळ"
-      ],
-      "correct_answer": "मेजवानी"
-    },
-    {
-      "category": "Ch-8 कवितांचे कुटुंब",
-      "question": "‘कुटुंब’ चा अर्थ काय आहे?",
-      "options": [
-        "Family",
-        "Garden",
-        "School",
-        "Work"
-      ],
-      "correct_answer": "Family"
-    },
-    {
-      "category": "Ch-8 कवितांचे कुटुंब",
-      "question": "‘सांभाळणे’ चा अर्थ काय आहे?",
-      "options": [
-        "To take care",
-        "To eat",
-        "To run",
-        "To sing"
-      ],
-      "correct_answer": "To take care"
-    },
-    {
-      "category": "Ch-8 कवितांचे कुटुंब",
-      "question": "‘लहान भाऊ’ चा अर्थ काय आहे?",
-      "options": [
-        "Younger brother",
-        "Younger sister",
-        "Father",
-        "Grandfather"
-      ],
-      "correct_answer": "Younger brother"
-    },
-    {
-      "category": "Ch-8 कवितांचे कुटुंब",
-      "question": "‘लहान बहीण’ चा अर्थ काय आहे?",
-      "options": [
-        "Younger sister",
-        "Elder sister",
-        "Mother",
-        "Aunt"
-      ],
-      "correct_answer": "Younger sister"
-    },
-    {
-      "category": "Ch-8 कवितांचे कुटुंब",
-      "question": "रिकामी जागा भरा: कविता ____ मदत करते.",
-      "options": [
-        "आईला",
-        "आत्याला",
-        "आजोबांना",
-        "शिक्षकाला"
-      ],
-      "correct_answer": "आईला"
-    },
-    {
-      "category": "Ch-8 कवितांचे कुटुंब",
-      "question": "रिकामी जागा भरा: आजोबा बागेतील झाडांना ____ घालतात.",
-      "options": [
-        "पाणी",
-        "फुले",
-        "खत",
         "फळे"
       ],
-      "correct_answer": "पाणी"
+      "correct_answer": "पुरणपोळी"
     },
     {
-      "category": "Ch-8 कवितांचे कुटुंब",
-      "question": "रिकामी जागा भरा: बाबा ____ काम करतात.",
+      "category": "धडा १९: बैलपोळा (Facts)",
+      "question": "बैलाचा मालक कोण असतो?",
       "options": [
-        "बागेमध्ये",
-        "शाळेत",
-        "शेतीत",
-        "बाजारात"
+        "व्यापारी",
+        "शेतकरी",
+        "लोहार",
+        "शिक्षक"
       ],
-      "correct_answer": "बागेमध्ये"
+      "correct_answer": "शेतकरी"
     },
     {
-      "category": "Ch-8 कवितांचे कुटुंब",
-      "question": "रिकामी जागा भरा: सगळेजण ____ राहतात.",
+      "category": "धडा २४: शुद्ध शब्द (Spelling 1-22)",
+      "question": "खालीलपैकी योग्य जोडी ओळखा: (मि, बि, कवि)",
       "options": [
-        "आनंदाने",
-        "रागाने",
-        "दु:खाने",
-        "एकटे"
+        "मि-मी, बि-बी, कवि-कवी",
+        "मे-मै, बे-बै, कवे-कवै",
+        "मि-मा, बि-बा, कवि-काव्या",
+        "मी-मि, बी-बि, कवी-कवि"
       ],
-      "correct_answer": "आनंदाने"
+      "correct_answer": "मि-मी, बि-बी, कवि-कवी"
     },
     {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘प्रतिभाशाली’ चा अर्थ काय आहे?",
+      "category": "धडा २५: वाक्य दुरुस्ती (Gender & Verbs)",
+      "question": "अशुद्ध वाक्य 'मुलगी खाणे खातो' चे शुद्ध रूप काय?",
       "options": [
-        "Talented",
-        "Lazy",
-        "Angry",
-        "Famous"
+        "मुलगी खाणे खाते",
+        "मुलगी खाणे खातात",
+        "मुलगा खाणे खाते",
+        "मुली खाणे खातो"
       ],
-      "correct_answer": "Talented"
+      "correct_answer": "मुलगी खाणे खाते"
     },
     {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘पदवी’ चा अर्थ काय आहे?",
+      "category": "धडा २५: वाक्य दुरुस्ती (Pronouns)",
+      "question": "शुद्ध वाक्य निवडा: 'तुम्ही कसे ________?'",
       "options": [
-        "Title / Degree",
-        "Prize",
-        "Competition",
-        "Family"
+        "आहे",
+        "आहात",
+        "होतो",
+        "आहेस"
       ],
-      "correct_answer": "Title / Degree"
+      "correct_answer": "आहात"
     },
     {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘दरबार’ चा अर्थ काय आहे?",
+      "category": "धडा २५: संख्या ज्ञान (१-५)",
+      "question": "१-२-३-४-५ या क्रमाला अक्षरात काय म्हणतात?",
       "options": [
-        "Royal court",
-        "School",
-        "Garden",
-        "Market"
+        "सहा-सात-आठ-नऊ-दहा",
+        "एक-दोन-तीन-चार-पाच",
+        "अकरा-बारा-तेरा-चौदा-पंधरा",
+        "एक-दोन-दोन-चार-पाच"
       ],
-      "correct_answer": "Royal court"
+      "correct_answer": "एक-दोन-तीन-चार-पाच"
     },
     {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘प्रेरणादायी’ चा अर्थ काय आहे?",
+      "category": "धडा २५: संख्या ज्ञान (१०-४०)",
+      "question": "मराठीत '३०' आणि '४०' ला काय म्हणतात?",
       "options": [
-        "Inspiring",
-        "Dull",
-        "Lazy",
-        "Sad"
+        "वीस आणि तीस",
+        "तीस आणि चाळीस",
+        "चाळीस आणि पन्नास",
+        "दहा आणि वीस"
       ],
-      "correct_answer": "Inspiring"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘लहानपणी’ चा अर्थ काय आहे?",
-      "options": [
-        "Childhood",
-        "Old age",
-        "Anger",
-        "Respect"
-      ],
-      "correct_answer": "Childhood"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘खूप राग’ चा अर्थ काय आहे?",
-      "options": [
-        "Very angry",
-        "Very happy",
-        "Very small",
-        "Very good"
-      ],
-      "correct_answer": "Very angry"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘सन्मानित करते’ चा अर्थ काय आहे?",
-      "options": [
-        "To honour",
-        "To insult",
-        "To forget",
-        "To punish"
-      ],
-      "correct_answer": "To honour"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "रिकामी जागा भरा: देशातील लोकांवर ते मनापासून ____ करीत.",
-      "options": [
-        "प्रेम",
-        "राग",
-        "द्वेष",
-        "तिरस्कार"
-      ],
-      "correct_answer": "प्रेम"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘देश’ चा समानार्थी शब्द कोणता?",
-      "options": [
-        "राष्ट्र",
-        "भूगोल",
-        "राजा",
-        "घर"
-      ],
-      "correct_answer": "राष्ट्र"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘गाणे’ चा समानार्थी शब्द कोणता?",
-      "options": [
-        "गीत",
-        "नृत्य",
-        "भाषण",
-        "वाद्य"
-      ],
-      "correct_answer": "गीत"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘स्पर्धा’ चा समानार्थी शब्द कोणता?",
-      "options": [
-        "मुकाबला",
-        "शाळा",
-        "घर",
-        "खेळ"
-      ],
-      "correct_answer": "मुकाबला"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘प्रतिभाशाली’ चा समानार्थी शब्द कोणता?",
-      "options": [
-        "प्रतिभावान",
-        "आळशी",
-        "रागीट",
-        "सामान्य"
-      ],
-      "correct_answer": "प्रतिभावान"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘पदवी’ चा समानार्थी शब्द कोणता?",
-      "options": [
-        "उपाधी",
-        "स्पर्धा",
-        "पुरस्कार",
-        "पद"
-      ],
-      "correct_answer": "उपाधी"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘कीर्ती’ चा समानार्थी शब्द कोणता?",
-      "options": [
-        "ख्याती",
-        "घर",
-        "खेळ",
-        "पद"
-      ],
-      "correct_answer": "ख्याती"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘पाप’ चा विरुद्धार्थी शब्द कोणता?",
-      "options": [
-        "पुण्य",
-        "दंड",
-        "चांगले",
-        "वाईट"
-      ],
-      "correct_answer": "पुण्य"
-    },
-    {
-      "category": "Chapter 12 – सुब्रह्मण्य भारती",
-      "question": "‘सफल’ चा विरुद्धार्थी शब्द कोणता?",
-      "options": [
-        "असफल",
-        "यशस्वी",
-        "शेवटचा",
-        "मोठा"
-      ],
-      "correct_answer": "असफल"
-    },
-    {
-      "category": "Worksheet",
-      "question": "‘माझी शाळा’ या विषयावर योग्य वाक्य निवडा.",
-      "options": [
-        "माझी शाळा सुंदर आहे. शाळेत मोठे मैदान आहे. शिक्षक चांगले शिकवतात. शाळेत बाग आहे. मला माझी शाळा आवडते.",
-        "मी शाळेत क्रिकेट खेळतो.",
-        "शाळेत फक्त एक वर्ग आहे.",
-        "शाळेत झाडे नाहीत."
-      ],
-      "correct_answer": "माझी शाळा सुंदर आहे. शाळेत मोठे मैदान आहे. शिक्षक चांगले शिकवतात. शाळेत बाग आहे. मला माझी शाळा आवडते."
-    },
-    {
-      "category": "Worksheet",
-      "question": "‘मेजवानी’ चा इंग्रजी अर्थ काय?",
-      "options": [
-        "Feast",
-        "Family",
-        "Tiffin",
-        "Dance"
-      ],
-      "correct_answer": "Feast"
-    },
-    {
-      "category": "Worksheet",
-      "question": "‘अभिनय’ चा इंग्रजी अर्थ काय?",
-      "options": [
-        "Acting",
-        "Eating",
-        "Playing",
-        "Writing"
-      ],
-      "correct_answer": "Acting"
-    },
-    {
-      "category": "Worksheet",
-      "question": "‘Tiffin’ चा मराठी अर्थ काय?",
-      "options": [
-        "डबा",
-        "घर",
-        "खेळ",
-        "भाजी"
-      ],
-      "correct_answer": "डबा"
-    },
-    {
-      "category": "Worksheet",
-      "question": "‘Family’ चा मराठी अर्थ काय?",
-      "options": [
-        "कुटुंब",
-        "शाळा",
-        "मित्र",
-        "बाजार"
-      ],
-      "correct_answer": "कुटुंब"
-    },
-    {
-      "category": "Worksheet",
-      "question": "‘चांगले’ चा विरुद्धार्थी शब्द कोणता?",
-      "options": [
-        "वाईट",
-        "जास्त",
-        "थोडे",
-        "मोठे"
-      ],
-      "correct_answer": "वाईट"
-    },
-    {
-      "category": "Worksheet",
-      "question": "‘जास्त’ चा विरुद्धार्थी शब्द कोणता?",
-      "options": [
-        "थोडे",
-        "मोठे",
-        "वाईट",
-        "लहान"
-      ],
-      "correct_answer": "थोडे"
-    },
-    {
-      "category": "Worksheet",
-      "question": "‘सूर्य’ चा समानार्थी शब्द कोणता?",
-      "options": [
-        "रवि",
-        "चंद्र",
-        "ग्रह",
-        "तारा"
-      ],
-      "correct_answer": "रवि"
-    },
-    {
-      "category": "Worksheet",
-      "question": "‘शाळा’ चे अनेकवचन काय?",
-      "options": [
-        "शाळा",
-        "शाळी",
-        "शाळे",
-        "शाळा (same)"
-      ],
-      "correct_answer": "शाळा"
-    },
-    {
-      "category": "Worksheet",
-      "question": "‘डोळा’ चे अनेकवचन काय?",
-      "options": [
-        "डोळे",
-        "डोळा",
-        "डोळकी",
-        "डोळ्या"
-      ],
-      "correct_answer": "डोळे"
-    },
-    {
-      "category": "Worksheet",
-      "question": "‘आजोबा’ चे स्त्रीलिंगी रूप काय?",
-      "options": [
-        "आजी",
-        "मावशी",
-        "आई",
-        "आत्या"
-      ],
-      "correct_answer": "आजी"
-    },
-    {
-      "category": "Worksheet",
-      "question": "‘कोंबडी’ चे पुल्लिंगी रूप काय?",
-      "options": [
-        "कोंबडा",
-        "गुरे",
-        "कोंबड",
-        "कोंबडी"
-      ],
-      "correct_answer": "कोंबडा"
-    },
-    {
-      "category": "Worksheet",
-      "question": "योग्य क्रम लावा: मैदानात होतो मी खेळत",
-      "options": [
-        "मी मैदानात खेळत होतो.",
-        "मी होतो खेळत मैदानात.",
-        "मैदानात मी होतो खेळत.",
-        "खेळत मैदानात होतो मी."
-      ],
-      "correct_answer": "मी मैदानात खेळत होतो."
-    },
-    {
-      "category": "Worksheet",
-      "question": "योग्य क्रम लावा: ती होती तिच्या गेली काल घरी",
-      "options": [
-        "ती काल तिच्या घरी गेली होती.",
-        "तिच्या घरी ती गेली काल होती.",
-        "काल ती गेली होती तिच्या घरी.",
-        "घरी गेली काल ती होती."
-      ],
-      "correct_answer": "ती काल तिच्या घरी गेली होती."
-    },
-    {
-      "category": "Worksheet",
-      "question": "योग्य क्रम लावा: माझे आंबा आहे फळ आवडते",
-      "options": [
-        "माझे आवडते फळ आंबा आहे.",
-        "आंबा आहे माझे फळ आवडते.",
-        "माझे फळ आवडते आंबा आहे.",
-        "फळ आहे माझे आंबा आवडते."
-      ],
-      "correct_answer": "माझे आवडते फळ आंबा आहे."
-    },
-    {
-      "category": "Worksheet",
-      "question": "योग्य क्रम लावा: चालावे शिस्तीत सर्वांनी",
-      "options": [
-        "सर्वांनी शिस्तीत चालावे.",
-        "शिस्तीत चालावे सर्वांनी.",
-        "चालावे सर्वांनी शिस्तीत.",
-        "शिस्तीत सर्वांनी चालावे."
-      ],
-      "correct_answer": "सर्वांनी शिस्तीत चालावे."
-    },
-    {
-      "category": "Worksheet",
-      "question": "योग्य क्रम लावा: गेला रमेश होता दुकानात",
-      "options": [
-        "रमेश दुकानात गेला होता.",
-        "दुकानात रमेश होता गेला.",
-        "रमेश गेला दुकानात होता.",
-        "होता गेला रमेश दुकानात."
-      ],
-      "correct_answer": "रमेश दुकानात गेला होता."
-    },
-    {
-      "category": "Worksheet",
-      "question": "‘अकरा’ अंकात लिहा.",
-      "options": [
-        "11",
-        "10",
-        "12",
-        "21"
-      ],
-      "correct_answer": "11"
-    },
-    {
-      "category": "Worksheet",
-      "question": "‘आठ’ अंकात लिहा.",
-      "options": [
-        "8",
-        "9",
-        "7",
-        "80"
-      ],
-      "correct_answer": "8"
-    },
-    {
-      "category": "Worksheet",
-      "question": "बाहुलीची मॅक्सी कोणत्या रंगाची आहे?",
-      "options": [
-        "निळ्या रंगाची",
-        "लाल रंगाची",
-        "हिरव्या रंगाची",
-        "पिवळ्या रंगाची"
-      ],
-      "correct_answer": "निळ्या रंगाची"
-    },
-    {
-      "category": "Worksheet",
-      "question": "कवी भारती यांनी कोणत्या वर्षी गाणी लिहिण्यास सुरुवात केली?",
-      "options": [
-        "१९०६",
-        "१८८२",
-        "१९१०",
-        "१९२०"
-      ],
-      "correct_answer": "१९०६"
-    },
-    {
-      "category": "Worksheet",
-      "question": "बागेतील गवत कापण्याचे काम कोण करते?",
-      "options": [
-        "बाबा",
-        "आजोबा",
-        "कविता",
-        "आई"
-      ],
-      "correct_answer": "बाबा"
-    },
-    {
-      "category": "Worksheet",
-      "question": "रिकामा जागा भरा: सौरभ, तू कुंडीतील ____ पाने घेऊन ये.",
-      "options": [
-        "चार-पाच",
-        "दहा",
-        "एक",
-        "पाच-सहा"
-      ],
-      "correct_answer": "चार-पाच"
-    },
-    {
-      "category": "Worksheet",
-      "question": "रिकामा जागा भरा: कविताच्या कुटुंबात एकूण ____ लोक राहतात.",
-      "options": [
-        "चार",
-        "पाच",
-        "सहा",
-        "सात"
-      ],
-      "correct_answer": "चार"
-    },
-    {
-      "category": "Worksheet",
-      "question": "रिकामा जागा भरा: गीत गायन स्पर्धेत सुलेखाचा ____ क्रमांक आला.",
-      "options": [
-        "पहिला",
-        "दुसरा",
-        "तिसरा",
-        "चौथा"
-      ],
-      "correct_answer": "पहिला"
-    },
-    {
-      "category": "Worksheet",
-      "question": "रिकामा जागा भरा: हसते ती सर्वांशी ____.",
-      "options": [
-        "गोड",
-        "वाईट",
-        "दु:खी",
-        "रागाने"
-      ],
-      "correct_answer": "गोड"
-    },
-    {
-      "category": "Worksheet",
-      "question": "रिकामा जागा भरा: आत्या घराची ____ करते.",
-      "options": [
-        "साफसफाई",
-        "शेती",
-        "मजुरी",
-        "शेगडी"
-      ],
-      "correct_answer": "साफसफाई"
-    },
-    {
-      "category": "Numbers",
-      "question": "‘एक, दोन, तीन, चार, पाच’ या शब्दांचे बरोबर अंक रूप काय?",
-      "options": [
-        "१ २ ३ ४ ५",
-        "२ ३ ४ ५ ६",
-        "३ ४ ५ ६ ७",
-        "५ ६ ७ ८ ९"
-      ],
-      "correct_answer": "१ २ ३ ४ ५"
-    },
-    {
-      "category": "Numbers",
-      "question": "‘सहा, सात, आठ, नऊ, दहा’ या शब्दांचे बरोबर अंक रूप काय?",
-      "options": [
-        "५ ६ ७ ८ ९",
-        "६ ७ ८ ९ १०",
-        "७ ८ ९ १० ११",
-        "८ ९ १० ११ १२"
-      ],
-      "correct_answer": "६ ७ ८ ९ १०"
-    },
-    {
-      "category": "Numbers",
-      "question": "‘अकरा, बारा, तेरा, चौदा, पंधरा’ या शब्दांचे बरोबर अंक रूप काय?",
-      "options": [
-        "१० ११ १२ १३ १४",
-        "११ १२ १३ १४ १५",
-        "१२ १३ १४ १५ १६",
-        "१३ १४ १५ १६ १७"
-      ],
-      "correct_answer": "११ १२ १३ १४ १५"
-    },
-    {
-      "category": "Numbers",
-      "question": "‘सोळा, सतरा, अठरा, एकोणीस, वीस’ या शब्दांचे बरोबर अंक रूप काय?",
-      "options": [
-        "१५ १६ १७ १८ १९",
-        "१६ १७ १८ १९ २०",
-        "१७ १८ १९ २० २१",
-        "१८ १९ २० २१ २२"
-      ],
-      "correct_answer": "१६ १७ १८ १९ २०"
-    },
-    {
-      "category": "Numbers",
-      "question": "‘एकवीस, बावीस, तेवीस, चोवीस, पंचवीस’ या शब्दांचे बरोबर अंक रूप काय?",
-      "options": [
-        "२० २१ २२ २३ २४",
-        "२१ २२ २३ २४ २५",
-        "२२ २३ २४ २५ २६",
-        "२३ २४ २५ २६ २७"
-      ],
-      "correct_answer": "२१ २२ २३ २४ २५"
-    },
-    {
-      "category": "Numbers",
-      "question": "‘सव्वीस, सत्तावीस, अठ्ठावीस, एकोणतीस, तीस’ या शब्दांचे बरोबर अंक रूप काय?",
-      "options": [
-        "२५ २६ २७ २८ २९",
-        "२६ २७ २८ २९ ३०",
-        "२७ २८ २९ ३० ३१",
-        "२८ २९ ३० ३१ ३२"
-      ],
-      "correct_answer": "२६ २७ २८ २९ ३०"
+      "correct_answer": "तीस आणि चाळीस"
     }
   ]
 }
