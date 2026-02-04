@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useCallback, useRef } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
+import { fileStorage } from '../services/FileStorageService';
 import confetti from 'canvas-confetti';
 import '../styles/Quiz.css';
 
@@ -420,34 +421,13 @@ function Quiz() {
         timestamp: new Date().toISOString()
       };
 
-      // Best-effort server save
-      fetch('/api/save-test-result', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(testData)
-      }).catch(() => {});
-
-      // Local history fallback
-      try {
-        const savedResults = JSON.parse(localStorage.getItem('quizResults') || '[]');
-        savedResults.push({
-          subject: testData.subject,
-          category: testData.category,
-          score: testData.correctAnswers,
-          total: testData.attemptedQuestions,
-          percentage: testData.percentage,
-          grade: testData.grade,
-          wrongAnswers: testData.wrongAnswers,
-          date: testData.timestamp,
-          timestamp: Date.now()
-        });
-        localStorage.setItem('quizResults', JSON.stringify(savedResults));
-      } catch {}
+      // Save using FileStorageService (permanent browser storage)
+      await fileStorage.saveResult(testData);
+      console.log('Result saved successfully to browser storage:', testData);
     } catch (error) {
       console.error('Error saving test result:', error);
     }
   }, [attemptedCount, score, selectedCategory, subject, userAnswers, isCorrectAnswer, questions]);
-
   // Auto-save when showing results
   useEffect(() => {
     if (showResult) {

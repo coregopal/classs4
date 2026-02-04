@@ -77,8 +77,17 @@ if not exist src\data\english_language.json copy nul src\data\english_language.j
 if not exist src\data\english_literature.json copy nul src\data\english_literature.json
 if not exist src\data\sst.json copy nul src\data\sst.json
 
+:: Create results-data directory if it doesn't exist
+if not exist results-data mkdir results-data
+
 :: Start the application
-echo Starting the application...
+echo Starting Grade 4 Learning Quiz Application...
+echo.
+echo Serverless File Storage Enabled!
+echo Results will be stored permanently in browser storage
+echo Use Export/Import buttons for backup
+echo.
+echo Starting React app on port 3000...
 npm start
 
-pause 
+pause

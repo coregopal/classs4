@@ -1,5 +1,6 @@
 import React, { useEffect, useMemo, useState } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
+import { fileStorage } from '../services/FileStorageService';
 import '../styles/Results.css';
 
 function Results() {
@@ -44,20 +45,17 @@ function Results() {
       setLoading(true);
       setError('');
       try {
-        const resp = await fetch('/api/test-results');
-        if (!resp.ok) throw new Error('Failed to fetch server results');
-        const data = await resp.json();
-        const serverResults = Array.isArray(data?.results) ? data.results : [];
+        const allResults = await fileStorage.getAllResults();
         
-        if (serverResults.length === 0) {
+        if (allResults.length === 0) {
           setError('No results found. Complete a quiz to see results here.');
         } else {
           setError('');
         }
         
-        setResults(serverResults);
+        setResults(allResults);
       } catch (e) {
-        setError('Error loading results from server. Please make sure the server is running on port 3001.');
+        setError('Error loading results from browser storage.');
         console.error('Error loading results:', e);
       } finally {
         setLoading(false);
@@ -103,35 +101,66 @@ function Results() {
     return ['all', ...Array.from(set)];
   }, [results]);
 
-  // Function to clear results for specific subject
+  // Function to export results
+  const exportResults = async (subject = null) => {
+    try {
+      const count = await fileStorage.exportResults(subject);
+      alert(`Successfully exported ${count} result(s) to file.`);
+    } catch (error) {
+      console.error('Error exporting results:', error);
+      alert('Error exporting results. Please try again.');
+    }
+  };
+
+  // Function to import results
+  const importResults = async () => {
+    try {
+      const input = document.createElement('input');
+      input.type = 'file';
+      input.accept = '.json';
+      input.onchange = async (e) => {
+        const file = e.target.files[0];
+        if (file) {
+          try {
+            const count = await fileStorage.importResults(file);
+            // Reload results after import
+            const updatedResults = await fileStorage.getAllResults();
+            setResults(updatedResults);
+            alert(`Successfully imported ${count} result(s).`);
+          } catch (error) {
+            alert('Error importing file. Please ensure it\'s a valid JSON file.');
+          }
+        }
+      };
+      input.click();
+    } catch (error) {
+      console.error('Error importing results:', error);
+      alert('Error importing results. Please try again.');
+    }
+  };
   const clearResultsForSubject = async (subject) => {
     if (window.confirm(`Are you sure you want to delete all results for ${subject === 'all' ? 'all subjects' : subject}?`)) {
       try {
-        const response = await fetch(`/api/test-results?subject=${subject}`, {
-          method: 'DELETE'
-        });
-        
-        if (!response.ok) {
-          throw new Error('Failed to clear results');
+        let deletedCount;
+        if (subject === 'all') {
+          await fileStorage.deleteAllResults();
+          deletedCount = results.length;
+        } else {
+          deletedCount = await fileStorage.deleteResultsBySubject(subject);
         }
-        
-        const data = await response.json();
         
         // Reload results after clearing
-        const resp = await fetch('/api/test-results');
-        if (resp.ok) {
-          const resultsData = await resp.json();
-          setResults(Array.isArray(resultsData?.results) ? resultsData.results : []);
-          
-          if (resultsData.results.length === 0) {
-            setError('No results found. Complete a quiz to see results here.');
-          }
+        const updatedResults = await fileStorage.getAllResults();
+        setResults(updatedResults);
+        
+        if (updatedResults.length === 0) {
+          setError('No results found. Complete a quiz to see results here.');
         }
         
-        alert(data.message || `Results for ${subject === 'all' ? 'all subjects' : subject} have been cleared.`);
+        alert(`Successfully deleted ${deletedCount} result(s) for ${subject === 'all' ? 'all subjects' : subject}.`);
       } catch (error) {
         console.error('Error clearing results:', error);
-        alert('Error clearing results. Please make sure the server is running on port 3001.');
+        alert('Error clearing results. Please try again.');
       }
     }
   };
@@ -143,6 +172,8 @@ function Results() {
         <div className="results-actions">
           <button className="btn" onClick={() => navigate('/')}>🏠 Home</button>
           <button className="btn" onClick={() => window.location.reload()}>🔄 Refresh</button>
+          <button className="btn" onClick={() => exportResults()}>📥 Export All</button>
+          <button className="btn" onClick={() => importResults()}>📤 Import</button>
           <select 
             className="clear-results-select" 
             onChange={(e) => {

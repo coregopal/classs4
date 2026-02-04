@@ -20,9 +20,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "dedupe:data": "node scripts/dedupe-data.js",
-    "server": "node server.js",
-    "dev": "concurrently \"npm run server\" \"npm start\""
+    "dedupe:data": "node scripts/dedupe-data.js"
   },
   "eslintConfig": {
     "extends": [
@@ -41,8 +39,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "concurrently": "^9.2.1"
   }
 }
