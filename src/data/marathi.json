@@ -208,6 +208,672 @@
         "दहा आणि वीस"
       ],
       "correct_answer": "तीस आणि चाळीस"
+    },{
+      "category": "धडा १८: माझा अनुभव - २ (My Experience - 2)",
+      "question": "या कथेचा मुख्य संदेश काय आहे? (What is the main message of this story?)",
+      "options": [
+        "शाळेचे महत्त्व (Importance of school)",
+        "भाऊ-बहिणींनी काळजी व प्रेमाने वागावे (Siblings should care for and love each other)",
+        "ताप आल्यावर डॉक्टराकडे जावे (One should go to doctor when having fever)",
+        "घरात एकटे राहू नये (One should not stay alone at home)"
+      ],
+      "correct_answer": "भाऊ-बहिणींनी काळजी व प्रेमाने वागावे - This is the correct answer because the story shows how Trisha, who was usually considered clumsy, took good care of her brother Tejas when he was sick. The main lesson is that siblings should help and care for each other. The other options are wrong because: 1) The story is not about school importance, 2) While medical care is mentioned, it's not the main message, 3) The story doesn't say children should never be alone at home."
+    },
+    {
+      "category": "धडा २०: तुळशीबाई (Tulshibai - The Holy Basil)",
+      "question": "खालील प्रश्नांची उत्तरे द्या: १. तुळशीबाई कोठे उभी आहे? २. तिच्या डोक्यावर काय आहे? ३. तुळस कशावर डुलत राहते? (Answer: 1. Where is Tulshibai standing? 2. What is on her head? 3. On what does Tulsi keep swaying?)",
+      "options": [
+        "१. बागेत, २. फुले, ३. पाण्यावर (1. In garden, 2. Flowers, 3. On water)",
+        "१. अंगणात, २. मंजिरी, ३. वाऱ्यावर (1. In courtyard, 2. Flower stalks, 3. In wind)",
+        "१. घरात, २. पाने, ३. झाडावर (1. In house, 2. Leaves, 3. On tree)",
+        "१. मंदिरात, २. फळे, ३. हवेस (1. In temple, 2. Fruits, 3. In air)"
+      ],
+      "correct_answer": "१. अंगणात, २. मंजिरी, ३. वाऱ्यावर - This is correct because the poem clearly says 'standing in the courtyard', 'flower stalks on head', and 'swaying in the wind'. The other options are wrong because: 1) Tulsi is in courtyard not garden, 2) Tulsi has flower stalks (manjari) not flowers, 3) Tulsi sways in wind not on water, 4) House and temple are wrong locations, leaves and fruits are wrong parts of the plant."
+    },
+    {
+      "category": "धडा २०: तुळशीबाई (Tulshibai - The Holy Basil)",
+      "question": "खालील प्रश्नांची उत्तरे द्या: ४. तुळशीला कशात मान मिळतो? ५. तुळस कोणाच्या गळ्यात असते? ६. तुळशीला कोणाच्या चरणी वाहतात? (Answer: 4. In what does Tulsi get respect? 5. In whose neck is Tulsi worn? 6. At whose feet is Tulsi offered?)",
+      "options": [
+        "४. पूजेत, ५. रामाच्या, ६. शिवाच्या (4. In worship, 5. In Rama's, 6. At Shiva's)",
+        "४. औषधात, ५. श्रीकृष्णाच्या, ६. विठ्ठलच्या (4. In medicine, 5. In Lord Krishna's, 6. At Lord Vitthal's)",
+        "४. स्वयंपाकात, ५. गणपतीच्या, ६. देवीच्या (4. In cooking, 5. In Ganesha's, 6. At Goddess's)",
+        "४. अभ्यासात, ५. हनुमानाच्या, ६. गुरूच्या (4. In studies, 5. In Hanuman's, 6. At Guru's)"
+      ],
+      "correct_answer": "४. औषधात, ५. श्रीकृष्णाच्या, ६. विठ्ठलच्या - This is correct because the poem says 'valued in medicine', 'around Lord Krishna's neck', and 'offered at Lord Vitthal's feet'. The other options are wrong because: 1) While Tulsi is used in worship, it gets respect mainly for its medicinal properties, 2) Tulsi is associated with Krishna not Rama, 3) Tulsi is not mainly used in cooking, 4) Tulsi has no special role in studies."
+    },
+    {
+      "category": "धडा २१: बुद्धिमान कोंबडा (The Intelligent Rooster)",
+      "question": "खालील प्रश्नांची उत्तरे द्या: १. मेजवानी कोणाच्या घरी होती? २. कोंबड्याला काय काम होते? ३. कोणाचा उपवास होता? ४. कोंबड्याचा कोणावर विश्वास नव्हता? (Answer: 1. At whose house was the feast? 2. What was the rooster's job? 3. Who was fasting? 4. Whom did the rooster not trust?)",
+      "options": [
+        "१. शिकाऱ्याच्या, २. गाणे गाण्याचे, ३. कोंबड्याचा, ४. शिकाऱ्यावर (1. At hunter's, 2. Singing, 3. Rooster's, 4. On hunter)",
+        "१. कोल्ह्याच्या, २. सगळ्यांना उठवण्याचे, ३. कोल्ह्याचा, ४. कोल्ह्यावर (1. At fox's, 2. Waking everyone up, 3. Fox's, 4. On fox)",
+        "१. शेजाऱ्याच्या, २. अंडी देण्याचे, ३. वाघाचा, ४. वाघावर (1. At neighbor's, 2. Laying eggs, 3. Tiger's, 4. On tiger)",
+        "१. राजाच्या, २. जंगलाचे रक्षण करण्याचे, ३. सिंहाचा, ४. सिंहावर (1. At king's, 2. Protecting forest, 3. Lion's, 4. On lion)"
+      ],
+      "correct_answer": "१. कोल्ह्याच्या, २. सगळ्यांना उठवण्याचे, ३. कोल्ह्याचा, ४. कोल्ह्यावर - This is correct because the story says 'feast at fox's house', 'rooster's job was to wake everyone up', 'fox was fasting', and 'rooster did not trust the fox'. The other options are wrong because: 1) There's no hunter in the story, 2) Rooster doesn't lay eggs, 3) Tiger and lion are not in the story, 4) The story is specifically about a fox and rooster."
+    },
+    {
+      "category": "धडा २२: माझी मनी (My Cat Mani)",
+      "question": "मनी मांजराबद्दल खालीलपैकी कोणते विधान बरोबर नाही? (Which statement is NOT true about Mani the cat?)",
+      "options": [
+        "ती पाण्याच्या भांड्यात उडी मारते (She jumps into water vessels)",
+        "ती कोमट सूतीसारखी मऊ आहे (She is soft like cotton)",
+        "ती परकीयांपासून लपते (She hides from strangers)",
+        "ती धीम्या स्वभावाची आणि शांत आहे (She is gentle and calm by nature)"
+      ],
+      "correct_answer": "ती पाण्याच्या भांड्यात उडी मारते - This is the wrong statement because the poem never says Mani jumps into water vessels. The other three statements are correct: 1) The poem says she is 'soft like cotton', 2) It says she runs away from strangers, 3) It describes her as gentle and calm."
+    },
+    {
+      "category": "धडा १९: चित्र वाचन आणि लेखन (Picture: Reading and Writing)",
+      "question": "चित्रात कोणते पालेभाजी लावलेली दिसतात? (Which vegetables are seen planted in the picture?)",
+      "options": [
+        "टोमॅटो, कांदे आणि लसूण (Tomatoes, onions and garlic)",
+        "कोबी, गाजर आणि मटार (Cabbage, carrots and peas)",
+        "बटाटे, वांगी आणि मिरची (Potatoes, brinjal and chillies)",
+        "भेंडी, फुलकोबी आणि ब्रोकली (Okra, cauliflower and broccoli)"
+      ],
+      "correct_answer": "कोबी, गाजर आणि मटार - This is correct because the text says 'cabbage, carrots and peas are planted in the garden'. The other options are wrong because: 1) Tomatoes, onions and garlic are not mentioned, 2) Potatoes, brinjal and chillies are not mentioned, 3) Okra, cauliflower and broccoli are not mentioned."
+    },
+    {
+      "category": "धडा १९: चित्र वाचन आणि लेखन (Picture: Reading and Writing)",
+      "question": "चित्रात मुलगी काय करत आहे? (What is the girl doing in the picture?)",
+      "options": [
+        "ती झाडे लावत आहे (She is planting trees)",
+        "ती बागेत पाणी घालत आहे (She is watering the garden)",
+        "ती फुले काढत आहे (She is plucking flowers)",
+        "ती भाजी विकत आहे (She is selling vegetables)"
+      ],
+      "correct_answer": "ती बागेत पाणी घालत आहे - This is correct because the text says 'a girl is watering the garden'. The other options are wrong because: 1) She is not planting trees, she's watering, 2) She's not plucking flowers, 3) She's not selling vegetables."
+    },
+    {
+      "category": "धडा २३: मी बैल बोलतो आहे (I am the Ox Speaking)",
+      "question": "खालील प्रश्नांची उत्तरे द्या: १. बैलाचे नाव काय आहे? २. बैलाला कामाला कधी सुट्टी असते? ३. बैलाला पोळ्याच्या दिवशी काय खायला मिळते? (Answer: 1. What is the bullock's name? 2. When does the bullock have a holiday from work? 3. What does the bullock get to eat on Pola day?)",
+      "options": [
+        "१. राजा, २. दिवाळीला, ३. वरणभात (1. Raja, 2. During Diwali, 3. Varan-bhat)",
+        "१. ढवळ्या, २. बैलपोळ्याच्या दिवशी, ३. पुरणपोळी (1. Dhawalya, 2. On Bail Pola day, 3. Puran-poli)",
+        "१. श्याम, २. रविवारी, ३. शिरा (1. Shyam, 2. On Sunday, 3. Sheera)",
+        "१. मोठ्या, २. दर महिन्याला, ३. चिवडा (1. Motya, 2. Every month, 3. Chivda)"
+      ],
+      "correct_answer": "१. ढवळ्या, २. बैलपोळ्याच्या दिवशी, ३. पुरणपोळी - This is correct because the text says 'name is Dhawalya', 'holiday on Bail Pola day', and 'gets to eat Puran-poli'. The other options are wrong because: 1) Name is not Raja, 2) Holiday is on Bail Pola not Diwali, 3) Food is Puran-poli not Varan-bhat, 4) Name is not Shyam, 5) Holiday is specific festival day not every Sunday, 6) Name is not Motya, 7) Holiday is not every month."
+    },
+    {
+      "category": "धडा २३: मी बैल बोलतो आहे (I am the Ox Speaking)",
+      "question": "खालील प्रश्नांची उत्तरे द्या: ४. बैलाच्या अंगावर कोणते कापड घालून मिरवणूक काढतात? ५. बैलाचा मालक कोण आहे? ६. शेतकरी बैलाच्या पाठीवर काय देतो? (Answer: 4. What kind of cloth is put on the bullock for the procession? 5. Who is the owner of the bullock? 6. What does the farmer do to the bullock's back?)",
+      "options": [
+        "४. साधे कापड, ५. व्यापारी, ६. फक्त फटके (4. Simple cloth, 5. Businessman, 6. Only whips)",
+        "४. भरजरी कापड (झूल), ५. शेतकरी, ६. कधी फटके तर कधी प्रेमाने हात फिरवतो (4. Embroidered cloth, 5. Farmer, 6. Sometimes whips and sometimes strokes with love)",
+        "४. रेशीमी कापड, ५. लोहार, ६. फक्त प्रेमाने हात फिरवतो (4. Silk cloth, 5. Blacksmith, 6. Only strokes with love)",
+        "४. लोकरीचे कापड, ५. शिक्षक, ६. काहीही करीत नाही (4. Woolen cloth, 5. Teacher, 6. Does nothing)"
+      ],
+      "correct_answer": "४. भरजरी कापड (झूल), ५. शेतकरी, ६. कधी फटके तर कधी प्रेमाने हात फिरवतो - This is correct because the text says 'embroidered cloth is put on', 'owner is the farmer', and 'sometimes whips and sometimes strokes with love'. The other options are wrong because: 1) Cloth is embroidered not simple, 2) Owner is farmer not businessman, 3) Farmer does both whipping and stroking, not just whipping, 4) Cloth is embroidered not silk, 5) Owner is farmer not blacksmith, 6) Farmer does more than just stroking."
+    },
+    {
+      "category": "धडा २५: अंकलेखन (Number Writing 1-40)",
+      "question": "संख्या १५, २५ आणि ३५ यांना मराठीत काय म्हणतात? (What are numbers 15, 25 and 35 called in Marathi?)",
+      "options": [
+        "पंधरा, पंचवीस, पस्तीस (Pandhra, Panchavees, Pastees)",
+        "पंधरा, वीस, तीस (Pandhra, Vees, Tees)",
+        "दहा, वीस, तीस (Daha, Vees, Tees)",
+        "पाच, पंधरा, पंचवीस (Paach, Pandhra, Panchavees)"
+      ],
+      "correct_answer": "पंधरा, पंचवीस, पस्तीस - This is correct because 15 = pandhra, 25 = panchavees, 35 = pastees in Marathi. The other options are wrong because: 1) 20 and 30 are vees and tees, not 25 and 35, 2) 10, 20, 30 are different numbers, 3) 5, 15, 25 are different numbers."
+    },
+    {
+      "category": "धडा २५: अंकलेखन (Number Writing 1-40)",
+      "question": "'एकोणतीस', 'एकतीस' आणि 'एकोणचाळीस' हे कोणत्या संख्या दर्शवतात? (Which numbers do 'ekonatis', 'ektis' and 'ekonchalees' represent?)",
+      "options": [
+        "१९, २१, २९ (19, 21, 29)",
+        "२९, ३१, ३९ (29, 31, 39)",
+        "१८, २८, ३८ (18, 28, 38)",
+        "९, १९, २९ (9, 19, 29)"
+      ],
+      "correct_answer": "२९, ३१, ३९ - This is correct because 'ekonatis' means one less than thirty = 29, 'ektis' means thirty-one = 31, 'ekonchalees' means one less than forty = 39. The other options are wrong because: 1) 19 = ekonees, 21 = ekvees, 29 = ekonatis, 2) 18 = athara, 28 = atthaivees, 38 = adotees, 3) 9 = nau, 19 = ekonees, 29 = ekonatis."
+    },
+    {
+      "category": "वाचन आनंद: जंजिरा किल्ला (Reading for Joy: Janjira Fort)",
+      "question": "जंजिरा किल्ल्याचे मूळ नाव काय आहे आणि तो किती वर्षे अपराजित राहिला? (What is the original name of Janjira Fort and for how many years did it remain undefeated?)",
+      "options": [
+        "जंजिरे मेहरूब; ३३० वर्षे (Janjire Mehroob; 330 years)",
+        "मुरुड जंजिरा; २०० वर्षे (Murud Janjira; 200 years)",
+        "अभेद्य किल्ला; ५०० वर्षे (Impregnable Fort; 500 years)",
+        "समुद्रगड; १५० वर्षे (Samudragad; 150 years)"
+      ],
+      "correct_answer": "जंजिरे मेहरूब; ३३० वर्षे - This is correct because the text says 'original name is Janjire Mehroob' and 'remained undefeated for 330 years'. The other options are wrong because: 1) Murud Janjira is the location name not original name, 2) Abhedya killa is a description not the name, 3) Samudragad is a different fort."
+    },{
+      "category": "धडा १८: माझा अनुभव - २ (My Experience - 2)",
+      "question": "तेजस शाळेतून आल्यावर बेडवर का कोसळला? (Why did Tejas collapse on the bed after school?)",
+      "options": [
+        "त्याला झोप आली होती. (He was sleepy.)",
+        "त्याला खूप ताप होता. (He had a high fever.)",
+        "तो खेळत होता. (He was playing.)",
+        "तो रागावला होता. (He was angry.)"
+      ],
+      "correct_answer": "त्याला खूप ताप होता. (Explanation: Tejas was very weak due to a high fever and collapsed as soon as he reached home.)"
+    },
+    {
+      "category": "धडा १८: माझा अनुभव - २ (Trisha's Care)",
+      "question": "त्रिशाने तेजसची ताप कमी करण्यासाठी काय केले? (What did Trisha do to reduce Tejas's fever?)",
+      "options": [
+        "त्याला कडू औषध दिले. (Gave him bitter medicine.)",
+        "त्याला जेवायला दिले. (Gave him food.)",
+        "कपाळावर पाण्याच्या पट्ट्या ठेवल्या. (Placed cold water strips on his forehead.)",
+        "त्याला बाहेर फिरायला नेले. (Took him out for a walk.)"
+      ],
+      "correct_answer": "कपाळावर पाण्याच्या पट्ट्या ठेवल्या. (Explanation: Despite being small, Trisha acted wisely by using cold water strips to help her brother.)"
+    },
+    {
+      "category": "धडा १९: चित्र वर्णन (Picture Description)",
+      "question": "चित्रात कुंपणावर कोण बसलेले दिसत आहे? (Who is seen sitting on the fence in the picture?)",
+      "options": [
+        "एक मांजर (A cat)",
+        "एक पक्षी (A bird)",
+        "एक माकड (A monkey)",
+        "एक खार (A squirrel)"
+      ],
+      "correct_answer": "एक पक्षी (Explanation: The picture shows a bird sitting on the fence while the girl waters the cabbage, carrots, and peas.)"
+    },
+    {
+      "category": "धडा २०: तुळशीबाई (Tulshibai)",
+      "question": "तुळस वाऱ्यावर काय करत राहते? (What does the Tulsi keep doing in the wind?)",
+      "options": [
+        "पडून राहते (Stays fallen)",
+        "डुलत राहते (Sways)",
+        "ओरडत राहते (Screams)",
+        "रडत राहते (Cries)"
+      ],
+      "correct_answer": "डुलत राहते (Explanation: Tulsi is described as swaying gracefully in the courtyard breeze.)"
+    },
+    {
+      "category": "धडा २०: तुळशीबाई (Significance)",
+      "question": "तुळशीला औषधात काय मिळतो? (What does Tulsi get in medicine?)",
+      "options": [
+        "मान (Respect/Value)",
+        "नफा (Profit)",
+        "कमी महत्त्व (Less importance)",
+        "त्रास (Trouble)"
+      ],
+      "correct_answer": "मान (Explanation: Tulsi is highly valued in medicine for its healing properties.)"
+    },
+    {
+      "category": "धडा २१: बुद्धिमान कोंबडा (The Intelligent Rooster)",
+      "question": "कोंबड्याने कोल्ह्यावर विश्वास का ठेवला नाही? (Why did the rooster not trust the fox?)",
+      "options": [
+        "कोल्हा त्याचा मित्र होता. (The fox was his friend.)",
+        "कोंबडा बुद्धिमान होता. (The rooster was intelligent.)",
+        "कोल्हा आजारी होता. (The fox was sick.)",
+        "कोंबड्याला भूक लागली होती. (The rooster was hungry.)"
+      ],
+      "correct_answer": "कोंबडा बुद्धिमान होता. (Explanation: The rooster was clever enough to know that the fox was lying about his fast to try and eat him.)"
+    },
+    {
+      "category": "वाचनासाठी: जंजिरा किल्ला (Janjira Fort)",
+      "question": "जंजिरा किल्ला किती वर्षे अजेय राहिला? (For how many years did Janjira Fort remain undefeated?)",
+      "options": [
+        "१०० वर्षे",
+        "२०० वर्षे",
+        "३३० वर्षे",
+        "५७२ वर्षे"
+      ],
+      "correct_answer": "३३० वर्षे (Explanation: The sea-fort remained undefeated for 330 years until Chimaji Appa eventually conquered it.)"
+    },
+    {
+      "category": "धडा २२: माझी मनी (My Cat Mani)",
+      "question": "मनी कोणाला पाहून पळून जाते? (Looking at whom does Mani run away?)",
+      "options": [
+        "घरातील लोकांना (Family members)",
+        "उंदराला (The mouse)",
+        "अनोळखी माणसांना (Strangers)",
+        "पक्षांना (Birds)"
+      ],
+      "correct_answer": "अनोळखी माणसांना (Explanation: Mani is shy and runs away if someone she doesn't know tries to catch her.)"
+    },
+    {
+      "category": "धडा २३: मी बैल बोलतो आहे (The Ox Speaks)",
+      "question": "बैलाच्या अंगावर काय घालून मिरवणूक काढतात? (What is put on the bullock for the procession?)",
+      "options": [
+        "प्लास्टिक (Plastic)",
+        "भरजरी कापड/झूल (Embroidered cloth)",
+        "पांढरे कापड (White cloth)",
+        "काहीही नाही (Nothing)"
+      ],
+      "correct_answer": "भरजरी कापड/झूल (Explanation: On Bail Pola, bullocks are decorated with embroidered cloth called 'Jhool' as a mark of respect.)"
+    },
+    {
+      "category": "धडा २४: शुद्ध शब्द (Spelling Correction)",
+      "question": "खालीलपैकी शुद्ध (Correct) शब्द निवडा: (मी, परीक्षा, मंदिर, आशीर्वाद)",
+      "options": [
+        "मि, परिक्षा, मंदीर, आर्शिवाद",
+        "मी, परीक्षा, मंदिर, आशीर्वाद",
+        "मी, परीक्शा, मंदीर, आशिर्वाद",
+        "मि, परिक्षा, मंदिर, आर्शिवाद"
+      ],
+      "correct_answer": "मी, परीक्षा, मंदिर, आशीर्वाद (Explanation: Correct spelling requires the right use of long and short vowels (Ikar/Ukar) and the correct placement of the 'Ra' sound.)"
+    },
+    {
+      "category": "धडा २४: वाक्य दुरुस्ती (Sentence Correction)",
+      "question": "अशुद्ध वाक्य 'मुलगा जाते आहे' चे शुद्ध रूप काय? (Correct 'The boy is going'.)",
+      "options": [
+        "मुलगा जाते आहे.",
+        "मुलगा जातो आहे.",
+        "मुलगा खातो आहे.",
+        "मुलगा जातो आहात."
+      ],
+      "correct_answer": "मुलगा जातो आहे. (Explanation: In Marathi, the verb must match the male gender of the subject 'Mulga'.)"
+    },
+    {
+      "category": "धडा २४: व्याकरण (Respect/Plural)",
+      "question": "योग्य वाक्य निवडा: (You - Respectful)",
+      "options": [
+        "तुम्ही कसे आहे?",
+        "तुम्ही कसा आहात?",
+        "तुम्ही कसे आहात?",
+        "तुम्ही कशा आहे?"
+      ],
+      "correct_answer": "तुम्ही कसे आहात? (Explanation: When using 'Tumhi' for respect or plurals, the verb ends with 'aahat'.)"
+    },
+    {
+      "category": "धडा २५: अंकलेखन (Number Names 1-20)",
+      "question": "मराठीत '१५' आणि '१९' ला काय म्हणतात? (15 and 19)",
+      "options": [
+        "पाच आणि नऊ",
+        "पंधरा आणि एकोणीस",
+        "बारा आणि वीस",
+        "दहा आणि एकोणीस"
+      ],
+      "correct_answer": "पंधरा आणि एकोणीस (Explanation: 15 is Pandhra and 19 is Ekonees.)"
+    },
+    {
+      "category": "धडा २५: अंकलेखन (Number Names 21-40)",
+      "question": "मराठीत '२९' आणि '३९' ला काय म्हणतात? (29 and 39)",
+      "options": [
+        "एकोणीस आणि एकोणतीस",
+        "एकोणतीस आणि एकोणचाळीस",
+        "सत्तावीस आणि अडतीस",
+        "तीस आणि चाळीस"
+      ],
+      "correct_answer": "एकोणतीस आणि एकोणचाळीस (Explanation: 29 is Ekontees and 39 is Ekonchalees.)"
+    },{
+      "category": "धडा १८: माझा अनुभव - २ (Care & Empathy)",
+      "question": "आई-बाबा घरी नसल्यावर तेजसची काळजी कोणी घेतली? (Who took care of Tejas when parents were not home?)",
+      "options": [
+        "त्याच्या मित्राने",
+        "त्याच्या लहान बहिणीने (त्रिशा)",
+        "त्याच्या शिक्षकांनी",
+        "शेजाऱ्यांनी"
+      ],
+      "correct_answer": "त्याच्या लहान बहिणीने (त्रिशा) (Explanation: Even though Trisha was small, she acted maturely and cared for her brother.)"
+    },
+    {
+      "category": "धडा २०: तुळशीबाई (Poem Facts)",
+      "question": "तुळशीच्या डोक्यावर काय असते? (What is on Tulsi's head?)",
+      "options": [
+        "टोपी",
+        "मंजिरी",
+        "फुले",
+        "फळे"
+      ],
+      "correct_answer": "मंजिरी (Explanation: The delicate seeds/flower stalks on top of a Tulsi plant are called Manjari.)"
+    },
+    {
+      "category": "धडा २१: बुद्धिमान कोंबडा (Vocabulary)",
+      "question": "'मेजवानी' या शब्दाचा अर्थ काय? (What is the meaning of the word 'Mejwani'?)",
+      "options": [
+        "उपवास (Fast)",
+        "मेजवानी (Feast/Party)",
+        "काम (Work)",
+        "खोटे (Lie)"
+      ],
+      "correct_answer": "मेजवानी (Feast/Party) (Explanation: The fox invited the rooster to his house for a feast to trick him.)"
+    },
+    {
+      "category": "धडा २३: मी बैल बोलतो आहे (Ox's Life)",
+      "question": "बैल वर्षभर कोठे कष्ट करतो? (Where does the ox work hard all year round?)",
+      "options": [
+        "बागेत (Garden)",
+        "रस्त्यावर (Road)",
+        "शेतात (Farm/Field)",
+        "घरात (Home)"
+      ],
+      "correct_answer": "शेतात (Farm/Field) (Explanation: The ox helps the farmer by working in the heat and rain in the fields.)"
+    },
+    {
+      "category": "धडा २४: शुद्ध शब्द (Spelling Set 1)",
+      "question": "खालीलपैकी शुद्ध शब्द ओळखा: (Poet, Teacher, Daughter-in-law)",
+      "options": [
+        "कवि, गुरु, सुन",
+        "कवी, गुरू, सून",
+        "कवि, गुरू, सुन",
+        "कवी, गुरु, सून"
+      ],
+      "correct_answer": "कवी, गुरू, सून (Explanation: In Marathi, words ending in 'i' or 'u' sounds are usually long/Dirgha.)"
+    },
+    {
+      "category": "धडा २४: शुद्ध शब्द (Spelling Set 2)",
+      "question": "खालीलपैकी कोणता गट शुद्ध आहे? (Lamp, Shop, Bag)",
+      "options": [
+        "दीवा, दूकान, पिशवि",
+        "दिवा, दुकान, पिशवि",
+        "दिवा, दुकान, पिशवी",
+        "दीवा, दुकान, पिशवी"
+      ],
+      "correct_answer": "दिवा, दुकान, पिशवी (Explanation: Correct spellings use 'short i' for Diva/Dukan and 'long i' for Pishvi.)"
+    },
+    {
+      "category": "धडा २४: शुद्ध शब्द (Spelling Set 3)",
+      "question": "खालीलपैकी चुकीची जोडी ओळखा: (Identify the incorrect spelling pair)",
+      "options": [
+        "अतिथी - अथीती",
+        "प्रतीक्षा - प्रतिक्षा",
+        "उज्ज्वल - उज्वल",
+        "आशीर्वाद - आशीर्वाद"
+      ],
+      "correct_answer": "आशीर्वाद - आशीर्वाद (Explanation: Both options provided here are same, but in the actual test, 'आर्शिवाद' is the common mistake to avoid. The correct one is आशीर्वाद.)"
+    },
+    {
+      "category": "धडा २४: शुद्ध शब्द (Spelling Set 4)",
+      "question": "योग्य शुद्ध शब्द निवडा: (Request, Scene, Man)",
+      "options": [
+        "विनंती, दृश्य, पुरुष",
+        "विनंति, दृष्य, पूरूष",
+        "विनंती, दृष्य, पुरुष",
+        "विनंति, दृश्य, पूरूष"
+      ],
+      "correct_answer": "विनंती, दृश्य, पुरुष (Explanation: Note the correct 'u' sound in Purush and the 'tra' sound in Drushya.)"
+    },
+    {
+      "category": "धडा २४: वाक्य दुरुस्ती (Sentence Correction - Gender)",
+      "question": "'मुलगी खाणे खातो' या वाक्याचे शुद्ध रूप काय? (Correct 'The girl eats food'.)",
+      "options": [
+        "मुलगी खाणे खातो.",
+        "मुलगा खाणे खाते.",
+        "मुलगी खाणे खाते.",
+        "मुली खाणे खातात."
+      ],
+      "correct_answer": "मुलगी खाणे खाते. (Explanation: For female subjects (Mulgi), the verb ends in 'e'.)"
+    },
+    {
+      "category": "धडा २४: वाक्य दुरुस्ती (Sentence Correction - Past Tense)",
+      "question": "'असे तो बोलले' याचे शुद्ध रूप निवडा. (Correct 'He spoke like that'.)",
+      "options": [
+        "असे तो बोलला.",
+        "असे तो बोलली.",
+        "असे तो बोलतात.",
+        "असे तो बोलले."
+      ],
+      "correct_answer": "असे तो बोलला. (Explanation: For a singular male subject (To), the past tense verb is 'Bolla'.)"
+    },
+    {
+      "category": "धडा २४: वाक्य दुरुस्ती (Pronoun/Ikar)",
+      "question": "'मि जाते' या वाक्यात कोणती चूक आहे? (What is the mistake in 'I go'?)",
+      "options": [
+        "जाते",
+        "मि",
+        "वाक्य बरोबर आहे",
+        "क्रियापद"
+      ],
+      "correct_answer": "मि (Explanation: The word for 'I' must always be written with a long 'i' - मी.)"
+    },
+    {
+      "category": "धडा २५: अंकलेखन (Numbers 21-30)",
+      "question": "मराठीत '२४' आणि '२७' ला काय म्हणतात? (24 and 27)",
+      "options": [
+        "चोवीस आणि सत्तावीस",
+        "पंचवीस आणि अठ्ठावीस",
+        "तेवीस आणि सव्वीस",
+        "चोवीस आणि सव्वीस"
+      ],
+      "correct_answer": "चोवीस आणि सत्तावीस (Explanation: 24 is Chovees and 27 is Sattavees.)"
+    },
+    {
+      "category": "धडा २५: अंकलेखन (Numbers 31-40)",
+      "question": "अक्षरी लेखन ओळखा: ३३, ३४, ३७, ३८",
+      "options": [
+        "बत्तीस, चौतीस, सदतीस, अडतीस",
+        "तेहतीस, चौतीस, सदतीस, अडतीस",
+        "तेहतीस, पस्तीस, छत्तीस, सदतीस",
+        "तीस, चाळीस, पन्नास, साठ"
+      ],
+      "correct_answer": "तेहतीस, चौतीस, सदतीस, अडतीस (Explanation: These are the specific names for 33, 34, 37, and 38.)"
+    },{
+      "category": "धडा २४: शुद्ध शब्द (Spelling - Basic Words)",
+      "question": "Choose the correct spelling for 'I', 'Seed', and 'Poet':",
+      "options": [
+        "मि, बि, कवि",
+        "मी, बी, कवी",
+        "मि, बी, कवी",
+        "मी, बि, कवि"
+      ],
+      "correct_answer": "मी, बी, कवी (Explanation: In Marathi, 'I' is always written with a long 'i' (मी). Words like 'Bee' and 'Kavi' also use the long vowel at the end.)"
+    },
+    {
+      "category": "धडा २४: शुद्ध शब्द (Spelling - People & Places)",
+      "question": "Identify the correct group of spellings for 'Teacher', 'Daughter-in-law', and 'Nagpur':",
+      "options": [
+        "गुरु, सुन, नागपुर",
+        "गुरू, सून, नागपूर",
+        "गुरू, सुन, नागपूर",
+        "गुरु, सून, नागपुर"
+      ],
+      "correct_answer": "गुरू, सून, नागपूर (Explanation: Note that 'Guru', 'Soon', and 'Nagpur' all require the long 'u' (Ukar) sound for correct writing.)"
+    },
+    {
+      "category": "धडा २४: शुद्ध शब्द (Spelling - Everyday Objects)",
+      "question": "Which set shows the correct spelling for 'Lamp', 'School bag', and 'Shop'?",
+      "options": [
+        "दीवा, दप्तर, दूकान",
+        "दिवा, दप्तर, दुकान",
+        "दिवा, दप्तरा, दूकान",
+        "दीवा, दप्तर, दुकान"
+      ],
+      "correct_answer": "दिवा, दप्तर, दुकान (Explanation: 'Diva' and 'Dukan' use the short vowel sounds (Ikar/Ukar) at the beginning.)"
+    },
+    {
+      "category": "धडा २४: शुद्ध शब्द (Spelling - Education & Respect)",
+      "question": "Choose the correct spelling for 'Exam', 'Guest', and 'Waiting':",
+      "options": [
+        "परिक्षा, अथीती, प्रतिक्षा",
+        "परीक्षा, अतिथी, प्रतीक्षा",
+        "परिक्षा, अतिथी, प्रतिक्षा",
+        "परीक्षा, अथीती, प्रतीक्षा"
+      ],
+      "correct_answer": "परीक्षा, अतिथी, प्रतीक्षा (Explanation: 'Pariksha' and 'Pratiksha' must have a long 'i' in the middle. 'Atithi' uses short 'i' sounds.)"
+    },
+    {
+      "category": "धडा २४: शुद्ध शब्द (Spelling - Values & Nature)",
+      "question": "What is the correct way to write 'Blessing', 'Rupee', and 'Request'?",
+      "options": [
+        "आर्शिवाद, रूपया, विनंति",
+        "आशीर्वाद, रुपया, विनंती",
+        "आशीर्वाद, रूपया, विनंति",
+        "आर्शिवाद, रुपया, विनंती"
+      ],
+      "correct_answer": "आशीर्वाद, रुपया, विनंती (Explanation: 'Ashirwad' is often misspelled; the 'r' sound must be on the 'va'. 'Rupaya' uses a short 'u'.)"
+    },
+    {
+      "category": "धडा २४: शुद्ध शब्द (Spelling - Visuals & Brightness)",
+      "question": "Select the correct spellings for 'Bright', 'Scene', and 'Durva grass':",
+      "options": [
+        "उज्वल, दृष्य, दूर्वा",
+        "उज्ज्वल, दृश्य, दूर्वा",
+        "उज्ज्वल, दृष्य, दुर्वा",
+        "उज्वल, दृश्य, दूर्वा"
+      ],
+      "correct_answer": "उज्ज्वल, दृश्य, दूर्वा (Explanation: 'Ujjwal' has a double 'j'. 'Drushya' ends with a 'ya' sound but is spelled with 'shya'.)"
+    },
+    {
+      "category": "धडा २४: वाक्य दुरुस्ती (Sentence Correction - Gender)",
+      "question": "Which of these sentences is grammatically correct for a girl?",
+      "options": [
+        "बालिका शिकतो.",
+        "बालिका शिकते.",
+        "बालक शिकते.",
+        "बालिका शिकतात."
+      ],
+      "correct_answer": "बालिका शिकते. (Explanation: 'Balika' is female, so the action ending must be '-te' (ते).)"
+    },
+    {
+      "category": "धडा २४: वाक्य दुरुस्ती (Sentence Correction - Action)",
+      "question": "Correct the sentence: 'मुलगा जाते आहे.' (The boy is going.)",
+      "options": [
+        "मुलगी जाते आहे.",
+        "मुलगा जातो आहे.",
+        "मुलगा खातो आहे.",
+        "मुलगा जाते आहात."
+      ],
+      "correct_answer": "मुलगा जातो आहे. (Explanation: Since 'Mulga' is a boy, the verb must end in '-to' (तो).)"
+    },
+    {
+      "category": "धडा २४: वाक्य दुरुस्ती (Sentence Correction - Past Tense)",
+      "question": "Which is the correct way to say 'He spoke like that'?",
+      "options": [
+        "असे तो बोलले.",
+        "असे तो बोलली.",
+        "असे तो बोलला.",
+        "असे ती बोलला."
+      ],
+      "correct_answer": "असे तो बोलला. (Explanation: For a singular male subject 'To', the past tense verb is 'Bolla'.)"
+    },
+    {
+      "category": "धडा २४: वाक्य दुरुस्ती (Self & Respect)",
+      "question": "Identify the two correct sentences from the options below:",
+      "options": [
+        "१. मि जाते, २. तुम्ही कसे आहे?",
+        "१. मी जाते, २. तुम्ही कसे आहात?",
+        "१. मी जातो, २. तुम्ही कसा आहात?",
+        "१. मि जाते, २. तुम्ही कसे आहात?"
+      ],
+      "correct_answer": "१. मी जाते, २. तुम्ही कसे आहात? (Explanation: 'Mee' (I) always uses a long vowel, and 'Tumhi' (You) requires the respectful 'aahat' ending.)"
+    },{
+      "category": "धडा १८: माझा अनुभव - २ (Care & Empathy)",
+      "question": "तेजसने शाळेतून आल्यावर आपली बॅग कोठे टाकली? (Where did Tejas drop his bag after coming from school?)",
+      "options": [
+        "कपाटात (In the cupboard)",
+        "दारात (At the door)",
+        "खिडकीत (In the window)",
+        "बागेत (In the garden)"
+      ],
+      "correct_answer": "दारात (Explanation: Tejas was so weak from fever that he dropped his bag at the door and collapsed on the bed.)"
+    },
+    {
+      "category": "धडा १९: चित्र वर्णन (Picture Details)",
+      "question": "चित्रात मुलगी बागेत पाणी घालण्यासाठी काय वापरत आहे? (What is the girl using to water the garden?)",
+      "options": [
+        "पाईप (Pipe)",
+        "बादली (Bucket)",
+        "पाण्याचे भांडे/काचपात्र (Watering can)",
+        "ग्लास (Glass)"
+      ],
+      "correct_answer": "पाण्याचे भांडे/काचपात्र (Explanation: The girl is using a specific watering can to take care of her vegetables.)"
+    },
+    {
+      "category": "धडा २०: तुळशीबाई (Poem Context)",
+      "question": "तुळस कोठे मानाने उभी राहते? (Where does the Tulsi stand with pride?)",
+      "options": [
+        "घराच्या आत (Inside the house)",
+        "वृंदावनात (In the Vrindavan/pot)",
+        "रस्त्यावर (On the road)",
+        "शाळेत (In the school)"
+      ],
+      "correct_answer": "वृंदावनात (Explanation: The special decorative pot where Tulsi is planted is called Vrindavan, where she stands with pride.)"
+    },
+    {
+      "category": "धडा २१: बुद्धिमान कोंबडा (Rooster & Fox)",
+      "question": "कोल्ह्याने कोंबड्याला कोणते निमंत्रण दिले? (What invitation did the fox give to the rooster?)",
+      "options": [
+        "गाणे गाण्याचे (To sing a song)",
+        "जंगल पाहण्याचे (To see the jungle)",
+        "झोपण्याचे (To sleep)",
+        "पाणी पिण्याचे (To drink water)"
+      ],
+      "correct_answer": "जंगल पाहण्याचे (Explanation: The fox tried to lure the rooster down by offering to show him the whole jungle, or inviting him for a feast.)"
+    },
+    {
+      "category": "धडा २२: माझी मनी (Cat Mani)",
+      "question": "मनी मांजरीची शेपटी कशी आहे? (How is Mani the cat's tail?)",
+      "options": [
+        "छोटी (Small)",
+        "लांब (Long)",
+        "काळी (Black)",
+        "नाही (None)"
+      ],
+      "correct_answer": "लांब (Explanation: The poem describes Mani as having a long tail and being as soft as cotton.)"
+    },
+    {
+      "category": "धडा २३: मी बैल बोलतो आहे (Ox's Life)",
+      "question": "बैलपोळ्याच्या दिवशी बैलाला कामातून काय असते? (What does the ox have from work on Pola day?)",
+      "options": [
+        "खूप काम (Lots of work)",
+        "सुट्टी (Holiday/Rest)",
+        "शिक्षा (Punishment)",
+        "काहीही नाही (Nothing)"
+      ],
+      "correct_answer": "सुट्टी (Explanation: Bail Pola is the festival of bullocks, and they are given a holiday from farm work on this day.)"
+    },
+    {
+      "category": "धडा २४: शुद्ध शब्द (Spelling - Group A)",
+      "question": "योग्य शुद्ध शब्द निवडा: (Teacher, Exam, Blessing, Temple)",
+      "options": [
+        "गुरु, परिक्षा, आर्शिवाद, मंदीर",
+        "गुरू, परीक्षा, आशीर्वाद, मंदिर",
+        "गुरू, परिक्षा, आशिर्वाद, मंदीर",
+        "गुरु, परीक्षा, आर्शिवाद, मंदिर"
+      ],
+      "correct_answer": "गुरू, परीक्षा, आशीर्वाद, मंदिर (Explanation: These follow the correct long/short vowel rules and 'Ra' placement for blessings.)"
+    },
+    {
+      "category": "धडा २४: शुद्ध शब्द (Spelling - Group B)",
+      "question": "खालीलपैकी कोणत्या गटातील शब्द शुद्ध आहेत? (Guest, Waiting, Bright, Scene)",
+      "options": [
+        "अथीती, प्रतिक्षा, उज्वल, दृष्य",
+        "अतिथी, प्रतीक्षा, उज्ज्वल, दृश्य",
+        "अतिथी, प्रतिक्षा, उज्वल, दृश्य",
+        "अथीती, प्रतीक्षा, उज्ज्वल, दृष्य"
+      ],
+      "correct_answer": "अतिथी, प्रतीक्षा, उज्ज्वल, दृश्य (Explanation: These words test difficult spellings like the double 'j' in Ujjwal and the 'shya' sound in Drushya.)"
+    },
+    {
+      "category": "धडा २४: शुद्ध शब्द (Spelling - Group C)",
+      "question": "Identify the correct spellings for: (Daughter-in-law, Request, Rupee, Bag)",
+      "options": [
+        "सून, विनंती, रुपया, पिशवी",
+        "सुन, विनंति, रूपया, पिशवि",
+        "सून, विनंति, रुपया, पिशवि",
+        "सुन, विनंती, रूपया, पिशवी"
+      ],
+      "correct_answer": "सून, विनंती, रुपया, पिशवी (Explanation: Note the long vowel in Soon/Pishvi and the dot (Anuswar) in Vinanti.)"
+    },
+    {
+      "category": "धडा २४: वाक्य दुरुस्ती (Sentence Correction - Comprehensive)",
+      "question": "अशुद्ध वाक्य 'बालिका शिकतो' आणि 'मि जाते' चे शुद्ध रूप काय?",
+      "options": [
+        "बालिका शिकते आणि मी जाते.",
+        "बालिका शिकते आणि मि जाते.",
+        "बालक शिकते आणि मी जातो.",
+        "बालिका शिकतो आणि मी जाते."
+      ],
+      "correct_answer": "बालिका शिकते आणि मी जाते. (Explanation: 'Balika' is feminine, requiring 'shikte', and 'I' must always be written as 'Mee' (मी).)"
+    },
+    {
+      "category": "धडा २४: व्याकरण (Gender & Respect)",
+      "question": "'मुलगी खाणे खातो' आणि 'तुम्ही कसे आहे?' दुरुस्त करा.",
+      "options": [
+        "मुलगा खाणे खाते आणि तुम्ही कसा आहात?",
+        "मुलगी खाणे खाते आणि तुम्ही कसे आहात?",
+        "मुलगी खाणे खातो आणि तुम्ही कसे आहात?",
+        "मुलगी खाणे खाते आणि तुम्ही कसे आहे?"
+      ],
+      "correct_answer": "मुलगी खाणे खाते आणि तुम्ही कसे आहात? (Explanation: Verbs must agree with the subject's gender (Khate) and use the plural/respectful form (Aahat).)"
+    },
+    {
+      "category": "धडा २५: संख्या ज्ञान (Marathi Numbers 1-40)",
+      "question": "मराठीत '३८' आणि '३९' ला काय म्हणतात?",
+      "options": [
+        "अडतीस आणि चाळीस",
+        "सदतीस आणि एकोणतीस",
+        "अडतीस आणि एकोणचाळीस",
+        "तेहतीस आणि एकोणचाळीस"
+      ],
+      "correct_answer": "अडतीस आणि एकोणचाळीस (Explanation: 38 is Adotees and 39 is Ekonchalees.)"
     }
   ]
 }
