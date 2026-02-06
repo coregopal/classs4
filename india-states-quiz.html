@@ -1,0 +1,1402 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>India States & UTs Quiz</title>
+
+  <!-- Leaflet CSS -->
+  <link
+    rel="stylesheet"
+    href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+  />
+
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    }
+    
+    .container {
+      display: flex;
+      height: 100vh;
+    }
+    
+    #map {
+      width: 60%;
+      height: 100vh;
+      border-right: 2px solid #333;
+    }
+    
+    .quiz-panel {
+      width: 40%;
+      height: 100vh;
+      overflow-y: auto;
+      background: white;
+      padding: 20px;
+      box-sizing: border-box;
+    }
+    
+    .quiz-header {
+      text-align: center;
+      margin-bottom: 20px;
+    }
+    
+    .quiz-header h1 {
+      color: #333;
+      margin: 0 0 10px 0;
+      font-size: 24px;
+    }
+    
+    .quiz-controls {
+      display: flex;
+      gap: 10px;
+      margin-bottom: 20px;
+      justify-content: center;
+    }
+    
+    .btn {
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 14px;
+      transition: all 0.3s ease;
+    }
+    
+    .btn-primary {
+      background: #007bff;
+      color: white;
+    }
+    
+    .btn-primary:hover {
+      background: #0056b3;
+    }
+    
+    .btn-success {
+      background: #28a745;
+      color: white;
+    }
+    
+    .btn-success:hover {
+      background: #1e7e34;
+    }
+    
+    .data-table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-top: 20px;
+      font-size: 12px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+    
+    .data-table th {
+      background: #f8f9fa;
+      padding: 8px;
+      text-align: left;
+      border: 1px solid #dee2e6;
+      font-weight: bold;
+      position: sticky;
+      top: 0;
+    }
+    
+    .data-table td {
+      padding: 8px;
+      border: 1px solid #dee2e6;
+      vertical-align: top;
+    }
+    
+    .data-table tr:hover {
+      background: #f5f5f5;
+    }
+    
+    .quiz-question {
+      background: #e3f2fd;
+      padding: 15px;
+      border-radius: 5px;
+      margin: 20px 0;
+      border-left: 4px solid #2196f3;
+    }
+    
+    .quiz-question h3 {
+      margin: 0 0 10px 0;
+      color: #1976d2;
+    }
+    
+    .quiz-options {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 10px;
+      margin-top: 10px;
+    }
+    
+    .quiz-option {
+      padding: 10px;
+      border: 1px solid #ddd;
+      border-radius: 3px;
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+    
+    .quiz-option:hover {
+      background: #f0f0f0;
+      border-color: #2196f3;
+    }
+    
+    .quiz-option.correct {
+      background: #d4edda;
+      border-color: #28a745;
+    }
+    
+    .quiz-option.wrong {
+      background: #f8d7da;
+      border-color: #dc3545;
+    }
+    
+    .quiz-option.disabled {
+      cursor: not-allowed;
+      opacity: 0.6;
+    }
+    
+    .score-display {
+      text-align: center;
+      font-size: 18px;
+      font-weight: bold;
+      margin: 20px 0;
+      padding: 10px;
+      background: #fff3cd;
+      border-radius: 5px;
+      border: 1px solid #ffeaa7;
+    }
+    
+    .highlight-state {
+      background: #ffeb3b !important;
+      font-weight: bold;
+    }
+    
+    .legend {
+      position: absolute;
+      bottom: 20px;
+      left: 20px;
+      background: white;
+      padding: 10px;
+      border-radius: 5px;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.2);
+      z-index: 1000;
+    }
+    
+    .legend h4 {
+      margin: 0 0 10px 0;
+      font-size: 14px;
+    }
+    
+    .legend-item {
+      display: flex;
+      align-items: center;
+      margin: 5px 0;
+      font-size: 12px;
+    }
+    
+    .legend-color {
+      width: 20px;
+      height: 20px;
+      margin-right: 8px;
+      border: 1px solid #333;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <div id="map"></div>
+  
+  <div class="quiz-panel">
+    <div class="quiz-header">
+      <h1>🇮🇳 India States & UTs Quiz</h1>
+      <div class="quiz-controls">
+        <button class="btn btn-primary" onclick="startQuiz()">Start Quiz</button>
+        <button class="btn btn-success" onclick="showDataTable()">Show Data Table</button>
+      </div>
+    </div>
+    
+    <div id="score-display" class="score-display" style="display: none;">
+      Score: <span id="score">0</span> / <span id="total-questions">0</span>
+    </div>
+    
+    <div id="quiz-content"></div>
+  </div>
+</div>
+
+<div class="legend">
+  <h4>Map Legend</h4>
+  <div class="legend-item">
+    <div class="legend-color" style="background: #ffc107;"></div>
+    <span>India Territory</span>
+  </div>
+  <div class="legend-item">
+    <div class="legend-color" style="background: #28a745;"></div>
+    <span>Correct Answer</span>
+  </div>
+  <div class="legend-item">
+    <div class="legend-color" style="background: #dc3545;"></div>
+    <span>Wrong Answer</span>
+  </div>
+</div>
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<script>
+  // State/UT Data (Exhaustive)
+  const stateData = {
+    "Jammu & Kashmir": {
+      capital: "Srinagar",
+      cities: ["Jammu", "Gulmarg"],
+      rivers: ["Jhelum", "Chenab", "Tawi"],
+      vegetation: "Coniferous, Chinar trees",
+      crops: ["Rice", "wheat", "saffron", "fruits"],
+      occupations: ["Agriculture", "handicrafts"]
+    },
+    "Ladakh": {
+      capital: "Leh",
+      cities: [],
+      rivers: ["Indus"],
+      vegetation: "Grass, shrubs, willow, poplar",
+      crops: ["Barley", "wheat"],
+      occupations: ["Livestock rearing", "weaving"]
+    },
+    "Himachal Pradesh": {
+      capital: "Shimla",
+      cities: ["Kullu", "Manali"],
+      rivers: ["Ravi", "Beas", "Satluj"],
+      vegetation: "Pine, deodar, sal trees",
+      crops: ["Wheat", "maize", "potatoes", "fruit"],
+      occupations: ["Farming", "fruit preservation"]
+    },
+    "Uttarakhand": {
+      capital: "Dehra Dun",
+      cities: ["Mussoorie"],
+      rivers: ["Ganga", "Yamuna"],
+      vegetation: "Grassy slopes, deciduous",
+      crops: ["Potatoes", "maize", "fruit"],
+      occupations: ["Farming", "dairy", "tourism"]
+    },
+    "Punjab": {
+      capital: "Chandigarh",
+      cities: ["Amritsar"],
+      rivers: ["Ravi", "Beas", "Satluj"],
+      vegetation: "(Forests cleared for fields)",
+      crops: ["Wheat", "rice", "cotton"],
+      occupations: ["Farming", "dairy", "textiles"]
+    },
+    "Haryana": {
+      capital: "Chandigarh",
+      cities: ["Faridabad"],
+      rivers: ["Yamuna", "Ghaggar"],
+      vegetation: "Scrub, plantation trees",
+      crops: ["Wheat", "rice", "cotton"],
+      occupations: ["Agriculture", "dairy"]
+    },
+    "Delhi": {
+      capital: "New Delhi",
+      cities: [],
+      rivers: ["Yamuna"],
+      vegetation: "(Urban vegetation)",
+      crops: ["Wheat", "vegetables"],
+      occupations: ["Government service", "offices"]
+    },
+    "Uttar Pradesh": {
+      capital: "Lucknow",
+      cities: ["Agra", "Varanasi"],
+      rivers: ["Ganga", "Yamuna", "Gomti"],
+      vegetation: "Scrub (south)",
+      crops: ["Wheat", "sugar cane", "rice"],
+      occupations: ["Agriculture", "tourism"]
+    },
+    "Bihar": {
+      capital: "Patna",
+      cities: ["Bodh Gaya", "Bhagalpur"],
+      rivers: ["Ganga", "Kosi", "Son"],
+      vegetation: "Deciduous forests",
+      crops: ["Rice", "sugar cane", "lychee"],
+      occupations: ["Farming", "silk weaving"]
+    },
+    "West Bengal": {
+      capital: "Kolkata",
+      cities: ["Darjeeling"],
+      rivers: ["Hugli", "Tista"],
+      vegetation: "Conifers, Mangroves",
+      crops: ["Rice", "jute", "tea"],
+      occupations: ["Farming", "fishing", "offices"]
+    },
+    "Odisha": {
+      capital: "Bhubaneshwar",
+      cities: ["Puri"],
+      rivers: ["Mahanadi", "Subarnarekha"],
+      vegetation: "Bamboo, teak, rosewood",
+      crops: ["Rice", "pulses", "coconuts"],
+      occupations: ["Farming", "fishing", "silk"]
+    },
+    "Assam": {
+      capital: "Dispur",
+      cities: ["Guwahati"],
+      rivers: ["Brahmaputra"],
+      vegetation: "Evergreen, bamboo, ferns",
+      crops: ["Rice", "tea", "jute", "fruit"],
+      occupations: ["Tea gardens", "oil refineries"]
+    },
+    "Sikkim": {
+      capital: "Gangtok",
+      cities: [],
+      rivers: ["Tista", "Rangit"],
+      vegetation: "Orchids, ferns, bamboo",
+      crops: ["Corn", "rice", "cardamom"],
+      occupations: ["Farming", "scroll painting"]
+    },
+    "Arunachal Pradesh": {
+      capital: "Itanagar",
+      cities: ["Tawang"],
+      rivers: ["Dihang", "Lohit", "Dibang"],
+      vegetation: "Swampy rainforests",
+      crops: ["Corn", "rice", "fruit", "spices"],
+      occupations: ["Farming (jhoom)", "silk"]
+    },
+    "Nagaland": {
+      capital: "Kohima",
+      cities: ["Dimapur"],
+      rivers: ["Doyang", "Dikhu"],
+      vegetation: "Evergreen, mahogany",
+      crops: ["Rice", "corn", "sugar cane"],
+      occupations: ["Farming", "weaving"]
+    },
+    "Manipur": {
+      capital: "Imphal",
+      cities: [],
+      rivers: ["Manipur River"],
+      vegetation: "Hilly forests, bamboo",
+      crops: ["Rice", "mustard", "pulses"],
+      occupations: ["Farming", "fishing", "soap"]
+    },
+    "Mizoram": {
+      capital: "Aizawl",
+      cities: [],
+      rivers: ["Kaladan", "Tlawng"],
+      vegetation: "Evergreen, ironwood",
+      crops: ["Rice", "corn", "ginger"],
+      occupations: ["Farming", "sericulture"]
+    },
+    "Tripura": {
+      capital: "Agartala",
+      cities: [],
+      rivers: ["Gomti"],
+      vegetation: "Sal, bamboo",
+      crops: ["Rice", "jute", "rubber"],
+      occupations: ["Agriculture", "fish farming"]
+    },
+    "Meghalaya": {
+      capital: "Shillong",
+      cities: [],
+      rivers: ["Daring", "Umkhri"],
+      vegetation: "Pine, oak, bamboo",
+      crops: ["Rice", "betel nuts", "chillies"],
+      occupations: ["Agriculture", "factories"]
+    },
+    "Madhya Pradesh": {
+      capital: "Bhopal",
+      cities: ["Gwalior"],
+      rivers: ["Narmada", "Chambal"],
+      vegetation: "Teak, sal, tendu trees",
+      crops: ["Wheat", "soya beans", "pulses"],
+      occupations: ["Farming", "oil crushing"]
+    },
+    "Jharkhand": {
+      capital: "Ranchi",
+      cities: ["Jamshedpur"],
+      rivers: ["Damodar", "Subarnarekha"],
+      vegetation: "Sal, asan (for silkworms)",
+      crops: ["Rice", "maize", "pulses"],
+      occupations: ["Mining", "factories"]
+    },
+    "Chhattisgarh": {
+      capital: "Raipur",
+      cities: ["Bhilai"],
+      rivers: ["Mahanadi", "Indravati"],
+      vegetation: "Deciduous, bamboo",
+      crops: ["Rice", "maize", "millets"],
+      occupations: ["Farming", "steel plants"]
+    },
+    "Telangana": {
+      capital: "Hyderabad",
+      cities: ["Warangal"],
+      rivers: ["Godavari", "Krishna"],
+      vegetation: "Thorny, teak, neem",
+      crops: ["Rice", "tobacco", "cotton"],
+      occupations: ["Farming", "IT", "textiles"]
+    },
+    "Rajasthan": {
+      capital: "Jaipur",
+      cities: ["Udaipur"],
+      rivers: ["Luni", "Banas"],
+      vegetation: "Thorny shrubs, desert",
+      crops: ["Bajra", "pulses", "cotton"],
+      occupations: ["Farming", "cattle", "marble"]
+    },
+    "Gujarat": {
+      capital: "Gandhinagar",
+      cities: ["Anand"],
+      rivers: ["Narmada", "Tapi"],
+      vegetation: "Scrub, teak, papyrus",
+      crops: ["Oilseeds", "cotton", "bajra"],
+      occupations: ["Farming", "dairy", "salt"]
+    },
+    "Maharashtra": {
+      capital: "Mumbai",
+      cities: ["Pune", "Nagpur"],
+      rivers: ["Godavari", "Krishna"],
+      vegetation: "Mangroves, teak",
+      crops: ["Rice", "sugar cane", "cotton"],
+      occupations: ["Farming", "film industry"]
+    },
+    "Goa": {
+      capital: "Panaji",
+      cities: ["Madgaon"],
+      rivers: ["Mandovi", "Zuari"],
+      vegetation: "Coconut, light forests",
+      crops: ["Coconuts", "cashew", "rice"],
+      occupations: ["Tourism", "fishing", "mining"]
+    },
+    "Karnataka": {
+      capital: "Bengaluru",
+      cities: ["Mysuru"],
+      rivers: ["Kaveri", "Krishna"],
+      vegetation: "Sandalwood, deciduous",
+      crops: ["Coffee", "rice", "ragi"],
+      occupations: ["Farming", "IT", "silk"]
+    },
+    "Andhra Pradesh": {
+      capital: "Amaravati",
+      cities: ["Tirupati"],
+      rivers: ["Krishna", "Penneru"],
+      vegetation: "Mangroves, neem",
+      crops: ["Rice", "millets", "tobacco"],
+      occupations: ["Farming", "fishing"]
+    },
+    "Kerala": {
+      capital: "Thiruvananthapuram",
+      cities: [],
+      rivers: ["Periyar", "Pamba"],
+      vegetation: "Coconut groves, rain forest",
+      crops: ["Rubber", "tapioca", "spices"],
+      occupations: ["Farming", "coir", "IT"]
+    },
+    "Tamil Nadu": {
+      capital: "Chennai",
+      cities: ["Madurai"],
+      rivers: ["Kaveri", "Vaigai"],
+      vegetation: "Evergreen, deciduous",
+      crops: ["Rice", "sugar cane", "cashew"],
+      occupations: ["Farming", "factories"]
+    },
+    "Andaman": {
+      capital: "Port Blair",
+      cities: [],
+      rivers: ["Small streams"],
+      vegetation: "Mangroves, thick forests",
+      crops: ["Rice", "coconut", "rubber"],
+      occupations: ["Farming", "fishing", "tourism"]
+    },
+    "Lakshadweep": {
+      capital: "Kavaratti",
+      cities: [],
+      rivers: ["(None)"],
+      vegetation: "Coconut palms, tamarind",
+      crops: ["Jackfruit", "banana"],
+      occupations: ["Fishing", "coconut products"]
+    }
+  };
+
+  // Quiz state
+  let currentQuestion = 0;
+  let score = 0;
+  let quizActive = false;
+  let currentQuizData = [];
+  let answeredQuestions = new Set();
+
+  // Initialize map
+  const map = L.map("map").setView([22.5, 80], 5);
+
+  // Add base tiles
+  L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+    attribution: "© OpenStreetMap contributors"
+  }).addTo(map);
+
+  // India outline GeoJSON with state boundaries
+  const indiaGeoJson = {
+    "type": "FeatureCollection",
+    "features": [
+      // Simplified state boundaries (approximate coordinates)
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jammu & Kashmir",
+          "state": "Jammu & Kashmir"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[74.4, 37.0], [80.3, 37.0], [80.3, 32.0], [74.4, 32.0], [74.4, 37.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Ladakh",
+          "state": "Ladakh"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[76.0, 37.0], [80.3, 37.0], [80.3, 32.0], [76.0, 32.0], [76.0, 37.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Himachal Pradesh",
+          "state": "Himachal Pradesh"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[75.5, 32.0], [78.5, 32.0], [78.5, 30.5], [75.5, 30.5], [75.5, 32.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Punjab",
+          "state": "Punjab"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[74.0, 32.0], [76.5, 32.0], [76.5, 29.5], [74.0, 29.5], [74.0, 32.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Haryana",
+          "state": "Haryana"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[74.0, 29.5], [77.5, 29.5], [77.5, 27.5], [74.0, 27.5], [74.0, 29.5]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Delhi",
+          "state": "Delhi"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[76.8, 28.8], [77.3, 28.8], [77.3, 28.4], [76.8, 28.4], [76.8, 28.8]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Uttarakhand",
+          "state": "Uttarakhand"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[77.5, 31.0], [81.0, 31.0], [81.0, 28.5], [77.5, 28.5], [77.5, 31.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Uttar Pradesh",
+          "state": "Uttar Pradesh"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[77.0, 28.5], [84.0, 28.5], [84.0, 24.0], [77.0, 24.0], [77.0, 28.5]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rajasthan",
+          "state": "Rajasthan"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[69.5, 29.0], [78.0, 29.0], [78.0, 23.0], [69.5, 23.0], [69.5, 29.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gujarat",
+          "state": "Gujarat"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[68.0, 24.0], [74.5, 24.0], [74.5, 20.0], [68.0, 20.0], [68.0, 24.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Madhya Pradesh",
+          "state": "Madhya Pradesh"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[74.0, 26.0], [82.0, 26.0], [82.0, 21.0], [74.0, 21.0], [74.0, 26.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bihar",
+          "state": "Bihar"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[83.0, 27.0], [88.0, 27.0], [88.0, 24.0], [83.0, 24.0], [83.0, 27.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jharkhand",
+          "state": "Jharkhand"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[83.0, 24.0], [87.5, 24.0], [87.5, 21.5], [83.0, 21.5], [83.0, 24.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "West Bengal",
+          "state": "West Bengal"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[85.5, 27.0], [90.0, 27.0], [90.0, 21.5], [85.5, 21.5], [85.5, 27.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Odisha",
+          "state": "Odisha"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[81.5, 22.0], [87.5, 22.0], [87.5, 17.5], [81.5, 17.5], [81.5, 22.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Chhattisgarh",
+          "state": "Chhattisgarh"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[80.0, 23.0], [84.5, 23.0], [84.5, 17.5], [80.0, 17.5], [80.0, 23.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Maharashtra",
+          "state": "Maharashtra"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[72.5, 21.0], [80.5, 21.0], [80.5, 15.5], [72.5, 15.5], [72.5, 21.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Goa",
+          "state": "Goa"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[73.5, 15.5], [74.5, 15.5], [74.5, 14.5], [73.5, 14.5], [73.5, 15.5]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Karnataka",
+          "state": "Karnataka"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[74.0, 15.5], [78.5, 15.5], [78.5, 11.5], [74.0, 11.5], [74.0, 15.5]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Andhra Pradesh",
+          "state": "Andhra Pradesh"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[76.5, 19.0], [80.5, 19.0], [80.5, 13.5], [76.5, 13.5], [76.5, 19.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Telangana",
+          "state": "Telangana"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[77.5, 19.5], [80.5, 19.5], [80.5, 15.5], [77.5, 15.5], [77.5, 19.5]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Tamil Nadu",
+          "state": "Tamil Nadu"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[76.5, 13.5], [80.5, 13.5], [80.5, 8.0], [76.5, 8.0], [76.5, 13.5]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kerala",
+          "state": "Kerala"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[74.5, 12.5], [77.5, 12.5], [77.5, 8.0], [74.5, 8.0], [74.5, 12.5]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Assam",
+          "state": "Assam"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[89.5, 27.5], [96.0, 27.5], [96.0, 24.0], [89.5, 24.0], [89.5, 27.5]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Arunachal Pradesh",
+          "state": "Arunachal Pradesh"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[91.5, 29.0], [97.5, 29.0], [97.5, 26.5], [91.5, 26.5], [91.5, 29.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nagaland",
+          "state": "Nagaland"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[93.0, 26.5], [95.5, 26.5], [95.5, 25.0], [93.0, 25.0], [93.0, 26.5]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Manipur",
+          "state": "Manipur"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[93.0, 25.0], [94.5, 25.0], [94.5, 23.5], [93.0, 23.5], [93.0, 25.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mizoram",
+          "state": "Mizoram"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[92.0, 24.0], [93.5, 24.0], [93.5, 22.0], [92.0, 22.0], [92.0, 24.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Tripura",
+          "state": "Tripura"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[91.0, 24.0], [92.5, 24.0], [92.5, 22.5], [91.0, 22.5], [91.0, 24.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Meghalaya",
+          "state": "Meghalaya"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[90.0, 26.0], [92.0, 26.0], [92.0, 24.5], [90.0, 24.5], [90.0, 26.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sikkim",
+          "state": "Sikkim"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[88.0, 28.0], [89.0, 28.0], [89.0, 27.0], [88.0, 27.0], [88.0, 28.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Andaman",
+          "state": "Andaman"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[92.0, 13.0], [94.0, 13.0], [94.0, 10.0], [92.0, 10.0], [92.0, 13.0]]]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lakshadweep",
+          "state": "Lakshadweep"
+        },
+        "geometry": {
+          "type": "Polygon",
+          "coordinates": [[[71.0, 11.0], [74.0, 11.0], [74.0, 8.0], [71.0, 8.0], [71.0, 11.0]]]
+        }
+      }
+    ]
+  };
+
+  // Add GeoJSON to map with interactive features
+  const geoLayer = L.geoJSON(indiaGeoJson, {
+    style: {
+      color: "#ff5722",
+      weight: 2,
+      fillColor: "#ffc107",
+      fillOpacity: 0.4
+    },
+    onEachFeature: function (feature, layer) {
+      // Bind popup with state name
+      layer.bindPopup(feature.properties.name || "Region");
+      
+      // Add click event for state-specific quiz
+      layer.on({
+        click: function() {
+          const stateName = feature.properties.state;
+          if (stateName && stateData[stateName]) {
+            startStateQuiz(stateName);
+          }
+        },
+        mouseover: function() {
+          this.setStyle({
+            fillColor: "#ffeb3b",
+            fillOpacity: 0.6,
+            weight: 3
+          });
+        },
+        mouseout: function() {
+          this.setStyle({
+            fillColor: "#ffc107",
+            fillOpacity: 0.4,
+            weight: 2
+          });
+        }
+      });
+    }
+  }).addTo(map);
+
+  // Fit map to GeoJSON bounds
+  map.fitBounds(geoLayer.getBounds());
+
+  // Quiz functions
+  let selectedState = null;
+
+  function startStateQuiz(stateName) {
+    selectedState = stateName;
+    currentQuestion = 0;
+    score = 0;
+    quizActive = true;
+    answeredQuestions.clear();
+    currentQuizData = generateStateQuizQuestions(stateName);
+    
+    document.getElementById('score-display').style.display = 'block';
+    document.getElementById('total-questions').textContent = currentQuizData.length;
+    document.getElementById('score').textContent = score;
+    
+    showStateQuestion();
+  }
+
+  function startQuiz() {
+    currentQuestion = 0;
+    score = 0;
+    quizActive = true;
+    answeredQuestions.clear();
+    currentQuizData = generateQuizQuestions();
+    
+    document.getElementById('score-display').style.display = 'block';
+    document.getElementById('total-questions').textContent = currentQuizData.length;
+    document.getElementById('score').textContent = score;
+    
+    showQuestion();
+  }
+
+  function generateStateQuizQuestions(stateName) {
+    const questions = [];
+    const stateInfo = stateData[stateName];
+    
+    // Generate questions for the selected state
+    const questionTypes = [
+      {
+        type: 'capital',
+        text: `What is the capital of ${stateName}?`,
+        correct: stateInfo.capital
+      },
+      {
+        type: 'city',
+        text: `Which of these cities is in ${stateName}?`,
+        correct: stateInfo.cities.length > 0 ? stateInfo.cities[0] : stateInfo.capital
+      },
+      {
+        type: 'river',
+        text: `Which of these rivers flows through ${stateName}?`,
+        correct: Array.isArray(stateInfo.rivers) ? stateInfo.rivers[0] : stateInfo.rivers
+      },
+      {
+        type: 'vegetation',
+        text: `What is the natural vegetation of ${stateName}?`,
+        correct: stateInfo.vegetation
+      },
+      {
+        type: 'crop',
+        text: `Which of these is a major crop in ${stateName}?`,
+        correct: Array.isArray(stateInfo.crops) ? stateInfo.crops[0] : stateInfo.crops
+      },
+      {
+        type: 'occupation',
+        text: `What is the main occupation in ${stateName}?`,
+        correct: Array.isArray(stateInfo.occupations) ? stateInfo.occupations[0] : stateInfo.occupations
+      }
+    ];
+    
+    // Create 6 questions (one for each type)
+    questionTypes.forEach((qType, index) => {
+      const allOptions = getAllOptions(qType.type, qType.correct);
+      questions.push({
+        text: qType.text,
+        options: allOptions,
+        correct: qType.correct,
+        state: stateName,
+        type: qType.type
+      });
+    });
+    
+    // Shuffle questions
+    return questions.sort(() => Math.random() - 0.5);
+  }
+
+  function getAllOptions(questionType, correctAnswer) {
+    const options = [correctAnswer];
+    const allStates = Object.keys(stateData);
+    
+    // Generate 3 wrong options from other states
+    while (options.length < 4) {
+      const randomState = allStates[Math.floor(Math.random() * allStates.length)];
+      const stateInfo = stateData[randomState];
+      let wrongOption;
+      
+      switch(questionType) {
+        case 'capital':
+          wrongOption = stateInfo.capital;
+          break;
+        case 'city':
+          wrongOption = stateInfo.cities.length > 0 ? stateInfo.cities[0] : stateInfo.capital;
+          break;
+        case 'river':
+          wrongOption = Array.isArray(stateInfo.rivers) ? stateInfo.rivers[0] : stateInfo.rivers;
+          break;
+        case 'vegetation':
+          wrongOption = stateInfo.vegetation;
+          break;
+        case 'crop':
+          wrongOption = Array.isArray(stateInfo.crops) ? stateInfo.crops[0] : stateInfo.crops;
+          break;
+        case 'occupation':
+          wrongOption = Array.isArray(stateInfo.occupations) ? stateInfo.occupations[0] : stateInfo.occupations;
+          break;
+      }
+      
+      if (!options.includes(wrongOption)) {
+        options.push(wrongOption);
+      }
+    }
+    
+    // Shuffle options
+    return options.sort(() => Math.random() - 0.5);
+  }
+
+  function generateQuizQuestions() {
+    const questions = [];
+    const states = Object.keys(stateData);
+    
+    // Generate 10 random questions
+    for (let i = 0; i < 10; i++) {
+      const randomState = states[Math.floor(Math.random() * states.length)];
+      const stateInfo = stateData[randomState];
+      const questionTypes = ['capital', 'river', 'vegetation', 'crop', 'occupation'];
+      const questionType = questionTypes[Math.floor(Math.random() * questionTypes.length)];
+      
+      let question = {};
+      
+      switch(questionType) {
+        case 'capital':
+          question = {
+            text: `What is the capital of ${randomState}?`,
+            options: generateOptions(stateInfo.capital, states, 'capital'),
+            correct: stateInfo.capital,
+            state: randomState
+          };
+          break;
+        case 'river':
+          question = {
+            text: `Which of these rivers flows through ${randomState}?`,
+            options: generateOptions(stateInfo.rivers[0], states, 'rivers'),
+            correct: stateInfo.rivers[0],
+            state: randomState
+          };
+          break;
+        case 'vegetation':
+          question = {
+            text: `What is the natural vegetation of ${randomState}?`,
+            options: generateOptions(stateInfo.vegetation, states, 'vegetation'),
+            correct: stateInfo.vegetation,
+            state: randomState
+          };
+          break;
+        case 'crop':
+          question = {
+            text: `Which of these is a major crop in ${randomState}?`,
+            options: generateOptions(stateInfo.crops[0], states, 'crops'),
+            correct: stateInfo.crops[0],
+            state: randomState
+          };
+          break;
+        case 'occupation':
+          question = {
+            text: `What is the main occupation in ${randomState}?`,
+            options: generateOptions(stateInfo.occupations[0], states, 'occupations'),
+            correct: stateInfo.occupations[0],
+            state: randomState
+          };
+          break;
+      }
+      
+      questions.push(question);
+    }
+    
+    return questions;
+  }
+
+  function generateOptions(correct, states, type) {
+    const options = [correct];
+    const allStates = Object.keys(stateData);
+    
+    // Generate 3 wrong options
+    while (options.length < 4) {
+      const randomState = allStates[Math.floor(Math.random() * allStates.length)];
+      const stateInfo = stateData[randomState];
+      let wrongOption;
+      
+      switch(type) {
+        case 'capital':
+          wrongOption = stateInfo.capital;
+          break;
+        case 'rivers':
+          wrongOption = stateInfo.rivers[0];
+          break;
+        case 'vegetation':
+          wrongOption = stateInfo.vegetation;
+          break;
+        case 'crops':
+          wrongOption = stateInfo.crops[0];
+          break;
+        case 'occupations':
+          wrongOption = stateInfo.occupations[0];
+          break;
+      }
+      
+      if (!options.includes(wrongOption)) {
+        options.push(wrongOption);
+      }
+    }
+    
+    // Shuffle options
+    return options.sort(() => Math.random() - 0.5);
+  }
+
+  function showStateQuestion() {
+    if (currentQuestion >= currentQuizData.length) {
+      showStateResults();
+      return;
+    }
+    
+    const question = currentQuizData[currentQuestion];
+    const quizContent = document.getElementById('quiz-content');
+    
+    quizContent.innerHTML = `
+      <div class="quiz-question">
+        <h3>📍 ${selectedState} - Question ${currentQuestion + 1} of ${currentQuizData.length}</h3>
+        <p><strong>Category:</strong> ${question.type.charAt(0).toUpperCase() + question.type.slice(1)}</p>
+        <p>${question.text}</p>
+        <div class="quiz-options">
+          ${question.options.map((option, index) => `
+            <div class="quiz-option" onclick="selectStateAnswer(${index})" data-option="${option}">
+              ${option}
+            </div>
+          `).join('')}
+        </div>
+      </div>
+    `;
+  }
+
+  function selectStateAnswer(optionIndex) {
+    if (answeredQuestions.has(currentQuestion)) return;
+    
+    const question = currentQuizData[currentQuestion];
+    const selectedOption = question.options[optionIndex];
+    const isCorrect = selectedOption === question.correct;
+    
+    answeredQuestions.add(currentQuestion);
+    
+    // Update UI
+    const options = document.querySelectorAll('.quiz-option');
+    options.forEach((option, index) => {
+      option.classList.add('disabled');
+      if (index === optionIndex) {
+        option.classList.add(isCorrect ? 'correct' : 'wrong');
+      } else if (option.dataset.option === question.correct) {
+        option.classList.add('correct');
+      }
+    });
+    
+    if (isCorrect) {
+      score++;
+      document.getElementById('score').textContent = score;
+    }
+    
+    // Move to next question after delay
+    setTimeout(() => {
+      currentQuestion++;
+      showStateQuestion();
+    }, 2000);
+  }
+
+  function showStateResults() {
+    quizActive = false;
+    const percentage = Math.round((score / currentQuizData.length) * 100);
+    const quizContent = document.getElementById('quiz-content');
+    
+    quizContent.innerHTML = `
+      <div class="quiz-question">
+        <h3>🎉 ${selectedState} Quiz Complete!</h3>
+        <p>Your Score: ${score} / ${currentQuizData.length} (${percentage}%)</p>
+        <p>${percentage >= 70 ? 'Excellent work!' : percentage >= 50 ? 'Good effort!' : 'Keep practicing!'}</p>
+        <div class="quiz-controls">
+          <button class="btn btn-primary" onclick="startStateQuiz('${selectedState}')">Try Again</button>
+          <button class="btn btn-success" onclick="showStateDataTable('${selectedState}')">View ${selectedState} Data</button>
+          <button class="btn btn-success" onclick="showDataTable()">All States Data</button>
+        </div>
+      </div>
+    `;
+  }
+
+  function showStateDataTable(stateName) {
+    const quizContent = document.getElementById('quiz-content');
+    const stateInfo = stateData[stateName];
+    
+    if (!stateInfo) {
+      quizContent.innerHTML = '<div class="quiz-question"><h3>State data not found</h3></div>';
+      return;
+    }
+    
+    const citiesText = stateInfo.cities.length > 0 ? `${stateInfo.capital}, ${stateInfo.cities.join(', ')}` : stateInfo.capital;
+    
+    quizContent.innerHTML = `
+      <div class="quiz-question">
+        <h3>📊 ${stateName} - State Data</h3>
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th>Category</th>
+              <th>Details</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td><strong>Capital</strong></td>
+              <td>${stateInfo.capital}</td>
+            </tr>
+            <tr>
+              <td><strong>Famous Cities</strong></td>
+              <td>${citiesText}</td>
+            </tr>
+            <tr>
+              <td><strong>Rivers</strong></td>
+              <td>${Array.isArray(stateInfo.rivers) ? stateInfo.rivers.join(', ') : stateInfo.rivers}</td>
+            </tr>
+            <tr>
+              <td><strong>Natural Vegetation</strong></td>
+              <td>${stateInfo.vegetation}</td>
+            </tr>
+            <tr>
+              <td><strong>Crops</strong></td>
+              <td>${Array.isArray(stateInfo.crops) ? stateInfo.crops.join(', ') : stateInfo.crops}</td>
+            </tr>
+            <tr>
+              <td><strong>Main Occupations</strong></td>
+              <td>${Array.isArray(stateInfo.occupations) ? stateInfo.occupations.join(', ') : stateInfo.occupations}</td>
+            </tr>
+          </tbody>
+        </table>
+        <div class="quiz-controls">
+          <button class="btn btn-primary" onclick="startStateQuiz('${stateName}')">Start ${stateName} Quiz</button>
+          <button class="btn btn-success" onclick="showDataTable()">All States Data</button>
+        </div>
+      </div>
+    `;
+  }
+
+  function selectAnswer(optionIndex) {
+    if (answeredQuestions.has(currentQuestion)) return;
+    
+    const question = currentQuizData[currentQuestion];
+    const selectedOption = question.options[optionIndex];
+    const isCorrect = selectedOption === question.correct;
+    
+    answeredQuestions.add(currentQuestion);
+    
+    // Update UI
+    const options = document.querySelectorAll('.quiz-option');
+    options.forEach((option, index) => {
+      option.classList.add('disabled');
+      if (index === optionIndex) {
+        option.classList.add(isCorrect ? 'correct' : 'wrong');
+      } else if (option.dataset.option === question.correct) {
+        option.classList.add('correct');
+      }
+    });
+    
+    if (isCorrect) {
+      score++;
+      document.getElementById('score').textContent = score;
+    }
+    
+    // Move to next question after delay
+    setTimeout(() => {
+      currentQuestion++;
+      showQuestion();
+    }, 2000);
+  }
+
+  function showResults() {
+    quizActive = false;
+    const percentage = Math.round((score / currentQuizData.length) * 100);
+    const quizContent = document.getElementById('quiz-content');
+    
+    quizContent.innerHTML = `
+      <div class="quiz-question">
+        <h3>🎉 Quiz Complete!</h3>
+        <p>Your Score: ${score} / ${currentQuizData.length} (${percentage}%)</p>
+        <p>${percentage >= 70 ? 'Excellent work!' : percentage >= 50 ? 'Good effort!' : 'Keep practicing!'}</p>
+        <div class="quiz-controls">
+          <button class="btn btn-primary" onclick="startQuiz()">Try Again</button>
+          <button class="btn btn-success" onclick="showDataTable()">View Data</button>
+        </div>
+      </div>
+    `;
+  }
+
+  function showDataTable() {
+    const quizContent = document.getElementById('quiz-content');
+    
+    let tableHTML = `
+      <div class="quiz-question">
+        <h3>📊 Key State Data Table (Exhaustive)</h3>
+        <table class="data-table">
+          <thead>
+            <tr>
+              <th>State/UT</th>
+              <th>Capital & famous Cities</th>
+              <th>Rivers</th>
+              <th>Natural Vegetation</th>
+              <th>Crops</th>
+              <th>Main Occupations</th>
+            </tr>
+          </thead>
+          <tbody>
+    `;
+    
+    for (const [state, data] of Object.entries(stateData)) {
+      const citiesText = data.cities.length > 0 ? `${data.capital}, ${data.cities.join(', ')}` : data.capital;
+      
+      tableHTML += `
+        <tr>
+          <td><strong>${state}</strong></td>
+          <td>${citiesText}</td>
+          <td>${Array.isArray(data.rivers) ? data.rivers.join(', ') : data.rivers}</td>
+          <td>${data.vegetation}</td>
+          <td>${Array.isArray(data.crops) ? data.crops.join(', ') : data.crops}</td>
+          <td>${Array.isArray(data.occupations) ? data.occupations.join(', ') : data.occupations}</td>
+        </tr>
+      `;
+    }
+    
+    tableHTML += `
+          </tbody>
+        </table>
+        <div class="quiz-controls">
+          <button class="btn btn-primary" onclick="startQuiz()">Start Quiz</button>
+        </div>
+      </div>
+    `;
+    
+    quizContent.innerHTML = tableHTML;
+  }
+</script>
+
+</body>
+</html>
