@@ -81,7 +81,6 @@ if not exist src\data\sst.json copy nul src\data\sst.json
 if not exist results-data mkdir results-data
 
 :: Start the application
-echo Starting Grade 4 Learning Quiz Application...
 echo.
 echo Serverless File Storage Enabled!
 echo Results will be stored permanently in browser storage

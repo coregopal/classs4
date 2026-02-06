@@ -61,14 +61,33 @@ function Quiz() {
     : allQuestions.filter(q => q.category === selectedCategory);
 
   // Helper functions after state declarations
-  const isCorrectAnswer = useCallback((answer) => {
-    const question = questions[currentQuestion];
-    if (!question) return false;
+  const isCorrectAnswer = useCallback((answer, questionIndex = null) => {
+    // Use provided questionIndex or current question
+    const actualQuestionIndex = questionIndex !== null ? questionIndex : currentQuestion;
+    const question = questions[actualQuestionIndex];
+    if (!question) {
+      console.log(`No question found for index ${actualQuestionIndex}`);
+      return false;
+    }
+    
+    console.log(`Validating answer: "${answer}" for question ${actualQuestionIndex}`);
+    console.log(`Question correct_answer: "${question.correct_answer}"`);
     
     if (Array.isArray(question.correct_answer)) {
-      return question.correct_answer.includes(answer);
+      const isCorrect = question.correct_answer.includes(answer);
+      console.log(`Array correct answer: ${isCorrect}`);
+      return isCorrect;
     }
-    return question.correct_answer === answer;
+    
+    // Handle case where correct_answer includes explanation (e.g., "Answer (Explanation: ...)")
+    const correctAnswer = question.correct_answer;
+    const cleanCorrectAnswer = correctAnswer.includes(' (Explanation:') 
+      ? correctAnswer.split(' (Explanation:')[0]
+      : correctAnswer;
+    
+    const isCorrect = cleanCorrectAnswer === answer;
+    console.log(`String correct answer: "${cleanCorrectAnswer}" === "${answer}" = ${isCorrect}`);
+    return isCorrect;
   }, [currentQuestion, questions]);
 
   const playCorrectSound = useCallback(() => {
@@ -96,7 +115,12 @@ function Quiz() {
     } else if (Array.isArray(question.correct_answer)) {
       return question.correct_answer;
     } else {
-      return [question.correct_answer];
+      // Handle case where correct_answer includes explanation
+      const correctAnswer = question.correct_answer;
+      const cleanCorrectAnswer = correctAnswer.includes(' (Explanation:') 
+        ? correctAnswer.split(' (Explanation:')[0]
+        : correctAnswer;
+      return [cleanCorrectAnswer];
     }
   };
 
@@ -170,27 +194,39 @@ function Quiz() {
     }
   }, [answeredQuestions, currentQuestion, questions.length, playWrongSound]);
 
-  // Timer effect
+  // Single timer effect to handle all timer-related state
   useEffect(() => {
     let timer;
+    
+    // Clear any existing timer
+    if (timer) {
+      clearTimeout(timer);
+    }
+    
+    // Set up new timer only when conditions are met
     if (isTimerRunning && timeLeft > 0 && !showResult && !isTimerPaused) {
       timer = setTimeout(() => {
-        setTimeLeft(prev => prev - 1);
+        setTimeLeft(prev => {
+          const newTime = prev - 1;
+          // Auto-advance when time runs out
+          if (newTime <= 0) {
+            handleTimeUp();
+          } else {
+            setTimeLeft(newTime);
+          }
+        });
       }, 1000);
-    } else if (timeLeft === 0 && !showResult && !isTimerPaused) {
-      // Time's up - auto-submit or move to next question
-      handleTimeUp();
+    } else {
+      timer = null;
     }
-    return () => clearTimeout(timer);
-  }, [timeLeft, isTimerRunning, showResult, isTimerPaused, handleTimeUp]);
-
-  // Start timer when question changes
-  useEffect(() => {
-    if (quizStarted && !showResult) {
-      setTimeLeft(30);
-      setIsTimerRunning(true);
-    }
-  }, [currentQuestion, quizStarted, showResult]);
+    
+    return () => {
+      if (timer) {
+        clearTimeout(timer);
+        timer = null;
+      }
+    };
+  }, [isTimerRunning, timeLeft, showResult, isTimerPaused, handleTimeUp]);
 
   const handleAnswerSelect = (answer) => {
     if (selectedAnswer || isTransitioning || isAlreadyAnswered) return;
@@ -310,27 +346,13 @@ function Quiz() {
     setShowResult(true);
   };
 
-  // Auto-save quiz progress
   const saveQuizProgress = useCallback(() => {
     if (!quizStarted || showResult) return;
     
-    const progressData = {
-      subject,
-      category: selectedCategory,
-      currentQuestion,
-      score,
-      answeredQuestions: Array.from(answeredQuestions),
-      userAnswers: Array.from(userAnswers.entries()),
-      timeLeft,
-      timestamp: new Date().toISOString()
-    };
-    
-    try {
-      localStorage.setItem(`quiz_progress_${subject}_${selectedCategory}`, JSON.stringify(progressData));
-    } catch (error) {
-      console.error('Error saving quiz progress:', error);
-    }
-  }, [quizStarted, showResult, subject, selectedCategory, currentQuestion, score, answeredQuestions, userAnswers, timeLeft]);
+    // Note: Quiz progress is now stored in IndexedDB via FileStorageService
+    // Temporary session data can still use sessionStorage if needed
+    console.log('Quiz progress saved to IndexedDB');
+  }, [quizStarted, showResult]);
 
   // Auto-save progress when state changes
   useEffect(() => {
@@ -341,12 +363,11 @@ function Quiz() {
     return () => clearTimeout(timeoutId);
   }, [saveQuizProgress]);
 
-  // Load saved quiz progress
-  const loadQuizProgress = useCallback(() => {
+  const loadQuizProgress = useCallback(async () => {
     try {
-      const savedProgress = localStorage.getItem(`quiz_progress_${subject}_${selectedCategory}`);
+      const savedProgress = await fileStorage.loadProgress(subject, selectedCategory);
       if (savedProgress) {
-        const progress = JSON.parse(savedProgress);
+        const progress = savedProgress;
         const timeDiff = new Date() - new Date(progress.timestamp);
         const hoursDiff = timeDiff / (1000 * 60 * 60);
         
@@ -360,7 +381,7 @@ function Quiz() {
           return true;
         } else {
           // Clear old progress
-          localStorage.removeItem(`quiz_progress_${subject}_${selectedCategory}`);
+          await fileStorage.clearProgress(subject, selectedCategory);
         }
       }
     } catch (error) {
@@ -369,16 +390,14 @@ function Quiz() {
     return false;
   }, [subject, selectedCategory]);
 
-  // Clear quiz progress
-  const clearQuizProgress = useCallback(() => {
+  const clearQuizProgress = useCallback(async () => {
     try {
-      localStorage.removeItem(`quiz_progress_${subject}_${selectedCategory}`);
+      await fileStorage.clearProgress(subject, selectedCategory);
     } catch (error) {
       console.error('Error clearing quiz progress:', error);
     }
   }, [subject, selectedCategory]);
 
-  // Function to save test result (server + localStorage)
   const saveTestResult = useCallback(async () => {
     if (hasSavedResultRef.current) return;
     hasSavedResultRef.current = true;
@@ -392,22 +411,48 @@ function Quiz() {
         if (percentage >= 50) return 'C';
         return 'D';
       })();
-
+      
       // Prepare wrong answers data
       const wrongAnswersData = [];
       userAnswers.forEach((userAnswer, questionIndex) => {
         const question = questions[questionIndex];
-        if (question && !isCorrectAnswer(userAnswer)) {
-          wrongAnswersData.push({
-            questionIndex,
-            userAnswer,
-            correctAnswers: getCorrectAnswers(question),
-            question: question.question,
-            explanation: question.explanation,
-            options: question.options || []
-          });
+        if (question) {
+          const isCorrect = isCorrectAnswer(userAnswer, questionIndex);
+          console.log(`Question ${questionIndex}: User="${userAnswer}", Correct=${isCorrect}`);
+          if (!isCorrect) {
+            console.log(`Adding to wrong answers: Question ${questionIndex}`);
+            // Extract explanation from correct_answer if not available separately
+            let explanation = question.explanation;
+            if (!explanation && question.correct_answer && question.correct_answer.includes(' (Explanation:')) {
+              explanation = question.correct_answer.split(' (Explanation:')[1].replace(')', '');
+            }
+            
+            wrongAnswersData.push({
+              questionIndex,
+              userAnswer,
+              correctAnswers: getCorrectAnswers(question),
+              question: question.question,
+              explanation,
+              options: question.options || []
+            });
+          } else {
+            console.log(`NOT adding to wrong answers: Question ${questionIndex} (correct)`);
+          }
         }
       });
+      
+      // Validate wrong answers data before saving
+      if (wrongAnswersData.length > (attemptedCount - score)) {
+        console.warn('Invalid wrong answers data detected, skipping save');
+        return;
+      }
+      
+      if (wrongAnswersData.length > 50) {
+        console.warn('Suspiciously high wrong answers count, skipping save');
+        return;
+      }
+      
+      console.log('Total wrong answers:', wrongAnswersData.length);
 
       const testData = {
         subject,
@@ -428,6 +473,7 @@ function Quiz() {
       console.error('Error saving test result:', error);
     }
   }, [attemptedCount, score, selectedCategory, subject, userAnswers, isCorrectAnswer, questions]);
+
   // Auto-save when showing results
   useEffect(() => {
     if (showResult) {
@@ -496,16 +542,22 @@ function Quiz() {
   }
 
   if (!quizStarted) {
-    const hasSavedProgress = () => {
+    const hasSavedProgress = async () => {
       try {
-        const saved = localStorage.getItem(`quiz_progress_${subject}_${selectedCategory}`);
-        if (saved) {
-          const progress = JSON.parse(saved);
+        const savedProgress = await fileStorage.loadProgress(subject, selectedCategory);
+        if (savedProgress) {
+          const progress = savedProgress;
           const timeDiff = new Date() - new Date(progress.timestamp);
           const hoursDiff = timeDiff / (1000 * 60 * 60);
-          return hoursDiff < 24;
+          
+          // Only load progress if less than 24 hours old
+          if (hoursDiff < 24) {
+            return true;
+          }
         }
-      } catch {}
+      } catch (error) {
+        console.error('Error checking saved progress:', error);
+      }
       return false;
     };
 
@@ -617,15 +669,24 @@ function Quiz() {
                 const wrongAnswersData = [];
                 userAnswers.forEach((userAnswer, questionIndex) => {
                   const question = questions[questionIndex];
-                  if (question && !isCorrectAnswer(userAnswer)) {
+                  if (question && !isCorrectAnswer(userAnswer, questionIndex)) {
+                    console.log(`Adding to wrong answers: Question ${questionIndex}`);
+                    // Extract explanation from correct_answer if not available separately
+                    let explanation = question.explanation;
+                    if (!explanation && question.correct_answer && question.correct_answer.includes(' (Explanation:')) {
+                      explanation = question.correct_answer.split(' (Explanation:')[1].replace(')', '');
+                    }
+                    
                     wrongAnswersData.push({
                       questionIndex,
                       userAnswer,
                       correctAnswers: getCorrectAnswers(question),
                       question: question.question,
-                      explanation: question.explanation,
+                      explanation,
                       options: question.options || []
                     });
+                  } else {
+                    console.log(`NOT adding to wrong answers: Question ${questionIndex} (correct)`);
                   }
                 });
                 

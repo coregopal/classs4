@@ -1,4 +1,4 @@
-import React, { useEffect, useMemo, useState } from 'react';
+import React, { useEffect, useMemo, useState, useCallback } from 'react';
 import { useNavigate, useSearchParams } from 'react-router-dom';
 import { fileStorage } from '../services/FileStorageService';
 import '../styles/Results.css';
@@ -40,23 +40,85 @@ function Results() {
     }
   }, [selectedResult]);
 
+  // Function to clear corrupted data
+  const clearCorruptedData = useCallback(async () => {
+    try {
+      // Clear all results with suspicious wrongAnswers counts
+      const allResults = await fileStorage.getAllResults();
+      const corruptedResults = allResults.filter(result => {
+        const wrongCount = result.wrongAnswers ? result.wrongAnswers.length : 0;
+        const attempted = result.attemptedQuestions || result.total || 0;
+        const correct = result.correctAnswers || result.score || 0;
+        const expectedWrong = attempted - correct;
+        
+        // Clear if wrongAnswers count doesn't match expected or is suspiciously high
+        return wrongCount > expectedWrong || wrongCount > 50;
+      });
+      
+      if (corruptedResults.length > 0) {
+        console.log('Found corrupted results:', corruptedResults.length);
+        
+        // Clear all browser storage comprehensively
+        // 1. Clear IndexedDB completely
+        await fileStorage.deleteAllResults();
+        
+        // 2. Clear all localStorage
+        const localStorageKeys = [];
+        for (let i = 0; i < localStorage.length; i++) {
+          const key = localStorage.key(i);
+          if (key && (key.includes('quiz') || key.includes('result') || key.includes('progress'))) {
+            localStorageKeys.push(key);
+          }
+        }
+        localStorageKeys.forEach(key => localStorage.removeItem(key));
+        
+        // 3. Clear all sessionStorage
+        const sessionStorageKeys = [];
+        for (let i = 0; i < sessionStorage.length; i++) {
+          const key = sessionStorage.key(i);
+          if (key && (key.includes('quiz') || key.includes('result') || key.includes('progress'))) {
+            sessionStorageKeys.push(key);
+          }
+        }
+        sessionStorageKeys.forEach(key => sessionStorage.removeItem(key));
+        
+        console.log(`Cleared ${localStorageKeys.length} localStorage keys and ${sessionStorageKeys.length} sessionStorage keys due to corruption`);
+        
+        // Reload clean data
+        window.location.reload();
+      }
+    } catch (error) {
+      console.error('Error clearing corrupted data:', error);
+    }
+  }, []);
+
   useEffect(() => {
     async function load() {
       setLoading(true);
       setError('');
       try {
-        const allResults = await fileStorage.getAllResults();
+        const results = await fileStorage.getAllResults();
         
-        if (allResults.length === 0) {
-          setError('No results found. Complete a quiz to see results here.');
-        } else {
-          setError('');
+        // Check for corrupted data
+        const hasCorruptedData = results.some(result => {
+          const wrongCount = result.wrongAnswers ? result.wrongAnswers.length : 0;
+          const attempted = result.attemptedQuestions || result.total || 0;
+          const correct = result.correctAnswers || result.score || 0;
+          const expectedWrong = attempted - correct;
+          return wrongCount > expectedWrong || wrongCount > 50;
+        });
+        
+        if (hasCorruptedData) {
+          setError('⚠️ Corrupted data detected. Click here to clean up.');
+          setLoading(false);
+          return;
         }
         
-        setResults(allResults);
+        // Sort by timestamp desc if available
+        results.sort((a, b) => new Date(b.timestamp || b.date || 0) - new Date(a.timestamp || a.date || 0));
+        setResults(results);
       } catch (e) {
-        setError('Error loading results from browser storage.');
-        console.error('Error loading results:', e);
+        setError('Failed to load results. Please try refreshing the page.');
       } finally {
         setLoading(false);
       }
@@ -139,14 +201,68 @@ function Results() {
     }
   };
   const clearResultsForSubject = async (subject) => {
-    if (window.confirm(`Are you sure you want to delete all results for ${subject === 'all' ? 'all subjects' : subject}?`)) {
+    if (window.confirm(`Are you sure you want to delete all results for ${subject === 'all' ? 'all subjects' : subject}? This will clear all browser storage including cache.`)) {
       try {
         let deletedCount;
+        
         if (subject === 'all') {
-          await fileStorage.deleteAllResults();
+          // Clear all browser storage
           deletedCount = results.length;
+          
+          // 1. Clear IndexedDB via FileStorageService
+          await fileStorage.deleteAllResults();
+          
+          // 2. Clear localStorage (quiz results, progress, etc.)
+          const localStorageKeys = [];
+          for (let i = 0; i < localStorage.length; i++) {
+            const key = localStorage.key(i);
+            if (key && (key.includes('quiz') || key.includes('result') || key.includes('progress'))) {
+              localStorageKeys.push(key);
+            }
+          }
+          localStorageKeys.forEach(key => localStorage.removeItem(key));
+          
+          // 3. Clear sessionStorage
+          const sessionStorageKeys = [];
+          for (let i = 0; i < sessionStorage.length; i++) {
+            const key = sessionStorage.key(i);
+            if (key && (key.includes('quiz') || key.includes('result') || key.includes('progress'))) {
+              sessionStorageKeys.push(key);
+            }
+          }
+          sessionStorageKeys.forEach(key => sessionStorage.removeItem(key));
+          
+          console.log(`Cleared ${localStorageKeys.length} localStorage keys and ${sessionStorageKeys.length} sessionStorage keys`);
+          
         } else {
-          deletedCount = await fileStorage.deleteResultsBySubject(subject);
+          // Clear specific subject data
+          const subjectResults = results.filter(r => r.subject === subject);
+          deletedCount = subjectResults.length;
+          
+          // 1. Clear IndexedDB for subject
+          await fileStorage.deleteResultsBySubject(subject);
+          
+          // 2. Clear localStorage for subject
+          const localStorageKeys = [];
+          for (let i = 0; i < localStorage.length; i++) {
+            const key = localStorage.key(i);
+            if (key && (key.includes('quiz') || key.includes('result') || key.includes('progress')) && key.includes(subject)) {
+              localStorageKeys.push(key);
+            }
+          }
+          localStorageKeys.forEach(key => localStorage.removeItem(key));
+          
+          // 3. Clear sessionStorage for subject
+          const sessionStorageKeys = [];
+          for (let i = 0; i < sessionStorage.length; i++) {
+            const key = sessionStorage.key(i);
+            if (key && (key.includes('quiz') || key.includes('result') || key.includes('progress')) && key.includes(subject)) {
+              sessionStorageKeys.push(key);
+            }
+          }
+          sessionStorageKeys.forEach(key => sessionStorage.removeItem(key));
+          
+          console.log(`Cleared ${localStorageKeys.length} localStorage keys and ${sessionStorageKeys.length} sessionStorage keys for ${subject}`);
         }
         
         // Reload results after clearing
@@ -157,7 +273,7 @@ function Results() {
           setError('No results found. Complete a quiz to see results here.');
         }
         
-        alert(`Successfully deleted ${deletedCount} result(s) for ${subject === 'all' ? 'all subjects' : subject}.`);
+        alert(`Successfully deleted ${deletedCount} result(s) and cleared all browser storage for ${subject === 'all' ? 'all subjects' : subject}.`);
       } catch (error) {
         console.error('Error clearing results:', error);
         alert('Error clearing results. Please try again.');
@@ -194,7 +310,14 @@ function Results() {
       </div>
 
       {loading && <div className="loading">Loading...</div>}
-      {error && <div className="error">{error}</div>}
+      {error && (
+        <div className="error" onClick={error.includes('Corrupted data') ? clearCorruptedData : undefined}>
+          {error}
+          {error.includes('Corrupted data') && (
+            <span style={{ fontSize: '0.9em', opacity: 0.8 }}> (Click to fix)</span>
+          )}
+        </div>
+      )}
       
       {/* Show WrongAnswersReview when a result is selected */}
       {selectedResult && (
@@ -409,6 +532,13 @@ function WrongAnswersReview({ result, onBack }) {
   const subject = result.subject;
   const category = result.category || 'all';
   const wrongAnswers = result.wrongAnswers || [];
+  
+  console.log('WrongAnswersReview received:', {
+    subject,
+    category,
+    totalWrongAnswers: wrongAnswers.length,
+    wrongAnswers: wrongAnswers.slice(0, 2) // Show first 2 for debugging
+  });
   
   if (wrongAnswers.length === 0) {
     return (
