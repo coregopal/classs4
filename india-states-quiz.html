@@ -248,271 +248,347 @@
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
 
 <script>
-  // State/UT Data (Exhaustive)
+  // Enhanced State/UT Data (Comprehensive)
   const stateData = {
     "Jammu & Kashmir": {
-      capital: "Srinagar",
-      cities: ["Jammu", "Gulmarg"],
-      rivers: ["Jhelum", "Chenab", "Tawi"],
-      vegetation: "Coniferous, Chinar trees",
-      crops: ["Rice", "wheat", "saffron", "fruits"],
-      occupations: ["Agriculture", "handicrafts"]
+      geography: "Mountainous UT; cold winters, cool summers",
+      capital: "Srinagar (Summer), Jammu (Winter)",
+      cities: ["Gulmarg", "Pahalgam"],
+      rivers: ["Jhelum (Srinagar)", "Chenab", "Tawi (Jammu)"],
+      vegetation: "Coniferous, Chinar trees, grassy slopes",
+      crops: ["Rice", "wheat", "Saffron", "fruits (cherries, apples)"],
+      occupations: ["Agriculture", "handicrafts"],
+      keyInfo: "Saffron is an expensive spice; each flower has only 3 orange stigmas."
     },
     "Ladakh": {
+      geography: "Highest altitude plateau region; very cold and dry",
       capital: "Leh",
       cities: [],
-      rivers: ["Indus"],
-      vegetation: "Grass, shrubs, willow, poplar",
+      rivers: ["Indus (main river)"],
+      vegetation: "Patches of grass, shrubs, willow, poplar",
       crops: ["Barley", "wheat"],
-      occupations: ["Livestock rearing", "weaving"]
+      occupations: ["Agriculture", "livestock (yaks)", "weaving Pashmina"],
+      keyInfo: "Known for yaks that provide wool and milk in snowy regions."
     },
     "Himachal Pradesh": {
+      geography: "Mountainous; abundant green vegetation",
       capital: "Shimla",
-      cities: ["Kullu", "Manali"],
-      rivers: ["Ravi", "Beas", "Satluj"],
-      vegetation: "Pine, deodar, sal trees",
-      crops: ["Wheat", "maize", "potatoes", "fruit"],
-      occupations: ["Farming", "fruit preservation"]
+      cities: ["Kullu", "Manali", "Dharamshala"],
+      rivers: ["Chenab", "Ravi", "Beas", "Satluj"],
+      vegetation: "Pine, deodar, sal",
+      crops: ["Wheat", "maize", "potatoes", "fruit (apples, plums)"],
+      occupations: ["Farming", "fruit preservation (jams/juices)"],
+      keyInfo: "Dharamshala is an important town for Buddhists."
     },
     "Uttarakhand": {
+      geography: "Located in the Doon Valley; features hilly terrain",
       capital: "Dehra Dun",
-      cities: ["Mussoorie"],
-      rivers: ["Ganga", "Yamuna"],
-      vegetation: "Grassy slopes, deciduous",
+      cities: ["Mussourie", "Nainital", "Haridwar"],
+      rivers: ["Ganga", "Yamuna", "Alaknanda", "Bhagirathi"],
+      vegetation: "Grassy slopes, deciduous, thorn forests",
       crops: ["Potatoes", "maize", "fruit"],
-      occupations: ["Farming", "dairy", "tourism"]
+      occupations: ["Agriculture", "dairy farming", "terrace farming"],
+      keyInfo: "Home to the 'Valley of Flowers' and holy city Haridwar."
+    },
+    "Chandigarh": {
+      geography: "Union Territory in the plains; shared capital",
+      capital: "Chandigarh",
+      cities: [],
+      rivers: ["(Waters from Punjab rivers)"],
+      vegetation: "-",
+      crops: ["-"],
+      occupations: ["Government service", "factory work"],
+      keyInfo: "First planned city in India; famous for the Rock Garden."
     },
     "Punjab": {
+      geography: "Flat land in the Great Northern Plain; fertile soil",
       capital: "Chandigarh",
-      cities: ["Amritsar"],
+      cities: ["Amritsar", "Ludhiana"],
       rivers: ["Ravi", "Beas", "Satluj"],
-      vegetation: "(Forests cleared for fields)",
-      crops: ["Wheat", "rice", "cotton"],
-      occupations: ["Farming", "dairy", "textiles"]
+      vegetation: "Most forests cleared for fields",
+      crops: ["Wheat (large quantities)", "rice", "cotton", "mustard"],
+      occupations: ["Farming", "dairy farming", "making tractors/cycles"],
+      keyInfo: "Name means 'five waters'; home to the Golden Temple."
     },
     "Haryana": {
+      geography: "Plain state; forms border with UP",
       capital: "Chandigarh",
-      cities: ["Faridabad"],
+      cities: ["Faridabad", "Panipat"],
       rivers: ["Yamuna", "Ghaggar"],
-      vegetation: "Scrub, plantation trees",
+      vegetation: "Scrub vegetation in south; planted trees along canals",
       crops: ["Wheat", "rice", "cotton"],
-      occupations: ["Agriculture", "dairy"]
+      occupations: ["Agriculture", "dairy (water buffaloes)"],
+      keyInfo: "Yamuna forms the border between Haryana and UP."
     },
-    "Delhi": {
-      capital: "New Delhi",
-      cities: [],
+    "Delhi (NCT)": {
+      geography: "Capital of India; situated in the plains",
+      capital: "Delhi",
+      cities: ["New Delhi", "Gurgaon (nearby)", "Noida (nearby)"],
       rivers: ["Yamuna"],
-      vegetation: "(Urban vegetation)",
+      vegetation: "-",
       crops: ["Wheat", "vegetables"],
-      occupations: ["Government service", "offices"]
+      occupations: ["Government offices", "media", "universities"],
+      keyInfo: "Contains historical buildings like Qutb Minar and Red Fort."
     },
     "Uttar Pradesh": {
+      geography: "Large state in the plains; very fertile alluvium",
       capital: "Lucknow",
-      cities: ["Agra", "Varanasi"],
+      cities: ["Agra", "Varanasi", "Kanpur"],
       rivers: ["Ganga", "Yamuna", "Gomti"],
-      vegetation: "Scrub (south)",
-      crops: ["Wheat", "sugar cane", "rice"],
-      occupations: ["Agriculture", "tourism"]
+      vegetation: "Most cleared for crops; scrub in south",
+      crops: ["Wheat", "sugar cane", "rice", "mangoes"],
+      occupations: ["Agriculture", "tourism", "handicrafts (embroidery)"],
+      keyInfo: "Home to the Taj Mahal (white marble) in Agra."
     },
     "Bihar": {
+      geography: "Located in the eastern part of the northern plain",
       capital: "Patna",
       cities: ["Bodh Gaya", "Bhagalpur"],
       rivers: ["Ganga", "Kosi", "Son"],
-      vegetation: "Deciduous forests",
+      vegetation: "Deciduous forests; some in foothills",
       crops: ["Rice", "sugar cane", "lychee"],
-      occupations: ["Farming", "silk weaving"]
+      occupations: ["Farming", "silk weaving"],
+      keyInfo: "Patna lies on the banks of the Ganga; Nalanda is an ancient university."
     },
     "West Bengal": {
+      geography: "Varies from northern mountains to coastal plains",
       capital: "Kolkata",
-      cities: ["Darjeeling"],
-      rivers: ["Hugli", "Tista"],
-      vegetation: "Conifers, Mangroves",
+      cities: ["Darjiling", "Durgapur"],
+      rivers: ["Hugli (branch of Ganga)", "Tista"],
+      vegetation: "Conifers, deciduous, mangroves (Sundarbans)",
       crops: ["Rice", "jute", "tea"],
-      occupations: ["Farming", "fishing", "offices"]
+      occupations: ["Farming", "fishing", "offices/factories"],
+      keyInfo: "Sundarbans are the only mangroves where tigers are found."
     },
     "Odisha": {
+      geography: "Partly on plains, partly in plateau region",
       capital: "Bhubaneshwar",
-      cities: ["Puri"],
+      cities: ["Cuttack", "Puri", "Rourkela"],
       rivers: ["Mahanadi", "Subarnarekha"],
       vegetation: "Bamboo, teak, rosewood",
-      crops: ["Rice", "pulses", "coconuts"],
-      occupations: ["Farming", "fishing", "silk"]
+      crops: ["Rice", "pulses", "oilseeds", "coconuts"],
+      occupations: ["Farming", "fishing", "handicrafts"],
+      keyInfo: "Lake Chilika is the largest saltwater lake in India."
     },
     "Assam": {
+      geography: "Plain land surrounded by mountains and hills",
       capital: "Dispur",
-      cities: ["Guwahati"],
+      cities: ["Guwahati", "Dibrugarh"],
       rivers: ["Brahmaputra"],
-      vegetation: "Evergreen, bamboo, ferns",
-      crops: ["Rice", "tea", "jute", "fruit"],
-      occupations: ["Tea gardens", "oil refineries"]
+      vegetation: "Evergreen, deciduous, ferns, bamboo",
+      crops: ["Tea", "rice", "jute", "fruit"],
+      occupations: ["Tea gardens", "oil refineries", "silk weaving"],
+      keyInfo: "Famous for a special silk called 'muga'."
     },
     "Sikkim": {
+      geography: "Hilly state with Buddhist monasteries",
       capital: "Gangtok",
-      cities: [],
-      rivers: ["Tista", "Rangit"],
-      vegetation: "Orchids, ferns, bamboo",
-      crops: ["Corn", "rice", "cardamom"],
-      occupations: ["Farming", "scroll painting"]
+      cities: ["Singtam", "Rangpo"],
+      rivers: ["Tista", "Rangit", "Lhonak"],
+      vegetation: "Forests, orchids, ferns, bamboo",
+      crops: ["Corn", "rice", "cardamom", "tea"],
+      occupations: ["Farming", "cattle rearing", "scroll painting"],
+      keyInfo: "Over 200 Buddhist monasteries; yaks found in snowy regions."
     },
     "Arunachal Pradesh": {
+      geography: "Foothills of the Himalayas; swampy rainforests",
       capital: "Itanagar",
       cities: ["Tawang"],
-      rivers: ["Dihang", "Lohit", "Dibang"],
-      vegetation: "Swampy rainforests",
-      crops: ["Corn", "rice", "fruit", "spices"],
-      occupations: ["Farming (jhoom)", "silk"]
+      rivers: ["Dihang (Brahmaputra)", "Lohit", "Dibang"],
+      vegetation: "Medicinal plants, swampy forests",
+      crops: ["Corn", "rice", "spices (ginger/chillies)"],
+      occupations: ["Farming (jhoom)", "small-scale industries"],
+      keyInfo: "Brahmaputra enters here as Dihang; orchid centre at Tipi."
     },
     "Nagaland": {
+      geography: "Mountainous tribal state; very few large towns",
       capital: "Kohima",
       cities: ["Dimapur"],
-      rivers: ["Doyang", "Dikhu"],
-      vegetation: "Evergreen, mahogany",
-      crops: ["Rice", "corn", "sugar cane"],
-      occupations: ["Farming", "weaving"]
+      rivers: ["Doyang", "Dikhu", "Barak"],
+      vegetation: "Evergreen (mahogany, palm), bamboo",
+      crops: ["Rice", "corn", "tobacco", "sugar cane"],
+      occupations: ["Farming", "paper/furniture making", "molasses"],
+      keyInfo: "English is the official language; each tribe has its own shawl design."
     },
     "Manipur": {
+      geography: "Hilly forests; contains largest freshwater lake",
       capital: "Imphal",
-      cities: [],
-      rivers: ["Manipur River"],
-      vegetation: "Hilly forests, bamboo",
-      crops: ["Rice", "mustard", "pulses"],
-      occupations: ["Farming", "fishing", "soap"]
+      cities: ["Thoubal", "Kakching"],
+      rivers: ["Loktak Lake", "Manipur River"],
+      vegetation: "Teak, bamboo, many flowers",
+      crops: ["Rice", "corn", "fruit", "pulses"],
+      occupations: ["Farming", "fishing", "soap making"],
+      keyInfo: "Name means 'land of gems'; home to Loktak Lake."
     },
     "Mizoram": {
+      geography: "Hilly; villages often on top of hills",
       capital: "Aizawl",
-      cities: [],
-      rivers: ["Kaladan", "Tlawng"],
-      vegetation: "Evergreen, ironwood",
-      crops: ["Rice", "corn", "ginger"],
-      occupations: ["Farming", "sericulture"]
+      cities: ["Lunglei", "Champhai"],
+      rivers: ["Kaladan", "Tlawng", "Tuirail"],
+      vegetation: "Evergreen forests (ironwood), bamboo",
+      crops: ["Rice", "corn", "ginger", "cotton"],
+      occupations: ["Farming", "sericulture", "handlooms"],
+      keyInfo: "Has no railways; known for bamboo dancing."
     },
     "Tripura": {
+      geography: "Hilly and marshy plain; near Bangladesh",
       capital: "Agartala",
-      cities: [],
-      rivers: ["Gomti"],
-      vegetation: "Sal, bamboo",
-      crops: ["Rice", "jute", "rubber"],
-      occupations: ["Agriculture", "fish farming"]
+      cities: ["Dharmapuri"],
+      rivers: ["Gomti (main river)", "small rivers"],
+      vegetation: "Sal trees, bamboo",
+      crops: ["Rice", "cotton", "rubber", "jute"],
+      occupations: ["Agriculture", "fish farming", "weaving"],
+      keyInfo: "Contains Gumti Wildlife Sanctuary with gibbons."
     },
     "Meghalaya": {
+      geography: "Plateau region; very wet conditions",
       capital: "Shillong",
-      cities: [],
+      cities: ["Tura", "Mawlai"],
       rivers: ["Daring", "Umkhri"],
-      vegetation: "Pine, oak, bamboo",
-      crops: ["Rice", "betel nuts", "chillies"],
-      occupations: ["Agriculture", "factories"]
+      vegetation: "Lush forests of pine, oak, sal, bamboo",
+      crops: ["Rice", "corn", "betel nuts", "chillies", "ginger"],
+      occupations: ["Agriculture", "cement/wood factories"],
+      keyInfo: "Name means 'home of the clouds'; Mawsynram has world's highest rain."
     },
     "Madhya Pradesh": {
+      geography: "Plateau region; called 'Heart of India'",
       capital: "Bhopal",
-      cities: ["Gwalior"],
-      rivers: ["Narmada", "Chambal"],
-      vegetation: "Teak, sal, tendu trees",
-      crops: ["Wheat", "soya beans", "pulses"],
-      occupations: ["Farming", "oil crushing"]
+      cities: ["Jabalpur", "Indore", "Gwalior"],
+      rivers: ["Narmada (main)", "Betwa", "Chambal", "Son"],
+      vegetation: "Teak, sal, tendu trees, bamboo",
+      crops: ["Wheat", "jowar", "soya beans", "oilseeds"],
+      occupations: ["Farming", "oil crushing", "beedi making"],
+      keyInfo: "Famous for Bhimbetka prehistoric rock art."
     },
     "Jharkhand": {
+      geography: "Forested plateau; rich in minerals",
       capital: "Ranchi",
-      cities: ["Jamshedpur"],
-      rivers: ["Damodar", "Subarnarekha"],
-      vegetation: "Sal, asan (for silkworms)",
-      crops: ["Rice", "maize", "pulses"],
-      occupations: ["Mining", "factories"]
+      cities: ["Jamshedpur", "Bokaro"],
+      rivers: ["Subarnarekha", "Kharkai", "Damodar"],
+      vegetation: "Deciduous trees (sal, asan)",
+      crops: ["Rice", "maize", "oilseeds"],
+      occupations: ["Mining (coal/iron)", "working in factories"],
+      keyInfo: "Jamshedpur is known as 'Steel City'; confluence near the city."
     },
     "Chhattisgarh": {
+      geography: "Plains of central India; rocky parts",
       capital: "Raipur",
-      cities: ["Bhilai"],
-      rivers: ["Mahanadi", "Indravati"],
-      vegetation: "Deciduous, bamboo",
-      crops: ["Rice", "maize", "millets"],
-      occupations: ["Farming", "steel plants"]
+      cities: ["Bhilai", "Bilaspur"],
+      rivers: ["Mahanadi", "Indravati", "Shivnath"],
+      vegetation: "Deciduous forests, bamboo",
+      crops: ["Rice", "maize", "millets", "cotton"],
+      occupations: ["Farming", "steel/cement factories", "silk weaving"],
+      keyInfo: "Chitrakote Falls are the widest in India; Bhilai has huge steel plant."
     },
     "Telangana": {
-      capital: "Hyderabad",
+      geography: "Rocky plateau; created in 2014",
+      capital: "Hyderabad (Joint capital)",
       cities: ["Warangal"],
       rivers: ["Godavari", "Krishna"],
-      vegetation: "Thorny, teak, neem",
-      crops: ["Rice", "tobacco", "cotton"],
-      occupations: ["Farming", "IT", "textiles"]
+      vegetation: "Thorny vegetation, teak, neem, rosewood",
+      crops: ["Rice", "tobacco", "cotton", "chillies"],
+      occupations: ["Farming", "IT industry", "textiles (silver work)"],
+      keyInfo: "Home to Golconda Fort and 800-year-old thousand-pillar temple."
     },
     "Rajasthan": {
+      geography: "Great Indian Desert; dry climate",
       capital: "Jaipur",
-      cities: ["Udaipur"],
-      rivers: ["Luni", "Banas"],
-      vegetation: "Thorny shrubs, desert",
-      crops: ["Bajra", "pulses", "cotton"],
-      occupations: ["Farming", "cattle", "marble"]
+      cities: ["Mt Abu", "Udaipur", "Jaisalmer"],
+      rivers: ["Luni", "Banas", "Banganga"],
+      vegetation: "Thorny shrubs, desert vegetation",
+      crops: ["Bajra", "pulses", "jowar", "cotton"],
+      occupations: ["Farming", "cattle rearing", "marble work"],
+      keyInfo: "Jaipur is the 'Pink City'; irrigated by Indira Gandhi Canal."
     },
     "Gujarat": {
+      geography: "Varied geography; salt marshes",
       capital: "Gandhinagar",
-      cities: ["Anand"],
-      rivers: ["Narmada", "Tapi"],
-      vegetation: "Scrub, teak, papyrus",
+      cities: ["Ahmadabad", "Porbander", "Anand"],
+      rivers: ["Narmada", "Tapi", "Sabarmati"],
+      vegetation: "Scrub, teak, gum trees, papyrus",
       crops: ["Oilseeds", "cotton", "bajra"],
-      occupations: ["Farming", "dairy", "salt"]
+      occupations: ["Farming", "dairy (Amul)", "salt making"],
+      keyInfo: "Rann of Kachchh has pink flamingoes; Sabarmati has Gandhi's ashram."
     },
     "Maharashtra": {
+      geography: "Western Ghats and coastal plains; black soil",
       capital: "Mumbai",
-      cities: ["Pune", "Nagpur"],
-      rivers: ["Godavari", "Krishna"],
-      vegetation: "Mangroves, teak",
-      crops: ["Rice", "sugar cane", "cotton"],
-      occupations: ["Farming", "film industry"]
+      cities: ["Pune", "Nagpur", "Aurangabad"],
+      rivers: ["Tapi", "Narmada", "Godavari", "Krishna"],
+      vegetation: "Mangroves, teak, bamboo, mango trees",
+      crops: ["Rice", "sugar cane", "oilseeds", "groundnuts"],
+      occupations: ["Offices", "factories", "film industry"],
+      keyInfo: "Mumbai dabba walas are world-famous; rock caves at Aurangabad."
     },
     "Goa": {
+      geography: "Smallest coastal state; sandy coastline",
       capital: "Panaji",
-      cities: ["Madgaon"],
-      rivers: ["Mandovi", "Zuari"],
-      vegetation: "Coconut, light forests",
+      cities: ["Marmagao", "Madgaon"],
+      rivers: ["Mandovi (main)", "Zuari"],
+      vegetation: "Light forests, coconut trees",
       crops: ["Coconuts", "cashew", "rice"],
-      occupations: ["Tourism", "fishing", "mining"]
+      occupations: ["Tourism", "fishing", "mining"],
+      keyInfo: "Former Portuguese colony; home to Basilica of Bom Jesus."
     },
     "Karnataka": {
+      geography: "Plateau region; known for sandalwood",
       capital: "Bengaluru",
-      cities: ["Mysuru"],
-      rivers: ["Kaveri", "Krishna"],
-      vegetation: "Sandalwood, deciduous",
-      crops: ["Coffee", "rice", "ragi"],
-      occupations: ["Farming", "IT", "silk"]
+      cities: ["Mysuru", "Mangaluru"],
+      rivers: ["Kaveri", "Krishna", "Tungabhadra"],
+      vegetation: "Sandalwood, deciduous, scrub, coconut",
+      crops: ["Coffee", "ragi", "pulses", "groundnuts"],
+      occupations: ["Farming", "IT industry", "silk production"],
+      keyInfo: "Bengaluru is the 'Garden City'; Hampi is a World Heritage site."
     },
     "Andhra Pradesh": {
-      capital: "Amaravati",
+      geography: "Coastal and plateau; developing new capital",
+      capital: "Hyderabad (shared), Amaravati (future capital)",
       cities: ["Tirupati"],
-      rivers: ["Krishna", "Penneru"],
-      vegetation: "Mangroves, neem",
-      crops: ["Rice", "millets", "tobacco"],
-      occupations: ["Farming", "fishing"]
+      rivers: ["Krishna", "Penneru", "Godavari"],
+      vegetation: "Mangroves, palm trees, neem, teak",
+      crops: ["Rice", "millets", "tobacco", "chillies"],
+      occupations: ["Farming", "fishing", "handicrafts (leather puppets)"],
+      keyInfo: "Prakasam Barrage on Krishna; Lepakshi has monolithic Nandi bull."
     },
     "Kerala": {
+      geography: "Wet/watery coastline; famous backwaters",
       capital: "Thiruvananthapuram",
-      cities: [],
-      rivers: ["Periyar", "Pamba"],
-      vegetation: "Coconut groves, rain forest",
-      crops: ["Rubber", "tapioca", "spices"],
-      occupations: ["Farming", "coir", "IT"]
+      cities: ["Kochi"],
+      rivers: ["Periyar", "Pamba", "backwaters"],
+      vegetation: "Coconut groves, rainforests, grasslands",
+      crops: ["Rubber", "tapioca", "spices (pepper)"],
+      occupations: ["Farming", "coir products", "IT industry"],
+      keyInfo: "Called 'God's own country'; has 2,000 km of waterways."
     },
     "Tamil Nadu": {
+      geography: "Coastal/mountainous; many industries",
       capital: "Chennai",
-      cities: ["Madurai"],
-      rivers: ["Kaveri", "Vaigai"],
-      vegetation: "Evergreen, deciduous",
-      crops: ["Rice", "sugar cane", "cashew"],
-      occupations: ["Farming", "factories"]
+      cities: ["Madurai", "Udhagamandalam (Ooty)"],
+      rivers: ["Kaveri", "Vaigai", "Palar", "Ponnaiyar"],
+      vegetation: "Evergreen, deciduous forests",
+      crops: ["Rice", "sugar cane", "cashews", "millets"],
+      occupations: ["Farming", "factories (train coaches)", "textiles"],
+      keyInfo: "Kanniyakumari is the meeting point of three major water bodies."
     },
-    "Andaman": {
+    "Andaman & Nicobar": {
+      geography: "Archipelago of over 550 islands",
       capital: "Port Blair",
       cities: [],
-      rivers: ["Small streams"],
-      vegetation: "Mangroves, thick forests",
-      crops: ["Rice", "coconut", "rubber"],
-      occupations: ["Farming", "fishing", "tourism"]
+      rivers: ["Small streams (no major rivers)"],
+      vegetation: "Mangrove swamps, thick forests",
+      crops: ["Rice", "coconut", "rubber", "fruit"],
+      occupations: ["Farming", "fishing", "tourism"],
+      keyInfo: "Contains India's only active volcano on Barren Island."
     },
     "Lakshadweep": {
+      geography: "Group of 36 coral islands in Arabian Sea",
       capital: "Kavaratti",
       cities: [],
-      rivers: ["(None)"],
-      vegetation: "Coconut palms, tamarind",
-      crops: ["Jackfruit", "banana"],
-      occupations: ["Fishing", "coconut products"]
+      rivers: ["(No rivers)"],
+      vegetation: "Coconut palms, tamarind, casuarina",
+      crops: ["Jackfruit", "banana", "wild almond"],
+      occupations: ["Coconut products", "fishing", "tourism"],
+      keyInfo: "Name means 'one lakh islands'; famous for scuba-diving."
     }
   };
 
@@ -904,12 +980,13 @@
 
   // Add GeoJSON to map with interactive features
   const geoLayer = L.geoJSON(indiaGeoJson, {
-    style: {
-      color: "#ff5722",
-      weight: 2,
-      fillColor: "#ffc107",
-      fillOpacity: 0.4
-    },
+  style: {
+    color: "transparent",   // ⛔ remove borders
+    weight: 0,              // ⛔ no outline
+    fillColor: "#ffc107",
+    fillOpacity: 0.01
+  },
+
     onEachFeature: function (feature, layer) {
       // Bind popup with state name
       layer.bindPopup(feature.properties.name || "Region");
@@ -926,16 +1003,18 @@
           this.setStyle({
             fillColor: "#ffeb3b",
             fillOpacity: 0.6,
-            weight: 3
+            weight: 0,
+    color: "transparent"
           });
         },
         mouseout: function() {
-          this.setStyle({
-            fillColor: "#ffc107",
-            fillOpacity: 0.4,
-            weight: 2
-          });
-        }
+  this.setStyle({
+    fillColor: "#ffc107",
+    fillOpacity: 0.25,
+    weight: 0,
+    color: "transparent"
+  });
+}
       });
     }
   }).addTo(map);
@@ -982,6 +1061,11 @@
     // Generate questions for the selected state
     const questionTypes = [
       {
+        type: 'geography',
+        text: `What is the geography/climate of ${stateName}?`,
+        correct: stateInfo.geography
+      },
+      {
         type: 'capital',
         text: `What is the capital of ${stateName}?`,
         correct: stateInfo.capital
@@ -1010,6 +1094,11 @@
         type: 'occupation',
         text: `What is the main occupation in ${stateName}?`,
         correct: Array.isArray(stateInfo.occupations) ? stateInfo.occupations[0] : stateInfo.occupations
+      },
+      {
+        type: 'keyInfo',
+        text: `What is a key fact about ${stateName}?`,
+        correct: stateInfo.keyInfo
       }
     ];
     
@@ -1040,6 +1129,9 @@
       let wrongOption;
       
       switch(questionType) {
+        case 'geography':
+          wrongOption = stateInfo.geography;
+          break;
         case 'capital':
           wrongOption = stateInfo.capital;
           break;
@@ -1057,6 +1149,9 @@
           break;
         case 'occupation':
           wrongOption = Array.isArray(stateInfo.occupations) ? stateInfo.occupations[0] : stateInfo.occupations;
+          break;
+        case 'keyInfo':
+          wrongOption = stateInfo.keyInfo;
           break;
       }
       
@@ -1077,12 +1172,20 @@
     for (let i = 0; i < 10; i++) {
       const randomState = states[Math.floor(Math.random() * states.length)];
       const stateInfo = stateData[randomState];
-      const questionTypes = ['capital', 'river', 'vegetation', 'crop', 'occupation'];
+      const questionTypes = ['geography', 'capital', 'river', 'vegetation', 'crop', 'occupation', 'keyInfo'];
       const questionType = questionTypes[Math.floor(Math.random() * questionTypes.length)];
       
       let question = {};
       
       switch(questionType) {
+        case 'geography':
+          question = {
+            text: `What is the geography/climate of ${randomState}?`,
+            options: generateOptions(stateInfo.geography, states, 'geography'),
+            correct: stateInfo.geography,
+            state: randomState
+          };
+          break;
         case 'capital':
           question = {
             text: `What is the capital of ${randomState}?`,
@@ -1123,6 +1226,14 @@
             state: randomState
           };
           break;
+        case 'keyInfo':
+          question = {
+            text: `What is a key fact about ${randomState}?`,
+            options: generateOptions(stateInfo.keyInfo, states, 'keyInfo'),
+            correct: stateInfo.keyInfo,
+            state: randomState
+          };
+          break;
       }
       
       questions.push(question);
@@ -1143,19 +1254,25 @@
       
       switch(type) {
         case 'capital':
-          wrongOption = stateInfo.capital;
+          wrongOption = stateData[randomState].capital;
           break;
         case 'rivers':
-          wrongOption = stateInfo.rivers[0];
+          wrongOption = stateData[randomState].rivers[0];
           break;
         case 'vegetation':
-          wrongOption = stateInfo.vegetation;
+          wrongOption = stateData[randomState].vegetation;
           break;
         case 'crops':
-          wrongOption = stateInfo.crops[0];
+          wrongOption = stateData[randomState].crops[0];
           break;
         case 'occupations':
-          wrongOption = stateInfo.occupations[0];
+          wrongOption = stateData[randomState].occupations[0];
+          break;
+        case 'geography':
+          wrongOption = stateData[randomState].geography;
+          break;
+        case 'keyInfo':
+          wrongOption = stateData[randomState].keyInfo;
           break;
       }
       
@@ -1257,7 +1374,7 @@
     
     quizContent.innerHTML = `
       <div class="quiz-question">
-        <h3>📊 ${stateName} - State Data</h3>
+        <h3>📊 ${stateName} - Comprehensive State Data</h3>
         <table class="data-table">
           <thead>
             <tr>
@@ -1267,6 +1384,10 @@
           </thead>
           <tbody>
             <tr>
+              <td><strong>Key Geography/Climate Data</strong></td>
+              <td>${stateInfo.geography}</td>
+            </tr>
+            <tr>
               <td><strong>Capital</strong></td>
               <td>${stateInfo.capital}</td>
             </tr>
@@ -1275,7 +1396,7 @@
               <td>${citiesText}</td>
             </tr>
             <tr>
-              <td><strong>Rivers</strong></td>
+              <td><strong>Rivers (Perennial/Non-perennial)</strong></td>
               <td>${Array.isArray(stateInfo.rivers) ? stateInfo.rivers.join(', ') : stateInfo.rivers}</td>
             </tr>
             <tr>
@@ -1283,12 +1404,16 @@
               <td>${stateInfo.vegetation}</td>
             </tr>
             <tr>
-              <td><strong>Crops</strong></td>
+              <td><strong>Main Crops</strong></td>
               <td>${Array.isArray(stateInfo.crops) ? stateInfo.crops.join(', ') : stateInfo.crops}</td>
             </tr>
             <tr>
               <td><strong>Main Occupations</strong></td>
               <td>${Array.isArray(stateInfo.occupations) ? stateInfo.occupations.join(', ') : stateInfo.occupations}</td>
+            </tr>
+            <tr>
+              <td><strong>Key Information & Nicknames</strong></td>
+              <td>${stateInfo.keyInfo}</td>
             </tr>
           </tbody>
         </table>
@@ -1355,16 +1480,18 @@
     
     let tableHTML = `
       <div class="quiz-question">
-        <h3>📊 Key State Data Table (Exhaustive)</h3>
+        <h3>📊 Comprehensive State and Union Territory Data Table</h3>
         <table class="data-table">
           <thead>
             <tr>
               <th>State/UT</th>
-              <th>Capital & famous Cities</th>
-              <th>Rivers</th>
+              <th>Key Geography/Climate Data</th>
+              <th>Capital & Famous Cities</th>
+              <th>Rivers (Perennial/Non-perennial)</th>
               <th>Natural Vegetation</th>
-              <th>Crops</th>
+              <th>Main Crops</th>
               <th>Main Occupations</th>
+              <th>Key Information & Nicknames</th>
             </tr>
           </thead>
           <tbody>
@@ -1376,11 +1503,13 @@
       tableHTML += `
         <tr>
           <td><strong>${state}</strong></td>
+          <td>${data.geography}</td>
           <td>${citiesText}</td>
           <td>${Array.isArray(data.rivers) ? data.rivers.join(', ') : data.rivers}</td>
           <td>${data.vegetation}</td>
           <td>${Array.isArray(data.crops) ? data.crops.join(', ') : data.crops}</td>
           <td>${Array.isArray(data.occupations) ? data.occupations.join(', ') : data.occupations}</td>
+          <td>${data.keyInfo}</td>
         </tr>
       `;
     }

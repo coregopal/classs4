@@ -2273,6 +2273,619 @@
         "Tamil Nadu–IT; Andaman & Nicobar Islands–Coir; Lakshadweep–Tourism"
       ],
       "correct_answer": "Tamil Nadu–Farming, factories; Andaman & Nicobar Islands–Farming, fishing, tourism; Lakshadweep–Fishing, coconut products"
+    },{
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "Which range of the Himalayas is also known as the 'Greater Himalayas' and contains no plant or animal life on its highest peaks?",
+      "options": [
+        "The Himachal",
+        "The Shiwalik",
+        "The Himadri",
+        "The Aravalli"
+      ],
+      "correct_answer": "The Himadri"
+    },
+    {
+      "category": "Chapter 9: Physical Geography of India",
+      "question": "What is the primary difference between perennial and non-perennial rivers according to the text?",
+      "options": [
+        "Perennial rivers are rain-fed, while non-perennial are snow-fed.",
+        "Perennial rivers have water all year round; non-perennial rivers are rain-fed and may dry up.",
+        "Perennial rivers only flow in the south, while non-perennial flow in the north.",
+        "Perennial rivers are smaller tributaries of non-perennial rivers."
+      ],
+      "correct_answer": "Perennial rivers have water all year round; non-perennial rivers are rain-fed and may dry up."
+    },
+    {
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "The city of Srinagar serves as the summer capital of Jammu and Kashmir and is situated on the banks of which river?",
+      "options": [
+        "The Tawi",
+        "The Indus",
+        "The Jhelum",
+        "The Chenab"
+      ],
+      "correct_answer": "The Jhelum"
+    },
+    {
+      "category": "Chapter 10: Political Divisions of North India",
+      "question": "What does the name 'Punjab' literally mean based on its historical river geography?",
+      "options": [
+        "Land of Five Waters",
+        "The Fertile Plain",
+        "Heart of the North",
+        "The Golden Gateway"
+      ],
+      "correct_answer": "Land of Five Waters"
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "Which unique feature distinguishes the Sundarbans mangrove forests in West Bengal?",
+      "options": [
+        "They are the largest source of fresh water in India.",
+        "They are the only mangrove forests in the world where tigers are found.",
+        "They are located in the foothills of the Himalayas.",
+        "They consist entirely of coniferous trees like pine and deodar."
+      ],
+      "correct_answer": "They are the only mangrove forests in the world where tigers are found."
+    },
+    {
+      "category": "Chapter 11: Political Divisions of East India",
+      "question": "What is 'muga', which is famously produced in the state of Assam?",
+      "options": [
+        "A type of one-horned rhinoceros",
+        "A special kind of silk",
+        "A traditional ferry used on the Brahmaputra",
+        "A variety of spicy tea"
+      ],
+      "correct_answer": "A special kind of silk"
+    },
+    {
+      "category": "Chapter 12: Political Divisions of North-East India",
+      "question": "The state name 'Meghalaya' translates to which of the following?",
+      "options": [
+        "Land of Gems",
+        "Home of the Clouds",
+        "The Green Hills",
+        "Gateway to the East"
+      ],
+      "correct_answer": "Home of the Clouds"
+    },
+    {
+      "category": "Chapter 12: Political Divisions of North-East India",
+      "question": "What is the popular name for the Siliguri Corridor that connects the north-eastern states to the rest of India?",
+      "options": [
+        "The Golden Corridor",
+        "The Mountain Pass",
+        "Chicken’s Neck",
+        "The Silk Road"
+      ],
+      "correct_answer": "Chicken’s Neck"
+    },
+    {
+      "category": "Chapter 13: Political Divisions of Central India",
+      "question": "Why is Jamshedpur in Jharkhand commonly referred to as the 'Steel City'?",
+      "options": [
+        "Because of the prehistoric rock art found there.",
+        "Because it is located at a river confluence.",
+        "Because of the large steel plant located there.",
+        "Because it is the capital city of the state."
+      ],
+      "correct_answer": "Because of the large steel plant located there."
+    },
+    {
+      "category": "Chapter 13: Political Divisions of Central India",
+      "question": "The word 'Deccan' (as in Deccan Plateau) is derived from a Sanskrit word meaning what?",
+      "options": [
+        "Rocky",
+        "South",
+        "Centre",
+        "Highland"
+      ],
+      "correct_answer": "South"
+    },
+    {
+      "category": "Chapter 14: Political Divisions of Western India",
+      "question": "Which professional group in Mumbai is so efficient that their delivery system is studied at Harvard University?",
+      "options": [
+        "The textile weavers",
+        "The dabba walas",
+        "The salt makers of Gujarat",
+        "The film directors of Bollywood"
+      ],
+      "correct_answer": "The dabba walas"
+    },
+    {
+      "category": "Chapter 14: Political Divisions of Western India",
+      "question": "Which city is known as the 'Pink City' due to the specific color of its buildings?",
+      "options": [
+        "Gandhinagar",
+        "Panaji",
+        "Jaipur",
+        "Udaipur"
+      ],
+      "correct_answer": "Jaipur"
+    },
+    {
+      "category": "Chapter 15: Political Divisions of South India",
+      "question": "What is the unique geographic significance of Kanniyakumari?",
+      "options": [
+        "It is the site of India's only active volcano.",
+        "It is the meeting point of the Indian Ocean, Bay of Bengal, and Arabian Sea.",
+        "It contains the largest network of backwaters for transport.",
+        "It is the highest altitude city in Southern India."
+      ],
+      "correct_answer": "It is the meeting point of the Indian Ocean, Bay of Bengal, and Arabian Sea."
+    },
+    {
+      "category": "Chapter 15: Political Divisions of South India",
+      "question": "The name 'Lakshadweep' literally translates to mean what?",
+      "options": [
+        "Land of Coral",
+        "Thirty-six Islands",
+        "One Lakh Islands",
+        "Deep Blue Sea"
+      ],
+      "correct_answer": "One Lakh Islands"
+    },
+    {
+      "category": "Chapter 15: Political Divisions of South India",
+      "question": "Where is India's only active volcano located?",
+      "options": [
+        "Kavaratti Island",
+        "Barren Island",
+        "Ross Island",
+        "Havelock Island"
+      ],
+      "correct_answer": "Barren Island"
+    },{
+      "category": "Q.1: One Sentence Concepts",
+      "question": "Which of the following states are included in West India?",
+      "options": [
+        "Rajasthan, Gujarat, Maharashtra, and Goa",
+        "Punjab, Haryana, and Himachal Pradesh",
+        "Bihar, West Bengal, and Odisha",
+        "Assam, Nagaland, and Manipur"
+      ],
+      "correct_answer": "Rajasthan, Gujarat, Maharashtra, and Goa"
+    },
+    {
+      "category": "Q.1: One Sentence Concepts",
+      "question": "Which state is known as the ‘Home of the Clouds’ and contains the world's wettest place?",
+      "options": [
+        "Sikkim",
+        "Arunachal Pradesh",
+        "Meghalaya",
+        "Mizoram"
+      ],
+      "correct_answer": "Meghalaya"
+    },
+    {
+      "category": "Q.1: One Sentence Concepts",
+      "question": "Which state is nicknamed the ‘Heart of India’ due to its central geographic location?",
+      "options": [
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Chhattisgarh",
+        "Telangana"
+      ],
+      "correct_answer": "Madhya Pradesh"
+    },
+    {
+      "category": "Q.1: One Sentence Concepts",
+      "question": "What are two of the most important crops grown in the high-altitude plateau of Ladakh?",
+      "options": [
+        "Rice and Jute",
+        "Tea and Cardamom",
+        "Barley and Wheat",
+        "Cotton and Saffron"
+      ],
+      "correct_answer": "Barley and Wheat"
+    },
+    {
+      "category": "Q.1: One Sentence Concepts",
+      "question": "How is scrub vegetation characterized in the source material?",
+      "options": [
+        "Thick rainforests with evergreen trees",
+        "Dwarf deciduous trees and grasses found in drier places",
+        "Mangroves with roots seen above the ground",
+        "Coniferous trees like pine and deodar"
+      ],
+      "correct_answer": "Dwarf deciduous trees and grasses found in drier places"
+    },
+    {
+      "category": "Q.2: Differentiation & Notes",
+      "question": "What is the fundamental difference between perennial and non-perennial rivers?",
+      "options": [
+        "Perennial rivers are rain-fed, while non-perennial are snow-fed.",
+        "Perennial rivers have water all year round (snow-fed), while non-perennial rivers are rain-fed and may dry up.",
+        "Perennial rivers are found only in West India, while non-perennial are in North India.",
+        "Perennial rivers flow into the Arabian Sea, while non-perennial flow into the Bay of Bengal."
+      ],
+      "correct_answer": "Perennial rivers have water all year round (snow-fed), while non-perennial rivers are rain-fed and may dry up."
+    },
+    {
+      "category": "Q.2: Differentiation & Notes",
+      "question": "What is the main difference between 'jhoom' cultivation and 'terrace' farming?",
+      "options": [
+        "Jhoom is done in plains, while terrace is done in deserts.",
+        "Jhoom involves burning forest patches (shifting), while terrace involves cutting permanent steps into hills.",
+        "Jhoom uses massive irrigation canals, while terrace uses only rainfall.",
+        "Jhoom is for growing rice, while terrace is only for tea."
+      ],
+      "correct_answer": "Jhoom involves burning forest patches (shifting), while terrace involves cutting permanent steps into hills."
+    },
+    {
+      "category": "Q.3: Union Territories",
+      "question": "Which of the following is a unique fact about the Union Territory of Chandigarh?",
+      "options": [
+        "It is India's only active volcano.",
+        "It is the first planned city in India and serves as a joint capital.",
+        "It is a group of coral islands in the Arabian Sea.",
+        "It contains the highest mountain peaks in the world."
+      ],
+      "correct_answer": "It is the first planned city in India and serves as a joint capital."
+    },
+    {
+      "category": "Q.4: State Specifics",
+      "question": "Which state is known for its beautiful sandy coastline, Portuguese influence, and the Basilica of Bom Jesus?",
+      "options": [
+        "Kerala",
+        "Tamil Nadu",
+        "Goa",
+        "Maharashtra"
+      ],
+      "correct_answer": "Goa"
+    },
+    {
+      "category": "Q.4: State Specifics",
+      "question": "In which state do each of the tribes have their own unique shawl design?",
+      "options": [
+        "Sikkim",
+        "Nagaland",
+        "Tripura",
+        "Manipur"
+      ],
+      "correct_answer": "Nagaland"
+    }, {
+      "category": "States and Union Territories of India",
+      "question": "Which regions of India are mountainous with cold climate, seasonal capitals, coniferous vegetation, and rivers like Jhelum, Chenab, Tawi, and Indus?",
+      "options": [
+        "Jammu & Kashmir and Ladakh",
+        "Himachal Pradesh and Uttarakhand",
+        "Sikkim and Arunachal Pradesh",
+        "Nagaland and Mizoram"
+      ],
+      "correct_answer": "Jammu & Kashmir and Ladakh"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which facts are correctly associated with Jammu & Kashmir and Ladakh?",
+      "options": [
+        "Saffron with three stigmas per flower, fruits, yaks, Pashmina weaving",
+        "Tea gardens, oil refineries, and silk",
+        "Rubber plantations and backwaters",
+        "Cotton farming and salt marshes"
+      ],
+      "correct_answer": "Saffron with three stigmas per flower, fruits, yaks, Pashmina weaving"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which Himalayan states have abundant greenery, apple farming, rivers like Ravi, Beas, Satluj, Ganga, Yamuna, and include Buddhist centres and the Valley of Flowers?",
+      "options": [
+        "Himachal Pradesh and Uttarakhand",
+        "Punjab and Haryana",
+        "Sikkim and Assam",
+        "Arunachal Pradesh and Meghalaya"
+      ],
+      "correct_answer": "Himachal Pradesh and Uttarakhand"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which Union Territory is India’s first planned city, shared capital of two states, and is famous for a Rock Garden made entirely from waste?",
+      "options": [
+        "Chandigarh",
+        "Delhi",
+        "Puducherry",
+        "Daman & Diu"
+      ],
+      "correct_answer": "Chandigarh"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which two states lie in the fertile Great Northern Plains, grow large quantities of wheat and rice, and derive their name or borders from rivers?",
+      "options": [
+        "Punjab and Haryana",
+        "Uttar Pradesh and Bihar",
+        "West Bengal and Odisha",
+        "Rajasthan and Gujarat"
+      ],
+      "correct_answer": "Punjab and Haryana"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which river forms the border between Haryana and Uttar Pradesh?",
+      "options": [
+        "Yamuna",
+        "Ganga",
+        "Ghaggar",
+        "Satluj"
+      ],
+      "correct_answer": "Yamuna"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which region is the capital of India, lies on the Yamuna, and contains monuments like the Red Fort and Qutb Minar?",
+      "options": [
+        "Delhi (NCT)",
+        "Agra",
+        "Lucknow",
+        "Chandigarh"
+      ],
+      "correct_answer": "Delhi (NCT)"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which large northern state has fertile alluvial soil, rivers Ganga and Yamuna, produces sugarcane and mangoes, and is home to the Taj Mahal?",
+      "options": [
+        "Uttar Pradesh",
+        "Bihar",
+        "Madhya Pradesh",
+        "West Bengal"
+      ],
+      "correct_answer": "Uttar Pradesh"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which eastern states together are associated with the Ganga, ancient Nalanda University, jute cultivation, tea, and the Sundarbans mangrove forest?",
+      "options": [
+        "Bihar and West Bengal",
+        "Odisha and Jharkhand",
+        "Assam and Meghalaya",
+        "Tripura and Manipur"
+      ],
+      "correct_answer": "Bihar and West Bengal"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which mangrove forest is the only one in the world where tigers are found?",
+      "options": [
+        "Sundarbans",
+        "Bhitarakanika",
+        "Pichavaram",
+        "Godavari Delta"
+      ],
+      "correct_answer": "Sundarbans"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which coastal–plateau state has Lake Chilika, bamboo and teak forests, rice cultivation, and handicrafts?",
+      "options": [
+        "Odisha",
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Kerala"
+      ],
+      "correct_answer": "Odisha"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which North-Eastern states are known for tea gardens, oil refineries, special muga silk, lush forests, and the world’s highest rainfall?",
+      "options": [
+        "Assam and Meghalaya",
+        "Nagaland and Mizoram",
+        "Manipur and Tripura",
+        "Sikkim and Arunachal Pradesh"
+      ],
+      "correct_answer": "Assam and Meghalaya"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which place in India holds the world record for the highest rainfall?",
+      "options": [
+        "Mawsynram",
+        "Cherrapunji",
+        "Shillong",
+        "Tura"
+      ],
+      "correct_answer": "Mawsynram"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which hilly state with Buddhist monasteries has rivers like Tista and Rangit, grows cardamom, and has yaks in snowy regions?",
+      "options": [
+        "Sikkim",
+        "Arunachal Pradesh",
+        "Nagaland",
+        "Manipur"
+      ],
+      "correct_answer": "Sikkim"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which Himalayan foothill state is where the Brahmaputra enters India as the Dihang and is famous for orchids at Tipi?",
+      "options": [
+        "Arunachal Pradesh",
+        "Assam",
+        "Meghalaya",
+        "Sikkim"
+      ],
+      "correct_answer": "Arunachal Pradesh"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which North-Eastern states are known for tribal culture, English as an official language, unique shawl designs, hilltop villages, and bamboo dance?",
+      "options": [
+        "Nagaland and Mizoram",
+        "Manipur and Tripura",
+        "Assam and Meghalaya",
+        "Sikkim and Arunachal Pradesh"
+      ],
+      "correct_answer": "Nagaland and Mizoram"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which state is known as the 'Land of Gems' and contains Loktak Lake, the largest freshwater lake in the North-East?",
+      "options": [
+        "Manipur",
+        "Tripura",
+        "Assam",
+        "Nagaland"
+      ],
+      "correct_answer": "Manipur"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which small North-Eastern state borders Bangladesh and contains the Gumti Wildlife Sanctuary with gibbons?",
+      "options": [
+        "Tripura",
+        "Mizoram",
+        "Manipur",
+        "Nagaland"
+      ],
+      "correct_answer": "Tripura"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which plateau state is called the 'Heart of India' and is famous for Bhimbetka prehistoric rock art?",
+      "options": [
+        "Madhya Pradesh",
+        "Chhattisgarh",
+        "Jharkhand",
+        "Maharashtra"
+      ],
+      "correct_answer": "Madhya Pradesh"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which states are forested plateaus rich in minerals, known for coal, steel plants, and rivers like Damodar and Mahanadi?",
+      "options": [
+        "Jharkhand and Chhattisgarh",
+        "Odisha and West Bengal",
+        "Bihar and Uttar Pradesh",
+        "Telangana and Andhra Pradesh"
+      ],
+      "correct_answer": "Jharkhand and Chhattisgarh"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which waterfall is known as the widest in India?",
+      "options": [
+        "Chitrakote Falls",
+        "Jog Falls",
+        "Dudhsagar Falls",
+        "Athirappilly Falls"
+      ],
+      "correct_answer": "Chitrakote Falls"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which state was formed in 2014, lies on a rocky plateau, and has Hyderabad as its joint capital?",
+      "options": [
+        "Telangana",
+        "Andhra Pradesh",
+        "Chhattisgarh",
+        "Jharkhand"
+      ],
+      "correct_answer": "Telangana"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which desert state is known as the Pink City region, grows bajra and pulses, and is irrigated by the Indira Gandhi Canal?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Haryana",
+        "Punjab"
+      ],
+      "correct_answer": "Rajasthan"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which western states are known for dairy farming (Amul), salt deserts, black soil, sugarcane, and India’s film industry?",
+      "options": [
+        "Gujarat and Maharashtra",
+        "Punjab and Haryana",
+        "Goa and Kerala",
+        "Karnataka and Tamil Nadu"
+      ],
+      "correct_answer": "Gujarat and Maharashtra"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which city’s tiffin delivery system is studied at Harvard University?",
+      "options": [
+        "Mumbai",
+        "Pune",
+        "Delhi",
+        "Ahmedabad"
+      ],
+      "correct_answer": "Mumbai"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which smallest coastal state was a former Portuguese colony and is known for beaches and tourism?",
+      "options": [
+        "Goa",
+        "Kerala",
+        "Tamil Nadu",
+        "Andhra Pradesh"
+      ],
+      "correct_answer": "Goa"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which southern states are known for sandalwood, IT industry, silk, temple architecture, Lepakshi’s monolithic Nandi, and leather puppets?",
+      "options": [
+        "Karnataka and Andhra Pradesh",
+        "Tamil Nadu and Kerala",
+        "Telangana and Maharashtra",
+        "Goa and Karnataka"
+      ],
+      "correct_answer": "Karnataka and Andhra Pradesh"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which state is called 'God’s Own Country' and has nearly 2,000 km of interconnected backwaters?",
+      "options": [
+        "Kerala",
+        "Goa",
+        "Tamil Nadu",
+        "Odisha"
+      ],
+      "correct_answer": "Kerala"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which state has Kanniyakumari, the meeting point of the Arabian Sea, Bay of Bengal, and Indian Ocean?",
+      "options": [
+        "Tamil Nadu",
+        "Kerala",
+        "Andhra Pradesh",
+        "Karnataka"
+      ],
+      "correct_answer": "Tamil Nadu"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which Union Territory contains India’s only active volcano located on Barren Island?",
+      "options": [
+        "Andaman & Nicobar Islands",
+        "Lakshadweep",
+        "Puducherry",
+        "Dadra & Nagar Haveli"
+      ],
+      "correct_answer": "Andaman & Nicobar Islands"
+    },
+    {
+      "category": "States and Union Territories of India",
+      "question": "Which group of coral islands in the Arabian Sea has no rivers, relies on coconut products, fishing, tourism, and is famous for scuba diving?",
+      "options": [
+        "Lakshadweep",
+        "Andaman & Nicobar Islands",
+        "Goa",
+        "Diu"
+      ],
+      "correct_answer": "Lakshadweep"
     }
   ]
 }
