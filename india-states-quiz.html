@@ -204,6 +204,93 @@
       margin-right: 8px;
       border: 1px solid #333;
     }
+    
+    .fullscreen-modal {
+      display: none;
+      position: fixed;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      background: rgba(0, 0, 0, 0.9);
+      z-index: 10000;
+      padding: 20px;
+      box-sizing: border-box;
+      overflow-y: auto;
+    }
+    
+    .fullscreen-content {
+      background: white;
+      padding: 20px;
+      border-radius: 10px;
+      max-width: 95%;
+      max-height: 95%;
+      margin: 0 auto;
+      overflow-y: auto;
+    }
+    
+    .fullscreen-table {
+      width: 100%;
+      font-size: 14px;
+      border-collapse: collapse;
+      margin: 20px 0;
+    }
+    
+    .fullscreen-table th {
+      background: #f8f9fa;
+      padding: 12px;
+      text-align: left;
+      border: 1px solid #dee2e6;
+      font-weight: bold;
+      position: sticky;
+      top: 0;
+    }
+    
+    .fullscreen-table td {
+      padding: 12px;
+      border: 1px solid #dee2e6;
+      vertical-align: top;
+    }
+    
+    .fullscreen-table tr:hover {
+      background: #f5f5f5;
+    }
+    
+    .close-fullscreen {
+      float: right;
+      font-size: 24px;
+      cursor: pointer;
+      color: #666;
+      margin-bottom: 10px;
+    }
+    
+    .close-fullscreen:hover {
+      color: #000;
+    }
+    
+    .btn-fullscreen {
+      background: #6c757d;
+      color: white;
+      margin-left: 10px;
+    }
+    
+    .btn-info {
+      background: #17a2b8;
+      color: white;
+    }
+    
+    .btn-info:hover {
+      background: #138496;
+    }
+    
+    .btn-warning {
+      background: #ffc107;
+      color: #212529;
+    }
+    
+    .btn-warning:hover {
+      background: #e0a800;
+    }
   </style>
 </head>
 <body>
@@ -216,7 +303,8 @@
       <h1>🇮🇳 India States & UTs Quiz</h1>
       <div class="quiz-controls">
         <button class="btn btn-primary" onclick="startQuiz()">Start Quiz</button>
-        <button class="btn btn-success" onclick="showDataTable()">Show Data Table</button>
+        <button class="btn btn-success" onclick="startAllTests()">Start All Tests</button>
+        <button class="btn btn-info" onclick="showDataTable()">Show Data Table</button>
       </div>
     </div>
     
@@ -981,10 +1069,10 @@
   // Add GeoJSON to map with interactive features
   const geoLayer = L.geoJSON(indiaGeoJson, {
   style: {
-    color: "transparent",   // ⛔ remove borders
-    weight: 0,              // ⛔ no outline
+    color: "#333",
+    weight: 1,
     fillColor: "#ffc107",
-    fillOpacity: 0.01
+    fillOpacity: 0.3
   },
 
     onEachFeature: function (feature, layer) {
@@ -1002,19 +1090,19 @@
         mouseover: function() {
           this.setStyle({
             fillColor: "#ffeb3b",
-            fillOpacity: 0.6,
-            weight: 0,
-    color: "transparent"
+            fillOpacity: 0.7,
+            weight: 2,
+            color: "#333"
           });
         },
         mouseout: function() {
-  this.setStyle({
-    fillColor: "#ffc107",
-    fillOpacity: 0.25,
-    weight: 0,
-    color: "transparent"
-  });
-}
+          this.setStyle({
+            fillColor: "#ffc107",
+            fillOpacity: 0.3,
+            weight: 1,
+            color: "#333"
+          });
+        }
       });
     }
   }).addTo(map);
@@ -1038,6 +1126,13 @@
     document.getElementById('score').textContent = score;
     
     showStateQuestion();
+  }
+
+  function startAllTests() {
+    // Start with a random state quiz
+    const states = Object.keys(stateData);
+    const randomState = states[Math.floor(Math.random() * states.length)];
+    startStateQuiz(randomState);
   }
 
   function startQuiz() {
@@ -1319,14 +1414,19 @@
     
     answeredQuestions.add(currentQuestion);
     
-    // Update UI
+    // Update UI with enhanced feedback
     const options = document.querySelectorAll('.quiz-option');
     options.forEach((option, index) => {
       option.classList.add('disabled');
       if (index === optionIndex) {
         option.classList.add(isCorrect ? 'correct' : 'wrong');
+        if (!isCorrect) {
+          // Show correct answer below wrong selection
+          option.innerHTML += `<br><small><strong>Correct: ${question.correct}</strong></small>`;
+        }
       } else if (option.dataset.option === question.correct) {
         option.classList.add('correct');
+        option.innerHTML += '<br><small>✓ Correct Answer</small>';
       }
     });
     
@@ -1339,7 +1439,7 @@
     setTimeout(() => {
       currentQuestion++;
       showStateQuestion();
-    }, 2000);
+    }, 3000); // Increased delay to read feedback
   }
 
   function showStateResults() {
@@ -1378,8 +1478,14 @@
         <table class="data-table">
           <thead>
             <tr>
-              <th>Category</th>
-              <th>Details</th>
+              <th>State/UT</th>
+              <th>Key Geography/Climate Data</th>
+              <th>Capital & Famous Cities</th>
+              <th>Rivers (Perennial/Non-perennial)</th>
+              <th>Natural Vegetation</th>
+              <th>Main Crops</th>
+              <th>Main Occupations</th>
+              <th>Key Information & Nicknames</th>
             </tr>
           </thead>
           <tbody>
@@ -1420,6 +1526,32 @@
         <div class="quiz-controls">
           <button class="btn btn-primary" onclick="startStateQuiz('${stateName}')">Start ${stateName} Quiz</button>
           <button class="btn btn-success" onclick="showDataTable()">All States Data</button>
+          <button class="btn btn-fullscreen" onclick="openFullscreenTable()">⛶ Fullscreen</button>
+        </div>
+      </div>
+    `;
+  }
+
+  function showQuestion() {
+    if (currentQuestion >= currentQuizData.length) {
+      showResults();
+      return;
+    }
+    
+    const question = currentQuizData[currentQuestion];
+    const quizContent = document.getElementById('quiz-content');
+    
+    quizContent.innerHTML = `
+      <div class="quiz-question">
+        <h3>🇮🇳 Question ${currentQuestion + 1} of ${currentQuizData.length}</h3>
+        <p><strong>State:</strong> ${question.state}</p>
+        <p>${question.text}</p>
+        <div class="quiz-options">
+          ${question.options.map((option, index) => `
+            <div class="quiz-option" onclick="selectAnswer(${index})" data-option="${option}">
+              ${option}
+            </div>
+          `).join('')}
         </div>
       </div>
     `;
@@ -1434,14 +1566,19 @@
     
     answeredQuestions.add(currentQuestion);
     
-    // Update UI
+    // Update UI with enhanced feedback
     const options = document.querySelectorAll('.quiz-option');
     options.forEach((option, index) => {
       option.classList.add('disabled');
       if (index === optionIndex) {
         option.classList.add(isCorrect ? 'correct' : 'wrong');
+        if (!isCorrect) {
+          // Show correct answer below wrong selection
+          option.innerHTML += `<br><small><strong>Correct: ${question.correct}</strong></small>`;
+        }
       } else if (option.dataset.option === question.correct) {
         option.classList.add('correct');
+        option.innerHTML += '<br><small>✓ Correct Answer</small>';
       }
     });
     
@@ -1454,7 +1591,7 @@
     setTimeout(() => {
       currentQuestion++;
       showQuestion();
-    }, 2000);
+    }, 3000); // Increased delay to read feedback
   }
 
   function showResults() {
@@ -1476,25 +1613,29 @@
   }
 
   function showDataTable() {
-    const quizContent = document.getElementById('quiz-content');
+    // Directly open fullscreen table
+    openFullscreenTable();
+  }
+  
+  function openFullscreenTable() {
+    const modal = document.getElementById('fullscreenModal');
+    const container = document.getElementById('fullscreenTableContainer');
     
     let tableHTML = `
-      <div class="quiz-question">
-        <h3>📊 Comprehensive State and Union Territory Data Table</h3>
-        <table class="data-table">
-          <thead>
-            <tr>
-              <th>State/UT</th>
-              <th>Key Geography/Climate Data</th>
-              <th>Capital & Famous Cities</th>
-              <th>Rivers (Perennial/Non-perennial)</th>
-              <th>Natural Vegetation</th>
-              <th>Main Crops</th>
-              <th>Main Occupations</th>
-              <th>Key Information & Nicknames</th>
-            </tr>
-          </thead>
-          <tbody>
+      <table class="fullscreen-table">
+        <thead>
+          <tr>
+            <th>State/UT</th>
+            <th>Key Geography/Climate Data</th>
+            <th>Capital & Famous Cities</th>
+            <th>Rivers (Perennial/Non-perennial)</th>
+            <th>Natural Vegetation</th>
+            <th>Main Crops</th>
+            <th>Main Occupations</th>
+            <th>Key Information & Nicknames</th>
+          </tr>
+        </thead>
+        <tbody>
     `;
     
     for (const [state, data] of Object.entries(stateData)) {
@@ -1515,17 +1656,43 @@
     }
     
     tableHTML += `
-          </tbody>
-        </table>
-        <div class="quiz-controls">
-          <button class="btn btn-primary" onclick="startQuiz()">Start Quiz</button>
-        </div>
-      </div>
+        </tbody>
+      </table>
     `;
     
-    quizContent.innerHTML = tableHTML;
+    container.innerHTML = tableHTML;
+    modal.style.display = 'block';
   }
+  
+  function closeFullscreenTable() {
+    document.getElementById('fullscreenModal').style.display = 'none';
+  }
+  
+  // Close fullscreen when clicking outside the modal
+  window.onclick = function(event) {
+    const modal = document.getElementById('fullscreenModal');
+    if (event.target === modal) {
+      closeFullscreenTable();
+    }
+  }
+  
+  // Close fullscreen with Escape key
+  document.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape') {
+      closeFullscreenTable();
+    }
+  });
+
 </script>
+
+<!-- Fullscreen Modal -->
+<div id="fullscreenModal" class="fullscreen-modal">
+  <div class="fullscreen-content">
+    <span class="close-fullscreen" onclick="closeFullscreenTable()">&times;</span>
+    <h2>📊 Comprehensive State and Union Territory Data Table</h2>
+    <div id="fullscreenTableContainer"></div>
+  </div>
+</div>
 
 </body>
 </html>
