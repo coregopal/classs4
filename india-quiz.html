@@ -129,6 +129,31 @@
     box-sizing: border-box;
   }
 
+  .question-block {
+    background: white;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 20px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    border: 1px solid #e5e7eb;
+  }
+
+  .question-block h3 {
+    margin: 0 0 15px 0;
+    color: #1f2937;
+  }
+
+  .question-block p {
+    margin: 0 0 15px 0;
+    line-height: 1.5;
+  }
+
+  .question-block .options {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+  }
+
   .option-btn {
     padding: 12px 16px;
     border: 2px solid #e5e7eb;
@@ -201,7 +226,7 @@
 /* ================= REAL GEOJSON GOES HERE ================= */
 /* 🔴 PASTE THE FULL CONTENT OF india.geojson BELOW */
 
-/* const indiaStatesGeoJSON = {
+const indiaStatesGeoJSON = {
   "type": "FeatureCollection", 
   "features": [
     {
@@ -121481,6 +121506,154 @@ function showMessage(text, color) {
   messageEl.style.background = color;
   messageEl.style.display = "block";
   setTimeout(() => messageEl.style.display = "none", 1200);
+}
+
+// Quiz data for Indian states
+const quizData = [
+  {
+    state: "Jammu & Kashmir",
+    capital: "Srinagar (Summer), Jammu (Winter)",
+    geography: "Mountainous UT; cold winters, cool summers",
+    rivers: "Jhelum, Chenab, Tawi",
+    crops: "Rice, wheat, saffron",
+    fact: "Saffron is an expensive spice; each flower has only 3 orange stigmas"
+  },
+  {
+    state: "Punjab",
+    capital: "Chandigarh",
+    geography: "Flat land in the Great Northern Plain; fertile soil",
+    rivers: "Ravi, Beas, Satluj",
+    crops: "Wheat, rice, cotton",
+    fact: "Name means 'five waters'; home to the Golden Temple"
+  },
+  {
+    state: "Kerala",
+    capital: "Thiruvananthapuram",
+    geography: "Wet/watery coastline; famous backwaters",
+    rivers: "Periyar, Pamba, backwaters",
+    crops: "Rubber, tapioca, spices",
+    fact: "Called 'God's own country'; has 2,000 km of waterways"
+  },
+  {
+    state: "Rajasthan",
+    capital: "Jaipur",
+    geography: "Great Indian Desert; dry climate",
+    rivers: "Luni, Banas, Banganga",
+    crops: "Bajra, pulses, jowar",
+    fact: "Jaipur is the 'Pink City'; irrigated by Indira Gandhi Canal"
+  }
+];
+
+let currentQuestionIndex = 0;
+let score = 0;
+
+function generateQuestion() {
+  if (currentQuestionIndex >= quizData.length) {
+    showResults();
+    return;
+  }
+
+  const currentData = quizData[currentQuestionIndex];
+  const questionTypes = [
+    {
+      question: `What is the capital of ${currentData.state}?`,
+      answer: currentData.capital
+    },
+    {
+      question: `What is the geography/climate of ${currentData.state}?`,
+      answer: currentData.geography
+    },
+    {
+      question: `Which rivers flow through ${currentData.state}?`,
+      answer: currentData.rivers
+    },
+    {
+      question: `What are the main crops in ${currentData.state}?`,
+      answer: currentData.crops
+    },
+    {
+      question: `What is a key fact about ${currentData.state}?`,
+      answer: currentData.fact
+    }
+  ];
+
+  const selectedQuestion = questionTypes[Math.floor(Math.random() * questionTypes.length)];
+  const wrongAnswers = quizData
+    .filter(d => d.state !== currentData.state)
+    .map(d => {
+      const sameType = questionTypes.find(q => q.question.includes(selectedQuestion.question.split(' ')[2]));
+      return sameType ? d[sameType.answer.split(' ')[0].toLowerCase()] : d.capital;
+    });
+
+  const options = [selectedQuestion.answer, ...wrongAnswers.slice(0, 3)]
+    .sort(() => Math.random() - 0.5);
+
+  displayQuestion(selectedQuestion.question, options, selectedQuestion.answer);
+}
+
+function displayQuestion(questionText, options, correctAnswer) {
+  const quizContainer = document.querySelector('.quiz-container');
+  
+  const questionEl = document.createElement('div');
+  questionEl.className = 'question-block';
+  questionEl.innerHTML = `
+    <h3>🇮🇳 Question ${currentQuestionIndex + 1}</h3>
+    <p><strong>${questionText}</strong></p>
+    <div class="options"></div>
+  `;
+
+  const optionsContainer = questionEl.querySelector('.options');
+  options.forEach((option, index) => {
+    const button = document.createElement('button');
+    button.className = 'option-btn';
+    button.textContent = option;
+    button.onclick = () => checkAnswer(button, option, correctAnswer, questionEl);
+    optionsContainer.appendChild(button);
+  });
+
+  // Clear previous questions
+  const existingQuestions = quizContainer.querySelectorAll('.question-block');
+  existingQuestions.forEach(q => q.remove());
+  
+  quizContainer.appendChild(questionEl);
+}
+
+function checkAnswer(button, selectedAnswer, correctAnswer, questionEl) {
+  const options = questionEl.querySelectorAll('.option-btn');
+  options.forEach(opt => opt.disabled = true);
+
+  if (selectedAnswer === correctAnswer) {
+    button.style.background = '#4ade80';
+    button.textContent += ' ✓ Correct!';
+    score++;
+    document.getElementById('score').textContent = `Score: ${score}`;
+  } else {
+    button.style.background = '#f87171';
+    button.textContent += ' ✗ Wrong';
+    
+    // Show correct answer
+    const correctBtn = Array.from(options).find(opt => opt.textContent === correctAnswer);
+    if (correctBtn) {
+      correctBtn.style.background = '#4ade80';
+      correctBtn.textContent += ' ✓ Correct Answer';
+    }
+  }
+
+  setTimeout(() => {
+    currentQuestionIndex++;
+    generateQuestion();
+  }, 2000);
+}
+
+function showResults() {
+  const quizContainer = document.querySelector('.quiz-container');
+  quizContainer.innerHTML = `
+    <div class="question-block">
+      <h2>🎉 Quiz Complete!</h2>
+      <p><strong>Final Score: ${score} / ${quizData.length}</strong></p>
+      <button class="option-btn" onclick="location.reload()">Try Again</button>
+    </div>
+  `;
 }
 
 function nextQuestion() {

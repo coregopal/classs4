@@ -11,6 +11,32 @@ This React-based quiz application provides an engaging learning experience for C
 - **Progress tracking** and score management
 - **Responsive design** for various screen sizes
 
+## 🖼️ Application Screenshots
+
+### Home Page
+![Home Page](./screenshots/home-page.png)
+*Main dashboard showing all available subjects*
+
+### Quiz Interface
+![Quiz Interface](./screenshots/quiz-interface.png)
+*Interactive quiz with multiple choice questions and timer*
+
+### Subject Selection
+![Subject Selection](./screenshots/subject-selection.png)
+*Different subjects available for quiz*
+
+### Quiz Results
+![Quiz Results](./screenshots/quiz-results.png)
+*Score display and performance summary*
+
+### PDF Resources
+![PDF Resources](./screenshots/pdf-resources.png)
+*Access to study materials and PDF resources*
+
+### Mobile Responsive View
+![Mobile View](./screenshots/mobile-view.png)
+*Responsive design working on mobile devices*
+
 ## 🎯 Subjects Covered
 
 The application includes quizzes for the following subjects:
