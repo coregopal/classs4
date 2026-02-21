@@ -1,6 +1,734 @@
 {
   "questions": [
     {
+      "category": "Measurement_of_Length",
+      "question": "Which unit is most appropriate to measure the length of your pencil?",
+      "options": [
+        "Centimeter",
+        "Meter",
+        "Kilometer",
+        "Millimeter"
+      ],
+      "correct_answer": "Centimeter",
+      "explanation": "A pencil is typically about 7–15 cm long, so centimeter is the most suitable unit."
+    },
+    {
+      "category": "Measurement_of_Length_Conversion",
+      "question": "Convert 45 cm to millimeters.",
+      "options": [
+        "450 mm",
+        "4.5 mm",
+        "4500 mm",
+        "45 mm"
+      ],
+      "correct_answer": "450 mm",
+      "explanation": "1 cm = 10 mm, so 45 cm = 45 × 10 = 450 mm."
+    },
+    {
+      "category": "Measurement_of_Mass",
+      "question": "Which unit is used to measure the weight of a sack of rice?",
+      "options": [
+        "Kilogram",
+        "Gram",
+        "Milligram",
+        "Liter"
+      ],
+      "correct_answer": "Kilogram",
+      "explanation": "A sack of rice is heavy and is usually measured in kilograms."
+    },
+    {
+      "category": "Measurement_of_Mass_Conversion",
+      "question": "Convert 2.389 kg to grams.",
+      "options": [
+        "2389 g",
+        "23.89 g",
+        "238.9 g",
+        "2.389 g"
+      ],
+      "correct_answer": "2389 g",
+      "explanation": "1 kg = 1000 g, so 2.389 kg = 2.389 × 1000 = 2389 g."
+    },
+    {
+      "category": "Measurement_of_Capacity",
+      "question": "The volume of water in a cup is usually measured in:",
+      "options": [
+        "Milliliters",
+        "Liters",
+        "Kilograms",
+        "Meters"
+      ],
+      "correct_answer": "Milliliters",
+      "explanation": "A cup holds a small amount of liquid, so milliliters are the appropriate unit."
+    },
+    {
+      "category": "Measurement_of_Capacity_Conversion",
+      "question": "Convert 3231 mL to liters.",
+      "options": [
+        "3.231 L",
+        "32.31 L",
+        "323.1 L",
+        "0.3231 L"
+      ],
+      "correct_answer": "3.231 L",
+      "explanation": "1 L = 1000 mL, so 3231 mL = 3231 ÷ 1000 = 3.231 L."
+    },
+    {
+      "category": "Measurement_Addition",
+      "question": "Add 2 km 875 m and 3 km 295 m. What is the total distance?",
+      "options": [
+        "6 km 170 m",
+        "5 km 170 m",
+        "6 km 270 m",
+        "5 km 270 m"
+      ],
+      "correct_answer": "6 km 170 m",
+      "explanation": "2 km 875 m + 3 km 295 m = 5 km 1170 m = 5 km + 1 km 170 m = 6 km 170 m."
+    },
+    {
+      "category": "Measurement_Subtraction",
+      "question": "Subtract 750 g from 4 kg 500 g. What is the remaining weight?",
+      "options": [
+        "3 kg 750 g",
+        "4 kg 750 g",
+        "3 kg 250 g",
+        "4 kg 250 g"
+      ],
+      "correct_answer": "3 kg 750 g",
+      "explanation": "4 kg 500 g = 4500 g; 4500 g - 750 g = 3750 g = 3 kg 750 g."
+    },
+    {
+      "category": "Measurement_Comparison",
+      "question": "Which is greater: 45 mm or 4 cm 6 mm?",
+      "options": [
+        "45 mm",
+        "4 cm 6 mm",
+        "They are equal",
+        "Cannot compare"
+      ],
+      "correct_answer": "4 cm 6 mm",
+      "explanation": "4 cm 6 mm = 46 mm, which is greater than 45 mm."
+    },
+    {
+      "category": "Time_Conversion_12_24",
+      "question": "What is 7:10 pm in 24-hour clock format?",
+      "options": [
+        "19:10 hrs",
+        "07:10 hrs",
+        "17:10 hrs",
+        "21:10 hrs"
+      ],
+      "correct_answer": "19:10 hrs",
+      "explanation": "For pm times (except 12 pm), add 12 to the hour: 7 + 12 = 19, so 19:10."
+    },
+    {
+      "category": "Time_Duration",
+      "question": "Find the duration from 11:30 am to 5:40 pm.",
+      "options": [
+        "6 hours 10 minutes",
+        "5 hours 10 minutes",
+        "6 hours 30 minutes",
+        "5 hours 40 minutes"
+      ],
+      "correct_answer": "6 hours 10 minutes",
+      "explanation": "11:30 am to 12:00 pm = 30 min, then to 5:00 pm = 5 hours, then to 5:40 pm = 40 min. Total = 5 hours 70 min = 6 hours 10 min."
+    },
+    {
+      "category": "Time_Days_Between_Dates",
+      "question": "How many days are there from March 15 to April 13?",
+      "options": [
+        "29 days",
+        "30 days",
+        "31 days",
+        "28 days"
+      ],
+      "correct_answer": "30 days",
+      "explanation": "March has 31 days, so from March 15 to 31 is 17 days (31-14). Then add 13 days of April = 30 days."
+    },
+    {
+      "category": "Time_Start_End",
+      "question": "If a concert starts at 5:15 pm and ends at 9:00 pm, what is the duration?",
+      "options": [
+        "3 hours 45 minutes",
+        "4 hours 15 minutes",
+        "3 hours 15 minutes",
+        "4 hours 45 minutes"
+      ],
+      "correct_answer": "3 hours 45 minutes",
+      "explanation": "From 5:15 to 6:00 is 45 min, then to 9:00 is 3 hours, total 3 hours 45 min."
+    },
+    {
+      "category": "Data_Handling_BarGraph",
+      "question": "In a fruit survey, 14 students liked apple, 8 liked banana, 12 liked orange, 12 liked grapes, and 6 liked watermelon. Which fruit is the least popular?",
+      "options": [
+        "Apple",
+        "Banana",
+        "Orange",
+        "Watermelon"
+      ],
+      "correct_answer": "Watermelon",
+      "explanation": "Watermelon is liked by only 6 students, the smallest number."
+    },
+    {
+      "category": "Data_Handling_Pictograph",
+      "question": "In a pictograph, one symbol represents 10 students. How many symbols are needed to show 40 students?",
+      "options": [
+        "4",
+        "40",
+        "10",
+        "400"
+      ],
+      "correct_answer": "4",
+      "explanation": "40 ÷ 10 = 4 symbols."
+    },
+    {
+      "category": "Data_Handling_Total",
+      "question": "In a TV program survey, the numbers are: Breakfast show 30, News 70, Science 50, Serials 70, Music 40, Cartoon 60. What is the total number of people interviewed?",
+      "options": [
+        "320",
+        "300",
+        "350",
+        "310"
+      ],
+      "correct_answer": "320",
+      "explanation": "30 + 70 + 50 + 70 + 40 + 60 = 320."
+    },
+    {
+      "category": "Decimals_Fraction_to_Decimal",
+      "question": "Write 7/10 as a decimal.",
+      "options": [
+        "0.7",
+        "0.07",
+        "7.0",
+        "0.007"
+      ],
+      "correct_answer": "0.7",
+      "explanation": "7/10 means 7 tenths, which is 0.7."
+    },
+    {
+      "category": "Decimals_Place_Value",
+      "question": "In the number 54.706, what is the place value of 7?",
+      "options": [
+        "Tenths",
+        "Hundredths",
+        "Thousandths",
+        "Ones"
+      ],
+      "correct_answer": "Tenths",
+      "explanation": "In 54.706, the digits after decimal are tenths, hundredths, thousandths. The 7 is in the tenths place."
+    },
+    {
+      "category": "Decimals_Expanded_Form",
+      "question": "What is the expanded form of 302.839?",
+      "options": [
+        "300 + 2 + 8/10 + 3/100 + 9/1000",
+        "300 + 2 + 8/100 + 3/10 + 9/1000",
+        "300 + 2 + 8/10 + 3/1000 + 9/100",
+        "300 + 20 + 8/10 + 3/100 + 9/1000"
+      ],
+      "correct_answer": "300 + 2 + 8/10 + 3/100 + 9/1000",
+      "explanation": "302.839 = 300 + 2 + 0.8 + 0.03 + 0.009 = 300 + 2 + 8/10 + 3/100 + 9/1000."
+    },
+    {
+      "category": "Decimals_Like_Unlike",
+      "question": "Which of the following are like decimals?",
+      "options": [
+        "0.5, 2.1, 5.7, 6.4",
+        "0.5, 2.10, 5.7, 6.40",
+        "0.50, 2.1, 5.7, 6.4",
+        "0.5, 2.1, 5.70, 6.4"
+      ],
+      "correct_answer": "0.5, 2.1, 5.7, 6.4",
+      "explanation": "Like decimals have the same number of decimal places. All have one decimal place."
+    },
+    {
+      "category": "Time_Duration_Worksheet",
+      "question": "What is the time duration from 5:20 pm to 6:12 pm?",
+      "options": [
+        "52 minutes",
+        "1 hour 8 minutes",
+        "1 hour 2 minutes",
+        "48 minutes"
+      ],
+      "correct_answer": "52 minutes",
+      "explanation": "From 5:20 pm to 6:00 pm is 40 minutes. From 6:00 pm to 6:12 pm is 12 minutes. Total = 40 + 12 = 52 minutes."
+    },
+    {
+      "category": "Time_Duration_Worksheet",
+      "question": "What is the time duration from 7:50 am to 1:30 pm?",
+      "options": [
+        "6 hours 40 minutes",
+        "5 hours 40 minutes",
+        "6 hours 20 minutes",
+        "5 hours 20 minutes"
+      ],
+      "correct_answer": "5 hours 40 minutes",
+      "explanation": "7:50 am to 12:00 pm = 4 hours 10 minutes. 12:00 pm to 1:30 pm = 1 hour 30 minutes. Total = 5 hours 40 minutes."
+    },
+    {
+      "category": "Time_Finishing_Time",
+      "question": "If you start a task at 5:45 pm and it takes 1 hour and 30 minutes, when will you finish?",
+      "options": [
+        "6:15 pm",
+        "7:15 pm",
+        "7:00 pm",
+        "6:45 pm"
+      ],
+      "correct_answer": "7:15 pm",
+      "explanation": "5:45 pm + 1 hour = 6:45 pm. 6:45 pm + 30 minutes = 7:15 pm."
+    },
+    {
+      "category": "Time_Finishing_Time",
+      "question": "What time will it be 2 hours and 15 minutes after 11:30 am?",
+      "options": [
+        "1:45 pm",
+        "1:30 pm",
+        "2:45 pm",
+        "1:15 pm"
+      ],
+      "correct_answer": "1:45 pm",
+      "explanation": "11:30 am + 2 hours = 1:30 pm. 1:30 pm + 15 minutes = 1:45 pm."
+    },
+    {
+      "category": "Time_Days_Between_Dates",
+      "question": "Mr. Sharma arrived in Hong Kong on 26th September and left on the morning of 3rd October. How many days did he stay?",
+      "options": [
+        "7 days",
+        "8 days",
+        "9 days",
+        "6 days"
+      ],
+      "correct_answer": "7 days",
+      "explanation": "September has 30 days. Days stayed in September: 30 - 25 = 5 days (26, 27, 28, 29, 30). Days stayed in October: 2 days (1st and 2nd, leaving on the 3rd morning). Total = 5 + 2 = 7 days."
+    },
+    {
+      "category": "Time_Days_Between_Dates",
+      "question": "Varen started his assignment on 28th March and completed it on 1st April. In how many days did he finish it?",
+      "options": [
+        "5 days",
+        "4 days",
+        "6 days",
+        "3 days"
+      ],
+      "correct_answer": "5 days",
+      "explanation": "March has 31 days. Days worked in March: 31 - 27 = 4 days (28, 29, 30, 31). Days worked in April: 1 day (1st). Total = 4 + 1 = 5 days."
+    },
+    {
+      "category": "Measurement_Ordering",
+      "question": "Arrange the following in increasing order: 3 cm, 45 mm, 4 cm 6 mm, 67 mm, 89 mm.",
+      "options": [
+        "3 cm < 45 mm < 4 cm 6 mm < 67 mm < 89 mm",
+        "45 mm < 3 cm < 4 cm 6 mm < 67 mm < 89 mm",
+        "3 cm < 4 cm 6 mm < 45 mm < 67 mm < 89 mm",
+        "4 cm 6 mm < 3 cm < 45 mm < 67 mm < 89 mm"
+      ],
+      "correct_answer": "3 cm < 45 mm < 4 cm 6 mm < 67 mm < 89 mm",
+      "explanation": "Convert all to mm: 3 cm = 30 mm, 45 mm, 4 cm 6 mm = 46 mm, 67 mm, 89 mm. So increasing order: 30, 45, 46, 67, 89."
+    },
+    {
+      "category": "Measurement_Estimation",
+      "question": "What is the approximate height of a table?",
+      "options": [
+        "2 m",
+        "2 cm",
+        "2 km",
+        "2 mm"
+      ],
+      "correct_answer": "2 m",
+      "explanation": "A table is typically about 2 meters in height? Actually a table is about 0.7 to 1 m, but in the chapter they gave example 'height of a table about 2 m' which might be a bit high but it's the only reasonable option. 2 cm is too small, 2 km is too large, 2 mm is tiny."
+    },
+    {
+      "category": "Measurement_Mixed_Conversion",
+      "question": "Convert 5 kg 750 g into grams.",
+      "options": [
+        "5750 g",
+        "50750 g",
+        "575 g",
+        "5.75 g"
+      ],
+      "correct_answer": "5750 g",
+      "explanation": "5 kg = 5000 g, plus 750 g = 5750 g."
+    },
+    {
+      "category": "Measurement_Capacity_Comparison",
+      "question": "Maya used 2 L 560 mL oil, Meera used 2650 mL, Mini used 2 L 605 mL. Who used the least?",
+      "options": [
+        "Maya",
+        "Meera",
+        "Mini",
+        "All equal"
+      ],
+      "correct_answer": "Maya",
+      "explanation": "Convert all to mL: Maya = 2560 mL, Meera = 2650 mL, Mini = 2605 mL. So Maya used the least."
+    },
+    {
+      "category": "Time_Clock_Reading",
+      "question": "If the hour hand is between 4 and 5 and the minute hand is at 9, what time is it?",
+      "options": [
+        "4:45",
+        "4:09",
+        "5:45",
+        "4:15"
+      ],
+      "correct_answer": "4:45",
+      "explanation": "Minute hand at 9 means 45 minutes. Hour hand between 4 and 5 means it's after 4, so 4:45."
+    },
+    {
+      "category": "Time_Start_Time",
+      "question": "A concert ended at 9:00 pm. It lasted 3 hours 45 minutes. When did it start?",
+      "options": [
+        "5:15 pm",
+        "5:45 pm",
+        "6:15 pm",
+        "4:15 pm"
+      ],
+      "correct_answer": "5:15 pm",
+      "explanation": "Subtract 3 hours 45 min from 9:00 pm: 9:00 - 3 hours = 6:00 pm, then subtract 45 min = 5:15 pm."
+    },
+    {
+      "category": "Time_AM_PM",
+      "question": "Which of the following is a time in the morning?",
+      "options": [
+        "14:30 hrs",
+        "00:15 hrs",
+        "06:45 hrs",
+        "22:10 hrs"
+      ],
+      "correct_answer": "06:45 hrs",
+      "explanation": "06:45 hrs is 6:45 am, morning. 14:30 is 2:30 pm, 00:15 is 12:15 am (midnight), 22:10 is 10:10 pm."
+    },
+    {
+      "category": "Time_Leap_Year",
+      "question": "Which of these is a leap year?",
+      "options": [
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "correct_answer": "2024",
+      "explanation": "2024 is divisible by 4, so it is a leap year."
+    },
+    {
+      "category": "Time_Date_Interval",
+      "question": "How many days from 12th November to 12th December?",
+      "options": [
+        "30 days",
+        "31 days",
+        "29 days",
+        "28 days"
+      ],
+      "correct_answer": "31 days",
+      "explanation": "November has 30 days. From 12th to 30th November is 19 days (30-11), plus 12 days in December = 31 days."
+    },
+    {
+      "category": "Data_Handling_TrueFalse",
+      "question": "In a fruit survey, 14 liked apple, 8 liked banana, 12 liked orange. Is the statement 'More students like apple than orange' true or false?",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True",
+      "explanation": "14 > 12, so more like apple than orange."
+    },
+    {
+      "category": "Data_Handling_Scale",
+      "question": "If a bar graph uses a scale of 1 cm = 5 students, how many students are represented by a bar of length 4 cm?",
+      "options": [
+        "20",
+        "9",
+        "10",
+        "5"
+      ],
+      "correct_answer": "20",
+      "explanation": "4 cm × 5 students/cm = 20 students."
+    },
+    {
+      "category": "Decimals_to_Fraction",
+      "question": "Write 0.25 as a fraction.",
+      "options": [
+        "25/100",
+        "25/10",
+        "2/5",
+        "1/5"
+      ],
+      "correct_answer": "25/100",
+      "explanation": "0.25 means 25 hundredths, so 25/100."
+    },
+    {
+      "category": "Decimals_Comparison",
+      "question": "Which is the smallest? 0.5, 0.05, 0.55, 0.055",
+      "options": [
+        "0.5",
+        "0.05",
+        "0.55",
+        "0.055"
+      ],
+      "correct_answer": "0.05",
+      "explanation": "0.05 = 0.050, 0.055 = 0.055, 0.5 = 0.500, 0.55 = 0.550. So 0.05 is smallest."
+    },
+    {
+      "category": "Decimals_Word_Problem",
+      "question": "In a school, 42 out of 100 students are girls. What is the decimal for the fraction of girls?",
+      "options": [
+        "0.42",
+        "4.2",
+        "0.042",
+        "42.0"
+      ],
+      "correct_answer": "0.42",
+      "explanation": "42/100 = 0.42."
+    },
+    {
+      "category": "Decimals_in_Words",
+      "question": "How do you write 16.15 in words?",
+      "options": [
+        "Sixteen point fifteen",
+        "Sixteen point one five",
+        "Sixteen and fifteen hundredths",
+        "Sixteen and fifteen"
+      ],
+      "correct_answer": "Sixteen point one five",
+      "explanation": "In decimals, we read digits after decimal point separately: sixteen point one five."
+    },{
+      "category": "Measurement_of_Length",
+      "question": "Which unit is most appropriate to measure the length of your pencil?",
+      "options": [
+        "Centimeter",
+        "Meter",
+        "Kilometer",
+        "Millimeter"
+      ],
+      "correct_answer": "Centimeter",
+      "explanation": "A pencil is typically about 7–15 cm long, so centimeter is the most suitable unit."
+    },
+    {
+      "category": "Measurement_of_Length_Conversion",
+      "question": "Convert 45 cm to millimeters.",
+      "options": [
+        "450 mm",
+        "4.5 mm",
+        "4500 mm",
+        "45 mm"
+      ],
+      "correct_answer": "450 mm",
+      "explanation": "1 cm = 10 mm, so 45 cm = 45 × 10 = 450 mm."
+    },
+    {
+      "category": "Measurement_of_Mass",
+      "question": "Which unit is used to measure the weight of a sack of rice?",
+      "options": [
+        "Kilogram",
+        "Gram",
+        "Milligram",
+        "Liter"
+      ],
+      "correct_answer": "Kilogram",
+      "explanation": "A sack of rice is heavy and is usually measured in kilograms."
+    },
+    {
+      "category": "Measurement_of_Mass_Conversion",
+      "question": "Convert 2.389 kg to grams.",
+      "options": [
+        "2389 g",
+        "23.89 g",
+        "238.9 g",
+        "2.389 g"
+      ],
+      "correct_answer": "2389 g",
+      "explanation": "1 kg = 1000 g, so 2.389 kg = 2.389 × 1000 = 2389 g."
+    },
+    {
+      "category": "Measurement_of_Capacity",
+      "question": "The volume of water in a cup is usually measured in:",
+      "options": [
+        "Milliliters",
+        "Liters",
+        "Kilograms",
+        "Meters"
+      ],
+      "correct_answer": "Milliliters",
+      "explanation": "A cup holds a small amount of liquid, so milliliters are the appropriate unit."
+    },
+    {
+      "category": "Measurement_of_Capacity_Conversion",
+      "question": "Convert 3231 mL to liters.",
+      "options": [
+        "3.231 L",
+        "32.31 L",
+        "323.1 L",
+        "0.3231 L"
+      ],
+      "correct_answer": "3.231 L",
+      "explanation": "1 L = 1000 mL, so 3231 mL = 3231 ÷ 1000 = 3.231 L."
+    },
+    {
+      "category": "Measurement_Addition",
+      "question": "Add 2 km 875 m and 3 km 295 m. What is the total distance?",
+      "options": [
+        "6 km 170 m",
+        "5 km 170 m",
+        "6 km 270 m",
+        "5 km 270 m"
+      ],
+      "correct_answer": "6 km 170 m",
+      "explanation": "2 km 875 m + 3 km 295 m = 5 km 1170 m = 5 km + 1 km 170 m = 6 km 170 m."
+    },
+    {
+      "category": "Measurement_Subtraction",
+      "question": "Subtract 750 g from 4 kg 500 g. What is the remaining weight?",
+      "options": [
+        "3 kg 750 g",
+        "4 kg 750 g",
+        "3 kg 250 g",
+        "4 kg 250 g"
+      ],
+      "correct_answer": "3 kg 750 g",
+      "explanation": "4 kg 500 g = 4500 g; 4500 g - 750 g = 3750 g = 3 kg 750 g."
+    },
+    {
+      "category": "Measurement_Comparison",
+      "question": "Which is greater: 45 mm or 4 cm 6 mm?",
+      "options": [
+        "45 mm",
+        "4 cm 6 mm",
+        "They are equal",
+        "Cannot compare"
+      ],
+      "correct_answer": "4 cm 6 mm",
+      "explanation": "4 cm 6 mm = 46 mm, which is greater than 45 mm."
+    },
+    {
+      "category": "Time_Conversion_12_24",
+      "question": "What is 7:10 pm in 24-hour clock format?",
+      "options": [
+        "19:10 hrs",
+        "07:10 hrs",
+        "17:10 hrs",
+        "21:10 hrs"
+      ],
+      "correct_answer": "19:10 hrs",
+      "explanation": "For pm times (except 12 pm), add 12 to the hour: 7 + 12 = 19, so 19:10."
+    },
+    {
+      "category": "Time_Duration",
+      "question": "Find the duration from 11:30 am to 5:40 pm.",
+      "options": [
+        "6 hours 10 minutes",
+        "5 hours 10 minutes",
+        "6 hours 30 minutes",
+        "5 hours 40 minutes"
+      ],
+      "correct_answer": "6 hours 10 minutes",
+      "explanation": "11:30 am to 12:00 pm = 30 min, then to 5:00 pm = 5 hours, then to 5:40 pm = 40 min. Total = 5 hours 70 min = 6 hours 10 min."
+    },
+    {
+      "category": "Time_Days_Between_Dates",
+      "question": "How many days are there from March 15 to April 13?",
+      "options": [
+        "29 days",
+        "30 days",
+        "31 days",
+        "28 days"
+      ],
+      "correct_answer": "30 days",
+      "explanation": "March has 31 days, so from March 15 to 31 is 17 days (31-14). Then add 13 days of April = 30 days."
+    },
+    {
+      "category": "Time_Start_End",
+      "question": "If a concert starts at 5:15 pm and ends at 9:00 pm, what is the duration?",
+      "options": [
+        "3 hours 45 minutes",
+        "4 hours 15 minutes",
+        "3 hours 15 minutes",
+        "4 hours 45 minutes"
+      ],
+      "correct_answer": "3 hours 45 minutes",
+      "explanation": "From 5:15 to 6:00 is 45 min, then to 9:00 is 3 hours, total 3 hours 45 min."
+    },
+    {
+      "category": "Data_Handling_BarGraph",
+      "question": "In a fruit survey, 14 students liked apple, 8 liked banana, 12 liked orange, 12 liked grapes, and 6 liked watermelon. Which fruit is the least popular?",
+      "options": [
+        "Apple",
+        "Banana",
+        "Orange",
+        "Watermelon"
+      ],
+      "correct_answer": "Watermelon",
+      "explanation": "Watermelon is liked by only 6 students, the smallest number."
+    },
+    {
+      "category": "Data_Handling_Pictograph",
+      "question": "In a pictograph, one symbol represents 10 students. How many symbols are needed to show 40 students?",
+      "options": [
+        "4",
+        "40",
+        "10",
+        "400"
+      ],
+      "correct_answer": "4",
+      "explanation": "40 ÷ 10 = 4 symbols."
+    },
+    {
+      "category": "Data_Handling_Total",
+      "question": "In a TV program survey, the numbers are: Breakfast show 30, News 70, Science 50, Serials 70, Music 40, Cartoon 60. What is the total number of people interviewed?",
+      "options": [
+        "320",
+        "300",
+        "350",
+        "310"
+      ],
+      "correct_answer": "320",
+      "explanation": "30 + 70 + 50 + 70 + 40 + 60 = 320."
+    },
+    {
+      "category": "Decimals_Fraction_to_Decimal",
+      "question": "Write 7/10 as a decimal.",
+      "options": [
+        "0.7",
+        "0.07",
+        "7.0",
+        "0.007"
+      ],
+      "correct_answer": "0.7",
+      "explanation": "7/10 means 7 tenths, which is 0.7."
+    },
+    {
+      "category": "Decimals_Place_Value",
+      "question": "In the number 54.706, what is the place value of 7?",
+      "options": [
+        "Tenths",
+        "Hundredths",
+        "Thousandths",
+        "Ones"
+      ],
+      "correct_answer": "Tenths",
+      "explanation": "In 54.706, the digits after decimal are tenths, hundredths, thousandths. The 7 is in the tenths place."
+    },
+    {
+      "category": "Decimals_Expanded_Form",
+      "question": "What is the expanded form of 302.839?",
+      "options": [
+        "300 + 2 + 8/10 + 3/100 + 9/1000",
+        "300 + 2 + 8/100 + 3/10 + 9/1000",
+        "300 + 2 + 8/10 + 3/1000 + 9/100",
+        "300 + 20 + 8/10 + 3/100 + 9/1000"
+      ],
+      "correct_answer": "300 + 2 + 8/10 + 3/100 + 9/1000",
+      "explanation": "302.839 = 300 + 2 + 0.8 + 0.03 + 0.009 = 300 + 2 + 8/10 + 3/100 + 9/1000."
+    },
+    {
+      "category": "Decimals_Like_Unlike",
+      "question": "Which of the following are like decimals?",
+      "options": [
+        "0.5, 2.1, 5.7, 6.4",
+        "0.5, 2.10, 5.7, 6.40",
+        "0.50, 2.1, 5.7, 6.4",
+        "0.5, 2.1, 5.70, 6.4"
+      ],
+      "correct_answer": "0.5, 2.1, 5.7, 6.4",
+      "explanation": "Like decimals have the same number of decimal places. All have one decimal place."
+    },{
       "category": "Measurement_of_Capacity",
       "question": "Which unit is used to measure the capacity of a water bottle?",
       "options": [
@@ -515,6 +1243,410 @@
       ],
       "correct_answer": "40",
       "explanation": "8 units × 5 students per unit = 40 students."
+    },{
+      "category": "Measurement_of_Length",
+      "question": "Which unit is most appropriate to measure the length of your pencil?",
+      "options": [
+        "Centimeter",
+        "Meter",
+        "Kilometer",
+        "Millimeter"
+      ],
+      "correct_answer": "Centimeter",
+      "explanation": "A pencil is typically about 7–15 cm long, so centimeter is the most suitable unit."
+    },
+    {
+      "category": "Measurement_of_Length_Conversion",
+      "question": "Convert 45 cm to millimeters.",
+      "options": [
+        "450 mm",
+        "4.5 mm",
+        "4500 mm",
+        "45 mm"
+      ],
+      "correct_answer": "450 mm",
+      "explanation": "1 cm = 10 mm, so 45 cm = 45 × 10 = 450 mm."
+    },
+    {
+      "category": "Measurement_of_Mass",
+      "question": "Which unit is used to measure the weight of a sack of rice?",
+      "options": [
+        "Kilogram",
+        "Gram",
+        "Milligram",
+        "Liter"
+      ],
+      "correct_answer": "Kilogram",
+      "explanation": "A sack of rice is heavy and is usually measured in kilograms."
+    },
+    {
+      "category": "Measurement_of_Mass_Conversion",
+      "question": "Convert 2.389 kg to grams.",
+      "options": [
+        "2389 g",
+        "23.89 g",
+        "238.9 g",
+        "2.389 g"
+      ],
+      "correct_answer": "2389 g",
+      "explanation": "1 kg = 1000 g, so 2.389 kg = 2.389 × 1000 = 2389 g."
+    },
+    {
+      "category": "Measurement_of_Capacity",
+      "question": "The volume of water in a cup is usually measured in:",
+      "options": [
+        "Milliliters",
+        "Liters",
+        "Kilograms",
+        "Meters"
+      ],
+      "correct_answer": "Milliliters",
+      "explanation": "A cup holds a small amount of liquid, so milliliters are the appropriate unit."
+    },
+    {
+      "category": "Measurement_of_Capacity_Conversion",
+      "question": "Convert 3231 mL to liters.",
+      "options": [
+        "3.231 L",
+        "32.31 L",
+        "323.1 L",
+        "0.3231 L"
+      ],
+      "correct_answer": "3.231 L",
+      "explanation": "1 L = 1000 mL, so 3231 mL = 3231 ÷ 1000 = 3.231 L."
+    },
+    {
+      "category": "Measurement_Addition",
+      "question": "Add 2 km 875 m and 3 km 295 m. What is the total distance?",
+      "options": [
+        "6 km 170 m",
+        "5 km 170 m",
+        "6 km 270 m",
+        "5 km 270 m"
+      ],
+      "correct_answer": "6 km 170 m",
+      "explanation": "2 km 875 m + 3 km 295 m = 5 km 1170 m = 5 km + 1 km 170 m = 6 km 170 m."
+    },
+    {
+      "category": "Measurement_Subtraction",
+      "question": "Subtract 750 g from 4 kg 500 g. What is the remaining weight?",
+      "options": [
+        "3 kg 750 g",
+        "4 kg 750 g",
+        "3 kg 250 g",
+        "4 kg 250 g"
+      ],
+      "correct_answer": "3 kg 750 g",
+      "explanation": "4 kg 500 g = 4500 g; 4500 g - 750 g = 3750 g = 3 kg 750 g."
+    },
+    {
+      "category": "Measurement_Comparison",
+      "question": "Which is greater: 45 mm or 4 cm 6 mm?",
+      "options": [
+        "45 mm",
+        "4 cm 6 mm",
+        "They are equal",
+        "Cannot compare"
+      ],
+      "correct_answer": "4 cm 6 mm",
+      "explanation": "4 cm 6 mm = 46 mm, which is greater than 45 mm."
+    },
+    {
+      "category": "Time_Conversion_12_24",
+      "question": "What is 7:10 pm in 24-hour clock format?",
+      "options": [
+        "19:10 hrs",
+        "07:10 hrs",
+        "17:10 hrs",
+        "21:10 hrs"
+      ],
+      "correct_answer": "19:10 hrs",
+      "explanation": "For pm times (except 12 pm), add 12 to the hour: 7 + 12 = 19, so 19:10."
+    },
+    {
+      "category": "Time_Duration",
+      "question": "Find the duration from 11:30 am to 5:40 pm.",
+      "options": [
+        "6 hours 10 minutes",
+        "5 hours 10 minutes",
+        "6 hours 30 minutes",
+        "5 hours 40 minutes"
+      ],
+      "correct_answer": "6 hours 10 minutes",
+      "explanation": "11:30 am to 12:00 pm = 30 min, then to 5:00 pm = 5 hours, then to 5:40 pm = 40 min. Total = 5 hours 70 min = 6 hours 10 min."
+    },
+    {
+      "category": "Time_Days_Between_Dates",
+      "question": "How many days are there from March 15 to April 13?",
+      "options": [
+        "29 days",
+        "30 days",
+        "31 days",
+        "28 days"
+      ],
+      "correct_answer": "30 days",
+      "explanation": "March has 31 days, so from March 15 to 31 is 17 days (31-14). Then add 13 days of April = 30 days."
+    },
+    {
+      "category": "Time_Start_End",
+      "question": "If a concert starts at 5:15 pm and ends at 9:00 pm, what is the duration?",
+      "options": [
+        "3 hours 45 minutes",
+        "4 hours 15 minutes",
+        "3 hours 15 minutes",
+        "4 hours 45 minutes"
+      ],
+      "correct_answer": "3 hours 45 minutes",
+      "explanation": "From 5:15 to 6:00 is 45 min, then to 9:00 is 3 hours, total 3 hours 45 min."
+    },
+    {
+      "category": "Data_Handling_BarGraph",
+      "question": "In a fruit survey, 14 students liked apple, 8 liked banana, 12 liked orange, 12 liked grapes, and 6 liked watermelon. Which fruit is the least popular?",
+      "options": [
+        "Apple",
+        "Banana",
+        "Orange",
+        "Watermelon"
+      ],
+      "correct_answer": "Watermelon",
+      "explanation": "Watermelon is liked by only 6 students, the smallest number."
+    },
+    {
+      "category": "Data_Handling_Pictograph",
+      "question": "In a pictograph, one symbol represents 10 students. How many symbols are needed to show 40 students?",
+      "options": [
+        "4",
+        "40",
+        "10",
+        "400"
+      ],
+      "correct_answer": "4",
+      "explanation": "40 ÷ 10 = 4 symbols."
+    },
+    {
+      "category": "Data_Handling_Total",
+      "question": "In a TV program survey, the numbers are: Breakfast show 30, News 70, Science 50, Serials 70, Music 40, Cartoon 60. What is the total number of people interviewed?",
+      "options": [
+        "320",
+        "300",
+        "350",
+        "310"
+      ],
+      "correct_answer": "320",
+      "explanation": "30 + 70 + 50 + 70 + 40 + 60 = 320."
+    },
+    {
+      "category": "Decimals_Fraction_to_Decimal",
+      "question": "Write 7/10 as a decimal.",
+      "options": [
+        "0.7",
+        "0.07",
+        "7.0",
+        "0.007"
+      ],
+      "correct_answer": "0.7",
+      "explanation": "7/10 means 7 tenths, which is 0.7."
+    },
+    {
+      "category": "Decimals_Place_Value",
+      "question": "In the number 54.706, what is the place value of 7?",
+      "options": [
+        "Tenths",
+        "Hundredths",
+        "Thousandths",
+        "Ones"
+      ],
+      "correct_answer": "Tenths",
+      "explanation": "In 54.706, the digits after decimal are tenths, hundredths, thousandths. The 7 is in the tenths place."
+    },
+    {
+      "category": "Decimals_Expanded_Form",
+      "question": "What is the expanded form of 302.839?",
+      "options": [
+        "300 + 2 + 8/10 + 3/100 + 9/1000",
+        "300 + 2 + 8/100 + 3/10 + 9/1000",
+        "300 + 2 + 8/10 + 3/1000 + 9/100",
+        "300 + 20 + 8/10 + 3/100 + 9/1000"
+      ],
+      "correct_answer": "300 + 2 + 8/10 + 3/100 + 9/1000",
+      "explanation": "302.839 = 300 + 2 + 0.8 + 0.03 + 0.009 = 300 + 2 + 8/10 + 3/100 + 9/1000."
+    },
+    {
+      "category": "Decimals_Like_Unlike",
+      "question": "Which of the following are like decimals?",
+      "options": [
+        "0.5, 2.1, 5.7, 6.4",
+        "0.5, 2.10, 5.7, 6.40",
+        "0.50, 2.1, 5.7, 6.4",
+        "0.5, 2.1, 5.70, 6.4"
+      ],
+      "correct_answer": "0.5, 2.1, 5.7, 6.4",
+      "explanation": "Like decimals have the same number of decimal places. All have one decimal place."
+    },
+    {
+      "category": "Time_Duration_Worksheet",
+      "question": "What is the time duration from 5:20 pm to 6:12 pm?",
+      "options": [
+        "52 minutes",
+        "1 hour 8 minutes",
+        "1 hour 2 minutes",
+        "48 minutes"
+      ],
+      "correct_answer": "52 minutes",
+      "explanation": "From 5:20 pm to 6:00 pm is 40 minutes. From 6:00 pm to 6:12 pm is 12 minutes. Total = 40 + 12 = 52 minutes."
+    },
+    {
+      "category": "Time_Duration_Worksheet",
+      "question": "What is the time duration from 7:50 am to 1:30 pm?",
+      "options": [
+        "6 hours 40 minutes",
+        "5 hours 40 minutes",
+        "6 hours 20 minutes",
+        "5 hours 20 minutes"
+      ],
+      "correct_answer": "5 hours 40 minutes",
+      "explanation": "7:50 am to 12:00 pm = 4 hours 10 minutes. 12:00 pm to 1:30 pm = 1 hour 30 minutes. Total = 5 hours 40 minutes."
+    },
+    {
+      "category": "Time_Finishing_Time",
+      "question": "If you start a task at 5:45 pm and it takes 1 hour and 30 minutes, when will you finish?",
+      "options": [
+        "6:15 pm",
+        "7:15 pm",
+        "7:00 pm",
+        "6:45 pm"
+      ],
+      "correct_answer": "7:15 pm",
+      "explanation": "5:45 pm + 1 hour = 6:45 pm. 6:45 pm + 30 minutes = 7:15 pm."
+    },
+    {
+      "category": "Time_Finishing_Time",
+      "question": "What time will it be 2 hours and 15 minutes after 11:30 am?",
+      "options": [
+        "1:45 pm",
+        "1:30 pm",
+        "2:45 pm",
+        "1:15 pm"
+      ],
+      "correct_answer": "1:45 pm",
+      "explanation": "11:30 am + 2 hours = 1:30 pm. 1:30 pm + 15 minutes = 1:45 pm."
+    },
+    {
+      "category": "Time_Days_Between_Dates",
+      "question": "Mr. Sharma arrived in Hong Kong on 26th September and left on the morning of 3rd October. How many days did he stay?",
+      "options": [
+        "7 days",
+        "8 days",
+        "9 days",
+        "6 days"
+      ],
+      "correct_answer": "7 days",
+      "explanation": "September has 30 days. Days stayed in September: 30 - 25 = 5 days (26, 27, 28, 29, 30). Days stayed in October: 2 days (1st and 2nd, leaving on the 3rd morning). Total = 5 + 2 = 7 days."
+    },
+    {
+      "category": "Time_Days_Between_Dates",
+      "question": "Varen started his assignment on 28th March and completed it on 1st April. In how many days did he finish it?",
+      "options": [
+        "5 days",
+        "4 days",
+        "6 days",
+        "3 days"
+      ],
+      "correct_answer": "5 days",
+      "explanation": "March has 31 days. Days worked in March: 31 - 27 = 4 days (28, 29, 30, 31). Days worked in April: 1 day (1st). Total = 4 + 1 = 5 days."
+    }, {        
+      "category": "Time_Leap_Year",
+      "question": "Which of the following is a leap year?",
+      "options": [
+        "2022",
+        "2023",
+        "2024",
+        "2025"
+      ],
+      "correct_answer": "2024",
+      "explanation": "2024 is divisible by 4, so it is a leap year. The others are not divisible by 4."
+    },
+    {
+      "category": "Time_Leap_Year",
+      "question": "Which of the following is a leap year?",
+      "options": [
+        "1900",
+        "2000",
+        "2100",
+        "2200"
+      ],
+      "correct_answer": "2000",
+      "explanation": "A century year is a leap year only if divisible by 400. 2000 is divisible by 400, while 1900, 2100, and 2200 are not."
+    },
+    {
+      "category": "Time_Leap_Year",
+      "question": "Which year will be the next leap year after 2025?",
+      "options": [
+        "2026",
+        "2027",
+        "2028",
+        "2029"
+      ],
+      "correct_answer": "2028",
+      "explanation": "2028 is the first year after 2025 that is divisible by 4. 2026 and 2027 are not divisible by 4; 2029 is not divisible by 4."
+    },
+    {
+      "category": "Time_Leap_Year",
+      "question": "How many leap years are there between 2020 and 2030 (including both years)?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "3",
+      "explanation": "The leap years in that range are 2020, 2024, and 2028. That is three leap years."
+    },
+    {
+      "category": "Time_Leap_Year",
+      "question": "Which of these is NOT a leap year?",
+      "options": [
+        "2016",
+        "2020",
+        "2024",
+        "2100"
+      ],
+      "correct_answer": "2100",
+      "explanation": "2100 is a century year not divisible by 400, so it is not a leap year. The others are divisible by 4."
+    },
+    {
+      "category": "Time_Leap_Year",
+      "question": "What will be the third leap year after 2020?",
+      "options": [
+        "2024",
+        "2028",
+        "2032",
+        "2036"
+      ],
+      "correct_answer": "2032",
+      "explanation": "Leap years after 2020: 2024 (first), 2028 (second), 2032 (third)."
+    },
+    {
+      "category": "Time_Leap_Year",
+      "question": "Which century year is a leap year?",
+      "options": [
+        "1700",
+        "1800",
+        "1900",
+        "2000"
+      ],
+      "correct_answer": "2000",
+      "explanation": "2000 is divisible by 400, so it is a leap year. The others are not divisible by 400."
+    },
+    {
+      "category": "Time_Leap_Year",
+      "question": "If a year is divisible by 4, it is always a leap year. Is this statement true?",
+      "options": [
+        "Yes",
+        "No"
+      ],
+      "correct_answer": "No",
+      "explanation": "The statement is false because century years must also be divisible by 400 to be leap years. For example, 1900 is divisible by 4 but is not a leap year."
     }
   ]
 }

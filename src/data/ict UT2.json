@@ -1,0 +1,1024 @@
+{
+  "questions": [
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "What is Editing in MS Word?",
+      "options": [
+        "Making changes to text",
+        "Adding images to a document",
+        "Printing a document",
+        "Changing the page layout"
+      ],
+      "correct_answer": "Making changes to text"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "What does the Insert command do?",
+      "options": [
+        "Deletes text",
+        "Adds text to an existing document",
+        "Copies text",
+        "Highlights text"
+      ],
+      "correct_answer": "Adds text to an existing document"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "Which command reverses the last command?",
+      "options": [
+        "Redo",
+        "Undo",
+        "Repeat",
+        "Cut"
+      ],
+      "correct_answer": "Undo"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "What is the purpose of Redo in MS Word?",
+      "options": [
+        "Reverses the last command",
+        "Re-applies the last undone command",
+        "Deletes text",
+        "Highlights text"
+      ],
+      "correct_answer": "Re-applies the last undone command"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "What does Repeat command do?",
+      "options": [
+        "Repeats the last command",
+        "Deletes the last character",
+        "Copies the text",
+        "Moves text to another position"
+      ],
+      "correct_answer": "Repeats the last command"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "What is the difference between Copy and Move commands?",
+      "options": [
+        "Copy makes a duplicate; Move shifts text to another position",
+        "Copy deletes text; Move highlights text",
+        "Copy prints text; Move changes font",
+        "Copy changes color; Move changes alignment"
+      ],
+      "correct_answer": "Copy makes a duplicate; Move shifts text to another position"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "What does Cut command do?",
+      "options": [
+        "Copies text",
+        "Moves text from one position to another",
+        "Highlights text",
+        "Deletes a document"
+      ],
+      "correct_answer": "Moves text from one position to another"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "What is Copy in MS Word?",
+      "options": [
+        "Creates a duplicate of text",
+        "Deletes text",
+        "Moves text to another location",
+        "Prints text"
+      ],
+      "correct_answer": "Creates a duplicate of text"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "What is Thesaurus used for?",
+      "options": [
+        "Provides synonyms for a word",
+        "Highlights text",
+        "Moves text",
+        "Formats paragraphs"
+      ],
+      "correct_answer": "Provides synonyms for a word"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "Keyboard shortcut to select one character to the left",
+      "options": [
+        "Shift + ←",
+        "Shift + →",
+        "Ctrl + Shift + ←",
+        "Ctrl + ←"
+      ],
+      "correct_answer": "Shift + ←"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "Keyboard shortcut to select entire document",
+      "options": [
+        "Ctrl + A",
+        "Ctrl + C",
+        "Ctrl + X",
+        "Ctrl + Shift + End"
+      ],
+      "correct_answer": "Ctrl + A"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "Keyboard shortcut to create a new document",
+      "options": [
+        "Ctrl + N",
+        "Ctrl + O",
+        "Ctrl + S",
+        "Ctrl + P"
+      ],
+      "correct_answer": "Ctrl + N"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "How do you delete a character to the left of the cursor?",
+      "options": [
+        "Press Backspace key",
+        "Press Delete key",
+        "Press Ctrl + X",
+        "Press Ctrl + C"
+      ],
+      "correct_answer": "Press Backspace key"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "Which colour highlights selected text in Word 2013?",
+      "options": [
+        "Grey",
+        "Red",
+        "Blue",
+        "Yellow"
+      ],
+      "correct_answer": "Grey"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "Steps to select text using keyboard",
+      "options": [
+        "Place cursor → Hold Shift → Use Arrow keys",
+        "Click text → Drag mouse → Release",
+        "Press Ctrl + A → Copy",
+        "Highlight text → Press Delete"
+      ],
+      "correct_answer": "Place cursor → Hold Shift → Use Arrow keys"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "Steps to select text using mouse",
+      "options": [
+        "Place pointer → Hold left button → Drag → Release",
+        "Press Ctrl + A → Copy",
+        "Hold Shift → Use Arrow keys",
+        "Press Delete"
+      ],
+      "correct_answer": "Place pointer → Hold left button → Drag → Release"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "Steps to delete text in Word",
+      "options": [
+        "Select text → Press Delete or Backspace",
+        "Press Ctrl + C",
+        "Select text → Press Ctrl + V",
+        "Highlight text → Press Enter"
+      ],
+      "correct_answer": "Select text → Press Delete or Backspace"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "Steps to apply text effects in Word",
+      "options": [
+        "Select text → Home tab → Font group → Choose effect",
+        "Select text → Press Ctrl + C",
+        "Highlight text → Press Delete",
+        "Go to File tab → Print"
+      ],
+      "correct_answer": "Select text → Home tab → Font group → Choose effect"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "What is Font in MS Word?",
+      "options": [
+        "A set of letters, numbers, or symbols of a given size and design",
+        "A tool to highlight text",
+        "A paragraph alignment tool",
+        "A document printer"
+      ],
+      "correct_answer": "A set of letters, numbers, or symbols of a given size and design"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "What are Default settings?",
+      "options": [
+        "Standard or pre-defined settings in software",
+        "Custom settings",
+        "Text effects",
+        "Paragraph spacing"
+      ],
+      "correct_answer": "Standard or pre-defined settings in software"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "What is Highlighting text used for?",
+      "options": [
+        "Adds coloured background to selected text",
+        "Deletes text",
+        "Moves text",
+        "Copies text"
+      ],
+      "correct_answer": "Adds coloured background to selected text"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Which tab contains Text Effects?",
+      "options": [
+        "Home tab",
+        "Insert tab",
+        "Page Layout tab",
+        "View tab"
+      ],
+      "correct_answer": "Home tab"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Default font and size in Word 2013?",
+      "options": [
+        "Calibri, 11",
+        "Arial, 12",
+        "Times New Roman, 10",
+        "Verdana, 14"
+      ],
+      "correct_answer": "Calibri, 11"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Keyboard shortcut to justify text",
+      "options": [
+        "Ctrl + J",
+        "Ctrl + L",
+        "Ctrl + R",
+        "Ctrl + E"
+      ],
+      "correct_answer": "Ctrl + J"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Shortcut for Centre Align text",
+      "options": [
+        "Ctrl + E",
+        "Ctrl + J",
+        "Ctrl + R",
+        "Ctrl + L"
+      ],
+      "correct_answer": "Ctrl + E"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Steps to change line spacing in a paragraph",
+      "options": [
+        "Select paragraph → Home → Paragraph group → Line & Paragraph Spacing → Choose spacing",
+        "Select paragraph → Press Delete",
+        "Select text → Press Ctrl + C",
+        "Open File tab → Print"
+      ],
+      "correct_answer": "Select paragraph → Home → Paragraph group → Line & Paragraph Spacing → Choose spacing"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Steps to print a document",
+      "options": [
+        "Open document → File → Print → Choose printer → Copies → Print",
+        "Select text → Ctrl + C → Paste",
+        "Select paragraph → Line spacing",
+        "Home → Font → Text Effects"
+      ],
+      "correct_answer": "Open document → File → Print → Choose printer → Copies → Print"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "What is Alignment in Word?",
+      "options": [
+        "The manner in which text is placed between left and right margins",
+        "Adding colour to text",
+        "Changing font size",
+        "Copying text"
+      ],
+      "correct_answer": "The manner in which text is placed between left and right margins"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "What is Uppercase?",
+      "options": [
+        "Capital letters (A, B, C…)",
+        "Small letters (a, b, c…)",
+        "Bold text",
+        "Italic text"
+      ],
+      "correct_answer": "Capital letters (A, B, C…)"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "What is Lowercase?",
+      "options": [
+        "Small letters (a, b, c…)",
+        "Capital letters (A, B, C…)",
+        "Bold text",
+        "Italic text"
+      ],
+      "correct_answer": "Small letters (a, b, c…)"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Which tab contains Paragraph group?",
+      "options": [
+        "Home tab",
+        "Insert tab",
+        "Page Layout tab",
+        "View tab"
+      ],
+      "correct_answer": "Home tab"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "What is Paragraph spacing?",
+      "options": [
+        "White space between paragraphs",
+        "White space between lines",
+        "Text colour",
+        "Font size"
+      ],
+      "correct_answer": "White space between paragraphs"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Worksheet Q1: When you mute the speaker, what value is shown?",
+      "options": [
+        "0",
+        "50",
+        "100",
+        "Mute icon only"
+      ],
+      "correct_answer": "0"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Shortcut to select one character to the right of cursor",
+      "options": [
+        "Shift + →",
+        "Shift + ←",
+        "Ctrl + Shift + →",
+        "Ctrl + →"
+      ],
+      "correct_answer": "Shift + →"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Keyboard shortcut for Right Align",
+      "options": [
+        "Ctrl + R",
+        "Ctrl + L",
+        "Ctrl + J",
+        "Ctrl + E"
+      ],
+      "correct_answer": "Ctrl + R"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Formatting means?",
+      "options": [
+        "All of these",
+        "Changing font",
+        "Changing alignment",
+        "Adding effects"
+      ],
+      "correct_answer": "All of these"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "True or False: Alignment is the manner in which text is placed between the margin of a page.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "True or False: In Word 2013, selected text is highlighted in red.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Identify the bar that provides quick access to frequently used commands.",
+      "options": [
+        "Quick Access Toolbar",
+        "Ribbon",
+        "Title Bar",
+        "Status Bar"
+      ],
+      "correct_answer": "Quick Access Toolbar"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Which bar shows the name of the document and application?",
+      "options": [
+        "Title Bar",
+        "Quick Access Toolbar",
+        "Ribbon",
+        "Status Bar"
+      ],
+      "correct_answer": "Title Bar"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Which button closes the Word application?",
+      "options": [
+        "Close Button",
+        "Minimize Button",
+        "Maximize Button",
+        "Ribbon"
+      ],
+      "correct_answer": "Close Button"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Which panel contains tabs like Home, Insert, Page Layout?",
+      "options": [
+        "Ribbon",
+        "Title Bar",
+        "Status Bar",
+        "Quick Access Toolbar"
+      ],
+      "correct_answer": "Ribbon"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Which tool helps measure and align text horizontally?",
+      "options": [
+        "Ruler",
+        "Zoom Slider",
+        "Scroll Bar",
+        "Status Bar"
+      ],
+      "correct_answer": "Ruler"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Name the bar for vertical navigation in a document.",
+      "options": [
+        "Vertical Scroll Bar",
+        "Horizontal Scroll Bar",
+        "Ribbon",
+        "Status Bar"
+      ],
+      "correct_answer": "Vertical Scroll Bar"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Which slider is used to zoom in or out?",
+      "options": [
+        "Zoom Slider",
+        "Scroll Bar",
+        "Ribbon",
+        "Status Bar"
+      ],
+      "correct_answer": "Zoom Slider"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Buttons to switch between Print Layout, Read Mode, and Web Layout?",
+      "options": [
+        "View Buttons",
+        "Ribbon Buttons",
+        "Quick Access Buttons",
+        "Status Bar Buttons"
+      ],
+      "correct_answer": "View Buttons"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "What is the blinking line showing where the next character will appear?",
+      "options": [
+        "Insertion Point",
+        "Cursor",
+        "Pointer",
+        "Scroll Bar"
+      ],
+      "correct_answer": "Insertion Point"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Which area shows the content of the document where you type?",
+      "options": [
+        "Document Window",
+        "Ribbon",
+        "Status Bar",
+        "Title Bar"
+      ],
+      "correct_answer": "Document Window"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Which bar allows horizontal navigation through the document?",
+      "options": [
+        "Horizontal Scroll Bar",
+        "Vertical Scroll Bar",
+        "Zoom Slider",
+        "Ribbon"
+      ],
+      "correct_answer": "Horizontal Scroll Bar"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Which bar at the bottom shows page number, word count, and language?",
+      "options": [
+        "Status Bar",
+        "Title Bar",
+        "Quick Access Toolbar",
+        "Ribbon"
+      ],
+      "correct_answer": "Status Bar"
+    },
+    {
+      "category": "More About Windows",
+      "question": "What is a Desktop?",
+      "options": [
+        "The first screen that appears when you start the computer",
+        "A program used to create files",
+        "The notification area",
+        "A folder for storing files"
+      ],
+      "correct_answer": "The first screen that appears when you start the computer"
+    },
+    {
+      "category": "More About Windows",
+      "question": "What is a File?",
+      "options": [
+        "A collection of data, information, settings, or commands",
+        "A program",
+        "A folder",
+        "A shortcut"
+      ],
+      "correct_answer": "A collection of data, information, settings, or commands"
+    },
+    {
+      "category": "More About Windows",
+      "question": "What is a Folder?",
+      "options": [
+        "A location for storing a group of files and folders",
+        "A single file",
+        "A desktop icon",
+        "A shortcut to a program"
+      ],
+      "correct_answer": "A location for storing a group of files and folders"
+    },
+    {
+      "category": "More About Windows",
+      "question": "What is Wallpaper?",
+      "options": [
+        "The background image on the desktop of a computer",
+        "The taskbar at the bottom",
+        "An icon for files",
+        "The screen saver"
+      ],
+      "correct_answer": "The background image on the desktop of a computer"
+    },
+    {
+      "category": "More About Windows",
+      "question": "What is a Screen Saver?",
+      "options": [
+        "An image seen on the computer when it is left idle for some time",
+        "The desktop background",
+        "A program on the taskbar",
+        "A folder containing files"
+      ],
+      "correct_answer": "An image seen on the computer when it is left idle for some time"
+    },
+    {
+      "category": "More About Windows",
+      "question": "What is the Taskbar?",
+      "options": [
+        "A long horizontal bar at the bottom of the screen",
+        "A folder for storing files",
+        "The desktop background",
+        "An application window"
+      ],
+      "correct_answer": "A long horizontal bar at the bottom of the screen"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Which icon allows you to access all data stored on your computer?",
+      "options": [
+        "This PC icon",
+        "Recycle Bin",
+        "Start button",
+        "Quick Launch bar"
+      ],
+      "correct_answer": "This PC icon"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Which window is used to change the wallpaper and screen saver?",
+      "options": [
+        "Personalization window",
+        "File Explorer",
+        "Settings window",
+        "Task Manager"
+      ],
+      "correct_answer": "Personalization window"
+    },
+    {
+      "category": "More About Windows",
+      "question": "What are the three main sections of the taskbar?",
+      "options": [
+        "Start button, System tray, Quick Launch bar",
+        "Desktop, Icons, Recycle Bin",
+        "File Explorer, Task Manager, Search Bar",
+        "Notification area, Control Panel, Start Menu"
+      ],
+      "correct_answer": "Start button, System tray, Quick Launch bar"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Can you move the taskbar to any of the four sides of the screen?",
+      "options": [
+        "Yes",
+        "No",
+        "Only top and bottom",
+        "Only left side"
+      ],
+      "correct_answer": "Yes"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Can programs be added or removed from the taskbar?",
+      "options": [
+        "Yes",
+        "No",
+        "Only removed",
+        "Only added"
+      ],
+      "correct_answer": "Yes"
+    },
+    {
+      "category": "More About Windows",
+      "question": "How can you hide the taskbar when not using it?",
+      "options": [
+        "Enable 'Automatically hide the taskbar in desktop mode'",
+        "Press Delete on taskbar",
+        "Right-click desktop and select Hide",
+        "Drag the taskbar off screen"
+      ],
+      "correct_answer": "Enable 'Automatically hide the taskbar in desktop mode'"
+    },
+    {
+      "category": "More About Windows",
+      "question": "How can you change the date/time and speaker volume?",
+      "options": [
+        "Using buttons on the taskbar",
+        "Using Control Panel only",
+        "From desktop icons",
+        "From File Explorer"
+      ],
+      "correct_answer": "Using buttons on the taskbar"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Which ways can you arrange open windows on the screen?",
+      "options": [
+        "Cascade, stacked, side by side",
+        "Vertical, horizontal, diagonal",
+        "Minimized, maximized, normal",
+        "Hidden, restored, minimized"
+      ],
+      "correct_answer": "Cascade, stacked, side by side"
+    },
+    {
+      "category": "More About Windows",
+      "question": "How can more than one window be opened and switched between?",
+      "options": [
+        "Using Alt + Tab",
+        "Using Ctrl + Tab",
+        "Using Shift + Tab",
+        "Double-clicking desktop"
+      ],
+      "correct_answer": "Using Alt + Tab"
+    },
+    {
+      "category": "More About Windows",
+      "question": "How can you snap four windows on four corners of the screen?",
+      "options": [
+        "Drag each window to a corner",
+        "Use Alt + Tab",
+        "Use Ctrl + Shift + Arrow keys",
+        "Resize manually"
+      ],
+      "correct_answer": "Drag each window to a corner"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Fill in the blank: The window used to change the wallpaper and screen saver is ________.",
+      "options": [
+        "Personalization",
+        "Settings",
+        "File Explorer",
+        "Task Manager"
+      ],
+      "correct_answer": "Personalization"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Fill in the blank: When the window is active, its taskbar button is ________.",
+      "options": [
+        "Highlighted",
+        "Dimmed",
+        "Hidden",
+        "Minimized"
+      ],
+      "correct_answer": "Highlighted"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Fill in the blank: You can view the desktop using the ________ button on the extreme right.",
+      "options": [
+        "Show desktop",
+        "Start",
+        "Task View",
+        "Quick Launch"
+      ],
+      "correct_answer": "Show desktop"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Fill in the blank: The date and time can be changed ________ or automatically.",
+      "options": [
+        "Manually",
+        "Randomly",
+        "By default",
+        "Never"
+      ],
+      "correct_answer": "Manually"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Fill in the blank: To add a program to a taskbar, click the ________ option.",
+      "options": [
+        "Pin to taskbar",
+        "Add to desktop",
+        "Move to taskbar",
+        "Shortcut"
+      ],
+      "correct_answer": "Pin to taskbar"
+    },
+    {
+      "category": "More About Windows",
+      "question": "True or False: You cannot snap four windows on the four corners of the screen.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "More About Windows",
+      "question": "True or False: Once the program is added to the taskbar, you cannot remove it.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "More About Windows",
+      "question": "True or False: You can change the position of the taskbar.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "More About Windows",
+      "question": "True or False: If the Lock the toolbar option is checked, you cannot move the taskbar.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "More About Windows",
+      "question": "True or False: To hide the taskbar, the 'Automatically hide the taskbar in desktop mode' should be On.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Which keyboard shortcut is used to open more than one window and shuffle between them?",
+      "options": [
+        "Alt + Tab",
+        "Ctrl + Tab",
+        "Shift + Tab",
+        "Ctrl + Alt + Del"
+      ],
+      "correct_answer": "Alt + Tab"
+    },
+    {
+      "category": "More About Windows",
+      "question": "When you mute the speaker, what value will be shown?",
+      "options": [
+        "0",
+        "25",
+        "50",
+        "100"
+      ],
+      "correct_answer": "0"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Which is the position of the Start button on the taskbar?",
+      "options": [
+        "Left",
+        "Right",
+        "Middle",
+        "Any one of them"
+      ],
+      "correct_answer": "Left"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Which button will you click to minimize all open windows on the screen?",
+      "options": [
+        "Show desktop",
+        "Speaker",
+        "Date/Time",
+        "Show hidden icons"
+      ],
+      "correct_answer": "Show desktop"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Where is the System tray located on the taskbar?",
+      "options": [
+        "Right",
+        "Left",
+        "Middle",
+        "None of these"
+      ],
+      "correct_answer": "Right"
+    },
+    {
+      "category": "More About Windows",
+      "question": "How will you mute the speaker?",
+      "options": [
+        "Click on the speaker icon in the taskbar and select mute or drag volume to 0",
+        "Turn off the computer",
+        "Close the window",
+        "Use Alt + Tab"
+      ],
+      "correct_answer": "Click on the speaker icon in the taskbar and select mute or drag volume to 0"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Which icon is used to view all the files/folders stored in your computer?",
+      "options": [
+        "This PC icon",
+        "Recycle Bin",
+        "Start button",
+        "Taskbar"
+      ],
+      "correct_answer": "This PC icon"
+    },
+    {
+      "category": "More About Windows",
+      "question": "List the three ways to arrange open windows on the screen.",
+      "options": [
+        "Cascade, Show windows stacked, Show windows side by side",
+        "Minimize, Maximize, Restore",
+        "Snap, Dock, Float",
+        "Tile horizontally, Tile vertically, Cascade"
+      ],
+      "correct_answer": "Cascade, Show windows stacked, Show windows side by side"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Gaurav has opened several windows but wants to work with the This PC window. What should he do?",
+      "options": [
+        "Click on the This PC window on the taskbar to bring it to the front",
+        "Close all other windows",
+        "Restart the computer",
+        "Use Ctrl + Tab"
+      ],
+      "correct_answer": "Click on the This PC window on the taskbar to bring it to the front"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Smitha wants to increase the volume of the speaker. What should she do?",
+      "options": [
+        "Click on the speaker icon in the taskbar and increase the volume",
+        "Restart the computer",
+        "Press Alt + F4",
+        "Open File Explorer"
+      ],
+      "correct_answer": "Click on the speaker icon in the taskbar and increase the volume"
+    },
+    {
+      "category": "More About Windows",
+      "question": "Which steps will you follow to change the time displayed on Windows 10 by 2 hours?",
+      "options": [
+        "Right-click date/time → Adjust date/time → Turn off 'Set time automatically' → Change time manually → Click OK",
+        "Open File Explorer → Settings → Time",
+        "Click Start → Personalization → Time",
+        "Right-click taskbar → Lock the toolbar"
+      ],
+      "correct_answer": "Right-click date/time → Adjust date/time → Turn off 'Set time automatically' → Change time manually → Click OK"
+    },
+    {
+      "category": "More About Windows",
+      "question": "One student adds the Paint program to the taskbar and another removes it. Which option is used to add a program to the taskbar?",
+      "options": [
+        "Pin to taskbar",
+        "Add to desktop",
+        "Move to taskbar",
+        "Shortcut"
+      ],
+      "correct_answer": "Pin to taskbar"
+    },
+    {
+      "category": "More About Windows",
+      "question": "How can you remove a program from the taskbar?",
+      "options": [
+        "Right-click the program icon and select 'Unpin from taskbar'",
+        "Drag it to the desktop",
+        "Press Delete key",
+        "Use Ctrl + X"
+      ],
+      "correct_answer": "Right-click the program icon and select 'Unpin from taskbar'"
+    },
+    {
+      "category": "More About Windows",
+      "question": "How do you set your computer clock to a different timezone, e.g., London time?",
+      "options": [
+        "Right-click date/time → Adjust date/time → Turn off 'Set time automatically' → Change time manually",
+        "Open File Explorer → Settings → Time",
+        "Click Start → Personalization → Time",
+        "Drag the clock icon to new location"
+      ],
+      "correct_answer": "Right-click date/time → Adjust date/time → Turn off 'Set time automatically' → Change time manually"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "Which tool provides synonyms for a word?",
+      "options": [
+        "Thesaurus",
+        "Dictionary",
+        "Spell Check",
+        "Undo"
+      ],
+      "correct_answer": "Thesaurus"
+    },
+    {
+      "category": "Editing in MS Word 2013",
+      "question": "Which command carries out the last command again?",
+      "options": [
+        "Repeat",
+        "Undo",
+        "Redo",
+        "Copy"
+      ],
+      "correct_answer": "Repeat"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Which tab has the Text Effect option?",
+      "options": [
+        "Home tab",
+        "Insert tab",
+        "Page Layout tab",
+        "View tab"
+      ],
+      "correct_answer": "Home tab"
+    },
+    {
+      "category": "Formatting in MS Word 2013",
+      "question": "Why do we use Default settings in MS Word?",
+      "options": [
+        "They are standard or pre-defined settings that apply automatically",
+        "To delete the document",
+        "To apply effects manually",
+        "To save a file in a folder"
+      ],
+      "correct_answer": "They are standard or pre-defined settings that apply automatically"
+    }
+  ]
+}

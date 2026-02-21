@@ -11,6 +11,7 @@ function Results() {
   const [activeTab, setActiveTab] = useState('overview'); // overview | all | subjects | wrong-answers
   const [subjectFilter, setSubjectFilter] = useState('all');
   const [selectedResult, setSelectedResult] = useState(null);
+  const [resumableTests, setResumableTests] = useState(new Set());
   const navigate = useNavigate();
 
   // Check for review=wrong-answers parameter
@@ -31,6 +32,54 @@ function Results() {
       }
     }
   }, [searchParams]);
+
+  // Check if the currently selected result can be resumed
+  const currentResultCanResume = useMemo(() => {
+    if (!selectedResult) return false;
+    const identifier = `${selectedResult.subject}-${selectedResult.category || 'all'}-${selectedResult.timestamp}`;
+    return resumableTests.has(identifier);
+  }, [selectedResult, resumableTests]);
+
+  // Function to check if a test can be resumed
+  const canResumeTest = useCallback(async (result) => {
+    if (!result) return false;
+    
+    // Check if the test was completed
+    const wasCompleted = result.attemptedQuestions >= result.totalQuestions;
+    if (wasCompleted) return false;
+    
+    // Check if there's saved progress for this subject
+    try {
+      const savedProgress = await fileStorage.loadProgress(result.subject, result.category || 'all');
+      if (!savedProgress) return false;
+      
+      // Verify that the saved progress matches an incomplete test
+      if (savedProgress.answeredQuestions && savedProgress.answeredQuestions.length >= result.totalQuestions) {
+        return false;
+      }
+      
+      return true;
+    } catch (error) {
+      console.error('Error checking resume eligibility:', error);
+      return false;
+    }
+  }, []);
+
+  // Check which tests can be resumed
+  const checkResumableTests = useCallback(async (resultsList) => {
+    const resumable = new Set();
+    
+    for (const result of resultsList) {
+      const canResume = await canResumeTest(result);
+      if (canResume) {
+        // Use a unique identifier for the result
+        const identifier = `${result.subject}-${result.category || 'all'}-${result.timestamp}`;
+        resumable.add(identifier);
+      }
+    }
+    
+    setResumableTests(resumable);
+  }, [canResumeTest]);
 
   // Debug: Log when selectedResult changes
   useEffect(() => {
@@ -117,6 +166,7 @@ function Results() {
         // Sort by timestamp desc if available
         results.sort((a, b) => new Date(b.timestamp || b.date || 0) - new Date(a.timestamp || a.date || 0));
         setResults(results);
+        checkResumableTests(results);
       } catch (e) {
         setError('Failed to load results. Please try refreshing the page.');
       } finally {
@@ -124,7 +174,7 @@ function Results() {
       }
     }
     load();
-  }, []);
+  }, [checkResumableTests]);
 
   const summary = useMemo(() => {
     if (!results.length) return null;
@@ -200,6 +250,47 @@ function Results() {
       alert('Error importing results. Please try again.');
     }
   };
+
+  // Function to resume the currently viewed test
+  const resumeLastTest = async () => {
+    try {
+      // Get the currently selected result, or fall back to most recent
+      const targetResult = selectedResult || (results.length > 0 ? results[0] : null);
+      
+      if (!targetResult) {
+        alert('No test found to resume.');
+        return;
+      }
+
+      const subject = targetResult.subject;
+      const category = targetResult.category || 'all';
+      const attemptedQuestions = targetResult.attemptedQuestions || 0;
+
+      // Check if there's saved progress for this subject
+      const savedProgress = await fileStorage.loadProgress(subject, category);
+      
+      if (!savedProgress) {
+        alert('No saved progress found for this test. You may need to start a new test.');
+        return;
+      }
+
+      // Verify that the saved progress matches an incomplete test
+      if (savedProgress.answeredQuestions && savedProgress.answeredQuestions.length >= targetResult.totalQuestions) {
+        alert('This test was already completed. Start a new test to practice again.');
+        return;
+      }
+
+      // Progress can be resumed regardless of age (24-hour restriction removed)
+
+      // Navigate to quiz page with resume parameters including the specific question to resume from
+      navigate(`/quiz/${subject}?resume=true&category=${category}&resumeFrom=${attemptedQuestions}`);
+      
+    } catch (error) {
+      console.error('Error resuming last test:', error);
+      alert('Error resuming last test. Please try again.');
+    }
+  };
+
   const clearResultsForSubject = async (subject) => {
     if (window.confirm(`Are you sure you want to delete all results for ${subject === 'all' ? 'all subjects' : subject}? This will clear all browser storage including cache.`)) {
       try {
@@ -285,12 +376,14 @@ function Results() {
     <div className="results-container">
       <div className="results-header">
         <h1 className="results-title">📊 Results</h1>
-        <div className="results-actions">
+                <div className="results-actions">
           <button className="btn" onClick={() => navigate('/')}>🏠 Home</button>
           <button className="btn" onClick={() => window.location.reload()}>🔄 Refresh</button>
+          {currentResultCanResume && (
+            <button className="btn" onClick={resumeLastTest}>🔄 Resume This Test</button>
+          )}
           <button className="btn" onClick={() => exportResults()}>📥 Export All</button>
-          <button className="btn" onClick={() => importResults()}>📤 Import</button>
-          <select 
+          <button className="btn" onClick={() => importResults()}>📤 Import</button> <select 
             className="clear-results-select" 
             onChange={(e) => {
               if (e.target.value) {
@@ -653,5 +746,3 @@ function WrongAnswersReview({ result, onBack }) {
 }
 
 export default Results;
-
-

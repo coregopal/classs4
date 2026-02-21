@@ -1,1887 +1,3424 @@
 {
   "questions": [
     {
-      "category": "Look, Think and Answer",
-      "question": "Why do you need at least two holes in a tin to pour liquid smoothly?",
+      "category": "About Our Bodies",
+      "question": "Is the stapes the smallest bone in the human body?",
       "options": [
-        "One hole is enough",
-        "One for liquid and one for air",
-        "To make the tin lighter",
-        "To cool the liquid"
+        "Yes",
+        "No, it is the femur",
+        "No, it is the humerus",
+        "No, it is the tibia"
       ],
-      "correct_answer": "One for liquid and one for air"
+      "correct_answer": "Yes, Explanation: The stapes, located in the middle ear, is the smallest bone in the human body"
     },
     {
-      "category": "Look, Think and Answer",
-      "question": "23:45 hours is equal to what time?",
+      "category": "About Our Bodies",
+      "question": "Is it possible for a human to sneeze with their eyes open?",
       "options": [
-        "11:45 AM",
-        "12:45 PM",
-        "11:45 PM",
-        "10:45 PM"
+        "Yes, with practice",
+        "No",
+        "Only when looking at the sun",
+        "Only during a cold"
       ],
-      "correct_answer": "11:45 PM"
+      "correct_answer": "No, Explanation: Sneezing triggers an automatic reflex that forces the eyes to close"
     },
     {
-      "category": "Look, Think and Answer",
-      "question": "What does a thermos flask do?",
+      "category": "About Our Bodies",
+      "question": "What is the term for when a person gets the same illness again after a partial recovery?",
       "options": [
-        "Makes liquids hot",
-        "Makes liquids cold",
-        "Maintains liquid temperature",
-        "Cools air"
+        "Recession",
+        "Relapse",
+        "Remission",
+        "Reflex"
       ],
-      "correct_answer": "Maintains liquid temperature"
+      "correct_answer": "Relapse, Explanation: A relapse means the return of an illness after partial recovery"
     },
     {
-      "category": "Look, Think and Answer",
-      "question": "What are the A, B, C controls of a car?",
+      "category": "About Our Bodies",
+      "question": "Which organ is responsible for pumping blood to all parts of the body?",
       "options": [
-        "Accelerator, Brake, Clutch",
-        "Axle, Brake, Control",
-        "Air, Battery, Clutch",
-        "Accelerator, Belt, Clutch"
+        "Lungs",
+        "Liver",
+        "Heart",
+        "Kidneys"
       ],
-      "correct_answer": "Accelerator, Brake, Clutch"
+      "correct_answer": "Heart, Explanation: The heart pumps blood, while the lungs are responsible for exchanging oxygen and carbon dioxide"
     },
     {
-      "category": "Look, Think and Answer",
-      "question": "Why does water level in an open bowl go down under the sun?",
+      "category": "About Our Bodies",
+      "question": "How many bones are found in each human hand?",
       "options": [
-        "Freezing",
-        "Condensation",
-        "Evaporation",
-        "Absorption"
+        "35 bones",
+        "27 bones",
+        "20 bones",
+        "15 bones"
       ],
-      "correct_answer": "Evaporation"
+      "correct_answer": "27 bones, Explanation: Each human hand consists of exactly 27 bones"
     },
     {
-      "category": "Look, Think and Answer",
-      "question": "What happens to water in a sealed bottle kept in the sun?",
+      "category": "About Our Bodies",
+      "question": "What happens to your skin if you spend a long time in water?",
       "options": [
-        "It evaporates",
-        "It freezes",
-        "It stays the same",
-        "It boils"
+        "It turns blue",
+        "It becomes smoother",
+        "It wrinkles",
+        "It hardens"
       ],
-      "correct_answer": "It stays the same"
+      "correct_answer": "It wrinkles, Explanation: Water exposure affects skin nerves, which causes the skin to wrinkle"
     },
     {
-      "category": "Look, Think and Answer",
-      "question": "Mixing which two paints makes pink?",
+      "category": "About Our Bodies",
+      "question": "Can a person survive and live normally with only one kidney?",
       "options": [
-        "Red and yellow",
-        "Red and white",
-        "Blue and white",
-        "Green and white"
+        "Yes",
+        "No",
+        "Only for one year",
+        "Only with a strict liquid diet"
       ],
-      "correct_answer": "Red and white"
+      "correct_answer": "Yes, Explanation: One healthy kidney is sufficient for a person to live a normal life"
     },
     {
-      "category": "Look, Think and Answer",
-      "question": "How many minutes are there in 2 hours?",
+      "category": "About Our Bodies",
+      "question": "If a person is experiencing 'cardiac' problems, which organ is affected?",
       "options": [
-        "60 minutes",
-        "100 minutes",
-        "120 minutes",
-        "90 minutes"
+        "The lungs",
+        "The brain",
+        "The heart",
+        "The stomach"
       ],
-      "correct_answer": "120 minutes"
+      "correct_answer": "The heart, Explanation: The term 'cardiac' specifically refers to the heart, not the lungs"
     },
     {
-      "category": "Look, Think and Answer",
-      "question": "How many days are there in a week?",
+      "category": "About Our Bodies",
+      "question": "What is the primary function of muscle fibers in the body?",
       "options": [
-        "5",
-        "6",
-        "7",
-        "8"
+        "To produce blood cells",
+        "To shorten or lengthen to move body parts",
+        "To store oxygen",
+        "To protect internal organs from water"
       ],
-      "correct_answer": "7"
+      "correct_answer": "To shorten or lengthen to move body parts, Explanation: Muscles create movement by contracting (shortening) and relaxing"
     },
     {
-      "category": "Look, Think and Answer",
-      "question": "How can sand and iron filings be separated?",
+      "category": "About Our Bodies",
+      "question": "Besides the liver, which other major organ can alcohol significantly damage?",
       "options": [
-        "By sieving",
-        "By a magnet",
-        "By handpicking",
-        "By washing"
+        "The lungs",
+        "The heart",
+        "The skin",
+        "The bones"
       ],
-      "correct_answer": "By a magnet"
+      "correct_answer": "The heart, Explanation: While alcohol mainly targets the liver, it also harms the heart and overall health"
     },
     {
-      "category": "Animal and Plant Facts",
-      "question": "How many hours does a bat sleep in a day?",
+      "category": "Super Scientists",
+      "question": "Who discovered gravity after seeing an apple fall from a tree?",
       "options": [
-        "8–10 hours",
-        "10–12 hours",
-        "14–16 hours",
-        "20 hours"
+        "Albert Einstein",
+        "Isaac Newton",
+        "Charles Babbage",
+        "Alfred Nobel"
       ],
-      "correct_answer": "14–16 hours"
+      "correct_answer": "Isaac Newton, Explanation: Isaac Newton formulated the law of gravity following his observation of a falling apple"
     },
     {
-      "category": "Animal and Plant Facts",
-      "question": "Why were parrots kept on the Eiffel Tower in World War I?",
+      "category": "Super Scientists",
+      "question": "Who founded Kodak and invented roll film?",
       "options": [
-        "For beauty",
-        "For warning of planes",
-        "For communication",
-        "For entertainment"
+        "George Eastman",
+        "Heinrich Hertz",
+        "Charles Babbage",
+        "Alfred Nobel"
       ],
-      "correct_answer": "For warning of planes"
+      "correct_answer": "George Eastman, Explanation: George Eastman popularized photography by making cameras lighter and inventing roll film"
     },
     {
-      "category": "Animal and Plant Facts",
-      "question": "Which sense is poor in hyenas?",
+      "category": "Super Scientists",
+      "question": "Which physicist has the unit of frequency named after him?",
       "options": [
-        "Smell",
-        "Taste",
-        "Eyesight",
-        "Hearing"
+        "Isaac Newton",
+        "Albert Einstein",
+        "Heinrich Rudolf Hertz",
+        "Alfred Nobel"
       ],
-      "correct_answer": "Eyesight"
+      "correct_answer": "Heinrich Rudolf Hertz, Explanation: The 'Hertz', a unit of frequency, is named in honor of Heinrich Rudolf Hertz"
     },
     {
-      "category": "Animal and Plant Facts",
-      "question": "A chimpanzee can recognize how many words?",
+      "category": "Super Scientists",
+      "question": "Who is known as the 'Father of Computers' for designing the Analytical Engine?",
       "options": [
-        "10–20 words",
-        "50–100 words",
-        "100–200 words",
-        "200–400 words"
+        "George Eastman",
+        "Charles Babbage",
+        "Albert Einstein",
+        "Isaac Newton"
       ],
-      "correct_answer": "100–200 words"
+      "correct_answer": "Charles Babbage, Explanation: Charles Babbage is credited as the Father of Computers for his early computer design, the Analytical Engine"
     },
     {
-      "category": "Animal and Plant Facts",
-      "question": "Which animal looks like a wolf but is smaller?",
+      "category": "Super Scientists",
+      "question": "Who invented dynamite and established the Nobel Prizes?",
       "options": [
-        "Jackal",
-        "Coyote",
-        "Fox",
-        "Dog"
+        "Alfred Nobel",
+        "Heinrich Hertz",
+        "George Eastman",
+        "Isaac Newton"
       ],
-      "correct_answer": "Coyote"
+      "correct_answer": "Alfred Nobel, Explanation: Alfred Nobel's wealth, largely from his invention of dynamite, funds the Nobel Awards"
     },
     {
-      "category": "Animal and Plant Facts",
-      "question": "Which bird can sleep while flying?",
+      "category": "Super Scientists",
+      "question": "Whose theories were essential for the development of modern space travel and computers?",
       "options": [
-        "Parrot",
-        "Crow",
-        "Frigatebird",
-        "Ostrich"
+        "Isaac Newton",
+        "Albert Einstein",
+        "George Eastman",
+        "Charles Babbage"
       ],
-      "correct_answer": "Frigatebird"
+      "correct_answer": "Albert Einstein, Explanation: Albert Einstein's theory of relativity was a cornerstone for modern physics, space travel, and computing"
     },
     {
-      "category": "Animal and Plant Facts",
-      "question": "Which sea animal can make two sounds at the same time?",
+      "category": "Colour Sayings",
+      "question": "What does it mean to be 'in the pink of health'?",
       "options": [
-        "Shark",
-        "Whale",
-        "Dolphin",
-        "Seal"
+        "To be embarrassed",
+        "To be very healthy",
+        "To have a fever",
+        "To be feeling cold"
       ],
-      "correct_answer": "Dolphin"
+      "correct_answer": "To be very healthy, Explanation: The color pink in this idiom represents a healthy glow"
     },
     {
-      "category": "Animal and Plant Facts",
-      "question": "How many times per second does a woodpecker peck?",
+      "category": "Colour Sayings",
+      "question": "What is meant by the term 'blue-eyed boy'?",
       "options": [
-        "5",
-        "10",
-        "15",
-        "20"
+        "A sad person",
+        "A favourite person",
+        "A person who is very young",
+        "A person who is talented at art"
       ],
-      "correct_answer": "20"
+      "correct_answer": "A favourite person, Explanation: A 'blue-eyed boy' is a common idiom used to describe someone who is a favorite"
     },
     {
-      "category": "Animal and Plant Facts",
-      "question": "Which bird can fly backward?",
+      "category": "Colour Sayings",
+      "question": "If someone is described as 'black and blue', what has happened to them?",
       "options": [
-        "Parrot",
-        "Pigeon",
-        "Hummingbird",
-        "Eagle"
+        "They are wearing a uniform",
+        "They are bruised badly",
+        "They are feeling very sad",
+        "They are very rich"
       ],
-      "correct_answer": "Hummingbird"
+      "correct_answer": "They are bruised badly, Explanation: The idiom 'black and blue' refers to someone being badly bruised"
     },
     {
-      "category": "Science and Measurement",
-      "question": "Sound is measured in what unit?",
+      "category": "Colour Sayings",
+      "question": "What is a 'red-letter day'?",
       "options": [
-        "Hertz",
-        "Decibels",
-        "Watts",
-        "Volts"
+        "A day for writing letters",
+        "A very special or important day",
+        "A day of danger",
+        "A holiday in the autumn"
       ],
-      "correct_answer": "Decibels"
+      "correct_answer": "A very special or important day, Explanation: In old calendars, important dates were written in red ink"
     },
     {
-      "category": "Science and Measurement",
-      "question": "Rainfall is measured in which units?",
+      "category": "Colour Sayings",
+      "question": "What is a 'black sheep' in a family?",
       "options": [
-        "Liters",
-        "Gallons",
-        "Inches or millimeters",
-        "Cups"
+        "The oldest member",
+        "A person who brings shame to the family",
+        "The member who earns the most money",
+        "A person who loves nature"
       ],
-      "correct_answer": "Inches or millimeters"
+      "correct_answer": "A person who brings shame to the family, Explanation: A 'black sheep' is an idiom for someone who brings shame or disgrace to their family"
     },
     {
-      "category": "Science and Measurement",
-      "question": "Earthquake strength is measured using what scale?",
+      "category": "Colour Sayings",
+      "question": "What does the idiom 'as white as a sheet' describe?",
       "options": [
-        "Beaufort scale",
-        "Richter scale",
-        "Kelvin scale",
-        "Celsius scale"
+        "Being very clean",
+        "Being extremely pale due to fear or shock",
+        "Being invisible in the snow",
+        "Being very calm"
       ],
-      "correct_answer": "Richter scale"
+      "correct_answer": "Being extremely pale due to fear or shock, Explanation: This phrase describes someone becoming extremely pale after a shock or scare"
     },
     {
-      "category": "Science and Measurement",
-      "question": "Gold purity is measured in what?",
+      "category": "Proverbs with Meanings",
+      "question": "What is the meaning of 'Actions speak louder than words'?",
       "options": [
-        "Grams",
-        "Ounces",
-        "Carats",
-        "Milligrams"
+        "Shouting is better than talking",
+        "What you do matters more than what you say",
+        "Quiet people are more successful",
+        "It is better to be a good listener"
       ],
-      "correct_answer": "Carats"
+      "correct_answer": "What you do matters more than what you say, Explanation: This proverb emphasizes that behavior is more important than empty talk"
     },
     {
-      "category": "Science and Measurement",
-      "question": "Distance is usually measured in?",
+      "category": "Proverbs with Meanings",
+      "question": "What does 'Every cloud has a silver lining' mean?",
       "options": [
-        "Meters",
-        "Liters",
-        "Kilometers or miles",
-        "Decibels"
+        "It will rain soon",
+        "Even bad situations have something good in them",
+        "Clouds are made of precious metals",
+        "One must always carry an umbrella"
       ],
-      "correct_answer": "Kilometers or miles"
+      "correct_answer": "Even bad situations have something good in them, Explanation: This proverb encourages finding a positive aspect in every negative situation"
     },
     {
-      "category": "Science and Measurement",
-      "question": "How is body temperature measured?",
+      "category": "Proverbs with Meanings",
+      "question": "What is the lesson of 'The early bird catches the worm'?",
       "options": [
-        "With a stethoscope",
-        "With a thermometer",
-        "With a barometer",
-        "With a compass"
+        "Birds like to eat early",
+        "People who act early succeed",
+        "Worms are only available in the morning",
+        "Success comes to those who sleep well"
       ],
-      "correct_answer": "With a thermometer"
+      "correct_answer": "People who act early succeed, Explanation: This proverb teaches that taking prompt action leads to success"
     },
     {
-      "category": "Science and Measurement",
-      "question": "Where is a thermometer placed to measure body temperature?",
+      "category": "Proverbs with Meanings",
+      "question": "What does 'Never judge a book by its cover' advise?",
       "options": [
-        "On the hand",
-        "On the ear",
-        "Under the arm or tongue",
-        "On the forehead"
+        "Always read the back of a book",
+        "Don't judge by appearance",
+        "Only buy books with beautiful covers",
+        "Books are more important than appearances"
       ],
-      "correct_answer": "Under the arm or tongue"
+      "correct_answer": "Don't judge by appearance, Explanation: This proverb warns against forming an opinion based solely on outward looks"
     },
     {
-      "category": "Science and Measurement",
-      "question": "What does the body produce when hot to keep cool?",
+      "category": "Proverbs with Meanings",
+      "question": "What is meant by 'Charity begins at home'?",
       "options": [
-        "Tears",
-        "Sweat",
-        "Saliva",
-        "Urine"
+        "Don't give money to strangers",
+        "Take care of your family first",
+        "Build a house before helping others",
+        "Charity should only happen inside a house"
       ],
-      "correct_answer": "Sweat"
+      "correct_answer": "Take care of your family first, Explanation: This proverb suggests that one's first responsibility is to their own family and kin"
     },
     {
-      "category": "Science and Measurement",
-      "question": "What helps change TV channels from a distance?",
+      "category": "Proverbs with Meanings",
+      "question": "What does 'A stitch in time saves nine' mean?",
       "options": [
-        "Switch",
-        "Remote control",
-        "Mobile phone",
-        "Keyboard"
+        "Sewing is a valuable skill",
+        "Fix small problems early to avoid bigger ones later",
+        "Working fast saves time",
+        "Nine stitches are better than one"
       ],
-      "correct_answer": "Remote control"
+      "correct_answer": "Fix small problems early to avoid bigger ones later, Explanation: This proverb means that timely maintenance prevents larger problems in the future"
     },
     {
-      "category": "Science and Measurement",
-      "question": "Why do people mount a dish on buildings or cars?",
+      "category": "Places in the News",
+      "question": "Which country shares the waters of the Teesta river with India?",
       "options": [
-        "For decoration",
-        "For shade",
-        "For DTH television",
-        "For Wi-Fi"
+        "Pakistan",
+        "China",
+        "Bangladesh",
+        "Nepal"
       ],
-      "correct_answer": "For DTH television"
+      "correct_answer": "Bangladesh, Explanation: The Teesta river flows through both India and Bangladesh"
     },
     {
-      "category": "Look, Think and Answer",
-      "question": "Why do you need at least two holes in a tin to pour liquid smoothly?",
+      "category": "Places in the News",
+      "question": "Which region is famously divided into 'North' and 'South' parts?",
       "options": [
-        "One hole is enough",
-        "One for liquid and one for air",
-        "To make the tin lighter",
-        "To cool the liquid"
-      ],
-      "correct_answer": "One for liquid and one for air"
-    },
-    {
-      "category": "Look, Think and Answer",
-      "question": "23:45 hours is equal to what time?",
-      "options": [
-        "11:45 AM",
-        "12:45 PM",
-        "11:45 PM",
-        "10:45 PM"
-      ],
-      "correct_answer": "11:45 PM"
-    },
-    {
-      "category": "Look, Think and Answer",
-      "question": "What does a thermos flask do?",
-      "options": [
-        "Makes liquids hot",
-        "Makes liquids cold",
-        "Maintains liquid temperature",
-        "Cools air"
-      ],
-      "correct_answer": "Maintains liquid temperature"
-    },
-    {
-      "category": "Look, Think and Answer",
-      "question": "What are the A, B, C controls of a car?",
-      "options": [
-        "Accelerator, Brake, Clutch",
-        "Axle, Brake, Control",
-        "Air, Battery, Clutch",
-        "Accelerator, Belt, Clutch"
-      ],
-      "correct_answer": "Accelerator, Brake, Clutch"
-    },
-    {
-      "category": "Look, Think and Answer",
-      "question": "Why does water level in an open bowl go down under the sun?",
-      "options": [
-        "Freezing",
-        "Condensation",
-        "Evaporation",
-        "Absorption"
-      ],
-      "correct_answer": "Evaporation"
-    },
-    {
-      "category": "Look, Think and Answer",
-      "question": "What happens to water in a sealed bottle kept in the sun?",
-      "options": [
-        "It evaporates",
-        "It freezes",
-        "It stays the same",
-        "It boils"
-      ],
-      "correct_answer": "It stays the same"
-    },
-    {
-      "category": "Look, Think and Answer",
-      "question": "Mixing which two paints makes pink?",
-      "options": [
-        "Red and yellow",
-        "Red and white",
-        "Blue and white",
-        "Green and white"
-      ],
-      "correct_answer": "Red and white"
-    },
-    {
-      "category": "Look, Think and Answer",
-      "question": "How many minutes are there in 2 hours?",
-      "options": [
-        "60 minutes",
-        "100 minutes",
-        "120 minutes",
-        "90 minutes"
-      ],
-      "correct_answer": "120 minutes"
-    },
-    {
-      "category": "Look, Think and Answer",
-      "question": "How many days are there in a week?",
-      "options": [
-        "5",
-        "6",
-        "7",
-        "8"
-      ],
-      "correct_answer": "7"
-    },
-    {
-      "category": "Look, Think and Answer",
-      "question": "How can sand and iron filings be separated?",
-      "options": [
-        "By sieving",
-        "By a magnet",
-        "By handpicking",
-        "By washing"
-      ],
-      "correct_answer": "By a magnet"
-    },
-    {
-      "category": "Animal and Plant Facts",
-      "question": "How many hours does a bat sleep in a day?",
-      "options": [
-        "8–10 hours",
-        "10–12 hours",
-        "14–16 hours",
-        "20 hours"
-      ],
-      "correct_answer": "14–16 hours"
-    },
-    {
-      "category": "Animal and Plant Facts",
-      "question": "Why were parrots kept on the Eiffel Tower in World War I?",
-      "options": [
-        "For beauty",
-        "For warning of planes",
-        "For communication",
-        "For entertainment"
-      ],
-      "correct_answer": "For warning of planes"
-    },
-    {
-      "category": "Animal and Plant Facts",
-      "question": "Which sense is poor in hyenas?",
-      "options": [
-        "Smell",
-        "Taste",
-        "Eyesight",
-        "Hearing"
-      ],
-      "correct_answer": "Eyesight"
-    },
-    {
-      "category": "Animal and Plant Facts",
-      "question": "A chimpanzee can recognize how many words?",
-      "options": [
-        "10–20 words",
-        "50–100 words",
-        "100–200 words",
-        "200–400 words"
-      ],
-      "correct_answer": "100–200 words"
-    },
-    {
-      "category": "Animal and Plant Facts",
-      "question": "Which animal looks like a wolf but is smaller?",
-      "options": [
-        "Jackal",
-        "Coyote",
-        "Fox",
-        "Dog"
-      ],
-      "correct_answer": "Coyote"
-    },
-    {
-      "category": "Animal and Plant Facts",
-      "question": "Which bird can sleep while flying?",
-      "options": [
-        "Parrot",
-        "Crow",
-        "Frigatebird",
-        "Ostrich"
-      ],
-      "correct_answer": "Frigatebird"
-    },
-    {
-      "category": "Animal and Plant Facts",
-      "question": "Which sea animal can make two sounds at the same time?",
-      "options": [
-        "Shark",
-        "Whale",
-        "Dolphin",
-        "Seal"
-      ],
-      "correct_answer": "Dolphin"
-    },
-    {
-      "category": "Animal and Plant Facts",
-      "question": "How many times per second does a woodpecker peck?",
-      "options": [
-        "5",
-        "10",
-        "15",
-        "20"
-      ],
-      "correct_answer": "20"
-    },
-    {
-      "category": "Animal and Plant Facts",
-      "question": "Which bird can fly backward?",
-      "options": [
-        "Parrot",
-        "Pigeon",
-        "Hummingbird",
-        "Eagle"
-      ],
-      "correct_answer": "Hummingbird"
-    },
-    {
-      "category": "Science and Measurement",
-      "question": "Sound is measured in what unit?",
-      "options": [
-        "Hertz",
-        "Decibels",
-        "Watts",
-        "Volts"
-      ],
-      "correct_answer": "Decibels"
-    },
-    {
-      "category": "Science and Measurement",
-      "question": "Rainfall is measured in which units?",
-      "options": [
-        "Liters",
-        "Gallons",
-        "Inches or millimeters",
-        "Cups"
-      ],
-      "correct_answer": "Inches or millimeters"
-    },
-    {
-      "category": "Science and Measurement",
-      "question": "Earthquake strength is measured using what scale?",
-      "options": [
-        "Beaufort scale",
-        "Richter scale",
-        "Kelvin scale",
-        "Celsius scale"
-      ],
-      "correct_answer": "Richter scale"
-    },
-    {
-      "category": "Science and Measurement",
-      "question": "Gold purity is measured in what?",
-      "options": [
-        "Grams",
-        "Ounces",
-        "Carats",
-        "Milligrams"
-      ],
-      "correct_answer": "Carats"
-    },
-    {
-      "category": "Science and Measurement",
-      "question": "Distance is usually measured in?",
-      "options": [
-        "Meters",
-        "Liters",
-        "Kilometers or miles",
-        "Decibels"
-      ],
-      "correct_answer": "Kilometers or miles"
-    },
-    {
-      "category": "Science and Measurement",
-      "question": "How is body temperature measured?",
-      "options": [
-        "With a stethoscope",
-        "With a thermometer",
-        "With a barometer",
-        "With a compass"
-      ],
-      "correct_answer": "With a thermometer"
-    },
-    {
-      "category": "Science and Measurement",
-      "question": "Where is a thermometer placed to measure body temperature?",
-      "options": [
-        "On the hand",
-        "On the ear",
-        "Under the arm or tongue",
-        "On the forehead"
-      ],
-      "correct_answer": "Under the arm or tongue"
-    },
-    {
-      "category": "Science and Measurement",
-      "question": "What does the body produce when hot to keep cool?",
-      "options": [
-        "Tears",
-        "Sweat",
-        "Saliva",
-        "Urine"
-      ],
-      "correct_answer": "Sweat"
-    },
-    {
-      "category": "Science and Measurement",
-      "question": "What helps change TV channels from a distance?",
-      "options": [
-        "Switch",
-        "Remote control",
-        "Mobile phone",
-        "Keyboard"
-      ],
-      "correct_answer": "Remote control"
-    },
-    {
-      "category": "Science and Measurement",
-      "question": "Why do people mount a dish on buildings or cars?",
-      "options": [
-        "For decoration",
-        "For shade",
-        "For DTH television",
-        "For Wi-Fi"
-      ],
-      "correct_answer": "For DTH television"
-    },
-    {
-      "category": "Plants and Animals: True or False",
-      "question": "Bats are the only mammals that can fly.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "True"
-    },
-    {
-      "category": "Plants and Animals: True or False",
-      "question": "The ostrich is the largest bird in the world.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "True"
-    },
-    {
-      "category": "Plants and Animals: True or False",
-      "question": "A frog breathes only through its lungs.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "False"
-    },
-    {
-      "category": "Plants and Animals: True or False",
-      "question": "The blue whale is the largest animal on Earth.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "True"
-    },
-    {
-      "category": "Plants and Animals: True or False",
-      "question": "Sharks are mammals.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "False"
-    },
-    {
-      "category": "Plants and Animals: True or False",
-      "question": "The camel is called the Ship of the Desert.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "True"
-    },
-    {
-      "category": "Plants and Animals: True or False",
-      "question": "The cheetah is the fastest land animal.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "True"
-    },
-    {
-      "category": "Plants and Animals: True or False",
-      "question": "All reptiles are cold-blooded animals.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "True"
-    },
-    {
-      "category": "Plants and Animals: True or False",
-      "question": "An octopus has eight arms.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "True"
-    },
-    {
-      "category": "Plants and Animals: True or False",
-      "question": "Penguins can fly like other birds.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "False"
-    },
-    {
-      "category": "The Insect World",
-      "question": "Unscramble the word 'SAMQUIOT' to find the name of an insect.",
-      "options": [
-        "Mosquito",
-        "Mosquitto",
-        "Mosquato",
-        "Mosqueto"
-      ],
-      "correct_answer": "Mosquito"
-    },
-    {
-      "category": "The Insect World",
-      "question": "Which of these is a useful insect?",
-      "options": [
-        "Honeybee",
-        "Mosquito",
-        "Housefly",
-        "Termite"
-      ],
-      "correct_answer": "Honeybee"
-    },
-    {
-      "category": "The Insect World",
-      "question": "Which of these is a harmful insect?",
-      "options": [
-        "Butterfly",
-        "Mosquito",
-        "Silkworm",
-        "Ladybird"
-      ],
-      "correct_answer": "Mosquito"
-    },
-    {
-      "category": "The Insect World",
-      "question": "Which insect is the strongest in the world?",
-      "options": [
-        "Hercules beetle",
-        "Ant",
-        "Dung beetle",
-        "Bee"
-      ],
-      "correct_answer": "Hercules beetle"
-    },
-    {
-      "category": "The Insect World",
-      "question": "Which insect spreads malaria?",
-      "options": [
-        "Mosquito",
-        "Housefly",
-        "Termite",
-        "Flea"
-      ],
-      "correct_answer": "Mosquito"
-    },
-    {
-      "category": "The Insect World",
-      "question": "Which insect spreads germs and diseases by sitting on our food?",
-      "options": [
-        "Housefly",
-        "Butterfly",
-        "Bee",
-        "Dragonfly"
-      ],
-      "correct_answer": "Housefly"
-    },
-    {
-      "category": "The Insect World",
-      "question": "Which disease is spread by Aedes mosquitoes?",
-      "options": [
-        "Dengue",
-        "Malaria",
-        "Cholera",
-        "Tuberculosis"
-      ],
-      "correct_answer": "Dengue"
-    },
-    {
-      "category": "The Insect World",
-      "question": "Which of these is the best way to prevent dengue?",
-      "options": [
-        "Do not allow water to collect around the house",
-        "Eat more sweets",
-        "Keep windows open at night",
-        "Grow more trees nearby"
-      ],
-      "correct_answer": "Do not allow water to collect around the house"
-    },
-    {
-      "category": "Sports Round-Up",
-      "question": "Who won a silver medal in javelin in 2022?",
-      "options": [
-        "Neeraj Chopra",
-        "Eldhose Paul",
-        "Rafael Nadal",
-        "Abdulla Aboobacker"
-      ],
-      "correct_answer": "Neeraj Chopra"
-    },
-    {
-      "category": "Sports Round-Up",
-      "question": "The movie 'Jhund' is about what?",
-      "options": [
-        "Slum children playing football",
-        "Village children studying",
-        "Cricket coaching in India",
-        "Olympic training camps"
-      ],
-      "correct_answer": "Slum children playing football"
-    },
-    {
-      "category": "Sports Round-Up",
-      "question": "What does PBL stand for?",
-      "options": [
-        "Premier Badminton League",
-        "Professional Basketball League",
-        "Pro Boxing League",
-        "Premier Baseball League"
-      ],
-      "correct_answer": "Premier Badminton League"
-    },
-    {
-      "category": "Sports Round-Up",
-      "question": "When was Premier Badminton League (PBL) started?",
-      "options": [
-        "2016",
-        "2012",
-        "2018",
-        "2014"
-      ],
-      "correct_answer": "2016"
-    },
-    {
-      "category": "Sports Round-Up",
-      "question": "How long is a marathon race?",
-      "options": [
-        "42.195 km",
-        "21.097 km",
-        "50 km",
-        "10 km"
-      ],
-      "correct_answer": "42.195 km"
-    },
-    {
-      "category": "Sports Round-Up",
-      "question": "Formula 1 is a famous event for which sport?",
-      "options": [
-        "Car racing",
-        "Bike racing",
-        "Horse racing",
-        "Boat racing"
-      ],
-      "correct_answer": "Car racing"
-    },
-    {
-      "category": "Sports Round-Up",
-      "question": "Who won medals in triple jump at CWG 2022?",
-      "options": [
-        "Eldhose Paul and Abdulla Aboobacker",
-        "Neeraj Chopra and Deepa Malik",
-        "Rafael Nadal and Ons Jabeur",
-        "Milkha Singh and PT Usha"
-      ],
-      "correct_answer": "Eldhose Paul and Abdulla Aboobacker"
-    },
-    {
-      "category": "Sports Round-Up",
-      "question": "Who won the Khel Ratna award for the javelin event?",
-      "options": [
-        "Deepa Malik",
-        "Neeraj Chopra",
-        "Anju George",
-        "Mary Kom"
-      ],
-      "correct_answer": "Deepa Malik"
-    },
-    {
-      "category": "Sports Round-Up",
-      "question": "Who won his 14th French Open title in 2022?",
-      "options": [
-        "Rafael Nadal",
-        "Roger Federer",
-        "Novak Djokovic",
-        "Carlos Alcaraz"
-      ],
-      "correct_answer": "Rafael Nadal"
-    },
-    {
-      "category": "Sports Round-Up",
-      "question": "Ons Jabeur is a famous female tennis player from which country?",
-      "options": [
-        "Tunisia",
-        "Spain",
-        "USA",
+        "America",
+        "Korea",
+        "Africa",
         "India"
       ],
-      "correct_answer": "Tunisia"
+      "correct_answer": "Korea, Explanation: Originally one country, Korea is now divided into North and South Korea"
     },
     {
-      "category": "Sports Round-Up",
-      "question": "What does a Grand Slam in tennis mean?",
+      "category": "Places in the News",
+      "question": "What is the smallest country in the world, which is ruled by the Pope?",
       "options": [
-        "Winning all four major tournaments",
-        "Winning an Olympic gold medal",
-        "Winning one international tournament",
-        "Winning three Wimbledon titles"
+        "Monaco",
+        "San Marino",
+        "Vatican City",
+        "Bhutan"
       ],
-      "correct_answer": "Winning all four major tournaments"
+      "correct_answer": "Vatican City, Explanation: Vatican City holds the title of the smallest country and is governed by the Pope"
     },
     {
-      "category": "Sports Round-Up",
-      "question": "Which are the four major tournaments of a tennis Grand Slam?",
+      "category": "Places in the News",
+      "question": "Which country bordering Pakistan has suffered through many wars?",
       "options": [
-        "Australian Open, French Open, Wimbledon, US Open",
-        "Davis Cup, French Open, Wimbledon, US Open",
-        "Olympics, French Open, US Open, Wimbledon",
-        "Australian Open, Davis Cup, Wimbledon, US Open"
+        "Afghanistan",
+        "China",
+        "Sri Lanka",
+        "France"
       ],
-      "correct_answer": "Australian Open, French Open, Wimbledon, US Open"
+      "correct_answer": "Afghanistan, Explanation: Afghanistan shares a border with Pakistan and has a history of conflict"
     },
     {
-      "category": "The Magic of Music",
-      "question": "Which type of percussion instruments produce specific notes?",
+      "category": "Places in the News",
+      "question": "King Jigme Khesar Namgyel Wangchuk is the ruler of which country?",
       "options": [
-        "Pitched percussion instruments",
-        "Unpitched percussion instruments",
-        "String instruments",
-        "Wind instruments"
+        "Thailand",
+        "Bhutan",
+        "Nepal",
+        "Cambodia"
       ],
-      "correct_answer": "Pitched percussion instruments"
+      "correct_answer": "Bhutan, Explanation: King Jigme Khesar Namgyel Wangchuk is the monarch of Bhutan"
     },
     {
-      "category": "The Magic of Music",
-      "question": "Which instruments are examples of pitched percussion?",
+      "category": "Places in the News",
+      "question": "Which is the largest country in Western Europe and home to Mont Blanc?",
       "options": [
-        "Xylophone, celeste, marimba",
-        "Cymbals, bass drum, triangle",
-        "Guitar, violin, sitar",
-        "Flute, trumpet, clarinet"
+        "Germany",
+        "Italy",
+        "France",
+        "Spain"
       ],
-      "correct_answer": "Xylophone, celeste, marimba"
+      "correct_answer": "France, Explanation: France is the largest Western European nation and contains the famous Mont Blanc"
     },
     {
-      "category": "The Magic of Music",
-      "question": "Which percussion instruments do not produce a specific pitch?",
+      "category": "Places in the News",
+      "question": "Which country was formerly known as Ceylon?",
       "options": [
-        "Unpitched percussion instruments",
-        "Pitched percussion instruments",
-        "String instruments",
-        "Wind instruments"
+        "Bangladesh",
+        "Sri Lanka",
+        "Bhutan",
+        "Afghanistan"
       ],
-      "correct_answer": "Unpitched percussion instruments"
+      "correct_answer": "Sri Lanka, Explanation: Sri Lanka is the current name of the island nation formerly called Ceylon"
     },
     {
-      "category": "The Magic of Music",
-      "question": "Who plays the sarod?",
+      "category": "Places in the News",
+      "question": "Which country officially renamed itself in 2022?",
       "options": [
-        "Amjad Ali Khan",
-        "Hari Prasad Chaurasia",
-        "Anoushka Shankar",
-        "Pandit Shiv Kumar Sharma"
+        "Türkiye",
+        "Korea",
+        "Vatican City",
+        "Afghanistan"
       ],
-      "correct_answer": "Amjad Ali Khan"
+      "correct_answer": "Türkiye, Explanation: The country formerly known as Turkey officially renamed itself Türkiye in 2022"
     },
     {
-      "category": "The Magic of Music",
-      "question": "Who is famous for playing the flute?",
+      "category": "Map Corrections",
+      "question": "What is the longest river in the world?",
       "options": [
-        "Hari Prasad Chaurasia",
-        "Amjad Ali Khan",
-        "Anoushka Shankar",
-        "Pandit Shiv Kumar Sharma"
+        "The Nile",
+        "The Amazon",
+        "The Yangtze",
+        "The Mississippi"
       ],
-      "correct_answer": "Hari Prasad Chaurasia"
+      "correct_answer": "The Nile, Explanation: The Nile is recognized as the world's longest river"
     },
     {
-      "category": "The Magic of Music",
-      "question": "Which musician plays the sitar?",
+      "category": "Map Corrections",
+      "question": "Which is the largest country in the world by land area?",
       "options": [
-        "Anoushka Shankar",
-        "Amjad Ali Khan",
-        "Hari Prasad Chaurasia",
-        "Pandit Shiv Kumar Sharma"
+        "China",
+        "USA",
+        "Russia",
+        "Canada"
       ],
-      "correct_answer": "Anoushka Shankar"
+      "correct_answer": "Russia, Explanation: Russia holds the record for being the largest country on Earth by land area"
     },
     {
-      "category": "The Magic of Music",
-      "question": "Pandit Shiv Kumar Sharma was famous for playing which instrument?",
+      "category": "Map Corrections",
+      "question": "Which continent is known as the 'Snow continent'?",
       "options": [
-        "Santoor",
-        "Flute",
-        "Sitar",
-        "Sarod"
+        "North America",
+        "Europe",
+        "Antarctica",
+        "Asia"
       ],
-      "correct_answer": "Santoor"
+      "correct_answer": "Antarctica, Explanation: Antarctica is commonly referred to as the 'Snow continent'"
     },
     {
-      "category": "The Magic of Music",
-      "question": "Pitched percussion instruments are also called what?",
+      "category": "Map Corrections",
+      "question": "What is the largest saltwater lake in the world?",
       "options": [
-        "Tuned instruments",
-        "Untuned instruments",
-        "Stringed instruments",
-        "Wind instruments"
+        "The Dead Sea",
+        "The Caspian Sea",
+        "Lake Superior",
+        "The Aral Sea"
       ],
-      "correct_answer": "Tuned instruments"
+      "correct_answer": "The Caspian Sea, Explanation: The Caspian Sea is the largest body of saltwater that is considered a lake"
     },
     {
-      "category": "The Magic of Music",
-      "question": "Unpitched percussion instruments produce what kind of sound?",
+      "category": "Map Corrections",
+      "question": "In which ocean is the deepest trench on Earth found?",
       "options": [
-        "Sound without a definite pitch",
-        "Sound with definite pitch",
-        "Melodic tunes",
-        "Vocal harmonies"
+        "The Atlantic Ocean",
+        "The Indian Ocean",
+        "The Pacific Ocean",
+        "The Arctic Ocean"
       ],
-      "correct_answer": "Sound without a definite pitch"
+      "correct_answer": "The Pacific Ocean, Explanation: The deepest trench in the world is located in the Pacific Ocean"
     },
     {
-      "category": "My India - States and Dances",
-      "question": "Which Indian state is known for Malayalam language and backwaters?",
+      "category": "Map Corrections",
+      "question": "Which is the largest island in the world?",
       "options": [
-        "Kerala",
-        "Assam",
-        "Bihar",
-        "Maharashtra"
+        "Australia",
+        "Greenland",
+        "Iceland",
+        "Madagascar"
       ],
-      "correct_answer": "Kerala"
+      "correct_answer": "Greenland, Explanation: Greenland is the largest island on Earth (Australia is classified as a continent)"
     },
     {
-      "category": "My India - States and Dances",
-      "question": "Bhupen Hazarika and Bihu are associated with which state?",
+      "category": "Map Corrections",
+      "question": "In which country can you find the dingo and the emu?",
       "options": [
-        "Assam",
-        "West Bengal",
+        "Africa",
+        "Brazil",
+        "Australia",
+        "India"
+      ],
+      "correct_answer": "Australia, Explanation: The dingo and emu are animals native to Australia"
+    },
+    {
+      "category": "Computers",
+      "question": "What is the function of a web browser?",
+      "options": [
+        "To store data permanently",
+        "To view websites",
+        "To create software programs",
+        "To connect hardware parts"
+      ],
+      "correct_answer": "To view websites, Explanation: A browser is a tool used specifically to view websites on the internet"
+    },
+    {
+      "category": "Computers",
+      "question": "What is a Hard Disk used for in a computer?",
+      "options": [
+        "To view websites",
+        "To store data",
+        "To connect networks",
+        "To protect against malware"
+      ],
+      "correct_answer": "To store data, Explanation: The Hard Disk is the primary component for storing data in a computer"
+    },
+    {
+      "category": "Computers",
+      "question": "What does 'Software' refer to?",
+      "options": [
+        "The physical parts of a computer",
+        "Computer programs",
+        "Cables and wires",
+        "The computer mouse and keyboard"
+      ],
+      "correct_answer": "Computer programs, Explanation: Software refers to the various programs that run on a computer"
+    },
+    {
+      "category": "Computers",
+      "question": "What does 'Hardware' refer to?",
+      "options": [
+        "Computer programs",
+        "Physical parts of the computer",
+        "The internet",
+        "Email services"
+      ],
+      "correct_answer": "Physical parts of the computer, Explanation: Hardware encompasses all the physical components of a computer system"
+    },
+    {
+      "category": "Computers",
+      "question": "What is the full form of 'Email'?",
+      "options": [
+        "Electric Mail",
+        "Electronic Mail",
+        "Easy Mail",
+        "Express Mail"
+      ],
+      "correct_answer": "Electronic Mail, Explanation: Email is short for Electronic Mail"
+    },
+    {
+      "category": "Computers",
+      "question": "What is a computer 'Network'?",
+      "options": [
+        "A single monitor",
+        "Connected systems",
+        "A type of harmful software",
+        "A search engine"
+      ],
+      "correct_answer": "Connected systems, Explanation: A network consists of multiple computer systems connected together"
+    },
+    {
+      "category": "Computers",
+      "question": "What is Google primarily known as?",
+      "options": [
+        "A browser",
+        "A search engine",
+        "Hardware",
+        "A network"
+      ],
+      "correct_answer": "A search engine, Explanation: Google is one of the world's most popular search engines"
+    },
+    {
+      "category": "Computers",
+      "question": "What is 'Malware'?",
+      "options": [
+        "Helpful software",
+        "Harmful software",
+        "A physical hard drive",
+        "A connected network"
+      ],
+      "correct_answer": "Harmful software, Explanation: Malware is software specifically designed to be harmful to systems"
+    },
+    {
+      "category": "Computers",
+      "question": "What does 'WWW' stand for?",
+      "options": [
+        "World Wide Web",
+        "Western Wide Web",
+        "Wild Wide Web",
+        "World Website Work"
+      ],
+      "correct_answer": "World Wide Web, Explanation: WWW stands for World Wide Web"
+    },
+    {
+      "category": "Capitals",
+      "question": "Berlin is the capital of which country?",
+      "options": [
+        "Italy",
+        "UK",
+        "Germany",
+        "USA"
+      ],
+      "correct_answer": "Germany, Explanation: Berlin serves as the capital city of Germany"
+    },
+    {
+      "category": "Capitals",
+      "question": "Which city is the capital of China?",
+      "options": [
+        "Shanghai",
+        "Beijing",
+        "Hong Kong",
+        "Taipei"
+      ],
+      "correct_answer": "Beijing, Explanation: Beijing is the capital city of China"
+    },
+    {
+      "category": "Capitals",
+      "question": "Rome is the capital of which country?",
+      "options": [
+        "France",
+        "Spain",
+        "Italy",
+        "Greece"
+      ],
+      "correct_answer": "Italy, Explanation: Rome is the capital city of Italy"
+    },
+    {
+      "category": "Capitals",
+      "question": "What is the capital of the USA?",
+      "options": [
+        "New York City",
+        "Washington, D.C.",
+        "Los Angeles",
+        "Chicago"
+      ],
+      "correct_answer": "Washington, D.C., Explanation: Washington, D.C. is the capital city of the United States of America"
+    },
+    {
+      "category": "Capitals",
+      "question": "London is the capital of which country?",
+      "options": [
+        "UK",
+        "USA",
+        "Germany",
+        "China"
+      ],
+      "correct_answer": "UK, Explanation: London is the capital city of the United Kingdom (UK)"
+    }, {
+      "category": "About Our Bodies",
+      "question": "Is the stapes the smallest bone in the human body?",
+      "options": [
+        "Yes",
+        "No, it is the femur",
+        "No, it is the humerus",
+        "No, it is the tibia"
+      ],
+      "correct_answer": "Yes, Explanation: The stapes, located in the middle ear, is the smallest bone in the human body"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "Is it possible for a human to sneeze with their eyes open?",
+      "options": [
+        "Yes, with practice",
+        "No",
+        "Only when looking at the sun",
+        "Only during a cold"
+      ],
+      "correct_answer": "No, Explanation: Sneezing triggers an automatic reflex that forces the eyes to close"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "What is the term for when a person gets the same illness again after a partial recovery?",
+      "options": [
+        "Recession",
+        "Relapse",
+        "Remission",
+        "Reflex"
+      ],
+      "correct_answer": "Relapse, Explanation: A relapse means the return of an illness after partial recovery"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "Which organ is responsible for pumping blood to all parts of the body?",
+      "options": [
+        "Lungs",
+        "Liver",
+        "Heart",
+        "Kidneys"
+      ],
+      "correct_answer": "Heart, Explanation: The heart pumps blood, while the lungs are responsible for exchanging oxygen and carbon dioxide"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "How many bones are found in each human hand?",
+      "options": [
+        "35 bones",
+        "27 bones",
+        "20 bones",
+        "15 bones"
+      ],
+      "correct_answer": "27 bones, Explanation: Each human hand consists of exactly 27 bones"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "What happens to your skin if you spend a long time in water?",
+      "options": [
+        "It turns blue",
+        "It becomes smoother",
+        "It wrinkles",
+        "It hardens"
+      ],
+      "correct_answer": "It wrinkles, Explanation: Water exposure affects skin nerves, which causes the skin to wrinkle"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "Can a person survive and live normally with only one kidney?",
+      "options": [
+        "Yes",
+        "No",
+        "Only for one year",
+        "Only with a strict liquid diet"
+      ],
+      "correct_answer": "Yes, Explanation: One healthy kidney is sufficient for a person to live a normal life"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "If a person is experiencing 'cardiac' problems, which organ is affected?",
+      "options": [
+        "The lungs",
+        "The brain",
+        "The heart",
+        "The stomach"
+      ],
+      "correct_answer": "The heart, Explanation: The term 'cardiac' specifically refers to the heart, not the lungs"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "What is the primary function of muscle fibers in the body?",
+      "options": [
+        "To produce blood cells",
+        "To shorten or lengthen to move body parts",
+        "To store oxygen",
+        "To protect internal organs from water"
+      ],
+      "correct_answer": "To shorten or lengthen to move body parts, Explanation: Muscles create movement by contracting (shortening) and relaxing"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "Besides the liver, which other major organ can alcohol significantly damage?",
+      "options": [
+        "The lungs",
+        "The heart",
+        "The skin",
+        "The bones"
+      ],
+      "correct_answer": "The heart, Explanation: While alcohol mainly targets the liver, it also harms the heart and overall health"
+    },
+    {
+      "category": "Super Scientists",
+      "question": "Who discovered gravity after seeing an apple fall from a tree?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Charles Babbage",
+        "Alfred Nobel"
+      ],
+      "correct_answer": "Isaac Newton, Explanation: Isaac Newton formulated the law of gravity following his observation of a falling apple"
+    },
+    {
+      "category": "Super Scientists",
+      "question": "Who founded Kodak and invented roll film?",
+      "options": [
+        "George Eastman",
+        "Heinrich Hertz",
+        "Charles Babbage",
+        "Alfred Nobel"
+      ],
+      "correct_answer": "George Eastman, Explanation: George Eastman popularized photography by making cameras lighter and inventing roll film"
+    },
+    {
+      "category": "Super Scientists",
+      "question": "Which physicist has the unit of frequency named after him?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "Heinrich Rudolf Hertz",
+        "Alfred Nobel"
+      ],
+      "correct_answer": "Heinrich Rudolf Hertz, Explanation: The 'Hertz', a unit of frequency, is named in honor of Heinrich Rudolf Hertz"
+    },
+    {
+      "category": "Super Scientists",
+      "question": "Who is known as the 'Father of Computers' for designing the Analytical Engine?",
+      "options": [
+        "George Eastman",
+        "Charles Babbage",
+        "Albert Einstein",
+        "Isaac Newton"
+      ],
+      "correct_answer": "Charles Babbage, Explanation: Charles Babbage is credited as the Father of Computers for his early computer design, the Analytical Engine"
+    },
+    {
+      "category": "Super Scientists",
+      "question": "Who invented dynamite and established the Nobel Prizes?",
+      "options": [
+        "Alfred Nobel",
+        "Heinrich Hertz",
+        "George Eastman",
+        "Isaac Newton"
+      ],
+      "correct_answer": "Alfred Nobel, Explanation: Alfred Nobel's wealth, largely from his invention of dynamite, funds the Nobel Awards"
+    },
+    {
+      "category": "Super Scientists",
+      "question": "Whose theories were essential for the development of modern space travel and computers?",
+      "options": [
+        "Isaac Newton",
+        "Albert Einstein",
+        "George Eastman",
+        "Charles Babbage"
+      ],
+      "correct_answer": "Albert Einstein, Explanation: Albert Einstein's theory of relativity was a cornerstone for modern physics, space travel, and computing"
+    },
+    {
+      "category": "Colour Sayings",
+      "question": "What does it mean to be 'in the pink of health'?",
+      "options": [
+        "To be embarrassed",
+        "To be very healthy",
+        "To have a fever",
+        "To be feeling cold"
+      ],
+      "correct_answer": "To be very healthy, Explanation: The color pink in this idiom represents a healthy glow"
+    },
+    {
+      "category": "Colour Sayings",
+      "question": "What is meant by the term 'blue-eyed boy'?",
+      "options": [
+        "A sad person",
+        "A favourite person",
+        "A person who is very young",
+        "A person who is talented at art"
+      ],
+      "correct_answer": "A favourite person, Explanation: A 'blue-eyed boy' is a common idiom used to describe someone who is a favorite"
+    },
+    {
+      "category": "Colour Sayings",
+      "question": "If someone is described as 'black and blue', what has happened to them?",
+      "options": [
+        "They are wearing a uniform",
+        "They are bruised badly",
+        "They are feeling very sad",
+        "They are very rich"
+      ],
+      "correct_answer": "They are bruised badly, Explanation: The idiom 'black and blue' refers to someone being badly bruised"
+    },
+    {
+      "category": "Colour Sayings",
+      "question": "What is a 'red-letter day'?",
+      "options": [
+        "A day for writing letters",
+        "A very special or important day",
+        "A day of danger",
+        "A holiday in the autumn"
+      ],
+      "correct_answer": "A very special or important day, Explanation: In old calendars, important dates were written in red ink"
+    },
+    {
+      "category": "Colour Sayings",
+      "question": "What is a 'black sheep' in a family?",
+      "options": [
+        "The oldest member",
+        "A person who brings shame to the family",
+        "The member who earns the most money",
+        "A person who loves nature"
+      ],
+      "correct_answer": "A person who brings shame to the family, Explanation: A 'black sheep' is an idiom for someone who brings shame or disgrace to their family"
+    },
+    {
+      "category": "Colour Sayings",
+      "question": "What does the idiom 'as white as a sheet' describe?",
+      "options": [
+        "Being very clean",
+        "Being extremely pale due to fear or shock",
+        "Being invisible in the snow",
+        "Being very calm"
+      ],
+      "correct_answer": "Being extremely pale due to fear or shock, Explanation: This phrase describes someone becoming extremely pale after a shock or scare"
+    },
+    {
+      "category": "Proverbs with Meanings",
+      "question": "What is the meaning of 'Actions speak louder than words'?",
+      "options": [
+        "Shouting is better than talking",
+        "What you do matters more than what you say",
+        "Quiet people are more successful",
+        "It is better to be a good listener"
+      ],
+      "correct_answer": "What you do matters more than what you say, Explanation: This proverb emphasizes that behavior is more important than empty talk"
+    },
+    {
+      "category": "Proverbs with Meanings",
+      "question": "What does 'Every cloud has a silver lining' mean?",
+      "options": [
+        "It will rain soon",
+        "Even bad situations have something good in them",
+        "Clouds are made of precious metals",
+        "One must always carry an umbrella"
+      ],
+      "correct_answer": "Even bad situations have something good in them, Explanation: This proverb encourages finding a positive aspect in every negative situation"
+    },
+    {
+      "category": "Proverbs with Meanings",
+      "question": "What is the lesson of 'The early bird catches the worm'?",
+      "options": [
+        "Birds like to eat early",
+        "People who act early succeed",
+        "Worms are only available in the morning",
+        "Success comes to those who sleep well"
+      ],
+      "correct_answer": "People who act early succeed, Explanation: This proverb teaches that taking prompt action leads to success"
+    },
+    {
+      "category": "Proverbs with Meanings",
+      "question": "What does 'Never judge a book by its cover' advise?",
+      "options": [
+        "Always read the back of a book",
+        "Don't judge by appearance",
+        "Only buy books with beautiful covers",
+        "Books are more important than appearances"
+      ],
+      "correct_answer": "Don't judge by appearance, Explanation: This proverb warns against forming an opinion based solely on outward looks"
+    },
+    {
+      "category": "Proverbs with Meanings",
+      "question": "What is meant by 'Charity begins at home'?",
+      "options": [
+        "Don't give money to strangers",
+        "Take care of your family first",
+        "Build a house before helping others",
+        "Charity should only happen inside a house"
+      ],
+      "correct_answer": "Take care of your family first, Explanation: This proverb suggests that one's first responsibility is to their own family and kin"
+    },
+    {
+      "category": "Proverbs with Meanings",
+      "question": "What does 'A stitch in time saves nine' mean?",
+      "options": [
+        "Sewing is a valuable skill",
+        "Fix small problems early to avoid bigger ones later",
+        "Working fast saves time",
+        "Nine stitches are better than one"
+      ],
+      "correct_answer": "Fix small problems early to avoid bigger ones later, Explanation: This proverb means that timely maintenance prevents larger problems in the future"
+    },
+    {
+      "category": "Places in the News",
+      "question": "Which country shares the waters of the Teesta river with India?",
+      "options": [
+        "Pakistan",
+        "China",
+        "Bangladesh",
+        "Nepal"
+      ],
+      "correct_answer": "Bangladesh, Explanation: The Teesta river flows through both India and Bangladesh"
+    },
+    {
+      "category": "Places in the News",
+      "question": "Which region is famously divided into 'North' and 'South' parts?",
+      "options": [
+        "America",
+        "Korea",
+        "Africa",
+        "India"
+      ],
+      "correct_answer": "Korea, Explanation: Originally one country, Korea is now divided into North and South Korea"
+    },
+    {
+      "category": "Places in the News",
+      "question": "What is the smallest country in the world, which is ruled by the Pope?",
+      "options": [
+        "Monaco",
+        "San Marino",
+        "Vatican City",
+        "Bhutan"
+      ],
+      "correct_answer": "Vatican City, Explanation: Vatican City holds the title of the smallest country and is governed by the Pope"
+    },
+    {
+      "category": "Places in the News",
+      "question": "Which country bordering Pakistan has suffered through many wars?",
+      "options": [
+        "Afghanistan",
+        "China",
+        "Sri Lanka",
+        "France"
+      ],
+      "correct_answer": "Afghanistan, Explanation: Afghanistan shares a border with Pakistan and has a history of conflict"
+    },
+    {
+      "category": "Places in the News",
+      "question": "King Jigme Khesar Namgyel Wangchuk is the ruler of which country?",
+      "options": [
+        "Thailand",
+        "Bhutan",
+        "Nepal",
+        "Cambodia"
+      ],
+      "correct_answer": "Bhutan, Explanation: King Jigme Khesar Namgyel Wangchuk is the monarch of Bhutan"
+    },
+    {
+      "category": "Places in the News",
+      "question": "Which is the largest country in Western Europe and home to Mont Blanc?",
+      "options": [
+        "Germany",
+        "Italy",
+        "France",
+        "Spain"
+      ],
+      "correct_answer": "France, Explanation: France is the largest Western European nation and contains the famous Mont Blanc"
+    },
+    {
+      "category": "Places in the News",
+      "question": "Which country was formerly known as Ceylon?",
+      "options": [
+        "Bangladesh",
+        "Sri Lanka",
+        "Bhutan",
+        "Afghanistan"
+      ],
+      "correct_answer": "Sri Lanka, Explanation: Sri Lanka is the current name of the island nation formerly called Ceylon"
+    },
+    {
+      "category": "Places in the News",
+      "question": "Which country officially renamed itself in 2022?",
+      "options": [
+        "Türkiye",
+        "Korea",
+        "Vatican City",
+        "Afghanistan"
+      ],
+      "correct_answer": "Türkiye, Explanation: The country formerly known as Turkey officially renamed itself Türkiye in 2022"
+    },
+    {
+      "category": "Map Corrections",
+      "question": "What is the longest river in the world?",
+      "options": [
+        "The Nile",
+        "The Amazon",
+        "The Yangtze",
+        "The Mississippi"
+      ],
+      "correct_answer": "The Nile, Explanation: The Nile is recognized as the world's longest river"
+    },
+    {
+      "category": "Map Corrections",
+      "question": "Which is the largest country in the world by land area?",
+      "options": [
+        "China",
+        "USA",
+        "Russia",
+        "Canada"
+      ],
+      "correct_answer": "Russia, Explanation: Russia holds the record for being the largest country on Earth by land area"
+    },
+    {
+      "category": "Map Corrections",
+      "question": "Which continent is known as the 'Snow continent'?",
+      "options": [
+        "North America",
+        "Europe",
+        "Antarctica",
+        "Asia"
+      ],
+      "correct_answer": "Antarctica, Explanation: Antarctica is commonly referred to as the 'Snow continent'"
+    },
+    {
+      "category": "Map Corrections",
+      "question": "What is the largest saltwater lake in the world?",
+      "options": [
+        "The Dead Sea",
+        "The Caspian Sea",
+        "Lake Superior",
+        "The Aral Sea"
+      ],
+      "correct_answer": "The Caspian Sea, Explanation: The Caspian Sea is the largest body of saltwater that is considered a lake"
+    },
+    {
+      "category": "Map Corrections",
+      "question": "In which ocean is the deepest trench on Earth found?",
+      "options": [
+        "The Atlantic Ocean",
+        "The Indian Ocean",
+        "The Pacific Ocean",
+        "The Arctic Ocean"
+      ],
+      "correct_answer": "The Pacific Ocean, Explanation: The deepest trench in the world is located in the Pacific Ocean"
+    },
+    {
+      "category": "Map Corrections",
+      "question": "Which is the largest island in the world?",
+      "options": [
+        "Australia",
+        "Greenland",
+        "Iceland",
+        "Madagascar"
+      ],
+      "correct_answer": "Greenland, Explanation: Greenland is the largest island on Earth (Australia is classified as a continent)"
+    },
+    {
+      "category": "Map Corrections",
+      "question": "In which country can you find the dingo and the emu?",
+      "options": [
+        "Africa",
+        "Brazil",
+        "Australia",
+        "India"
+      ],
+      "correct_answer": "Australia, Explanation: The dingo and emu are animals native to Australia"
+    },
+    {
+      "category": "Computers",
+      "question": "What is the function of a web browser?",
+      "options": [
+        "To store data permanently",
+        "To view websites",
+        "To create software programs",
+        "To connect hardware parts"
+      ],
+      "correct_answer": "To view websites, Explanation: A browser is a tool used specifically to view websites on the internet"
+    },
+    {
+      "category": "Computers",
+      "question": "What is a Hard Disk used for in a computer?",
+      "options": [
+        "To view websites",
+        "To store data",
+        "To connect networks",
+        "To protect against malware"
+      ],
+      "correct_answer": "To store data, Explanation: The Hard Disk is the primary component for storing data in a computer"
+    },
+    {
+      "category": "Computers",
+      "question": "What does 'Software' refer to?",
+      "options": [
+        "The physical parts of a computer",
+        "Computer programs",
+        "Cables and wires",
+        "The computer mouse and keyboard"
+      ],
+      "correct_answer": "Computer programs, Explanation: Software refers to the various programs that run on a computer"
+    },
+    {
+      "category": "Computers",
+      "question": "What does 'Hardware' refer to?",
+      "options": [
+        "Computer programs",
+        "Physical parts of the computer",
+        "The internet",
+        "Email services"
+      ],
+      "correct_answer": "Physical parts of the computer, Explanation: Hardware encompasses all the physical components of a computer system"
+    },
+    {
+      "category": "Computers",
+      "question": "What is the full form of 'Email'?",
+      "options": [
+        "Electric Mail",
+        "Electronic Mail",
+        "Easy Mail",
+        "Express Mail"
+      ],
+      "correct_answer": "Electronic Mail, Explanation: Email is short for Electronic Mail"
+    },
+    {
+      "category": "Computers",
+      "question": "What is a computer 'Network'?",
+      "options": [
+        "A single monitor",
+        "Connected systems",
+        "A type of harmful software",
+        "A search engine"
+      ],
+      "correct_answer": "Connected systems, Explanation: A network consists of multiple computer systems connected together"
+    },
+    {
+      "category": "Computers",
+      "question": "What is Google primarily known as?",
+      "options": [
+        "A browser",
+        "A search engine",
+        "Hardware",
+        "A network"
+      ],
+      "correct_answer": "A search engine, Explanation: Google is one of the world's most popular search engines"
+    },
+    {
+      "category": "Computers",
+      "question": "What is 'Malware'?",
+      "options": [
+        "Helpful software",
+        "Harmful software",
+        "A physical hard drive",
+        "A connected network"
+      ],
+      "correct_answer": "Harmful software, Explanation: Malware is software specifically designed to be harmful to systems"
+    },
+    {
+      "category": "Computers",
+      "question": "What does 'WWW' stand for?",
+      "options": [
+        "World Wide Web",
+        "Western Wide Web",
+        "Wild Wide Web",
+        "World Website Work"
+      ],
+      "correct_answer": "World Wide Web, Explanation: WWW stands for World Wide Web"
+    },
+    {
+      "category": "Capitals",
+      "question": "Berlin is the capital of which country?",
+      "options": [
+        "Italy",
+        "UK",
+        "Germany",
+        "USA"
+      ],
+      "correct_answer": "Germany, Explanation: Berlin serves as the capital city of Germany"
+    },
+    {
+      "category": "Capitals",
+      "question": "Which city is the capital of China?",
+      "options": [
+        "Shanghai",
+        "Beijing",
+        "Hong Kong",
+        "Taipei"
+      ],
+      "correct_answer": "Beijing, Explanation: Beijing is the capital city of China"
+    },
+    {
+      "category": "Capitals",
+      "question": "Rome is the capital of which country?",
+      "options": [
+        "France",
+        "Spain",
+        "Italy",
+        "Greece"
+      ],
+      "correct_answer": "Italy, Explanation: Rome is the capital city of Italy"
+    },
+    {
+      "category": "Capitals",
+      "question": "What is the capital of the USA?",
+      "options": [
+        "New York City",
+        "Washington, D.C.",
+        "Los Angeles",
+        "Chicago"
+      ],
+      "correct_answer": "Washington, D.C., Explanation: Washington, D.C. is the capital city of the United States of America"
+    },
+    {
+      "category": "Capitals",
+      "question": "London is the capital of which country?",
+      "options": [
+        "UK",
+        "USA",
+        "Germany",
+        "China"
+      ],
+      "correct_answer": "UK, Explanation: London is the capital city of the United Kingdom (UK)"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "Is the stapes (middle-ear bone) the smallest bone in your body?",
+      "options": [
+        "Yes",
+        "No, the femur is",
+        "No, the skull is",
+        "No, the ribs are"
+      ],
+      "correct_answer": "Yes, Explanation: The stapes, located in the middle ear, is the smallest bone in the human body"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "Is it possible to sneeze with your eyes open?",
+      "options": [
+        "Yes, with practice",
+        "No",
+        "Only when looking at the sun",
+        "Only during a cold"
+      ],
+      "correct_answer": "No, Explanation: Sneezing triggers an automatic reflex that forces the eyes to close"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "When we get the same illness again after recovering, is it called a 'relapse'?",
+      "options": [
+        "Yes",
+        "No, it's a recovery",
+        "No, it's a reflex",
+        "No, it's a remission"
+      ],
+      "correct_answer": "Yes, Explanation: A relapse means the return of an illness after partial recovery"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "Do your lungs pump blood to all parts of your body?",
+      "options": [
+        "Yes, they do",
+        "No, the heart does",
+        "Only when exercising",
+        "Only at night"
+      ],
+      "correct_answer": "No, Explanation: The heart pumps blood. The lungs only exchange oxygen and carbon dioxide"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "Does each hand have as many as 35 bones?",
+      "options": [
+        "Yes",
+        "No, it has 27",
+        "No, it has 20",
+        "No, it has 15"
+      ],
+      "correct_answer": "No, Explanation: Each hand has 27 bones"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "Does your skin wrinkle if you spend a long time in water?",
+      "options": [
+        "Yes",
+        "No, it becomes smooth",
+        "Only in cold water",
+        "Only in old age"
+      ],
+      "correct_answer": "Yes, Explanation: Water exposure affects skin nerves, causing wrinkling"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "Can a person survive on one kidney?",
+      "options": [
+        "Yes",
+        "No, they need both",
+        "Only for a few months",
+        "Only if they are a child"
+      ],
+      "correct_answer": "Yes, Explanation: One healthy kidney is enough to live normally"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "If you have cardiac problems, would your lungs be giving trouble?",
+      "options": [
+        "Yes, they are connected",
+        "No, cardiac refers to the heart",
+        "Only if both are infected",
+        "Only during sleep"
+      ],
+      "correct_answer": "No, Explanation: Cardiac refers to the heart"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "Are muscles fibres that shorten or lengthen to move body parts?",
+      "options": [
+        "Yes",
+        "No, they are fixed",
+        "Only in athletes",
+        "Only when we exercise"
+      ],
+      "correct_answer": "Yes, Explanation: Muscles contract (shorten) and relax to create movement"
+    },
+    {
+      "category": "About Our Bodies",
+      "question": "Does alcohol damage lungs and heart?",
+      "options": [
+        "Yes, both",
+        "No, only the liver",
+        "Only the lungs",
+        "Only the heart"
+      ],
+      "correct_answer": "Yes, Explanation: Alcohol mainly damages the liver but also harms the heart and overall health"
+    },
+    {
+      "category": "Super Scientists",
+      "question": "Who discovered gravity after observing a falling apple?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Charles Babbage",
+        "Alfred Nobel"
+      ],
+      "correct_answer": "Isaac Newton, Explanation: He formulated the law of gravity"
+    },
+    {
+      "category": "Super Scientists",
+      "question": "Who invented roll film and founded Kodak?",
+      "options": [
+        "George Eastman",
+        "Heinrich Hertz",
+        "Isaac Newton",
+        "Albert Einstein"
+      ],
+      "correct_answer": "George Eastman, Explanation: He made cameras lighter and popularised photography"
+    },
+    {
+      "category": "Super Scientists",
+      "question": "Which German physicist has the unit 'Hertz' named after him?",
+      "options": [
+        "Heinrich Rudolf Hertz",
+        "Albert Einstein",
+        "Isaac Newton",
+        "Alfred Nobel"
+      ],
+      "correct_answer": "Heinrich Rudolf Hertz, Explanation: The unit of frequency is named in his honour"
+    },
+    {
+      "category": "Super Scientists",
+      "question": "Who designed the Analytical Engine (early computer)?",
+      "options": [
+        "Charles Babbage",
+        "George Eastman",
+        "Albert Einstein",
+        "Isaac Newton"
+      ],
+      "correct_answer": "Charles Babbage, Explanation: He is called the Father of Computers"
+    },
+    {
+      "category": "Super Scientists",
+      "question": "Who invented dynamite and started the Nobel Prizes?",
+      "options": [
+        "Alfred Nobel",
+        "Heinrich Hertz",
+        "George Eastman",
+        "Isaac Newton"
+      ],
+      "correct_answer": "Alfred Nobel, Explanation: His wealth funds Nobel Awards"
+    },
+    {
+      "category": "Super Scientists",
+      "question": "Who developed theories essential for space travel and computers?",
+      "options": [
+        "Albert Einstein",
+        "Isaac Newton",
+        "Heinrich Hertz",
+        "Charles Babbage"
+      ],
+      "correct_answer": "Albert Einstein, Explanation: His theory of relativity changed modern physics"
+    },
+    {
+      "category": "Colour Sayings",
+      "question": "What does 'in the pink of health' mean?",
+      "options": [
+        "Very healthy",
+        "Very sick",
+        "Embarrassed",
+        "Tired"
+      ],
+      "correct_answer": "Very healthy, Explanation: Pink represents a healthy glow"
+    },
+    {
+      "category": "Colour Sayings",
+      "question": "What does 'blue-eyed boy' mean?",
+      "options": [
+        "A favourite person",
+        "A sad person",
+        "A person with blue eyes",
+        "A young child"
+      ],
+      "correct_answer": "A favourite person, Explanation: It is an idiom for someone who is a favorite"
+    },
+    {
+      "category": "Colour Sayings",
+      "question": "What does 'black and blue' mean?",
+      "options": [
+        "Bruised badly",
+        "Wearing dark clothes",
+        "Feeling sad",
+        "Very angry"
+      ],
+      "correct_answer": "Bruised badly, Explanation: It refers to someone being badly bruised"
+    },
+    {
+      "category": "Colour Sayings",
+      "question": "What does 'red-letter day' mean?",
+      "options": [
+        "A very special or important day",
+        "A day for writing letters",
+        "A dangerous day",
+        "A holiday"
+      ],
+      "correct_answer": "A very special or important day, Explanation: Important dates were written in red ink in old calendars"
+    },
+    {
+      "category": "Colour Sayings",
+      "question": "What does 'black sheep' mean?",
+      "options": [
+        "A person who brings shame to a family",
+        "A person who is successful",
+        "A person who loves animals",
+        "The oldest sibling"
+      ],
+      "correct_answer": "A person who brings shame to a family, Explanation: It is an idiom for someone who brings disgrace"
+    },
+    {
+      "category": "Colour Sayings",
+      "question": "What does 'as white as a sheet' mean?",
+      "options": [
+        "Extremely pale due to fear or shock",
+        "Very clean",
+        "Very sleepy",
+        "Invisible"
+      ],
+      "correct_answer": "Extremely pale due to fear or shock, Explanation: This phrase describes someone becoming pale after a shock"
+    },
+    {
+      "category": "Proverbs with Meanings",
+      "question": "What is the meaning of 'Actions speak louder than words'?",
+      "options": [
+        "What you do matters more than what you say",
+        "Talking is more important",
+        "Shouting helps",
+        "Quiet people are lazy"
+      ],
+      "correct_answer": "What you do matters more than what you say, Explanation: Behavior is more important than empty talk"
+    },
+    {
+      "category": "Proverbs with Meanings",
+      "question": "What is the meaning of 'Every cloud has a silver lining'?",
+      "options": [
+        "Even bad situations have something good in them",
+        "It will rain soon",
+        "Clouds are made of metal",
+        "Always carry an umbrella"
+      ],
+      "correct_answer": "Even bad situations have something good in them, Explanation: Find a positive aspect in every negative situation"
+    },
+    {
+      "category": "Proverbs with Meanings",
+      "question": "What is the meaning of 'The early bird catches the worm'?",
+      "options": [
+        "People who act early succeed",
+        "Birds like to eat early",
+        "Worms are only available in the morning",
+        "Success comes to those who sleep late"
+      ],
+      "correct_answer": "People who act early succeed, Explanation: Taking prompt action leads to success"
+    },
+    {
+      "category": "Proverbs with Meanings",
+      "question": "What is the meaning of 'Never judge a book by its cover'?",
+      "options": [
+        "Don't judge by appearance",
+        "Read the back of a book",
+        "Only buy books with pretty covers",
+        "Books are better than movies"
+      ],
+      "correct_answer": "Don't judge by appearance, Explanation: Warns against forming an opinion based on outward looks"
+    },
+    {
+      "category": "Proverbs with Meanings",
+      "question": "What is the meaning of 'Charity begins at home'?",
+      "options": [
+        "Take care of your family first",
+        "Don't give money to strangers",
+        "Stay at home",
+        "Building houses is a good deed"
+      ],
+      "correct_answer": "Take care of your family first, Explanation: One's first responsibility is to their own family"
+    },
+    {
+      "category": "Proverbs with Meanings",
+      "question": "What is the meaning of 'A stitch in time saves nine'?",
+      "options": [
+        "Fix small problems early to avoid bigger ones later",
+        "Sewing is a useful skill",
+        "Nine stitches are better than one",
+        "Working fast saves time"
+      ],
+      "correct_answer": "Fix small problems early to avoid bigger ones later, Explanation: Timely maintenance prevents larger problems"
+    },
+    {
+      "category": "Places in the News",
+      "question": "Which country shares Teesta river waters with India?",
+      "options": [
+        "Bangladesh",
+        "Pakistan",
+        "China",
+        "Nepal"
+      ],
+      "correct_answer": "Bangladesh, Explanation: The Teesta flows through both countries"
+    },
+    {
+      "category": "Places in the News",
+      "question": "North and South ______?",
+      "options": [
+        "Korea",
+        "America",
+        "Africa",
+        "India"
+      ],
+      "correct_answer": "Korea, Explanation: Originally one country, now divided"
+    },
+    {
+      "category": "Places in the News",
+      "question": "Which is the smallest country ruled by the Pope?",
+      "options": [
+        "Vatican City",
+        "Monaco",
+        "San Marino",
+        "Bhutan"
+      ],
+      "correct_answer": "Vatican City, Explanation: It is the smallest country and governed by the Pope"
+    },
+    {
+      "category": "Places in the News",
+      "question": "Which country borders Pakistan and has suffered wars?",
+      "options": [
+        "Afghanistan",
+        "China",
+        "Sri Lanka",
+        "France"
+      ],
+      "correct_answer": "Afghanistan, Explanation: It shares a border with Pakistan and has a history of conflict"
+    },
+    {
+      "category": "Places in the News",
+      "question": "King Jigme Khesar Namgyel Wangchuk rules which country?",
+      "options": [
+        "Bhutan",
+        "Thailand",
+        "Nepal",
+        "Japan"
+      ],
+      "correct_answer": "Bhutan, Explanation: He is the monarch of Bhutan"
+    },
+    {
+      "category": "Places in the News",
+      "question": "Largest country in Western Europe with Mont Blanc?",
+      "options": [
+        "France",
+        "Germany",
+        "Italy",
+        "Spain"
+      ],
+      "correct_answer": "France, Explanation: It is the largest Western European nation and contains Mont Blanc"
+    },
+    {
+      "category": "Places in the News",
+      "question": "Formerly Ceylon?",
+      "options": [
+        "Sri Lanka",
+        "India",
+        "Bangladesh",
+        "Bhutan"
+      ],
+      "correct_answer": "Sri Lanka, Explanation: Sri Lanka was formerly known as Ceylon"
+    },
+    {
+      "category": "Places in the News",
+      "question": "Renamed in 2022?",
+      "options": [
+        "Türkiye",
+        "Korea",
+        "Vatican City",
+        "Afghanistan"
+      ],
+      "correct_answer": "Türkiye, Explanation: The country formerly known as Turkey renamed itself Türkiye in 2022"
+    },
+    {
+      "category": "Map Corrections",
+      "question": "Longest river?",
+      "options": [
+        "Nile",
+        "Amazon",
+        "Ganges",
+        "Mississippi"
+      ],
+      "correct_answer": "Nile, Explanation: The Nile is the world's longest river"
+    },
+    {
+      "category": "Map Corrections",
+      "question": "Largest country by land area?",
+      "options": [
+        "Russia",
+        "China",
+        "USA",
+        "Canada"
+      ],
+      "correct_answer": "Russia, Explanation: Russia is the largest country on Earth"
+    },
+    {
+      "category": "Map Corrections",
+      "question": "Snow continent?",
+      "options": [
+        "Antarctica",
+        "Asia",
+        "Europe",
+        "North America"
+      ],
+      "correct_answer": "Antarctica, Explanation: Antarctica is known as the 'Snow continent'"
+    },
+    {
+      "category": "Map Corrections",
+      "question": "Largest saltwater lake?",
+      "options": [
+        "Caspian Sea",
+        "Dead Sea",
+        "Lake Superior",
+        "Aral Sea"
+      ],
+      "correct_answer": "Caspian Sea, Explanation: It is the largest saltwater lake"
+    },
+    {
+      "category": "Map Corrections",
+      "question": "Deepest trench?",
+      "options": [
+        "Pacific Ocean",
+        "Atlantic Ocean",
+        "Indian Ocean",
+        "Arctic Ocean"
+      ],
+      "correct_answer": "Pacific Ocean, Explanation: The deepest trench is in the Pacific"
+    },
+    {
+      "category": "Map Corrections",
+      "question": "Largest island?",
+      "options": [
+        "Greenland",
+        "Australia",
+        "Iceland",
+        "Madagascar"
+      ],
+      "correct_answer": "Greenland, Explanation: Greenland is the largest island (Australia is a continent)"
+    },
+    {
+      "category": "Map Corrections",
+      "question": "Dingo & emu?",
+      "options": [
+        "Australia",
+        "Africa",
+        "India",
+        "Brazil"
+      ],
+      "correct_answer": "Australia, Explanation: These animals are native to Australia"
+    },
+    {
+      "category": "Computers",
+      "question": "Browser – ?",
+      "options": [
+        "views websites",
+        "stores data",
+        "creates programs",
+        "connects hardware"
+      ],
+      "correct_answer": "views websites, Explanation: A browser is used to view websites"
+    },
+    {
+      "category": "Computers",
+      "question": "Hard Disk – ?",
+      "options": [
+        "stores data",
+        "views websites",
+        "connects networks",
+        "protects from malware"
+      ],
+      "correct_answer": "stores data, Explanation: The Hard Disk stores data"
+    },
+    {
+      "category": "Computers",
+      "question": "Software – ?",
+      "options": [
+        "programs",
+        "physical parts",
+        "cables",
+        "mouse and keyboard"
+      ],
+      "correct_answer": "programs, Explanation: Software refers to computer programs"
+    },
+    {
+      "category": "Computers",
+      "question": "Hardware – ?",
+      "options": [
+        "physical parts",
+        "programs",
+        "internet",
+        "email"
+      ],
+      "correct_answer": "physical parts, Explanation: Hardware is the physical components"
+    },
+    {
+      "category": "Computers",
+      "question": "Email – ?",
+      "options": [
+        "electronic mail",
+        "electric mail",
+        "easy mail",
+        "express mail"
+      ],
+      "correct_answer": "electronic mail, Explanation: Email is short for Electronic Mail"
+    },
+    {
+      "category": "Computers",
+      "question": "Network – ?",
+      "options": [
+        "connected systems",
+        "single computer",
+        "harmful software",
+        "search engine"
+      ],
+      "correct_answer": "connected systems, Explanation: A network connects multiple systems"
+    },
+    {
+      "category": "Computers",
+      "question": "Google – ?",
+      "options": [
+        "search engine",
+        "browser",
+        "hardware",
+        "network"
+      ],
+      "correct_answer": "search engine, Explanation: Google is a popular search engine"
+    },
+    {
+      "category": "Computers",
+      "question": "Malware – ?",
+      "options": [
+        "harmful software",
+        "helpful software",
+        "hard drive",
+        "network"
+      ],
+      "correct_answer": "harmful software, Explanation: Malware is software designed to be harmful"
+    },
+    {
+      "category": "Computers",
+      "question": "WWW – ?",
+      "options": [
+        "World Wide Web",
+        "Western Wide Web",
+        "Wild Wide Web",
+        "World Website Work"
+      ],
+      "correct_answer": "World Wide Web, Explanation: WWW stands for World Wide Web"
+    },
+    {
+      "category": "Capitals",
+      "question": "Berlin – ?",
+      "options": [
+        "Germany",
+        "Italy",
+        "UK",
+        "USA"
+      ],
+      "correct_answer": "Germany, Explanation: Berlin is the capital of Germany"
+    },
+    {
+      "category": "Capitals",
+      "question": "Beijing – ?",
+      "options": [
+        "China",
+        "Japan",
+        "India",
+        "Korea"
+      ],
+      "correct_answer": "China, Explanation: Beijing is the capital of China"
+    },
+    {
+      "category": "Capitals",
+      "question": "Rome – ?",
+      "options": [
+        "Italy",
+        "France",
+        "Spain",
+        "Greece"
+      ],
+      "correct_answer": "Italy, Explanation: Rome is the capital of Italy"
+    },
+    {
+      "category": "Capitals",
+      "question": "Washington, D.C. – ?",
+      "options": [
+        "USA",
+        "UK",
+        "Canada",
+        "Mexico"
+      ],
+      "correct_answer": "USA, Explanation: Washington, D.C. is the capital of the USA"
+    },
+    {
+      "category": "Capitals",
+      "question": "London – ?",
+      "options": [
+        "UK",
+        "USA",
+        "Germany",
+        "China"
+      ],
+      "correct_answer": "UK, Explanation: London is the capital of the UK"
+    },
+    {
+      "category": "Famous People Nicknames",
+      "question": "Who is known as the 'Wizard of Hockey'?",
+      "options": [
+        "Dhyan Chand",
+        "Milkha Singh",
+        "Kapil Dev",
+        "Sachin Tendulkar"
+      ],
+      "correct_answer": "Dhyan Chand, Explanation: Dhyan Chand was given this nickname for his extraordinary hockey skills"
+    },
+    {
+      "category": "Famous People Nicknames",
+      "question": "Who was called 'Lokmanya'?",
+      "options": [
+        "Bal Gangadhar Tilak",
+        "Mahatma Gandhi",
+        "Jawaharlal Nehru",
+        "Subhas Chandra Bose"
+      ],
+      "correct_answer": "Bal Gangadhar Tilak, Explanation: Tilak was honored with the title Lokmanya"
+    },
+    {
+      "category": "Famous People Nicknames",
+      "question": "Who is known as the 'Nightingale of India'?",
+      "options": [
+        "Sarojini Naidu",
+        "Lata Mangeshkar",
+        "Indira Gandhi",
+        "Mother Teresa"
+      ],
+      "correct_answer": "Sarojini Naidu, Explanation: Sarojini Naidu was called the Nightingale of India for her poetry"
+    },
+    {
+      "category": "Famous People Nicknames",
+      "question": "Who is the 'Haryana Hurricane'?",
+      "options": [
+        "Kapil Dev",
+        "Dhyan Chand",
+        "Milkha Singh",
+        "Virat Kohli"
+      ],
+      "correct_answer": "Kapil Dev, Explanation: Kapil Dev was nicknamed Haryana Hurricane for his aggressive cricket"
+    },
+    {
+      "category": "Famous People Nicknames",
+      "question": "Who is the 'Flying Sikh'?",
+      "options": [
+        "Milkha Singh",
+        "Dhyan Chand",
+        "Kapil Dev",
+        "Sachin Tendulkar"
+      ],
+      "correct_answer": "Milkha Singh, Explanation: Milkha Singh was called the Flying Sikh for his speed"
+    },
+    {
+      "category": "Famous People Nicknames",
+      "question": "Who was known as 'Rajaji'?",
+      "options": [
+        "C. Rajagopalachari",
+        "Rajendra Prasad",
+        "Rajiv Gandhi",
+        "Raja Ram Mohan Roy"
+      ],
+      "correct_answer": "C. Rajagopalachari, Explanation: C. Rajagopalachari was popularly called Rajaji"
+    },
+    {
+      "category": "Famous People Nicknames",
+      "question": "Who is 'Swar Kokila' (the Cuckoo of Melody)?",
+      "options": [
+        "Lata Mangeshkar",
+        "Sarojini Naidu",
+        "Asha Bhosle",
+        "M.S. Subbulakshmi"
+      ],
+      "correct_answer": "Lata Mangeshkar, Explanation: Lata Mangeshkar was given this title for her melodious voice"
+    },
+    {
+      "category": "Famous People Nicknames",
+      "question": "Narendranath Dutta was known as?",
+      "options": [
+        "Swami Vivekananda",
+        "Ramakrishna Paramahamsa",
+        "Swami Dayananda",
+        "Swami Chinmayananda"
+      ],
+      "correct_answer": "Swami Vivekananda, Explanation: He took the name Swami Vivekananda after becoming a monk"
+    },
+    {
+      "category": "Famous People Nicknames",
+      "question": "Anjezë Gonxhe Bojaxhiu was known as?",
+      "options": [
+        "Mother Teresa",
+        "Sister Nivedita",
+        "Florence Nightingale",
+        "Sarojini Naidu"
+      ],
+      "correct_answer": "Mother Teresa, Explanation: She dedicated her life to serving the poor and was known as Mother Teresa"
+    },
+    {
+      "category": "Famous Families",
+      "question": "Varun Dhawan's father is which film director?",
+      "options": [
+        "David Dhawan",
+        "Rohit Dhawan",
+        "Anil Dhawan",
+        "Sanjay Dhawan"
+      ],
+      "correct_answer": "David Dhawan, Explanation: David Dhawan is a famous film director and father of Varun Dhawan"
+    },
+    {
+      "category": "Famous Families",
+      "question": "Deepika Padukone's father, Prakash Padukone, was a famous player in which sport?",
+      "options": [
+        "Badminton",
+        "Cricket",
+        "Tennis",
+        "Chess"
+      ],
+      "correct_answer": "Badminton, Explanation: Prakash Padukone is a legendary badminton player"
+    },
+    {
+      "category": "Famous Families",
+      "question": "Which famous flautist is the father of Rakesh Chaurasia?",
+      "options": [
+        "Hariprasad Chaurasia",
+        "Ravi Shankar",
+        "Zakir Hussain",
+        "Shivkumar Sharma"
+      ],
+      "correct_answer": "Hariprasad Chaurasia, Explanation: Hariprasad Chaurasia is a renowned flautist and his son Rakesh also plays flute"
+    },
+    {
+      "category": "Famous Families",
+      "question": "Saif Ali Khan and Soha Ali Khan are children of which cricketer?",
+      "options": [
+        "Mansoor Ali Khan Pataudi",
+        "Sachin Tendulkar",
+        "Kapil Dev",
+        "Sunil Gavaskar"
+      ],
+      "correct_answer": "Mansoor Ali Khan Pataudi, Explanation: Their father was the former Indian cricket captain"
+    },
+    {
+      "category": "Famous Families",
+      "question": "Mukesh Ambani is the son of which business tycoon?",
+      "options": [
+        "Dhirubhai Ambani",
+        "Anil Ambani",
+        "Ratan Tata",
+        "Gautam Adani"
+      ],
+      "correct_answer": "Dhirubhai Ambani, Explanation: Dhirubhai Ambani founded Reliance Industries"
+    },
+    {
+      "category": "Famous Families",
+      "question": "Ratan Tata is the son of which businessman?",
+      "options": [
+        "Naval Tata",
+        "J.R.D. Tata",
+        "Dhirubhai Ambani",
+        "Jamsetji Tata"
+      ],
+      "correct_answer": "Naval Tata, Explanation: Naval Tata was his father (Ratan Tata was raised by his grandmother after his parents' separation)"
+    },
+    {
+      "category": "Famous Families",
+      "question": "Tiger Shroff is the son of which actor?",
+      "options": [
+        "Jackie Shroff",
+        "Akshay Kumar",
+        "Hrithik Roshan",
+        "Sanjay Dutt"
+      ],
+      "correct_answer": "Jackie Shroff, Explanation: Tiger Shroff is the son of actor Jackie Shroff"
+    },
+    {
+      "category": "Famous Families",
+      "question": "Farhan Akhtar, an actor and director, is the son of which famous lyricist?",
+      "options": [
+        "Javed Akhtar",
+        "Gulzar",
+        "Prasoon Joshi",
+        "Anand Bakshi"
+      ],
+      "correct_answer": "Javed Akhtar, Explanation: Javed Akhtar is a renowned lyricist and scriptwriter"
+    },
+    {
+      "category": "Sports History",
+      "question": "Who was the first Indian to win the All England Open Badminton Championship in 1980?",
+      "options": [
+        "Prakash Padukone",
+        "Pullela Gopichand",
+        "Saina Nehwal",
+        "Kidambi Srikanth"
+      ],
+      "correct_answer": "Prakash Padukone, Explanation: Prakash Padukone achieved this milestone in 1980"
+    },
+    {
+      "category": "Animal Behaviour",
+      "question": "Which animal has thousands of stiff, sharp spines on its back, harder than a porcupine's?",
+      "options": [
+        "Hedgehog",
+        "Echidna",
+        "Porcupine",
+        "Armadillo"
+      ],
+      "correct_answer": "Hedgehog, Explanation: Hedgehogs have sharp spines on their back for protection"
+    },
+    {
+      "category": "Animal Behaviour",
+      "question": "Which big cat is a good climber, hunts at night, and shares its name with a car brand?",
+      "options": [
+        "Jaguar",
+        "Leopard",
+        "Cheetah",
+        "Lion"
+      ],
+      "correct_answer": "Jaguar, Explanation: The Jaguar car brand is named after this animal"
+    },
+    {
+      "category": "Animal Behaviour",
+      "question": "Which animal is called the 'Ghost of the Forest' because of its dark coat?",
+      "options": [
+        "Black panther",
+        "Leopard",
+        "Jaguar",
+        "Wolf"
+      ],
+      "correct_answer": "Black panther, Explanation: Its dark coat makes it hard to see in the forest"
+    },
+    {
+      "category": "Animal Behaviour",
+      "question": "Which is the largest member of the weasel family and also the name of a comic character?",
+      "options": [
+        "Wolverine",
+        "Badger",
+        "Otter",
+        "Mink"
+      ],
+      "correct_answer": "Wolverine, Explanation: The X-Men character Wolverine is named after this animal"
+    },
+    {
+      "category": "Animal Behaviour",
+      "question": "Which animal is fast, agile, and known as a 'snake killer'?",
+      "options": [
+        "Mongoose",
+        "Meerkat",
+        "Ferret",
+        "Weasel"
+      ],
+      "correct_answer": "Mongoose, Explanation: Mongooses are famous for fighting and killing snakes"
+    },
+    {
+      "category": "Animal Behaviour",
+      "question": "Which animal has the tail of a horse, the hair of a goat, and grunts like a camel?",
+      "options": [
+        "Yak",
+        "Bison",
+        "Buffalo",
+        "Llama"
+      ],
+      "correct_answer": "Yak, Explanation: Yaks are found in the Himalayas and have these features"
+    },
+    {
+      "category": "World Cuisine",
+      "question": "Lasagna is a traditional dish from which country?",
+      "options": [
+        "Italy",
+        "France",
+        "Greece",
+        "Spain"
+      ],
+      "correct_answer": "Italy, Explanation: Lasagna is an Italian pasta dish"
+    },
+    {
+      "category": "World Cuisine",
+      "question": "Sushi originated in which country?",
+      "options": [
+        "Japan",
+        "China",
+        "Thailand",
+        "Korea"
+      ],
+      "correct_answer": "Japan, Explanation: Sushi is a Japanese dish"
+    },
+    {
+      "category": "World Cuisine",
+      "question": "Fish and Chips is a famous dish from which country?",
+      "options": [
+        "United Kingdom",
+        "USA",
+        "Australia",
+        "Canada"
+      ],
+      "correct_answer": "United Kingdom, Explanation: Fish and chips is a traditional British dish"
+    },
+    {
+      "category": "World Cuisine",
+      "question": "Ratatouille is a vegetable stew from which country?",
+      "options": [
+        "France",
+        "Italy",
+        "Spain",
+        "Morocco"
+      ],
+      "correct_answer": "France, Explanation: Ratatouille is a Provençal French dish"
+    },
+    {
+      "category": "World Cuisine",
+      "question": "Pad Thai is a stir-fried noodle dish from which country?",
+      "options": [
+        "Thailand",
+        "Vietnam",
+        "Malaysia",
+        "Indonesia"
+      ],
+      "correct_answer": "Thailand, Explanation: Pad Thai is a national dish of Thailand"
+    },
+    {
+      "category": "World Cuisine",
+      "question": "Hamburger is most associated with which country?",
+      "options": [
+        "United States",
+        "Germany",
+        "France",
+        "UK"
+      ],
+      "correct_answer": "United States, Explanation: The hamburger is a staple of American fast food"
+    },
+    {
+      "category": "World Cuisine",
+      "question": "Waffles are a popular snack from which country?",
+      "options": [
+        "Belgium",
+        "France",
+        "Netherlands",
+        "Switzerland"
+      ],
+      "correct_answer": "Belgium, Explanation: Belgian waffles are world-famous"
+    },
+    {
+      "category": "World Cuisine",
+      "question": "Shawarma is a popular street food in which region?",
+      "options": [
+        "Arab countries",
+        "India",
+        "Mexico",
+        "Turkey"
+      ],
+      "correct_answer": "Arab countries, Explanation: Shawarma is a Middle Eastern dish"
+    },
+    {
+      "category": "World Cuisine",
+      "question": "Tacos are a traditional dish of which country?",
+      "options": [
+        "Mexico",
+        "Spain",
+        "Peru",
+        "Brazil"
+      ],
+      "correct_answer": "Mexico, Explanation: Tacos are a staple of Mexican cuisine"
+    },
+    {
+      "category": "Moral Questions",
+      "question": "Should you force a friend to eat something they don't like or are not allowed to eat?",
+      "options": [
+        "No, respect their choices",
+        "Yes, they should try it",
+        "Only if it's healthy",
+        "Only if everyone else is eating"
+      ],
+      "correct_answer": "No, respect their choices, Explanation: Everyone has different tastes, cultures, and dietary rules. We should respect others' choices and never make fun of them"
+    },
+    {
+      "category": "Environment",
+      "question": "The rise in temperature of the Earth's atmosphere due to gases like carbon dioxide trapping the heat of the sun is called the?",
+      "options": [
+        "Greenhouse effect",
+        "Global warming",
+        "Ozone depletion",
+        "Acid rain"
+      ],
+      "correct_answer": "Greenhouse effect, Explanation: This process is known as the greenhouse effect"
+    },
+    {
+      "category": "Environment",
+      "question": "The gas that is let out into the air and is harmful in excess is?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Hydrogen"
+      ],
+      "correct_answer": "Carbon dioxide, Explanation: Excess carbon dioxide contributes to global warming"
+    },
+    {
+      "category": "Environment",
+      "question": "Pollution that is caused by waste generated in our homes is called?",
+      "options": [
+        "Domestic pollution",
+        "Industrial pollution",
+        "Agricultural pollution",
+        "Noise pollution"
+      ],
+      "correct_answer": "Domestic pollution, Explanation: Household waste causes domestic pollution"
+    },
+    {
+      "category": "Environment",
+      "question": "Pollution that is caused by factories and industries is called?",
+      "options": [
+        "Industrial pollution",
+        "Domestic pollution",
+        "Air pollution",
+        "Water pollution"
+      ],
+      "correct_answer": "Industrial pollution, Explanation: Factories release pollutants causing industrial pollution"
+    },
+    {
+      "category": "Environment",
+      "question": "The number of trees, plants, and flowers in a place are collectively called its?",
+      "options": [
+        "Green cover",
+        "Forest cover",
+        "Vegetation",
+        "Brown cover"
+      ],
+      "correct_answer": "Green cover, Explanation: Green cover refers to the vegetation in an area"
+    },
+    {
+      "category": "Environment",
+      "question": "Air pollution causes illnesses such as asthma, which makes?",
+      "options": [
+        "Breathing difficult",
+        "Hearing difficult",
+        "Seeing difficult",
+        "Walking difficult"
+      ],
+      "correct_answer": "Breathing difficult, Explanation: Asthma affects the lungs and makes breathing hard"
+    },
+    {
+      "category": "Environment",
+      "question": "The amount of carbon dioxide you produce is known as your carbon?",
+      "options": [
+        "Footprint",
+        "Imprint",
+        "Mark",
+        "Trace"
+      ],
+      "correct_answer": "Footprint, Explanation: Carbon footprint measures your CO2 emissions"
+    },
+    {
+      "category": "Environment",
+      "question": "The animal that can be found only in the Gir National Park and some other areas of Gujarat and faces the danger of becoming extinct is the?",
+      "options": [
+        "Asiatic lion",
+        "Bengal tiger",
+        "Indian rhinoceros",
+        "Snow leopard"
+      ],
+      "correct_answer": "Asiatic lion, Explanation: The Asiatic lion is found only in Gir Forest, Gujarat"
+    },
+    {
+      "category": "World Clothing",
+      "question": "Which country is known for the traditional garment called a kilt?",
+      "options": [
+        "Scotland",
+        "Ireland",
+        "England",
+        "Wales"
+      ],
+      "correct_answer": "Scotland, Explanation: The kilt is the national dress of Scotland"
+    },
+    {
+      "category": "World Clothing",
+      "question": "The sarong is a traditional garment commonly worn in which region?",
+      "options": [
+        "South-East Asia",
+        "South America",
+        "Africa",
+        "Middle East"
+      ],
+      "correct_answer": "South-East Asia, Explanation: Sarongs are widely worn in countries like Indonesia, Malaysia, and Thailand"
+    },
+    {
+      "category": "World Clothing",
+      "question": "Tracht is a traditional costume of which countries?",
+      "options": [
+        "Germany and Austria",
+        "Switzerland and Liechtenstein",
+        "Netherlands and Belgium",
+        "Denmark and Sweden"
+      ],
+      "correct_answer": "Germany and Austria, Explanation: Tracht is worn in German-speaking countries"
+    },
+    {
+      "category": "World Clothing",
+      "question": "The Herero dress is traditional attire for women in which country?",
+      "options": [
+        "Namibia",
+        "South Africa",
+        "Botswana",
+        "Zimbabwe"
+      ],
+      "correct_answer": "Namibia, Explanation: The Herero people of Namibia wear these Victorian-style dresses"
+    },
+    {
+      "category": "World Clothing",
+      "question": "What is a bandanna?",
+      "options": [
+        "A colourful cloth worn on the head",
+        "A type of shirt",
+        "A skirt",
+        "A jacket"
+      ],
+      "correct_answer": "A colourful cloth worn on the head, Explanation: Bandannas are often worn as headwear"
+    },
+    {
+      "category": "World Clothing",
+      "question": "The gho is the national dress for men in which country?",
+      "options": [
+        "Bhutan",
+        "Nepal",
+        "Tibet",
+        "Myanmar"
+      ],
+      "correct_answer": "Bhutan, Explanation: The gho is a knee-length robe worn by Bhutanese men"
+    },
+    {
+      "category": "Adventure Sports",
+      "question": "In which adventure sport is a person attached to a rope with pulleys and slides from one point to another?",
+      "options": [
+        "Zipline",
+        "Bungee jumping",
+        "Sky diving",
+        "River rafting"
+      ],
+      "correct_answer": "Zipline, Explanation: Ziplining involves sliding along a cable"
+    },
+    {
+      "category": "Adventure Sports",
+      "question": "In which adventure sport do you jump off a high structure attached to strong elastic cords?",
+      "options": [
+        "Bungee jumping",
+        "Zipline",
+        "Sky diving",
+        "Surfing"
+      ],
+      "correct_answer": "Bungee jumping, Explanation: Bungee jumping uses elastic cords for a thrilling fall"
+    },
+    {
+      "category": "Adventure Sports",
+      "question": "Which sport uses a board to ride the waves of the sea or ocean?",
+      "options": [
+        "Surfing",
+        "Skateboarding",
+        "Snowboarding",
+        "Wakeboarding"
+      ],
+      "correct_answer": "Surfing, Explanation: Surfing involves riding ocean waves on a board"
+    },
+    {
+      "category": "Adventure Sports",
+      "question": "Which adventure sport involves jumping from a high spot, usually an aeroplane, with a parachute?",
+      "options": [
+        "Sky diving",
+        "Bungee jumping",
+        "Paragliding",
+        "Hang gliding"
+      ],
+      "correct_answer": "Sky diving, Explanation: Skydivers jump from aircraft and use parachutes to land"
+    },
+    {
+      "category": "Adventure Sports",
+      "question": "What is the activity of going on a long adventure walk to enjoy natural beauty, usually in a hilly area?",
+      "options": [
+        "Trekking",
+        "Hiking",
+        "Camping",
+        "Mountaineering"
+      ],
+      "correct_answer": "Trekking, Explanation: Trekking is a long, vigorous walk in natural surroundings"
+    },
+    {
+      "category": "Adventure Sports",
+      "question": "Which activity involves navigating a river in an inflatable raft?",
+      "options": [
+        "River rafting",
+        "Kayaking",
+        "Canoeing",
+        "Rowing"
+      ],
+      "correct_answer": "River rafting, Explanation: Rafting uses an inflatable raft to navigate rivers"
+    },
+    {
+      "category": "Homonyms",
+      "question": "Which word means both a season and to jump up suddenly?",
+      "options": [
+        "Spring",
+        "Summer",
+        "Fall",
+        "Winter"
+      ],
+      "correct_answer": "Spring, Explanation: Spring is a season and also means to leap"
+    },
+    {
+      "category": "Homonyms",
+      "question": "Which word means both a metal container and the ability to do something?",
+      "options": [
+        "Can",
+        "Tin",
+        "Box",
+        "Jar"
+      ],
+      "correct_answer": "Can, Explanation: 'Can' as a noun is a container, as a verb means able to"
+    },
+    {
+      "category": "Homonyms",
+      "question": "Which word means both a person who keeps order in class and a type of lizard?",
+      "options": [
+        "Monitor",
+        "Teacher",
+        "Prefect",
+        "Lizard"
+      ],
+      "correct_answer": "Monitor, Explanation: A monitor can be a class leader or a large lizard"
+    },
+    {
+      "category": "Homonyms",
+      "question": "Which word means both the sound a dog makes and the outer layer of a tree?",
+      "options": [
+        "Bark",
+        "Howl",
+        "Yelp",
+        "Growl"
+      ],
+      "correct_answer": "Bark, Explanation: Dogs bark, and trees have bark"
+    },
+    {
+      "category": "Homonyms",
+      "question": "Which word means both a basin for washing hands and to go down under water?",
+      "options": [
+        "Sink",
+        "Basin",
+        "Drain",
+        "Drown"
+      ],
+      "correct_answer": "Sink, Explanation: A sink is where you wash, and to sink is to descend in water"
+    },
+    {
+      "category": "Homonyms",
+      "question": "Which word means both a flower and the past tense of rise?",
+      "options": [
+        "Rose",
+        "Flower",
+        "Bloom",
+        "Raised"
+      ],
+      "correct_answer": "Rose, Explanation: Rose is a flower and also the past tense of rise"
+    },
+    {
+      "category": "Homonyms",
+      "question": "Which word means both a drinking container and a hard, breakable material?",
+      "options": [
+        "Glass",
+        "Cup",
+        "Mug",
+        "Crystal"
+      ],
+      "correct_answer": "Glass, Explanation: Glass is a material and also a drinking vessel"
+    },
+    {
+      "category": "Homonyms",
+      "question": "Which word means both the opposite of unfair and someone with light skin?",
+      "options": [
+        "Fair",
+        "Just",
+        "Light",
+        "Pale"
+      ],
+      "correct_answer": "Fair, Explanation: Fair can mean just or light-complexioned"
+    },
+    {
+      "category": "Homonyms",
+      "question": "Which word means both to get on a vehicle and a surface for writing in class?",
+      "options": [
+        "Board",
+        "Enter",
+        "Mount",
+        "Panel"
+      ],
+      "correct_answer": "Board, Explanation: You board a train, and a teacher writes on a board"
+    },
+    {
+      "category": "Homonyms",
+      "question": "Which word means both a genre of music and a hard substance, a small boulder?",
+      "options": [
+        "Rock",
+        "Metal",
+        "Stone",
+        "Pop"
+      ],
+      "correct_answer": "Rock, Explanation: Rock music and a rock (stone) are homonyms"
+    },
+    {
+      "category": "Indian Monuments",
+      "question": "Where is the Gol Gumbaz located?",
+      "options": [
+        "Vijayapura, Karnataka",
+        "Delhi",
+        "Lucknow",
+        "Hyderabad"
+      ],
+      "correct_answer": "Vijayapura, Karnataka, Explanation: Gol Gumbaz is in Vijayapura (formerly Bijapur), Karnataka"
+    },
+    {
+      "category": "Indian Monuments",
+      "question": "Where is the Iron Pillar located?",
+      "options": [
+        "New Delhi",
+        "Agra",
+        "Jaipur",
+        "Mumbai"
+      ],
+      "correct_answer": "New Delhi, Explanation: The Iron Pillar is in the Qutb complex in Delhi"
+    },
+    {
+      "category": "Indian Monuments",
+      "question": "The Residency, built in the 1700s, is in which city?",
+      "options": [
+        "Lucknow",
+        "Delhi",
+        "Kolkata",
+        "Chennai"
+      ],
+      "correct_answer": "Lucknow, Explanation: The Residency is a historic building in Lucknow"
+    },
+    {
+      "category": "Indian Monuments",
+      "question": "The Brihadeeswara Temple is located in which state?",
+      "options": [
         "Tamil Nadu",
-        "Punjab"
-      ],
-      "correct_answer": "Assam"
-    },
-    {
-      "category": "My India - States and Dances",
-      "question": "Nalanda and Patna are famous locations in which state?",
-      "options": [
-        "Bihar",
-        "Uttar Pradesh",
-        "Madhya Pradesh",
-        "Rajasthan"
-      ],
-      "correct_answer": "Bihar"
-    },
-    {
-      "category": "My India - States and Dances",
-      "question": "Kolkata and Sundarbans are in which state?",
-      "options": [
-        "West Bengal",
-        "Meghalaya",
-        "Maharashtra",
-        "Gujarat"
-      ],
-      "correct_answer": "West Bengal"
-    },
-    {
-      "category": "My India - States and Dances",
-      "question": "Shillong and Khasi tribes are found in which state?",
-      "options": [
-        "Meghalaya",
-        "Madhya Pradesh",
-        "Assam",
-        "Rajasthan"
-      ],
-      "correct_answer": "Meghalaya"
-    },
-    {
-      "category": "My India - States and Dances",
-      "question": "Kanpur and Varanasi are cities in which Indian state?",
-      "options": [
-        "Uttar Pradesh",
-        "Maharashtra",
-        "Bihar",
-        "Tamil Nadu"
-      ],
-      "correct_answer": "Uttar Pradesh"
-    },
-    {
-      "category": "My India - States and Dances",
-      "question": "Marathi language and Mumbai are associated with which state?",
-      "options": [
-        "Maharashtra",
-        "Kerala",
-        "Punjab",
-        "Gujarat"
-      ],
-      "correct_answer": "Maharashtra"
-    },
-    {
-      "category": "My India - States and Dances",
-      "question": "Bhopal and Khajuraho are located in which state?",
-      "options": [
-        "Madhya Pradesh",
-        "Rajasthan",
-        "Assam",
-        "West Bengal"
-      ],
-      "correct_answer": "Madhya Pradesh"
-    },
-    {
-      "category": "My India - States and Dances",
-      "question": "Golden Temple and Bhangra are famous in which state?",
-      "options": [
-        "Punjab",
-        "Kerala",
-        "Maharashtra",
-        "Tamil Nadu"
-      ],
-      "correct_answer": "Punjab"
-    },
-    {
-      "category": "My India - States and Dances",
-      "question": "Meenakshi Temple and Kanjivaram silk are found in which state?",
-      "options": [
-        "Tamil Nadu",
+        "Karnataka",
         "Andhra Pradesh",
-        "Maharashtra",
-        "Rajasthan"
-      ],
-      "correct_answer": "Tamil Nadu"
-    },
-    {
-      "category": "My India - States and Dances",
-      "question": "Which folk dance is from Nagaland?",
-      "options": [
-        "Naga Dance",
-        "Khada Nach",
-        "Santhali",
-        "Lavani"
-      ],
-      "correct_answer": "Naga Dance"
-    },
-    {
-      "category": "My India - States and Dances",
-      "question": "Khada Nach is a folk dance from which place?",
-      "options": [
-        "Purulia, West Bengal",
-        "Madhya Pradesh",
-        "Assam",
-        "Rajasthan"
-      ],
-      "correct_answer": "Purulia, West Bengal"
-    },
-    {
-      "category": "My India - States and Dances",
-      "question": "Santhali folk dance belongs to which state?",
-      "options": [
-        "Madhya Pradesh",
-        "Andhra Pradesh",
-        "Assam",
-        "Gujarat"
-      ],
-      "correct_answer": "Madhya Pradesh"
-    },
-    {
-      "category": "My India - States and Dances",
-      "question": "Lavani folk dance is associated with which state?",
-      "options": [
-        "Maharashtra",
-        "Assam",
-        "Rajasthan",
-        "Gujarat"
-      ],
-      "correct_answer": "Maharashtra"
-    },
-    {
-      "category": "My India - States and Dances",
-      "question": "Bihu folk dance comes from which state?",
-      "options": [
-        "Assam",
-        "West Bengal",
-        "Maharashtra",
-        "Punjab"
-      ],
-      "correct_answer": "Assam"
-    },
-    {
-      "category": "My India - States and Dances",
-      "question": "Dappu dance is performed in which state?",
-      "options": [
-        "Andhra Pradesh",
-        "Tamil Nadu",
-        "Rajasthan",
         "Kerala"
       ],
-      "correct_answer": "Andhra Pradesh"
+      "correct_answer": "Tamil Nadu, Explanation: It is in Thanjavur, Tamil Nadu"
     },
     {
-      "category": "My India - States and Dances",
-      "question": "Ghoomar dance is famous in which state?",
+      "category": "Indian Monuments",
+      "question": "What is the famous temple in Mount Abu, Rajasthan?",
       "options": [
-        "Rajasthan",
-        "Gujarat",
-        "Maharashtra",
-        "Assam"
+        "Dilwara Temples",
+        "Jain Temple",
+        "Nakki Lake Temple",
+        "Brahma Kumari Temple"
       ],
-      "correct_answer": "Rajasthan"
+      "correct_answer": "Dilwara Temples, Explanation: The Dilwara Temples are renowned for their marble architecture"
     },
     {
-      "category": "My India - States and Dances",
-      "question": "Garba dance is associated with which state?",
+      "category": "Indian Monuments",
+      "question": "Name the rock-cut Jain monument located in Gwalior, Madhya Pradesh.",
       "options": [
-        "Gujarat",
-        "Punjab",
-        "Madhya Pradesh",
-        "Kerala"
+        "Gopachal Parvat Jain sculptures",
+        "Khajuraho temples",
+        "Ajanta caves",
+        "Ellora caves"
       ],
-      "correct_answer": "Gujarat"
+      "correct_answer": "Gopachal Parvat Jain sculptures, Explanation: These are ancient Jain carvings on the Gopachal hill"
     },
     {
-      "category": "My India - States and Dances",
-      "question": "Which classical dance comes from Assam?",
+      "category": "Current Affairs India",
+      "question": "In 2022, Droupadi Murmu became the:",
       "options": [
-        "Sattriya",
-        "Kuchipudi",
-        "Manipuri",
-        "Bharatanatyam"
+        "President of India",
+        "Chief Justice of India",
+        "Prime Minister of India",
+        "Vice President of India"
       ],
-      "correct_answer": "Sattriya"
+      "correct_answer": "President of India, Explanation: She was elected as the 15th President of India"
     },
     {
-      "category": "My India - States and Dances",
-      "question": "Kuchipudi classical dance is from which state?",
+      "category": "Current Affairs India",
+      "question": "In 2022, Jagdeep Dhankhar was elected and became the:",
       "options": [
-        "Andhra Pradesh",
-        "Tamil Nadu",
-        "Manipur",
-        "Kerala"
+        "Vice President of India",
+        "Chief Minister of Andhra Pradesh",
+        "President of India",
+        "Governor of West Bengal"
       ],
-      "correct_answer": "Andhra Pradesh"
+      "correct_answer": "Vice President of India, Explanation: He became the 14th Vice President of India"
     },
     {
-      "category": "My India - States and Dances",
-      "question": "Manipuri classical dance belongs to which state?",
+      "category": "Current Affairs India",
+      "question": "In 2016, new currency notes of these denominations were introduced in India:",
       "options": [
-        "Manipur",
-        "Assam",
-        "Rajasthan",
-        "Maharashtra"
+        "₹500 and ₹2,000",
+        "₹1,000 and ₹5,000",
+        "₹200 and ₹2,000",
+        "₹100 and ₹500"
       ],
-      "correct_answer": "Manipur"
+      "correct_answer": "₹500 and ₹2,000, Explanation: These new notes were introduced after demonetisation"
     },
     {
-      "category": "My India - States and Dances",
-      "question": "Bharatanatyam classical dance is from which state?",
+      "category": "Current Affairs India",
+      "question": "USA, China, Russia and India have more than any other country:",
       "options": [
-        "Tamil Nadu",
-        "Andhra Pradesh",
-        "Madhya Pradesh",
-        "Kerala"
+        "Soldiers",
+        "Deserts",
+        "Forests",
+        "Rivers"
       ],
-      "correct_answer": "Tamil Nadu"
+      "correct_answer": "Soldiers, Explanation: These countries have the largest military forces"
     },
     {
-      "category": "My India - States and Dances",
-      "question": "Which dance focuses more on footwork?",
+      "category": "Current Affairs India",
+      "question": "Bhumi Pednekar, Prabhas, Ajay Devgn and Ranbir Kapoor are all famous:",
       "options": [
-        "Kathak",
-        "Kathakali",
-        "Bharatanatyam",
-        "Manipuri"
+        "Actors",
+        "Singers",
+        "Cricketers",
+        "Politicians"
       ],
-      "correct_answer": "Kathak"
+      "correct_answer": "Actors, Explanation: They are all film actors in Indian cinema"
     },
     {
-      "category": "My India - States and Dances",
-      "question": "Kathakali performers are mostly which gender?",
+      "category": "Current Affairs India",
+      "question": "________ was the name of a film released in 2021. It tells the life story of Kargil war-hero Captain Vikram Batra.",
       "options": [
-        "Men",
-        "Women",
-        "Both men and women",
-        "Children"
+        "Shershaah",
+        "Shehanshah",
+        "Shersah",
+        "Shershah"
       ],
-      "correct_answer": "Men"
+      "correct_answer": "Shershaah, Explanation: The film starred Sidharth Malhotra as Captain Vikram Batra"
     },
     {
-      "category": "Long Ago, Far Away - Great People from History",
-      "question": "Who was Napoleon Bonaparte?",
+      "category": "Current Affairs India",
+      "question": "In 2022, Sumi won the National Film Award for the Best Film in the:",
       "options": [
-        "King of England",
-        "Emperor of France",
-        "President of USA",
-        "Prime Minister of India"
+        "Children's category",
+        "Feature category",
+        "Non-feature category",
+        "Best Popular Film"
       ],
-      "correct_answer": "Emperor of France"
+      "correct_answer": "Children's category, Explanation: The film Sumi won the award for Best Children's Film"
     },
     {
-      "category": "Long Ago, Far Away - Great People from History",
-      "question": "Which tomb did Howard Carter discover?",
+      "category": "Current Affairs India",
+      "question": "Bhavani Devi won a gold medal at the Commonwealth ______ Championship 2022.",
       "options": [
-        "King Tutankhamun's tomb",
-        "Machu Picchu",
-        "Great Pyramid of Giza",
-        "Stonehenge"
+        "Fencing",
+        "Tennis",
+        "Badminton",
+        "Shooting"
       ],
-      "correct_answer": "King Tutankhamun's tomb"
+      "correct_answer": "Fencing, Explanation: She is an Indian fencer"
     },
     {
-      "category": "Long Ago, Far Away - Great People from History",
-      "question": "Who was the first president of the United States?",
+      "category": "Current Affairs India",
+      "question": "India grows more ______ than any other country.",
       "options": [
-        "Abraham Lincoln",
-        "George Washington",
-        "Thomas Jefferson",
-        "John Adams"
+        "Mangoes",
+        "Apples",
+        "Bananas",
+        "Oranges"
       ],
-      "correct_answer": "George Washington"
+      "correct_answer": "Mangoes, Explanation: India is the largest producer of mangoes in the world"
     },
     {
-      "category": "Long Ago, Far Away - Great People from History",
-      "question": "What is Marie Curie famous for discovering?",
+      "category": "Theatre Terms",
+      "question": "What is the term for the entrances and exits on both sides of the stage?",
       "options": [
-        "Gold and Silver",
-        "Radium and Polonium",
-        "Oxygen and Hydrogen",
-        "Iron and Copper"
+        "Wings",
+        "Backstage",
+        "Green room",
+        "Curtains"
       ],
-      "correct_answer": "Radium and Polonium"
+      "correct_answer": "Wings, Explanation: The sides of the stage are called wings"
     },
     {
-      "category": "Long Ago, Far Away - Great People from History",
-      "question": "Who was the last Tudor monarch of England?",
+      "category": "Theatre Terms",
+      "question": "What is the room called where actors get dressed and put on make-up?",
       "options": [
-        "Queen Victoria",
-        "Queen Elizabeth II",
-        "Queen Elizabeth I",
-        "Mary Queen of Scots"
+        "Green room",
+        "Dressing room",
+        "Backstage",
+        "Wings"
       ],
-      "correct_answer": "Queen Elizabeth I"
+      "correct_answer": "Green room, Explanation: The green room is where actors relax before or after performances"
     },
     {
-      "category": "Long Ago, Far Away - Great People from History",
-      "question": "Who is a famous English playwright and poet?",
+      "category": "Theatre Terms",
+      "question": "What is the painted cloth or wall at the back of the stage called?",
       "options": [
-        "Charles Dickens",
-        "William Shakespeare",
-        "Jonathan Swift",
-        "Harriet Beecher Stowe"
+        "Backdrop",
+        "Curtain",
+        "Scenery",
+        "Prop"
       ],
-      "correct_answer": "William Shakespeare"
+      "correct_answer": "Backdrop, Explanation: The backdrop is the background on stage"
     },
     {
-      "category": "Quiz on Religion",
-      "question": "Which animal does Lord Ganesha ride?",
+      "category": "Theatre Terms",
+      "question": "What term refers to all the actors, actresses and performers in a show?",
       "options": [
-        "Elephant",
-        "Mouse",
-        "Lion",
-        "Tiger"
+        "Cast",
+        "Crew",
+        "Ensemble",
+        "Company"
       ],
-      "correct_answer": "Mouse"
+      "correct_answer": "Cast, Explanation: The cast includes everyone who performs on stage"
     },
     {
-      "category": "Quiz on Religion",
-      "question": "Followers of the 24 Tirthankaras belong to which religion?",
+      "category": "Theatre Terms",
+      "question": "What is the term for the parts of the stage that the audience cannot see?",
       "options": [
-        "Buddhism",
-        "Hinduism",
-        "Jainism",
-        "Sikhism"
+        "Backstage",
+        "Wings",
+        "Green room",
+        "Offstage"
       ],
-      "correct_answer": "Jainism"
+      "correct_answer": "Backstage, Explanation: Backstage areas are hidden from the audience"
     },
     {
-      "category": "Quiz on Religion",
-      "question": "What is the Muslim pilgrimage to Mecca called?",
+      "category": "Theatre Terms",
+      "question": "What are small items that actors carry, like a pen or stick, called?",
       "options": [
-        "Ramadan",
-        "Hajj",
-        "Umrah",
-        "Eid"
+        "Hand props",
+        "Stage props",
+        "Accessories",
+        "Tools"
       ],
-      "correct_answer": "Hajj"
+      "correct_answer": "Hand props, Explanation: These are props handled by actors"
     },
     {
-      "category": "Quiz on Religion",
-      "question": "On which day do Muslims usually pray at mosques?",
+      "category": "Theatre Terms",
+      "question": "What are larger items on stage, like furniture, called?",
       "options": [
-        "Monday",
-        "Tuesday",
-        "Friday",
-        "Sunday"
+        "Stage props",
+        "Hand props",
+        "Set pieces",
+        "Decor"
       ],
-      "correct_answer": "Friday"
+      "correct_answer": "Stage props, Explanation: These are props that remain on stage"
     },
     {
-      "category": "Quiz on Religion",
-      "question": "Where do Parsis pray?",
+      "category": "Theatre Terms",
+      "question": "What are the people who work offstage called?",
       "options": [
-        "Church",
-        "Mosque",
-        "Fire Temple or Agiary",
-        "Temple"
+        "Crew",
+        "Cast",
+        "Stagehands",
+        "Technicians"
       ],
-      "correct_answer": "Fire Temple or Agiary"
+      "correct_answer": "Crew, Explanation: The crew handles lighting, sound, and backstage work"
     },
     {
-      "category": "Quiz on Religion",
-      "question": "Which of the following were Sikh Gurus?",
+      "category": "Theatre Terms",
+      "question": "What is the person who tells actors what to do and how to perform called?",
       "options": [
-        "Guru Arjan Dev, Guru Angad, Guru Tegh Bahadur",
-        "Guru Nanak, Guru Gobind Singh, Guru Granth Sahib",
-        "Guru Amar Das, Guru Ram Das, Guru Tegh Bahadur",
-        "Guru Hargobind, Guru Har Rai, Guru Arjan Dev"
+        "Director",
+        "Producer",
+        "Playwright",
+        "Stage manager"
       ],
-      "correct_answer": "Guru Arjan Dev, Guru Angad, Guru Tegh Bahadur"
+      "correct_answer": "Director, Explanation: The director guides the actors and the production"
     },
     {
-      "category": "Quiz on Religion",
-      "question": "Who was Mary's husband in Christianity?",
+      "category": "Sports",
+      "question": "Which sport uses terms like free hit, power play, and third umpire?",
       "options": [
-        "Jesus",
-        "Joseph",
-        "Peter",
-        "John"
+        "Cricket",
+        "Football",
+        "Basketball",
+        "Badminton"
       ],
-      "correct_answer": "Joseph"
+      "correct_answer": "Cricket, Explanation: These are common terms in cricket"
     },
     {
-      "category": "Quiz on Religion",
-      "question": "Followers of Buddha are called?",
+      "category": "Sports",
+      "question": "Which sport uses terms like serve, slice, drop shot, and ace?",
       "options": [
-        "Hindus",
-        "Jews",
-        "Buddhists",
-        "Christians"
+        "Tennis",
+        "Badminton",
+        "Table tennis",
+        "Squash"
       ],
-      "correct_answer": "Buddhists"
+      "correct_answer": "Tennis, Explanation: These are tennis strokes and terms"
     },
     {
-      "category": "Quiz on Religion",
-      "question": "How did Jesus Christ die?",
+      "category": "Sports",
+      "question": "Which sport uses terms like pass, free throw, jump shot, and walking?",
       "options": [
-        "By drowning",
-        "On the cross",
-        "By stoning",
-        "By poisoning"
+        "Basketball",
+        "Football",
+        "Handball",
+        "Volleyball"
       ],
-      "correct_answer": "On the cross"
+      "correct_answer": "Basketball, Explanation: These are basketball actions and fouls"
     },
     {
-      "category": "Language and Literature",
-      "question": "What is the real name of George Eliot?",
+      "category": "Sports",
+      "question": "Which sport uses terms like corner, penalty, tackle, and throw-in?",
       "options": [
-        "Mary Anne Evans",
-        "Charles Lutwidge Dodgson",
-        "Dhanpat Rai Srivastava",
-        "Agatha Christie"
+        "Football",
+        "Hockey",
+        "Rugby",
+        "Cricket"
       ],
-      "correct_answer": "Mary Anne Evans"
+      "correct_answer": "Football, Explanation: These are football (soccer) terms"
     },
     {
-      "category": "Language and Literature",
-      "question": "What is the real name of Lewis Carroll?",
+      "category": "Sports",
+      "question": "Which sport uses terms like serve, net dribble, drop shot, and smash?",
       "options": [
-        "Mary Anne Evans",
-        "Charles Lutwidge Dodgson",
-        "Dhanpat Rai Srivastava",
-        "C. S. Lewis"
+        "Badminton",
+        "Tennis",
+        "Table tennis",
+        "Volleyball"
       ],
-      "correct_answer": "Charles Lutwidge Dodgson"
+      "correct_answer": "Badminton, Explanation: These are badminton strokes"
     },
     {
-      "category": "Language and Literature",
-      "question": "What is the real name of Munshi Premchand?",
+      "category": "Materials",
+      "question": "What material is commonly used to make paper?",
       "options": [
-        "Rabindranath Tagore",
-        "Dhanpat Rai Srivastava",
-        "Alexander Dumas",
-        "Jonathan Swift"
+        "Wood pulp",
+        "Wax",
+        "Clay",
+        "Leather"
       ],
-      "correct_answer": "Dhanpat Rai Srivastava"
+      "correct_answer": "Wood pulp, Explanation: Paper is made from wood pulp"
     },
     {
-      "category": "Language and Literature",
-      "question": "What is the real name of Clive Hamilton?",
+      "category": "Materials",
+      "question": "Candles are usually made from?",
       "options": [
-        "C. S. Lewis",
-        "Charles Dickens",
-        "Enid Blyton",
-        "Harriet Beecher Stowe"
+        "Wax",
+        "Plastic",
+        "Glass",
+        "Clay"
       ],
-      "correct_answer": "C. S. Lewis"
+      "correct_answer": "Wax, Explanation: Candles are typically made of wax"
     },
     {
-      "category": "Language and Literature",
-      "question": "What is the real name of Mary Westmacott?",
+      "category": "Materials",
+      "question": "Bottles are commonly made from?",
       "options": [
-        "Agatha Christie",
-        "Lewis Carroll",
-        "Rabindranath Tagore",
-        "Charles Lutwidge Dodgson"
+        "Plastic or glass",
+        "Wood or paper",
+        "Metal or clay",
+        "Leather or rubber"
       ],
-      "correct_answer": "Agatha Christie"
+      "correct_answer": "Plastic or glass, Explanation: Bottles are often plastic or glass"
     },
     {
-      "category": "Language and Literature",
-      "question": "Bhanusingha is the pen name of which author?",
+      "category": "Materials",
+      "question": "Pencil 'lead' is actually made from?",
       "options": [
-        "Rabindranath Tagore",
-        "Munshi Premchand",
-        "Lewis Carroll",
-        "Charles Dickens"
+        "Graphite",
+        "Lead",
+        "Carbon",
+        "Charcoal"
       ],
-      "correct_answer": "Rabindranath Tagore"
+      "correct_answer": "Graphite, Explanation: Pencil lead is a mixture of graphite and clay"
     },
     {
-      "category": "Language and Literature",
-      "question": "Who wrote 'Alice in Wonderland'?",
+      "category": "Materials",
+      "question": "Special dinner or tea sets are often made from?",
       "options": [
-        "Lewis Carroll",
-        "Alexander Dumas",
-        "Rudyard Kipling",
-        "Charles Dickens"
+        "Porcelain, china or melamine",
+        "Plastic or wood",
+        "Glass or metal",
+        "Clay or stone"
       ],
-      "correct_answer": "Lewis Carroll"
+      "correct_answer": "Porcelain, china or melamine, Explanation: Fine dinnerware is made from these materials"
     },
     {
-      "category": "Language and Literature",
-      "question": "Who wrote 'Three Musketeers'?",
+      "category": "Materials",
+      "question": "Mirrors are primarily made from?",
       "options": [
-        "Lewis Carroll",
-        "Alexander Dumas",
-        "Rudyard Kipling",
-        "Jonathan Swift"
+        "Glass",
+        "Metal",
+        "Plastic",
+        "Wood"
       ],
-      "correct_answer": "Alexander Dumas"
+      "correct_answer": "Glass, Explanation: Mirrors are glass coated with a reflective material"
     },
     {
-      "category": "Language and Literature",
-      "question": "Who wrote 'The Jungle Book'?",
+      "category": "Materials",
+      "question": "Flowerpots are traditionally made from?",
       "options": [
-        "Rudyard Kipling",
-        "Charles Dickens",
-        "Harriet Beecher Stowe",
-        "Enid Blyton"
+        "Clay",
+        "Plastic",
+        "Metal",
+        "Wood"
       ],
-      "correct_answer": "Rudyard Kipling"
+      "correct_answer": "Clay, Explanation: Terracotta pots are made of clay"
     },
     {
-      "category": "Language and Literature",
-      "question": "Who wrote 'A Christmas Carol'?",
+      "category": "Materials",
+      "question": "Shoes and wallets are often made from?",
       "options": [
-        "Charles Dickens",
-        "Jonathan Swift",
-        "Harriet Beecher Stowe",
-        "Lewis Carroll"
+        "Leather",
+        "Cloth",
+        "Plastic",
+        "Rubber"
       ],
-      "correct_answer": "Charles Dickens"
+      "correct_answer": "Leather, Explanation: Leather is a common material for these items"
     },
     {
-      "category": "Language and Literature",
-      "question": "Who wrote 'Noddy Goes to Toyland'?",
+      "category": "Materials",
+      "question": "Hammers and nails are typically made from?",
       "options": [
-        "Enid Blyton",
-        "Lewis Carroll",
-        "Charles Dickens",
-        "Harriet Beecher Stowe"
+        "Iron",
+        "Wood",
+        "Steel",
+        "Aluminum"
       ],
-      "correct_answer": "Enid Blyton"
+      "correct_answer": "Iron, Explanation: Hammers and nails are usually made of iron or steel"
     },
     {
-      "category": "Language and Literature",
-      "question": "Who wrote 'Gulliver’s Travels'?",
+      "category": "Materials",
+      "question": "Furniture can be made from?",
       "options": [
-        "Jonathan Swift",
-        "Alexander Dumas",
-        "Rudyard Kipling",
-        "Charles Dickens"
+        "Steel, wrought iron or wood",
+        "Plastic or glass only",
+        "Leather or cloth",
+        "Paper or cardboard"
       ],
-      "correct_answer": "Jonathan Swift"
+      "correct_answer": "Steel, wrought iron or wood, Explanation: Furniture is commonly made from these materials"
     },
     {
-      "category": "Language and Literature",
-      "question": "Who wrote 'Uncle Tom’s Cabin'?",
+      "category": "Food Items",
+      "question": "OOSETTPA unscrambles to which vegetable that is used to make fries?",
       "options": [
-        "Harriet Beecher Stowe",
-        "Enid Blyton",
-        "Jonathan Swift",
-        "Charles Dickens"
+        "Potatoes",
+        "Tomatoes",
+        "Onions",
+        "Peppers"
       ],
-      "correct_answer": "Harriet Beecher Stowe"
+      "correct_answer": "Potatoes, Explanation: The word is 'potatoes'"
     },
     {
-      "category": "Language and Literature",
-      "question": "What is a pen name?",
+      "category": "Food Items",
+      "question": "GGSE unscrambles to which food item used to make omelette?",
       "options": [
-        "A fake name used by an author",
-        "A type of pen",
-        "A book title",
-        "A nickname for readers"
+        "Eggs",
+        "Cheese",
+        "Flour",
+        "Milk"
       ],
-      "correct_answer": "A fake name used by an author"
+      "correct_answer": "Eggs, Explanation: The word is 'eggs'"
     },
     {
-      "category": "Fun with Words - Crossword Highlights",
-      "question": "What does 'Safari' mean in one context?",
+      "category": "Food Items",
+      "question": "LOUFR unscrambles to which ingredient used in bread and pizza base?",
       "options": [
-        "A type of car",
-        "Wildlife tour",
-        "A type of suit",
-        "A musical instrument"
+        "Flour",
+        "Sugar",
+        "Salt",
+        "Yeast"
       ],
-      "correct_answer": "Wildlife tour"
+      "correct_answer": "Flour, Explanation: The word is 'flour'"
     },
     {
-      "category": "Fun with Words - Crossword Highlights",
-      "question": "What does 'Safari' mean in another context?",
+      "category": "Food Items",
+      "question": "LIMK unscrambles to which liquid used to make paneer?",
       "options": [
-        "Wildlife tour",
-        "A type of suit",
-        "A drink",
-        "A game"
+        "Milk",
+        "Water",
+        "Oil",
+        "Juice"
       ],
-      "correct_answer": "A type of suit"
+      "correct_answer": "Milk, Explanation: The word is 'milk'"
     },
     {
-      "category": "Fun with Words - Crossword Highlights",
-      "question": "The word 'Night' can combine with which of the following to make compound words?",
+      "category": "Food Items",
+      "question": "GRAUS unscrambles to which sweet substance used in candyfloss?",
       "options": [
-        "Gown",
-        "Mare",
-        "Lamp",
-        "All of the above"
+        "Sugar",
+        "Salt",
+        "Honey",
+        "Syrup"
       ],
-      "correct_answer": "All of the above"
+      "correct_answer": "Sugar, Explanation: The word is 'sugar'"
     },
     {
-      "category": "Fun with Words - Crossword Highlights",
-      "question": "'Dip' can mean which of these?",
+      "category": "Animal Facts",
+      "question": "What is unique about the echidna and platypus compared to most mammals?",
       "options": [
-        "Put a tea bag in water",
-        "Swim in a pool",
-        "Both A and B",
-        "A type of food"
+        "They lay eggs",
+        "They have pouches",
+        "They are venomous",
+        "They fly"
       ],
-      "correct_answer": "Both A and B"
+      "correct_answer": "They lay eggs, Explanation: These are monotremes, egg-laying mammals"
     },
     {
-      "category": "Fun with Words - Crossword Highlights",
-      "question": "'Surf' can refer to which of the following?",
+      "category": "Animal Facts",
+      "question": "The dingo is different from other dogs because it cannot?",
       "options": [
-        "Using the internet",
-        "A detergent brand in India",
-        "Both A and B",
-        "A musical term"
+        "Bark",
+        "Howl",
+        "Run fast",
+        "Swim"
       ],
-      "correct_answer": "Both A and B"
+      "correct_answer": "Bark, Explanation: Dingos do not bark; they howl"
     },
     {
-      "category": "Fun with Words - Crossword Highlights",
-      "question": "Which of these words can combine with 'Over' to make compound words?",
+      "category": "Animal Facts",
+      "question": "How many hearts does a cuttlefish have?",
       "options": [
-        "Take",
-        "Night",
-        "Weight",
-        "All of the above"
+        "Three",
+        "One",
+        "Two",
+        "Four"
       ],
-      "correct_answer": "All of the above"
+      "correct_answer": "Three, Explanation: Cuttlefish have three hearts"
     },
     {
-      "category": "Fun with Words - Crossword Highlights",
-      "question": "What is a 'Baton' used for?",
+      "category": "Animal Facts",
+      "question": "What sense is highly developed in the kiwi bird?",
       "options": [
-        "To conduct music",
-        "A sports tool",
-        "A writing pen",
-        "A cooking utensil"
+        "Smell",
+        "Sight",
+        "Hearing",
+        "Touch"
       ],
-      "correct_answer": "To conduct music"
+      "correct_answer": "Smell, Explanation: Kiwis have a keen sense of smell to find food"
     },
     {
-      "category": "Fun with Words - Crossword Highlights",
-      "question": "What does 'Test' refer to?",
+      "category": "Animal Facts",
+      "question": "How do asses, horses and zebras clean themselves?",
       "options": [
-        "Paper set by teacher",
-        "Doctor's exam or diagnosis",
-        "Both A and B",
-        "A type of game"
+        "They roll in the dust",
+        "They lick themselves",
+        "They bathe in water",
+        "They rub against trees"
       ],
-      "correct_answer": "Both A and B"
+      "correct_answer": "They roll in the dust, Explanation: Dust baths help them clean and remove parasites"
     },
     {
-      "category": "Similar Sounding Words (Homophones)",
-      "question": "What is the difference between 'Steal' and 'Steel'?",
+      "category": "Animal Facts",
+      "question": "What makes the hummingbird's flight unique?",
       "options": [
-        "To take without permission / A strong, hard metal",
-        "A type of wheel / A strong metal",
-        "A type of tree / A metal",
-        "To take permission / A weak metal"
+        "It can fly forwards, backwards, and sideways",
+        "It can fly faster than any bird",
+        "It can fly without flapping",
+        "It can fly underwater"
       ],
-      "correct_answer": "To take without permission / A strong, hard metal"
+      "correct_answer": "It can fly forwards, backwards, and sideways, Explanation: Hummingbirds have unique flight capabilities"
     },
     {
-      "category": "Similar Sounding Words (Homophones)",
-      "question": "What is the difference between 'Pane' and 'Pain'?",
+      "category": "Animal Facts",
+      "question": "How can horses sleep?",
       "options": [
-        "A sheet of glass / Feeling of hurt",
-        "A type of bread / Feeling of joy",
-        "A type of flower / Feeling of sadness",
-        "A sheet of cloth / Feeling of heat"
+        "While standing",
+        "Only lying down",
+        "Only at night",
+        "With one eye open"
       ],
-      "correct_answer": "A sheet of glass / Feeling of hurt"
+      "correct_answer": "While standing, Explanation: Horses can lock their legs to sleep standing up"
     },
     {
-      "category": "Similar Sounding Words (Homophones)",
-      "question": "What is the difference between 'Alter' and 'Altar'?",
+      "category": "Animal Facts",
+      "question": "How long can camels live without water?",
       "options": [
-        "To change / A holy table in a church",
-        "To repair / A small table",
-        "To grow / A statue",
-        "To change / A chair"
+        "4–7 days",
+        "1–2 days",
+        "2 weeks",
+        "1 month"
       ],
-      "correct_answer": "To change / A holy table in a church"
+      "correct_answer": "4–7 days, Explanation: Camels can go without water for several days"
     },
     {
-      "category": "Similar Sounding Words (Homophones)",
-      "question": "What is the difference between 'Doze' and 'Dose'?",
+      "category": "Environment",
+      "question": "True or False: Our earth is experiencing global cooling.",
       "options": [
-        "To sleep lightly / A measure of medicine",
-        "To sleep deeply / A measure of money",
-        "To dream / A measure of weight",
-        "To sleep lightly / A measure of distance"
+        "False",
+        "True",
+        "Only in some regions",
+        "Only in winter"
       ],
-      "correct_answer": "To sleep lightly / A measure of medicine"
+      "correct_answer": "False, Explanation: The Earth is experiencing global warming, not cooling"
     },
     {
-      "category": "Similar Sounding Words (Homophones)",
-      "question": "What is the difference between 'Kernel' and 'Colonel'?",
+      "category": "Environment",
+      "question": "True or False: Trees pollute the air we breathe.",
       "options": [
-        "Inner part of a nut or seed / An officer of high rank",
-        "Outer part of a nut / A soldier",
-        "Seed covering / A colon",
-        "Inner nut / A teacher"
+        "False",
+        "True",
+        "Only at night",
+        "Only when burning"
       ],
-      "correct_answer": "Inner part of a nut or seed / An officer of high rank"
+      "correct_answer": "False, Explanation: Trees produce oxygen and clean the air"
     },
     {
-      "category": "Similar Sounding Words (Homophones)",
-      "question": "What is the difference between 'Dough' and 'Doe'?",
+      "category": "Environment",
+      "question": "True or False: If we stop using plastic bags, we will be protecting the environment.",
       "options": [
-        "Mixture of flour and water / A female deer",
-        "A type of bread / A male deer",
-        "A mixture of milk / A female bird",
-        "A mixture of flour / A type of cow"
+        "True",
+        "False",
+        "Only if we recycle them",
+        "No, plastic bags are not harmful"
       ],
-      "correct_answer": "Mixture of flour and water / A female deer"
+      "correct_answer": "True, Explanation: Reducing plastic use helps reduce pollution"
     },
     {
-      "category": "Similar Sounding Words (Homophones)",
-      "question": "What is the difference between 'Root' and 'Route'?",
+      "category": "Environment",
+      "question": "True or False: Ninety per cent of all the animal species that ever lived are now extinct.",
       "options": [
-        "Part of a plant / A way to get from one place to another",
-        "Part of a tree / A type of road",
-        "Underground branch / A street name",
-        "Plant top / A pathway sign"
+        "True",
+        "False",
+        "Only 50%",
+        "Only 10%"
       ],
-      "correct_answer": "Part of a plant / A way to get from one place to another"
+      "correct_answer": "True, Explanation: Most species that ever existed are extinct"
     },
     {
-      "category": "Similar Sounding Words (Homophones)",
-      "question": "What is the difference between 'Bow' and 'Bough'?",
+      "category": "Environment",
+      "question": "True or False: Soil layers can get washed away quickly when we cut down trees.",
       "options": [
-        "To bend the head / Main branch of a tree",
-        "To shoot an arrow / Tree top",
-        "To bend the body / Leaf branch",
-        "A ribbon / Tree root"
+        "True",
+        "False",
+        "Only in deserts",
+        "Only in mountains"
       ],
-      "correct_answer": "To bend the head / Main branch of a tree"
+      "correct_answer": "True, Explanation: Tree roots hold soil; without them, erosion happens fast"
     },
     {
-      "category": "Similar Sounding Words (Homophones)",
-      "question": "What is the difference between 'Ring' and 'Wring'?",
+      "category": "Environment",
+      "question": "What is the term for rain containing high levels of acid?",
       "options": [
-        "Jewellery worn on fingers / To twist or squeeze wet clothes",
-        "A circular object / To shout loudly",
-        "A sound / To turn around",
-        "A bell / To jump"
+        "Acid rain",
+        "Global warming",
+        "Greenhouse effect",
+        "Smog"
       ],
-      "correct_answer": "Jewellery worn on fingers / To twist or squeeze wet clothes"
+      "correct_answer": "Acid rain, Explanation: Acid rain is caused by pollution"
     },
     {
-      "category": "Science and Us: Doctor and Tailor Instruments",
-      "question": "Which instrument do doctors use to listen to your heart and breathing?",
+      "category": "Environment",
+      "question": "What is the term for the clearing of forests, leading to fewer trees and soil erosion?",
       "options": [
-        "Thermometer",
-        "Stethoscope",
-        "Sphygmomanometer",
-        "Otoscope"
+        "Deforestation",
+        "Afforestation",
+        "Reforestation",
+        "Desertification"
       ],
-      "correct_answer": "Stethoscope"
+      "correct_answer": "Deforestation, Explanation: Deforestation is the removal of forests"
     },
     {
-      "category": "Science and Us: Doctor and Tailor Instruments",
-      "question": "Which instrument do tailors use to take body measurements?",
+      "category": "Environment",
+      "question": "What is the term for planting trees to create new forests?",
       "options": [
-        "Ruler",
-        "Measuring tape",
-        "Compass",
-        "Scale"
+        "Afforestation",
+        "Deforestation",
+        "Reforestation",
+        "Forestry"
       ],
-      "correct_answer": "Measuring tape"
+      "correct_answer": "Afforestation, Explanation: Afforestation establishes forests where none existed"
     },
     {
-      "category": "The Insect World: Dengue Prevention Tips",
-      "question": "Which of these helps prevent dengue?",
+      "category": "World Geography",
+      "question": "Which country is known for Buenos Aires, Lionel Messi, and the Pampas?",
       "options": [
-        "Use mosquito nets or screens",
-        "Keep windows open",
-        "Sleep outdoors",
-        "Drink lots of water"
+        "Argentina",
+        "Brazil",
+        "Uruguay",
+        "Chile"
       ],
-      "correct_answer": "Use mosquito nets or screens"
+      "correct_answer": "Argentina, Explanation: These are all associated with Argentina"
     },
     {
-      "category": "The Insect World: Dengue Prevention Tips",
-      "question": "How does removing stagnant water help prevent dengue?",
+      "category": "World Geography",
+      "question": "Which country is known for the Kiwi bird, Maoris, and the All Blacks rugby team?",
       "options": [
-        "Prevents mosquito breeding",
-        "Keeps water clean",
-        "Prevents floods",
-        "Keeps air fresh"
+        "New Zealand",
+        "Australia",
+        "Fiji",
+        "South Africa"
       ],
-      "correct_answer": "Prevents mosquito breeding"
+      "correct_answer": "New Zealand, Explanation: These are iconic symbols of New Zealand"
     },
     {
-      "category": "The Insect World: Dengue Prevention Tips",
-      "question": "Why should long-sleeved clothes be worn to prevent dengue?",
+      "category": "World Geography",
+      "question": "Which country is famous for the maple leaf, ice hockey, and the mounted police?",
       "options": [
-        "To stay warm",
-        "To protect from mosquito bites",
-        "To look neat",
-        "To prevent sunburn"
+        "Canada",
+        "USA",
+        "Sweden",
+        "Russia"
       ],
-      "correct_answer": "To protect from mosquito bites"
+      "correct_answer": "Canada, Explanation: Canada is known for these national symbols"
     },
     {
-      "category": "The Insect World: Dengue Prevention Tips",
-      "question": "Which of these can be used as a repellent to prevent dengue?",
+      "category": "World Geography",
+      "question": "Which country is associated with Mozart, The Blue Danube, and Vienna?",
       "options": [
-        "Soap",
-        "Mosquito repellent",
-        "Perfume",
-        "Water spray"
+        "Austria",
+        "Germany",
+        "Switzerland",
+        "Hungary"
       ],
-      "correct_answer": "Mosquito repellent"
+      "correct_answer": "Austria, Explanation: Vienna is the capital of Austria, Mozart was Austrian"
+    },
+    {
+      "category": "World Geography",
+      "question": "Which country is known for the Pyramids, the Nile, and cotton?",
+      "options": [
+        "Egypt",
+        "Sudan",
+        "Ethiopia",
+        "Libya"
+      ],
+      "correct_answer": "Egypt, Explanation: These are all iconic Egyptian features"
+    },
+    {
+      "category": "World Geography",
+      "question": "Which country is home to Mount Everest, Lumbini, and Sherpas?",
+      "options": [
+        "Nepal",
+        "India",
+        "Bhutan",
+        "Tibet"
+      ],
+      "correct_answer": "Nepal, Explanation: Mount Everest and Lumbini are in Nepal"
+    },
+    {
+      "category": "World Geography",
+      "question": "Which country is known for the Cannes Film Festival, the Louvre, and baguettes?",
+      "options": [
+        "France",
+        "Italy",
+        "Spain",
+        "Belgium"
+      ],
+      "correct_answer": "France, Explanation: These are famous French cultural icons"
+    },
+    {
+      "category": "World Geography",
+      "question": "Which country is associated with Times Square, Hollywood, and Mount Rushmore?",
+      "options": [
+        "USA",
+        "Canada",
+        "UK",
+        "Australia"
+      ],
+      "correct_answer": "USA, Explanation: These are all American landmarks"
+    },
+    {
+      "category": "World Geography",
+      "question": "Which country is famous for Christ the Redeemer, Pelé, and the Amazon?",
+      "options": [
+        "Brazil",
+        "Argentina",
+        "Colombia",
+        "Peru"
+      ],
+      "correct_answer": "Brazil, Explanation: Christ the Redeemer is in Rio de Janeiro, Brazil"
+    },
+    {
+      "category": "World Geography",
+      "question": "Which country is known for the Merlion, Sentosa, and Marina Bay Sands?",
+      "options": [
+        "Singapore",
+        "Malaysia",
+        "Indonesia",
+        "Thailand"
+      ],
+      "correct_answer": "Singapore, Explanation: These are iconic Singapore attractions"
+    },
+    {
+      "category": "World Geography",
+      "question": "What is the capital of Australia?",
+      "options": [
+        "Canberra",
+        "Sydney",
+        "Melbourne",
+        "Perth"
+      ],
+      "correct_answer": "Canberra, Explanation: Canberra is the capital city of Australia"
+    },
+    {
+      "category": "World Geography",
+      "question": "Jakarta is the capital of which country?",
+      "options": [
+        "Indonesia",
+        "Malaysia",
+        "Philippines",
+        "Thailand"
+      ],
+      "correct_answer": "Indonesia, Explanation: Jakarta is the capital of Indonesia"
+    },
+    {
+      "category": "World Geography",
+      "question": "Edinburgh is the capital of which country?",
+      "options": [
+        "Scotland",
+        "England",
+        "Ireland",
+        "Wales"
+      ],
+      "correct_answer": "Scotland, Explanation: Edinburgh is the capital city of Scotland"
+    },
+    {
+      "category": "World Geography",
+      "question": "Nairobi is the capital of which country?",
+      "options": [
+        "Kenya",
+        "Tanzania",
+        "Uganda",
+        "Ethiopia"
+      ],
+      "correct_answer": "Kenya, Explanation: Nairobi is the capital of Kenya"
+    },
+    {
+      "category": "World Geography",
+      "question": "Sri Jayawardenepura Kotte is the capital of which country?",
+      "options": [
+        "Sri Lanka",
+        "India",
+        "Bangladesh",
+        "Myanmar"
+      ],
+      "correct_answer": "Sri Lanka, Explanation: It is the administrative capital of Sri Lanka"
+    },
+    {
+      "category": "World Geography",
+      "question": "Buenos Aires is the capital of which country?",
+      "options": [
+        "Argentina",
+        "Brazil",
+        "Chile",
+        "Uruguay"
+      ],
+      "correct_answer": "Argentina, Explanation: Buenos Aires is the capital of Argentina"
     }
   ]
 }

@@ -1,785 +1,676 @@
 {
   "questions": [
     {
-      "category": "Editing in MS Word 2013",
-      "question": "What is Editing in MS Word?",
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "What is a systematic display of information on a particular topic called?",
       "options": [
-        "Making changes to text",
-        "Adding images to a document",
-        "Printing a document",
-        "Changing the page layout"
+        "Slide Show",
+        "Presentation",
+        "Placeholder",
+        "Folder"
       ],
-      "correct_answer": "Making changes to text"
+      "correct_answer": "Presentation"
     },
     {
-      "category": "Editing in MS Word 2013",
-      "question": "What does the Insert command do?",
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "What is the term for an individual page in a PowerPoint presentation?",
       "options": [
-        "Deletes text",
-        "Adds text to an existing document",
-        "Copies text",
-        "Highlights text"
+        "Sheet",
+        "Slide",
+        "Document",
+        "Frame"
       ],
-      "correct_answer": "Adds text to an existing document"
+      "correct_answer": "Slide"
     },
     {
-      "category": "Editing in MS Word 2013",
-      "question": "Which command reverses the last command?",
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "What is the dotted rectangular box on a slide that can hold text, tables, and other objects?",
       "options": [
-        "Redo",
-        "Undo",
-        "Repeat",
-        "Cut"
+        "Text Frame",
+        "Placeholder",
+        "Object Box",
+        "Slide Border"
       ],
-      "correct_answer": "Undo"
+      "correct_answer": "Placeholder"
     },
     {
-      "category": "Editing in MS Word 2013",
-      "question": "What is the purpose of Redo in MS Word?",
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "Which term describes a series of slides displayed in a sequence on the screen?",
       "options": [
-        "Reverses the last command",
-        "Re-applies the last undone command",
-        "Deletes text",
-        "Highlights text"
+        "Slide Show",
+        "Photo Gallery",
+        "Media Stream",
+        "Projector View"
       ],
-      "correct_answer": "Re-applies the last undone command"
+      "correct_answer": "Slide Show"
     },
     {
-      "category": "Editing in MS Word 2013",
-      "question": "What does Repeat command do?",
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "From which menu can you start PowerPoint 2013?",
       "options": [
-        "Repeats the last command",
-        "Deletes the last character",
-        "Copies the text",
-        "Moves text to another position"
+        "Settings menu",
+        "Taskbar menu",
+        "Windows menu",
+        "Help menu"
       ],
-      "correct_answer": "Repeats the last command"
+      "correct_answer": "Windows menu"
     },
     {
-      "category": "Editing in MS Word 2013",
-      "question": "What is the difference between Copy and Move commands?",
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "Under which tab can you find the option to insert a 'New Slide'?",
       "options": [
-        "Copy makes a duplicate; Move shifts text to another position",
-        "Copy deletes text; Move highlights text",
-        "Copy prints text; Move changes font",
-        "Copy changes color; Move changes alignment"
+        "INSERT tab",
+        "DESIGN tab",
+        "HOME tab",
+        "VIEW tab"
       ],
-      "correct_answer": "Copy makes a duplicate; Move shifts text to another position"
+      "correct_answer": "HOME tab"
     },
     {
-      "category": "Editing in MS Word 2013",
-      "question": "What does Cut command do?",
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "To insert pictures, which tab and group should be used?",
       "options": [
-        "Copies text",
-        "Moves text from one position to another",
-        "Highlights text",
-        "Deletes a document"
+        "HOME tab, Slides group",
+        "INSERT tab, Images group",
+        "FILE tab, Info group",
+        "DESIGN tab, Variants group"
       ],
-      "correct_answer": "Moves text from one position to another"
+      "correct_answer": "INSERT tab, Images group"
     },
     {
-      "category": "Editing in MS Word 2013",
-      "question": "What is Copy in MS Word?",
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "What are the two ways mentioned to insert pictures into a slide?",
       "options": [
-        "Creates a duplicate of text",
-        "Deletes text",
-        "Moves text to another location",
-        "Prints text"
+        "From Scanner or Camera",
+        "From Computer or Internet (online pictures)",
+        "From Phone or Tablet",
+        "From Clipboard or Email"
       ],
-      "correct_answer": "Creates a duplicate of text"
+      "correct_answer": "From Computer or Internet (online pictures)"
     },
     {
-      "category": "Editing in MS Word 2013",
-      "question": "What is Thesaurus used for?",
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "What is the keyboard shortcut to save a presentation?",
       "options": [
-        "Provides synonyms for a word",
-        "Highlights text",
-        "Moves text",
-        "Formats paragraphs"
-      ],
-      "correct_answer": "Provides synonyms for a word"
-    },
-    {
-      "category": "Editing in MS Word 2013",
-      "question": "Keyboard shortcut to select one character to the left",
-      "options": [
-        "Shift + ←",
-        "Shift + →",
-        "Ctrl + Shift + ←",
-        "Ctrl + ←"
-      ],
-      "correct_answer": "Shift + ←"
-    },
-    {
-      "category": "Editing in MS Word 2013",
-      "question": "Keyboard shortcut to select entire document",
-      "options": [
-        "Ctrl + A",
-        "Ctrl + C",
-        "Ctrl + X",
-        "Ctrl + Shift + End"
-      ],
-      "correct_answer": "Ctrl + A"
-    },
-    {
-      "category": "Editing in MS Word 2013",
-      "question": "Keyboard shortcut to create a new document",
-      "options": [
-        "Ctrl + N",
-        "Ctrl + O",
+        "Ctrl + P",
+        "Ctrl + V",
         "Ctrl + S",
-        "Ctrl + P"
+        "Ctrl + N"
       ],
-      "correct_answer": "Ctrl + N"
+      "correct_answer": "Ctrl + S"
     },
     {
-      "category": "Editing in MS Word 2013",
-      "question": "How do you delete a character to the left of the cursor?",
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "Which bar has the buttons to move to the previous and next slides?",
       "options": [
-        "Press Backspace key",
-        "Press Delete key",
-        "Press Ctrl + X",
-        "Press Ctrl + C"
+        "Horizontal Scroll bar",
+        "Status bar",
+        "Vertical Scroll bar",
+        "Title bar"
       ],
-      "correct_answer": "Press Backspace key"
+      "correct_answer": "Vertical Scroll bar"
     },
     {
-      "category": "Editing in MS Word 2013",
-      "question": "Which colour highlights selected text in Word 2013?",
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "Which of the following options are available when clicking the FILE tab?",
       "options": [
-        "Grey",
-        "Red",
-        "Blue",
-        "Yellow"
-      ],
-      "correct_answer": "Grey"
-    },
-    {
-      "category": "Editing in MS Word 2013",
-      "question": "Steps to select text using keyboard",
-      "options": [
-        "Place cursor → Hold Shift → Use Arrow keys",
-        "Click text → Drag mouse → Release",
-        "Press Ctrl + A → Copy",
-        "Highlight text → Press Delete"
-      ],
-      "correct_answer": "Place cursor → Hold Shift → Use Arrow keys"
-    },
-    {
-      "category": "Editing in MS Word 2013",
-      "question": "Steps to select text using mouse",
-      "options": [
-        "Place pointer → Hold left button → Drag → Release",
-        "Press Ctrl + A → Copy",
-        "Hold Shift → Use Arrow keys",
-        "Press Delete"
-      ],
-      "correct_answer": "Place pointer → Hold left button → Drag → Release"
-    },
-    {
-      "category": "Editing in MS Word 2013",
-      "question": "Steps to delete text in Word",
-      "options": [
-        "Select text → Press Delete or Backspace",
-        "Press Ctrl + C",
-        "Select text → Press Ctrl + V",
-        "Highlight text → Press Enter"
-      ],
-      "correct_answer": "Select text → Press Delete or Backspace"
-    },
-    {
-      "category": "Editing in MS Word 2013",
-      "question": "Steps to apply text effects in Word",
-      "options": [
-        "Select text → Home tab → Font group → Choose effect",
-        "Select text → Press Ctrl + C",
-        "Highlight text → Press Delete",
-        "Go to File tab → Print"
-      ],
-      "correct_answer": "Select text → Home tab → Font group → Choose effect"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "What is Font in MS Word?",
-      "options": [
-        "A set of letters, numbers, or symbols of a given size and design",
-        "A tool to highlight text",
-        "A paragraph alignment tool",
-        "A document printer"
-      ],
-      "correct_answer": "A set of letters, numbers, or symbols of a given size and design"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "What are Default settings?",
-      "options": [
-        "Standard or pre-defined settings in software",
-        "Custom settings",
-        "Text effects",
-        "Paragraph spacing"
-      ],
-      "correct_answer": "Standard or pre-defined settings in software"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "What is Highlighting text used for?",
-      "options": [
-        "Adds coloured background to selected text",
-        "Deletes text",
-        "Moves text",
-        "Copies text"
-      ],
-      "correct_answer": "Adds coloured background to selected text"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "Which tab contains Text Effects?",
-      "options": [
-        "Home tab",
-        "Insert tab",
-        "Page Layout tab",
-        "View tab"
-      ],
-      "correct_answer": "Home tab"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "Default font and size in Word 2013?",
-      "options": [
-        "Calibri, 11",
-        "Arial, 12",
-        "Times New Roman, 10",
-        "Verdana, 14"
-      ],
-      "correct_answer": "Calibri, 11"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "Keyboard shortcut to justify text",
-      "options": [
-        "Ctrl + J",
-        "Ctrl + L",
-        "Ctrl + R",
-        "Ctrl + E"
-      ],
-      "correct_answer": "Ctrl + J"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "Shortcut for Centre Align text",
-      "options": [
-        "Ctrl + E",
-        "Ctrl + J",
-        "Ctrl + R",
-        "Ctrl + L"
-      ],
-      "correct_answer": "Ctrl + E"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "Steps to change line spacing in a paragraph",
-      "options": [
-        "Select paragraph → Home → Paragraph group → Line & Paragraph Spacing → Choose spacing",
-        "Select paragraph → Press Delete",
-        "Select text → Press Ctrl + C",
-        "Open File tab → Print"
-      ],
-      "correct_answer": "Select paragraph → Home → Paragraph group → Line & Paragraph Spacing → Choose spacing"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "Steps to print a document",
-      "options": [
-        "Open document → File → Print → Choose printer → Copies → Print",
-        "Select text → Ctrl + C → Paste",
-        "Select paragraph → Line spacing",
-        "Home → Font → Text Effects"
-      ],
-      "correct_answer": "Open document → File → Print → Choose printer → Copies → Print"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "What is Alignment in Word?",
-      "options": [
-        "The manner in which text is placed between left and right margins",
-        "Adding colour to text",
-        "Changing font size",
-        "Copying text"
-      ],
-      "correct_answer": "The manner in which text is placed between left and right margins"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "What is Uppercase?",
-      "options": [
-        "Capital letters (A, B, C…)",
-        "Small letters (a, b, c…)",
-        "Bold text",
-        "Italic text"
-      ],
-      "correct_answer": "Capital letters (A, B, C…)"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "What is Lowercase?",
-      "options": [
-        "Small letters (a, b, c…)",
-        "Capital letters (A, B, C…)",
-        "Bold text",
-        "Italic text"
-      ],
-      "correct_answer": "Small letters (a, b, c…)"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "Which tab contains Paragraph group?",
-      "options": [
-        "Home tab",
-        "Insert tab",
-        "Page Layout tab",
-        "View tab"
-      ],
-      "correct_answer": "Home tab"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "What is Paragraph spacing?",
-      "options": [
-        "White space between paragraphs",
-        "White space between lines",
-        "Text colour",
-        "Font size"
-      ],
-      "correct_answer": "White space between paragraphs"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "Worksheet Q1: When you mute the speaker, what value is shown?",
-      "options": [
-        "0",
-        "50",
-        "100",
-        "Mute icon only"
-      ],
-      "correct_answer": "0"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "Shortcut to select one character to the right of cursor",
-      "options": [
-        "Shift + →",
-        "Shift + ←",
-        "Ctrl + Shift + →",
-        "Ctrl + →"
-      ],
-      "correct_answer": "Shift + →"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "Keyboard shortcut for Right Align",
-      "options": [
-        "Ctrl + R",
-        "Ctrl + L",
-        "Ctrl + J",
-        "Ctrl + E"
-      ],
-      "correct_answer": "Ctrl + R"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "Formatting means?",
-      "options": [
-        "All of these",
-        "Changing font",
-        "Changing alignment",
-        "Adding effects"
+        "New",
+        "Open",
+        "Save",
+        "All of these"
       ],
       "correct_answer": "All of these"
     },
     {
-      "category": "Formatting in MS Word 2013",
-      "question": "True or False: Alignment is the manner in which text is placed between the margin of a page.",
+      "category": "Chapter 7: Step-wise Thinking",
+      "question": "What is the process of thinking about something to find a solution or result called?",
       "options": [
-        "True",
-        "False"
+        "Reasoning",
+        "Logic",
+        "Programming",
+        "Calculating"
       ],
-      "correct_answer": "True"
+      "correct_answer": "Reasoning"
     },
     {
-      "category": "Formatting in MS Word 2013",
-      "question": "True or False: In Word 2013, selected text is highlighted in red.",
+      "category": "Chapter 7: Step-wise Thinking",
+      "question": "What is the term for finding solutions to difficult or complex tasks?",
       "options": [
-        "True",
-        "False"
+        "Task Management",
+        "Problem Solving",
+        "Creative Writing",
+        "Data Analysis"
       ],
-      "correct_answer": "False"
+      "correct_answer": "Problem Solving"
     },
     {
-      "category": "Formatting in MS Word 2013",
-      "question": "Identify the bar that provides quick access to frequently used commands.",
+      "category": "Chapter 7: Step-wise Thinking",
+      "question": "In organizing a talent show, what is the step immediately following 'Decide on a venue'?",
       "options": [
-        "Quick Access Toolbar",
-        "Ribbon",
-        "Title Bar",
-        "Status Bar"
+        "Invite the judges",
+        "Choose a date and time",
+        "Put up the announcement",
+        "Organize the things you need"
       ],
-      "correct_answer": "Quick Access Toolbar"
+      "correct_answer": "Choose a date and time"
     },
     {
-      "category": "Formatting in MS Word 2013",
-      "question": "Which bar shows the name of the document and application?",
+      "category": "Chapter 7: Step-wise Thinking",
+      "question": "When making vegetable pulao, what should you check after selecting a recipe?",
       "options": [
-        "Title Bar",
-        "Quick Access Toolbar",
-        "Ribbon",
-        "Status Bar"
+        "If the stove is working",
+        "If the ingredients are available at home",
+        "If the vegetables are fresh",
+        "If the rice is soaked"
       ],
-      "correct_answer": "Title Bar"
+      "correct_answer": "If the ingredients are available at home"
     },
     {
-      "category": "Formatting in MS Word 2013",
-      "question": "Which button closes the Word application?",
+      "category": "Chapter 7: Step-wise Thinking",
+      "question": "What is the very first step in making a tomato and cheese sandwich?",
       "options": [
-        "Close Button",
-        "Minimize Button",
-        "Maximize Button",
-        "Ribbon"
+        "Slice the tomato into slices",
+        "Apply butter to one side of each slice of bread",
+        "Place the cheese slice",
+        "Wash the vegetables"
       ],
-      "correct_answer": "Close Button"
+      "correct_answer": "Apply butter to one side of each slice of bread"
     },
     {
-      "category": "Formatting in MS Word 2013",
-      "question": "Which panel contains tabs like Home, Insert, Page Layout?",
+      "category": "Chapter 7: Step-wise Thinking",
+      "question": "What is the fourth step when preparing your school bag before an examination?",
       "options": [
-        "Ribbon",
-        "Title Bar",
-        "Status Bar",
-        "Quick Access Toolbar"
+        "Check the exam timetable",
+        "Collect required books",
+        "Arrange everything neatly",
+        "Pack your admit card/ID and geometry box"
       ],
-      "correct_answer": "Ribbon"
+      "correct_answer": "Pack your admit card/ID and geometry box"
     },
     {
-      "category": "Formatting in MS Word 2013",
-      "question": "Which tool helps measure and align text horizontally?",
+      "category": "Chapter 7: Step-wise Thinking",
+      "question": "What is the first step in planning for a week-long holiday at a hill station?",
       "options": [
-        "Ruler",
-        "Zoom Slider",
-        "Scroll Bar",
-        "Status Bar"
+        "Pack your bags",
+        "Book travel tickets",
+        "Decide the hill station and travel dates",
+        "Make a list of clothes"
       ],
-      "correct_answer": "Ruler"
+      "correct_answer": "Decide the hill station and travel dates"
     },
     {
-      "category": "Formatting in MS Word 2013",
-      "question": "Name the bar for vertical navigation in a document.",
+      "category": "Chapter 7: Step-wise Thinking",
+      "question": "Identify the missing number in the circle pattern: (8, 4, 5, 3) -> 28; (6, 2, 5, 7) -> 16; (6, 5, 6, 5) -> ?",
       "options": [
-        "Vertical Scroll Bar",
-        "Horizontal Scroll Bar",
-        "Ribbon",
-        "Status Bar"
+        "10",
+        "11",
+        "15",
+        "20"
       ],
-      "correct_answer": "Vertical Scroll Bar"
+      "correct_answer": "11"
     },
     {
-      "category": "Formatting in MS Word 2013",
-      "question": "Which slider is used to zoom in or out?",
+      "category": "Chapter 8: File Management in Windows 10",
+      "question": "What is a container located on a storage device where the computer stores files and sub-folders?",
       "options": [
-        "Zoom Slider",
-        "Scroll Bar",
-        "Ribbon",
-        "Status Bar"
+        "File",
+        "Shortcut",
+        "Folder",
+        "Desktop"
       ],
-      "correct_answer": "Zoom Slider"
+      "correct_answer": "Folder"
     },
     {
-      "category": "Formatting in MS Word 2013",
-      "question": "Buttons to switch between Print Layout, Read Mode, and Web Layout?",
+      "category": "Chapter 8: File Management in Windows 10",
+      "question": "What does 'Renaming' a file or folder mean?",
       "options": [
-        "View Buttons",
-        "Ribbon Buttons",
-        "Quick Access Buttons",
-        "Status Bar Buttons"
+        "Changing the file type",
+        "Giving a new name to an existing file or folder",
+        "Moving it to a new location",
+        "Deleting the file extension"
       ],
-      "correct_answer": "View Buttons"
+      "correct_answer": "Giving a new name to an existing file or folder"
     },
     {
-      "category": "Formatting in MS Word 2013",
-      "question": "What is the blinking line showing where the next character will appear?",
+      "category": "Chapter 8: File Management in Windows 10",
+      "question": "What is the definition of 'Copying' a file?",
       "options": [
-        "Insertion Point",
-        "Cursor",
-        "Pointer",
-        "Scroll Bar"
+        "Moving it to the Recycle Bin",
+        "Making a duplicate of a file or folder",
+        "Removing it from the source",
+        "Changing its properties"
       ],
-      "correct_answer": "Insertion Point"
+      "correct_answer": "Making a duplicate of a file or folder"
     },
     {
-      "category": "Formatting in MS Word 2013",
-      "question": "Which area shows the content of the document where you type?",
+      "category": "Chapter 8: File Management in Windows 10",
+      "question": "What is the main difference between 'Copying' and 'Moving'?",
       "options": [
-        "Document Window",
-        "Ribbon",
-        "Status Bar",
-        "Title Bar"
+        "Copying removes the original; Moving keeps it",
+        "Copying leaves the original in place; Moving shifts it to a new location",
+        "Moving is faster than copying",
+        "Copying changes the file name; Moving does not"
       ],
-      "correct_answer": "Document Window"
+      "correct_answer": "Copying leaves the original in place; Moving shifts it to a new location"
     },
     {
-      "category": "Formatting in MS Word 2013",
-      "question": "Which bar allows horizontal navigation through the document?",
+      "category": "Chapter 8: File Management in Windows 10",
+      "question": "Where does a file go when it is deleted but not permanently removed?",
       "options": [
-        "Horizontal Scroll Bar",
-        "Vertical Scroll Bar",
-        "Zoom Slider",
-        "Ribbon"
-      ],
-      "correct_answer": "Horizontal Scroll Bar"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "Which bar at the bottom shows page number, word count, and language?",
-      "options": [
-        "Status Bar",
-        "Title Bar",
-        "Quick Access Toolbar",
-        "Ribbon"
-      ],
-      "correct_answer": "Status Bar"
-    },
-    {
-      "category": "More About Windows",
-      "question": "What is a Desktop?",
-      "options": [
-        "The first screen that appears when you start the computer",
-        "A program used to create files",
-        "The notification area",
-        "A folder for storing files"
-      ],
-      "correct_answer": "The first screen that appears when you start the computer"
-    },
-    {
-      "category": "More About Windows",
-      "question": "What is a File?",
-      "options": [
-        "A collection of data, information, settings, or commands",
-        "A program",
-        "A folder",
-        "A shortcut"
-      ],
-      "correct_answer": "A collection of data, information, settings, or commands"
-    },
-    {
-      "category": "More About Windows",
-      "question": "What is a Folder?",
-      "options": [
-        "A location for storing a group of files and folders",
-        "A single file",
-        "A desktop icon",
-        "A shortcut to a program"
-      ],
-      "correct_answer": "A location for storing a group of files and folders"
-    },
-    {
-      "category": "More About Windows",
-      "question": "What is Wallpaper?",
-      "options": [
-        "The background image on the desktop of a computer",
-        "The taskbar at the bottom",
-        "An icon for files",
-        "The screen saver"
-      ],
-      "correct_answer": "The background image on the desktop of a computer"
-    },
-    {
-      "category": "More About Windows",
-      "question": "What is a Screen Saver?",
-      "options": [
-        "An image seen on the computer when it is left idle for some time",
-        "The desktop background",
-        "A program on the taskbar",
-        "A folder containing files"
-      ],
-      "correct_answer": "An image seen on the computer when it is left idle for some time"
-    },
-    {
-      "category": "More About Windows",
-      "question": "What is the Taskbar?",
-      "options": [
-        "A long horizontal bar at the bottom of the screen",
-        "A folder for storing files",
-        "The desktop background",
-        "An application window"
-      ],
-      "correct_answer": "A long horizontal bar at the bottom of the screen"
-    },
-    {
-      "category": "More About Windows",
-      "question": "Which icon allows you to access all data stored on your computer?",
-      "options": [
-        "This PC icon",
+        "Documents folder",
         "Recycle Bin",
-        "Start button",
-        "Quick Launch bar"
+        "Temp folder",
+        "Desktop"
       ],
-      "correct_answer": "This PC icon"
+      "correct_answer": "Recycle Bin"
     },
     {
-      "category": "More About Windows",
-      "question": "Which window is used to change the wallpaper and screen saver?",
+      "category": "Chapter 8: File Management in Windows 10",
+      "question": "How can you restore a file from the Recycle Bin to its original location?",
       "options": [
-        "Personalization window",
-        "File Explorer",
-        "Settings window",
-        "Task Manager"
+        "Using the context menu (right-click)",
+        "By dragging it to the Desktop",
+        "By renaming the file",
+        "By double-clicking it"
       ],
-      "correct_answer": "Personalization window"
+      "correct_answer": "Using the context menu (right-click)"
     },
     {
-      "category": "More About Windows",
-      "question": "What are the three main sections of the taskbar?",
+      "category": "Chapter 8: File Management in Windows 10",
+      "question": "What happens when you right-click a file or folder while dragging it?",
       "options": [
-        "Start button, System tray, Quick Launch bar",
-        "Desktop, Icons, Recycle Bin",
-        "File Explorer, Task Manager, Search Bar",
-        "Notification area, Control Panel, Start Menu"
+        "The file is instantly deleted",
+        "The computer crashes",
+        "A menu appears with options like Copy here or Move here",
+        "The file is automatically renamed"
       ],
-      "correct_answer": "Start button, System tray, Quick Launch bar"
+      "correct_answer": "A menu appears with options like Copy here or Move here"
     },
     {
-      "category": "More About Windows",
-      "question": "Can you move the taskbar to any of the four sides of the screen?",
+      "category": "Chapter 8: File Management in Windows 10",
+      "question": "Which function key is used as a shortcut to rename a selected file?",
       "options": [
-        "Yes",
-        "No",
-        "Only top and bottom",
-        "Only left side"
+        "F1",
+        "F2",
+        "F5",
+        "F12"
       ],
-      "correct_answer": "Yes"
+      "correct_answer": "F2"
     },
     {
-      "category": "More About Windows",
-      "question": "Can programs be added or removed from the taskbar?",
+      "category": "Chapter 8: File Management in Windows 10",
+      "question": "Which shortcut key combination permanently deletes selected files?",
       "options": [
-        "Yes",
-        "No",
-        "Only removed",
-        "Only added"
+        "Ctrl + Delete",
+        "Alt + Delete",
+        "Shift + Delete",
+        "Windows + D"
       ],
-      "correct_answer": "Yes"
+      "correct_answer": "Shift + Delete"
     },
     {
-      "category": "More About Windows",
-      "question": "How can you hide the taskbar when not using it?",
+      "category": "Chapter 8: File Management in Windows 10",
+      "question": "On which bar is the 'Minimize' button located?",
       "options": [
-        "Enable 'Automatically hide the taskbar in desktop mode'",
-        "Press Delete on taskbar",
-        "Right-click desktop and select Hide",
-        "Drag the taskbar off screen"
+        "Status bar",
+        "Title bar",
+        "Menu bar",
+        "Taskbar"
       ],
-      "correct_answer": "Enable 'Automatically hide the taskbar in desktop mode'"
+      "correct_answer": "Title bar"
     },
     {
-      "category": "More About Windows",
-      "question": "How can you change the date/time and speaker volume?",
+      "category": "Chapter 9: AI and Humans",
+      "question": "What is Artificial Intelligence (AI)?",
       "options": [
-        "Using buttons on the taskbar",
-        "Using Control Panel only",
-        "From desktop icons",
-        "From File Explorer"
+        "A computer virus",
+        "Technology that can perform tasks usually done by humans",
+        "A typing software",
+        "A manual calculator"
       ],
-      "correct_answer": "Using buttons on the taskbar"
+      "correct_answer": "Technology that can perform tasks usually done by humans"
     },
     {
-      "category": "More About Windows",
-      "question": "Which ways can you arrange open windows on the screen?",
+      "category": "Chapter 9: AI and Humans",
+      "question": "What is a house called that uses technology to make everyday tasks easier?",
       "options": [
-        "Cascade, stacked, side by side",
-        "Vertical, horizontal, diagonal",
-        "Minimized, maximized, normal",
-        "Hidden, restored, minimized"
+        "Modern House",
+        "Smart Home",
+        "Digital Cabin",
+        "Auto-Cottage"
       ],
-      "correct_answer": "Cascade, stacked, side by side"
+      "correct_answer": "Smart Home"
     },
     {
-      "category": "More About Windows",
-      "question": "How can more than one window be opened and switched between?",
+      "category": "Chapter 9: AI and Humans",
+      "question": "According to the sources, what is a key advantage of AI regarding 'Accuracy'?",
       "options": [
-        "Using Alt + Tab",
-        "Using Ctrl + Tab",
-        "Using Shift + Tab",
-        "Double-clicking desktop"
+        "It makes mistakes often",
+        "It can perform tasks perfectly every time without mistakes",
+        "It only works accurately during the day",
+        "It is less accurate than humans"
       ],
-      "correct_answer": "Using Alt + Tab"
+      "correct_answer": "It can perform tasks perfectly every time without mistakes"
     },
     {
-      "category": "More About Windows",
-      "question": "How can you snap four windows on four corners of the screen?",
+      "category": "Chapter 9: AI and Humans",
+      "question": "How does Artificial Intelligence learn?",
       "options": [
-        "Drag each window to a corner",
-        "Use Alt + Tab",
-        "Use Ctrl + Shift + Arrow keys",
-        "Resize manually"
+        "From experience and practice",
+        "From data and algorithms",
+        "By going to school",
+        "It cannot learn"
       ],
-      "correct_answer": "Drag each window to a corner"
+      "correct_answer": "From data and algorithms"
     },
     {
-      "category": "More About Windows",
-      "question": "Fill in the blank: The window used to change the wallpaper and screen saver is ________.",
+      "category": "Chapter 9: AI and Humans",
+      "question": "Which of the following is true about AI and emotions?",
       "options": [
-        "Personalization",
-        "Settings",
-        "File Explorer",
-        "Task Manager"
+        "AI feels happy when it works",
+        "AI does not have feelings like happy, sad, or excited",
+        "AI has the same emotions as humans",
+        "AI can feel angry if it makes a mistake"
       ],
-      "correct_answer": "Personalization"
+      "correct_answer": "AI does not have feelings like happy, sad, or excited"
     },
     {
-      "category": "More About Windows",
-      "question": "Fill in the blank: When the window is active, its taskbar button is ________.",
+      "category": "Chapter 9: AI and Humans",
+      "question": "Which of these is NOT an example of a smart machine?",
       "options": [
-        "Highlighted",
-        "Dimmed",
-        "Hidden",
-        "Minimized"
+        "Robot",
+        "Virtual Assistant",
+        "Typewriter",
+        "Smart Smartphone"
       ],
-      "correct_answer": "Highlighted"
+      "correct_answer": "Typewriter"
     },
     {
-      "category": "More About Windows",
-      "question": "Fill in the blank: You can view the desktop using the ________ button on the extreme right.",
+      "category": "Chapter 9: AI and Humans",
+      "question": "Give an example of a smart home device used for lighting.",
       "options": [
-        "Show desktop",
-        "Start",
-        "Task View",
-        "Quick Launch"
+        "Oil lamp",
+        "Automated lighting",
+        "Manual switch",
+        "Flashlight"
       ],
-      "correct_answer": "Show desktop"
+      "correct_answer": "Automated lighting"
     },
     {
-      "category": "More About Windows",
-      "question": "Fill in the blank: The date and time can be changed ________ or automatically.",
+      "category": "Chapter 9: AI and Humans",
+      "question": "What is the short form of Artificial Intelligence?",
       "options": [
-        "Manually",
-        "Randomly",
-        "By default",
-        "Never"
+        "ArIn",
+        "ARTI",
+        "AI",
+        "AINT"
       ],
-      "correct_answer": "Manually"
+      "correct_answer": "AI"
     },
     {
-      "category": "More About Windows",
-      "question": "Fill in the blank: To add a program to a taskbar, click the ________ option.",
+      "category": "Word Puzzles",
+      "question": "Unscramble the word: UTMTAEDO",
       "options": [
-        "Pin to taskbar",
-        "Add to desktop",
-        "Move to taskbar",
-        "Shortcut"
+        "ADMITTED",
+        "AUTOMATED",
+        "TREATED",
+        "AMPUTATED"
       ],
-      "correct_answer": "Pin to taskbar"
+      "correct_answer": "AUTOMATED"
     },
     {
-      "category": "More About Windows",
-      "question": "True or False: You cannot snap four windows on the four corners of the screen.",
+      "category": "Word Puzzles",
+      "question": "Unscramble the word: CREYLEC IBN",
+      "options": [
+        "RECYCLE BIN",
+        "CIRCLE BIND",
+        "RECREATE BIN",
+        "CYCLE BENCH"
+      ],
+      "correct_answer": "RECYCLE BIN"
+    },
+    {
+      "category": "Word Puzzles",
+      "question": "Unscramble the word: PLEOXERER",
+      "options": [
+        "PROPELLER",
+        "EXPLORER",
+        "EXPORTER",
+        "EXPERIENCE"
+      ],
+      "correct_answer": "EXPLORER"
+    },
+    {
+      "category": "Word Puzzles",
+      "question": "Unscramble the word: HITNKIGN",
+      "options": [
+        "HIKING",
+        "THINKING",
+        "KNITTING",
+        "THICKENING"
+      ],
+      "correct_answer": "THINKING"
+    },
+    {
+      "category": "Word Puzzles",
+      "question": "Unscramble the word: SEPERNATONIT",
+      "options": [
+        "REPETITION",
+        "PRESENTATION",
+        "PENETRATION",
+        "SEPARATION"
+      ],
+      "correct_answer": "PRESENTATION"
+    },
+    {
+      "category": "Word Puzzles",
+      "question": "Unscramble the word: CCAESS",
+      "options": [
+        "CASES",
+        "ACCESS",
+        "ASSESS",
+        "EXCESS"
+      ],
+      "correct_answer": "ACCESS"
+    },{
+      "category": "Chapter 6: PowerPoint 2013 - Tech Terms",
+      "question": "What is a systematic display of information on a particular topic called?",
+      "options": [
+        "Slide Show",
+        "Presentation",
+        "Placeholder",
+        "Folder"
+      ],
+      "correct_answer": "Presentation"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Tech Terms",
+      "question": "What is an individual page in a presentation called?",
+      "options": [
+        "Slide",
+        "Placeholder",
+        "Template",
+        "Theme"
+      ],
+      "correct_answer": "Slide"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Tech Terms",
+      "question": "What is the dotted rectangular box on a slide that can hold text or pictures called?",
+      "options": [
+        "Text Box",
+        "Placeholder",
+        "Frame",
+        "Shape"
+      ],
+      "correct_answer": "Placeholder"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Tech Terms",
+      "question": "What is a series of slides displayed one by one on the screen called?",
+      "options": [
+        "Presentation",
+        "Slide Show",
+        "Slide Sorter",
+        "Preview"
+      ],
+      "correct_answer": "Slide Show"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - To Sum Up",
+      "question": "To start Microsoft PowerPoint 2013, which sequence of clicks should you follow?",
+      "options": [
+        "Start → All Programs → Microsoft Office 2013 → PowerPoint 2013",
+        "Start → Microsoft Office → PowerPoint 2013",
+        "Start → Programs → Office → PowerPoint 2013",
+        "Start → All Apps → PowerPoint 2013"
+      ],
+      "correct_answer": "Start → All Programs → Microsoft Office 2013 → PowerPoint 2013"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - To Sum Up",
+      "question": "When you start a new blank presentation, what slide does it display by default?",
+      "options": [
+        "Blank Slide",
+        "Title Slide",
+        "Content Slide",
+        "Two Content Slide"
+      ],
+      "correct_answer": "Title Slide"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - To Sum Up",
+      "question": "Which view has options to create, open, save, and close a presentation?",
+      "options": [
+        "Slide Show View",
+        "Normal View",
+        "Backstage View",
+        "Outline View"
+      ],
+      "correct_answer": "Backstage View"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - To Sum Up",
+      "question": "You can create a new presentation using which of the following?",
+      "options": [
+        "Only a Theme",
+        "Only a Template",
+        "A Theme or a Template",
+        "Only a Blank Presentation"
+      ],
+      "correct_answer": "A Theme or a Template"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - To Sum Up",
+      "question": "From where can you insert pictures into a slide?",
+      "options": [
+        "Only from the computer",
+        "Only from the internet",
+        "From the computer or the internet",
+        "Only from OneDrive"
+      ],
+      "correct_answer": "From the computer or the internet"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - To Sum Up",
+      "question": "What is the default file extension for PowerPoint 2013?",
+      "options": [
+        ".ppt",
+        ".pptx",
+        ".ppsx",
+        ".pptm"
+      ],
+      "correct_answer": ".pptx"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - To Sum Up",
+      "question": "Which of the following is NOT a way to move through slides?",
+      "options": [
+        "Previous and Next Slide buttons",
+        "Vertical scroll bar",
+        "Arrow keys",
+        "Using the mouse wheel"
+      ],
+      "correct_answer": "Using the mouse wheel"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - To Sum Up",
+      "question": "Which key is a shortcut to run a slide show?",
+      "options": [
+        "F1",
+        "F5",
+        "F7",
+        "F12"
+      ],
+      "correct_answer": "F5"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Fill in the Blanks",
+      "question": "A __________ is a systematic display of information on a particular topic.",
+      "options": [
+        "Presentation",
+        "Slide",
+        "Placeholder",
+        "Show"
+      ],
+      "correct_answer": "Presentation"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Fill in the Blanks",
+      "question": "Individual pages of a presentation are called __________.",
+      "options": [
+        "Slides",
+        "Pages",
+        "Sheets",
+        "Frames"
+      ],
+      "correct_answer": "Slides"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Fill in the Blanks",
+      "question": "The Minimize button is present on the __________ bar.",
+      "options": [
+        "Title",
+        "Menu",
+        "Status",
+        "Tool"
+      ],
+      "correct_answer": "Title"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Fill in the Blanks",
+      "question": "The dotted rectangular box on the slide is called the __________.",
+      "options": [
+        "Placeholder",
+        "Text Box",
+        "Shape",
+        "Frame"
+      ],
+      "correct_answer": "Placeholder"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Fill in the Blanks",
+      "question": "To insert a new slide, click the __________ tab.",
+      "options": [
+        "Home",
+        "Insert",
+        "Design",
+        "View"
+      ],
+      "correct_answer": "Home"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - True False",
+      "question": "A presentation is created in the form of a series of slides.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - True False",
+      "question": "Quick Access Toolbar contains only Undo and Redo buttons.",
       "options": [
         "True",
         "False"
@@ -787,8 +678,26 @@
       "correct_answer": "False"
     },
     {
-      "category": "More About Windows",
-      "question": "True or False: Once the program is added to the taskbar, you cannot remove it.",
+      "category": "Chapter 6: PowerPoint 2013 - True False",
+      "question": "Reviewers can leave comments on any slide.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - True False",
+      "question": "The number to the right of the Zoom slider shows the zoom percentage.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - True False",
+      "question": "The two scrollbars are used to set the left and right margins.",
       "options": [
         "True",
         "False"
@@ -796,229 +705,1430 @@
       "correct_answer": "False"
     },
     {
-      "category": "More About Windows",
-      "question": "True or False: You can change the position of the taskbar.",
+      "category": "Chapter 6: PowerPoint 2013 - Choose the Correct Option",
+      "question": "The keyboard shortcut to run a slide show is:",
       "options": [
-        "True",
-        "False"
+        "F1",
+        "F5",
+        "F10",
+        "F12"
       ],
-      "correct_answer": "True"
+      "correct_answer": "F5"
     },
     {
-      "category": "More About Windows",
-      "question": "True or False: If the Lock the toolbar option is checked, you cannot move the taskbar.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "True"
-    },
-    {
-      "category": "More About Windows",
-      "question": "True or False: To hide the taskbar, the 'Automatically hide the taskbar in desktop mode' should be On.",
-      "options": [
-        "True",
-        "False"
-      ],
-      "correct_answer": "True"
-    },
-    {
-      "category": "More About Windows",
-      "question": "Which keyboard shortcut is used to open more than one window and shuffle between them?",
-      "options": [
-        "Alt + Tab",
-        "Ctrl + Tab",
-        "Shift + Tab",
-        "Ctrl + Alt + Del"
-      ],
-      "correct_answer": "Alt + Tab"
-    },
-    {
-      "category": "More About Windows",
-      "question": "When you mute the speaker, what value will be shown?",
-      "options": [
-        "0",
-        "25",
-        "50",
-        "100"
-      ],
-      "correct_answer": "0"
-    },
-    {
-      "category": "More About Windows",
-      "question": "Which is the position of the Start button on the taskbar?",
+      "category": "Chapter 6: PowerPoint 2013 - Choose the Correct Option",
+      "question": "Minimize, Close, and Maximize buttons are present on the __________ side of the Title bar.",
       "options": [
         "Left",
         "Right",
-        "Middle",
-        "Any one of them"
-      ],
-      "correct_answer": "Left"
-    },
-    {
-      "category": "More About Windows",
-      "question": "Which button will you click to minimize all open windows on the screen?",
-      "options": [
-        "Show desktop",
-        "Speaker",
-        "Date/Time",
-        "Show hidden icons"
-      ],
-      "correct_answer": "Show desktop"
-    },
-    {
-      "category": "More About Windows",
-      "question": "Where is the System tray located on the taskbar?",
-      "options": [
-        "Right",
-        "Left",
-        "Middle",
-        "None of these"
+        "Center",
+        "Bottom"
       ],
       "correct_answer": "Right"
     },
     {
-      "category": "More About Windows",
-      "question": "How will you mute the speaker?",
+      "category": "Chapter 6: PowerPoint 2013 - Choose the Correct Option",
+      "question": "Which of the following are available on clicking the FILE tab?",
       "options": [
-        "Click on the speaker icon in the taskbar and select mute or drag volume to 0",
-        "Turn off the computer",
-        "Close the window",
-        "Use Alt + Tab"
+        "New and Open",
+        "Save and Save As",
+        "Close",
+        "All of these"
       ],
-      "correct_answer": "Click on the speaker icon in the taskbar and select mute or drag volume to 0"
+      "correct_answer": "All of these"
     },
     {
-      "category": "More About Windows",
-      "question": "Which icon is used to view all the files/folders stored in your computer?",
+      "category": "Chapter 6: PowerPoint 2013 - Choose the Correct Option",
+      "question": "The Slide Show button is available on the:",
       "options": [
-        "This PC icon",
-        "Recycle Bin",
-        "Start button",
-        "Taskbar"
+        "Title bar",
+        "Status bar",
+        "Menu bar",
+        "Ribbon"
       ],
-      "correct_answer": "This PC icon"
+      "correct_answer": "Status bar"
     },
     {
-      "category": "More About Windows",
-      "question": "List the three ways to arrange open windows on the screen.",
+      "category": "Chapter 6: PowerPoint 2013 - Choose the Correct Option",
+      "question": "The filename extension of a PowerPoint presentation is:",
       "options": [
-        "Cascade, Show windows stacked, Show windows side by side",
-        "Minimize, Maximize, Restore",
-        "Snap, Dock, Float",
-        "Tile horizontally, Tile vertically, Cascade"
+        ".pptx",
+        ".docx",
+        ".xlsx",
+        ".pdf"
       ],
-      "correct_answer": "Cascade, Show windows stacked, Show windows side by side"
+      "correct_answer": ".pptx"
     },
     {
-      "category": "More About Windows",
-      "question": "Gaurav has opened several windows but wants to work with the This PC window. What should he do?",
-      "options": [
-        "Click on the This PC window on the taskbar to bring it to the front",
-        "Close all other windows",
-        "Restart the computer",
-        "Use Ctrl + Tab"
-      ],
-      "correct_answer": "Click on the This PC window on the taskbar to bring it to the front"
-    },
-    {
-      "category": "More About Windows",
-      "question": "Smitha wants to increase the volume of the speaker. What should she do?",
-      "options": [
-        "Click on the speaker icon in the taskbar and increase the volume",
-        "Restart the computer",
-        "Press Alt + F4",
-        "Open File Explorer"
-      ],
-      "correct_answer": "Click on the speaker icon in the taskbar and increase the volume"
-    },
-    {
-      "category": "More About Windows",
-      "question": "Which steps will you follow to change the time displayed on Windows 10 by 2 hours?",
-      "options": [
-        "Right-click date/time → Adjust date/time → Turn off 'Set time automatically' → Change time manually → Click OK",
-        "Open File Explorer → Settings → Time",
-        "Click Start → Personalization → Time",
-        "Right-click taskbar → Lock the toolbar"
-      ],
-      "correct_answer": "Right-click date/time → Adjust date/time → Turn off 'Set time automatically' → Change time manually → Click OK"
-    },
-    {
-      "category": "More About Windows",
-      "question": "One student adds the Paint program to the taskbar and another removes it. Which option is used to add a program to the taskbar?",
-      "options": [
-        "Pin to taskbar",
-        "Add to desktop",
-        "Move to taskbar",
-        "Shortcut"
-      ],
-      "correct_answer": "Pin to taskbar"
-    },
-    {
-      "category": "More About Windows",
-      "question": "How can you remove a program from the taskbar?",
-      "options": [
-        "Right-click the program icon and select 'Unpin from taskbar'",
-        "Drag it to the desktop",
-        "Press Delete key",
-        "Use Ctrl + X"
-      ],
-      "correct_answer": "Right-click the program icon and select 'Unpin from taskbar'"
-    },
-    {
-      "category": "More About Windows",
-      "question": "How do you set your computer clock to a different timezone, e.g., London time?",
-      "options": [
-        "Right-click date/time → Adjust date/time → Turn off 'Set time automatically' → Change time manually",
-        "Open File Explorer → Settings → Time",
-        "Click Start → Personalization → Time",
-        "Drag the clock icon to new location"
-      ],
-      "correct_answer": "Right-click date/time → Adjust date/time → Turn off 'Set time automatically' → Change time manually"
-    },
-    {
-      "category": "Editing in MS Word 2013",
-      "question": "Which tool provides synonyms for a word?",
-      "options": [
-        "Thesaurus",
-        "Dictionary",
-        "Spell Check",
-        "Undo"
-      ],
-      "correct_answer": "Thesaurus"
-    },
-    {
-      "category": "Editing in MS Word 2013",
-      "question": "Which command carries out the last command again?",
-      "options": [
-        "Repeat",
-        "Undo",
-        "Redo",
-        "Copy"
-      ],
-      "correct_answer": "Repeat"
-    },
-    {
-      "category": "Formatting in MS Word 2013",
-      "question": "Which tab has the Text Effect option?",
+      "category": "Chapter 6: PowerPoint 2013 - Descriptive Type Questions",
+      "question": "Name the tab that has the option to insert a new slide.",
       "options": [
         "Home tab",
         "Insert tab",
-        "Page Layout tab",
+        "Design tab",
         "View tab"
       ],
       "correct_answer": "Home tab"
     },
     {
-      "category": "Formatting in MS Word 2013",
-      "question": "Why do we use Default settings in MS Word?",
+      "category": "Chapter 6: PowerPoint 2013 - Descriptive Type Questions",
+      "question": "Which tab and group has the option to insert pictures in a slide?",
       "options": [
-        "They are standard or pre-defined settings that apply automatically",
-        "To delete the document",
-        "To apply effects manually",
-        "To save a file in a folder"
+        "Insert tab → Images group",
+        "Home tab → Drawing group",
+        "Design tab → Themes group",
+        "View tab → Show group"
       ],
-      "correct_answer": "They are standard or pre-defined settings that apply automatically"
+      "correct_answer": "Insert tab → Images group"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Descriptive Type Questions",
+      "question": "Mention two ways to insert pictures on a slide.",
+      "options": [
+        "From computer and from internet",
+        "From clipboard and from scanner",
+        "From OneDrive and from email",
+        "From camera and from phone"
+      ],
+      "correct_answer": "From computer and from internet"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Descriptive Type Questions",
+      "question": "Write the keyboard shortcut to save a presentation.",
+      "options": [
+        "Ctrl + S",
+        "Ctrl + P",
+        "Ctrl + O",
+        "Ctrl + N"
+      ],
+      "correct_answer": "Ctrl + S"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Descriptive Type Questions",
+      "question": "Which bar has the buttons to move to the previous and next slides?",
+      "options": [
+        "Vertical scroll bar",
+        "Horizontal scroll bar",
+        "Title bar",
+        "Status bar"
+      ],
+      "correct_answer": "Vertical scroll bar"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Application-Based Questions",
+      "question": "Uddhav has created a presentation. How can he run the slide show using the keyboard?",
+      "options": [
+        "Press F5",
+        "Press F1",
+        "Press Ctrl + S",
+        "Press Alt + F4"
+      ],
+      "correct_answer": "Press F5"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Application-Based Questions",
+      "question": "Tanzia inserted a blank slide. How can she type text on it?",
+      "options": [
+        "Click inside a placeholder and type",
+        "Double-click the slide",
+        "Press Ctrl + T",
+        "Right-click and choose 'Add Text'"
+      ],
+      "correct_answer": "Click inside a placeholder and type"
+    },
+    {
+      "category": "Worksheet 3 - Unjumble (Ch 5 & 6)",
+      "question": "Unjumble 'LDESI' (Hint: Individual page of a presentation).",
+      "options": [
+        "SLIDE",
+        "SILED",
+        "DELIS",
+        "LEDIS"
+      ],
+      "correct_answer": "SLIDE"
+    },
+    {
+      "category": "Worksheet 3 - Unjumble (Ch 5 & 6)",
+      "question": "Unjumble 'OMANRL' (Hint: Default view of a presentation).",
+      "options": [
+        "NORMAL",
+        "MANORL",
+        "ROLMAN",
+        "MONRAL"
+      ],
+      "correct_answer": "NORMAL"
+    },
+    {
+      "category": "Worksheet 3 - Unjumble (Ch 5 & 6)",
+      "question": "Unjumble 'CALITI' (Hint: Slant text style).",
+      "options": [
+        "ITALIC",
+        "CITALI",
+        "LATIC I",
+        "TICALI"
+      ],
+      "correct_answer": "ITALIC"
+    },
+    {
+      "category": "Worksheet 3 - Unjumble (Ch 5 & 6)",
+      "question": "Unjumble 'RESBROW' (Hint: A program to display the information about a searched topic).",
+      "options": [
+        "BROWSER",
+        "RESBROW",
+        "ROWBRES",
+        "SERBROW"
+      ],
+      "correct_answer": "BROWSER"
+    },
+    {
+      "category": "Worksheet 3 - Unjumble (Ch 5 & 6)",
+      "question": "Unjumble 'MEDMO' (Hint: A device to connect computers on the Internet).",
+      "options": [
+        "MODEM",
+        "MEDMO",
+        "MOMED",
+        "DEMOM"
+      ],
+      "correct_answer": "MODEM"
+    },
+    {
+      "category": "Worksheet 3 - Label the Browser Parts",
+      "question": "In a web browser, what part shows the website currently in view?",
+      "options": [
+        "Web Page / Website Display Area",
+        "Address Bar",
+        "Tab",
+        "Home Button"
+      ],
+      "correct_answer": "Web Page / Website Display Area"
+    },
+    {
+      "category": "Worksheet 3 - Label the Browser Parts",
+      "question": "Which button is used to refresh the web page?",
+      "options": [
+        "Refresh Button",
+        "Home Button",
+        "Back Button",
+        "Forward Button"
+      ],
+      "correct_answer": "Refresh Button"
+    },
+    {
+      "category": "Worksheet 3 - Label the Browser Parts",
+      "question": "Which button takes you to the home page?",
+      "options": [
+        "Home Button",
+        "Refresh Button",
+        "Back Button",
+        "Forward Button"
+      ],
+      "correct_answer": "Home Button"
+    },
+    {
+      "category": "Worksheet 3 - Label the Browser Parts",
+      "question": "Which button takes you to the previous page?",
+      "options": [
+        "Back Button",
+        "Forward Button",
+        "Refresh Button",
+        "Home Button"
+      ],
+      "correct_answer": "Back Button"
+    },
+    {
+      "category": "Worksheet 3 - Label the Browser Parts",
+      "question": "Which button is used to open a website in a new tab?",
+      "options": [
+        "New Tab Button",
+        "Refresh Button",
+        "Home Button",
+        "Back Button"
+      ],
+      "correct_answer": "New Tab Button"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Tech Terms",
+      "question": "What is the act or process of thinking about something and then coming up with a solution or result called?",
+      "options": [
+        "Reasoning",
+        "Problem Solving",
+        "Stepwise Thinking",
+        "Prediction"
+      ],
+      "correct_answer": "Reasoning"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Tech Terms",
+      "question": "What is the process of finding solutions to difficult or complex tasks called?",
+      "options": [
+        "Reasoning",
+        "Problem Solving",
+        "Stepwise Thinking",
+        "Analysis"
+      ],
+      "correct_answer": "Problem Solving"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - To Sum Up",
+      "question": "What helps in converting complicated tasks into simple steps?",
+      "options": [
+        "Stepwise thinking",
+        "Reasoning skills",
+        "Problem solving",
+        "Prediction"
+      ],
+      "correct_answer": "Stepwise thinking"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - To Sum Up",
+      "question": "To solve a problem, what is the first thing you need to do?",
+      "options": [
+        "Think of various options",
+        "Choose the most suitable solution",
+        "Look for a pattern",
+        "Make a table"
+      ],
+      "correct_answer": "Think of various options"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - To Sum Up",
+      "question": "To solve a mathematical problem, you need to look for a pattern by making a table, find a relationship, and make a __________.",
+      "options": [
+        "Prediction",
+        "Solution",
+        "Decision",
+        "Calculation"
+      ],
+      "correct_answer": "Prediction"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Exercises (Steps to Cross the Road)",
+      "question": "What is the first step in crossing the road at a traffic signal?",
+      "options": [
+        "Stand at the zebra crossing",
+        "Wait at the pavement when there is a green light",
+        "Start when there is a red light",
+        "Keep watching as you cross"
+      ],
+      "correct_answer": "Stand at the zebra crossing"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Exercises (Steps to Cross the Road)",
+      "question": "What should you do if a zebra crossing is not available?",
+      "options": [
+        "Stand at a point from where you can see the entire traffic",
+        "Cross quickly",
+        "Wait for someone to help",
+        "Run across the road"
+      ],
+      "correct_answer": "Stand at a point from where you can see the entire traffic"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Exercises (Steps to Cross the Road)",
+      "question": "When should you wait at the pavement?",
+      "options": [
+        "When there is a green light and traffic is moving",
+        "When there is a red light",
+        "When there is no traffic",
+        "When you are already crossing"
+      ],
+      "correct_answer": "When there is a green light and traffic is moving"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Exercises (Steps to Cross the Road)",
+      "question": "When should you start crossing the road?",
+      "options": [
+        "When there is a red light and the traffic stops",
+        "When there is a green light",
+        "When there is no traffic light",
+        "When the road is empty"
+      ],
+      "correct_answer": "When there is a red light and the traffic stops"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Exercises (Steps to Cross the Road)",
+      "question": "What should you do as you cross the road?",
+      "options": [
+        "Keep watching and listening",
+        "Run fast",
+        "Talk on the phone",
+        "Close your eyes"
+      ],
+      "correct_answer": "Keep watching and listening"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Exercises (Number Pattern)",
+      "question": "If 1-10 = 55 and 11-20 = 155, what is 31-40?",
+      "options": [
+        "255",
+        "355",
+        "455",
+        "555"
+      ],
+      "correct_answer": "355"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Exercises (Number Pattern)",
+      "question": "If 21-30 = 255, what is 41-50?",
+      "options": [
+        "355",
+        "455",
+        "555",
+        "655"
+      ],
+      "correct_answer": "455"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Exercises (Number Pattern)",
+      "question": "What is the sum of numbers 51 to 60?",
+      "options": [
+        "455",
+        "555",
+        "655",
+        "755"
+      ],
+      "correct_answer": "555"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Exercises (Missing Number Pattern)",
+      "question": "In the pattern 4→7, 9→8, 8→14, what number maps to 16?",
+      "options": [
+        "10",
+        "12",
+        "14",
+        "16"
+      ],
+      "correct_answer": "10"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Application-Based Questions (Daily Activities)",
+      "question": "What is the first activity in a logical daily sequence?",
+      "options": [
+        "Wake up in the morning",
+        "Brush your teeth",
+        "Drink milk",
+        "Board school bus"
+      ],
+      "correct_answer": "Wake up in the morning"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Application-Based Questions (Daily Activities)",
+      "question": "In a logical daily sequence, what happens immediately after brushing teeth?",
+      "options": [
+        "Drink milk",
+        "Take bath",
+        "Have breakfast",
+        "Get dressed"
+      ],
+      "correct_answer": "Drink milk"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Application-Based Questions (Daily Activities)",
+      "question": "In a logical daily sequence, what is the last activity before going to bed?",
+      "options": [
+        "Have dinner with parents",
+        "Do homework",
+        "Watch TV",
+        "Brush teeth again"
+      ],
+      "correct_answer": "Have dinner with parents"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Application-Based Questions (Daily Activities)",
+      "question": "What is the correct order after taking a bath in the morning?",
+      "options": [
+        "Dress in school uniform",
+        "Board school bus",
+        "Have lunch",
+        "Do homework"
+      ],
+      "correct_answer": "Dress in school uniform"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Application-Based Questions (Daily Activities)",
+      "question": "What activity comes after having lunch with friends?",
+      "options": [
+        "Do homework",
+        "Go to bed",
+        "Board school bus",
+        "Have dinner"
+      ],
+      "correct_answer": "Do homework"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Application-Based Questions (Measuring Milk)",
+      "question": "In the 5L and 7L container problem, what is the first step to get 4L?",
+      "options": [
+        "Fill container B (7L) completely",
+        "Fill container A (5L) completely",
+        "Empty container A",
+        "Pour milk from B to A"
+      ],
+      "correct_answer": "Fill container B (7L) completely"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Application-Based Questions (Measuring Milk)",
+      "question": "After filling the 7L container, what is the next step to get 4L?",
+      "options": [
+        "Pour milk from B into A (5L)",
+        "Empty container A",
+        "Pour milk from A into C",
+        "Fill A completely"
+      ],
+      "correct_answer": "Pour milk from B into A (5L)"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Application-Based Questions (Measuring Milk)",
+      "question": "How much milk is left in container B after pouring from B to A?",
+      "options": [
+        "2L",
+        "3L",
+        "4L",
+        "5L"
+      ],
+      "correct_answer": "2L"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Application-Based Questions (Measuring Milk)",
+      "question": "What do you do after emptying container A?",
+      "options": [
+        "Pour remaining 2L from B into A",
+        "Fill B again",
+        "Pour from C into A",
+        "Empty B"
+      ],
+      "correct_answer": "Pour remaining 2L from B into A"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Application-Based Questions (Measuring Milk)",
+      "question": "After filling B again, how much more milk is needed to fill A completely?",
+      "options": [
+        "3L",
+        "2L",
+        "4L",
+        "5L"
+      ],
+      "correct_answer": "3L"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Hands On (Hot Chocolate Milk)",
+      "question": "What is the first step to make hot chocolate milk?",
+      "options": [
+        "Take a glass of milk",
+        "Heat the milk",
+        "Add sugar",
+        "Add chocolate powder"
+      ],
+      "correct_answer": "Take a glass of milk"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Hands On (Hot Chocolate Milk)",
+      "question": "After heating the milk for hot chocolate, what should you do next?",
+      "options": [
+        "Add sugar",
+        "Add chocolate powder",
+        "Stir well",
+        "Pour into a cup"
+      ],
+      "correct_answer": "Add sugar"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Hands On (Hot Chocolate Milk)",
+      "question": "What is the correct order after adding chocolate powder to hot milk?",
+      "options": [
+        "Stir well",
+        "Add sugar",
+        "Pour into a cup",
+        "Serve hot"
+      ],
+      "correct_answer": "Stir well"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Hands On (Hot Chocolate Milk)",
+      "question": "What is the final step in making hot chocolate milk?",
+      "options": [
+        "Serve hot",
+        "Pour into a cup",
+        "Stir well",
+        "Add sugar"
+      ],
+      "correct_answer": "Serve hot"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Hands On (Fresh Juice)",
+      "question": "What is the first step in making fresh juice?",
+      "options": [
+        "Wash fruits/vegetables",
+        "Peel and cut them",
+        "Put them in a juicer",
+        "Blend well"
+      ],
+      "correct_answer": "Wash fruits/vegetables"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Hands On (Fresh Juice)",
+      "question": "After peeling and cutting fruits for juice, what should you do?",
+      "options": [
+        "Put them in a juicer",
+        "Blend well",
+        "Strain the juice",
+        "Pour into a glass"
+      ],
+      "correct_answer": "Put them in a juicer"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Hands On (Fresh Juice)",
+      "question": "What step comes immediately after blending the juice?",
+      "options": [
+        "Strain the juice",
+        "Pour into a glass",
+        "Serve fresh",
+        "Add sugar"
+      ],
+      "correct_answer": "Strain the juice"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Hands On (Fresh Juice)",
+      "question": "What is the final step in making fresh juice?",
+      "options": [
+        "Serve fresh",
+        "Pour into a glass",
+        "Strain the juice",
+        "Add ice"
+      ],
+      "correct_answer": "Serve fresh"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Hands On (IPO Cycle)",
+      "question": "In the IPO cycle for multiplying 5 and 7, what is the input?",
+      "options": [
+        "5 and 7",
+        "Multiply",
+        "35",
+        "5 × 7"
+      ],
+      "correct_answer": "5 and 7"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Hands On (IPO Cycle)",
+      "question": "In the IPO cycle for multiplying 5 and 7, what is the process?",
+      "options": [
+        "Multiply 5 × 7",
+        "5 and 7",
+        "35",
+        "5 + 7"
+      ],
+      "correct_answer": "Multiply 5 × 7"
+    },
+    {
+      "category": "Chapter 7: Stepwise Thinking - Hands On (IPO Cycle)",
+      "question": "In the IPO cycle for multiplying 5 and 7, what is the output?",
+      "options": [
+        "35",
+        "12",
+        "5",
+        "7"
+      ],
+      "correct_answer": "35"
+    },
+    {
+      "category": "Chapter 8: File Management - Tech Terms",
+      "question": "What is a container located on a storage device where the computer stores files and sub-folders called?",
+      "options": [
+        "Folder",
+        "File",
+        "Recycle Bin",
+        "Drive"
+      ],
+      "correct_answer": "Folder"
+    },
+    {
+      "category": "Chapter 8: File Management - Tech Terms",
+      "question": "What is the process of giving a new name to an existing file or folder called?",
+      "options": [
+        "Renaming",
+        "Copying",
+        "Moving",
+        "Deleting"
+      ],
+      "correct_answer": "Renaming"
+    },
+    {
+      "category": "Chapter 8: File Management - Tech Terms",
+      "question": "What is the process of making a duplicate of a file or folder without removing the original called?",
+      "options": [
+        "Copying",
+        "Moving",
+        "Deleting",
+        "Pasting"
+      ],
+      "correct_answer": "Copying"
+    },
+    {
+      "category": "Chapter 8: File Management - Tech Terms",
+      "question": "What is the process of removing a file or folder from the source folder and shifting it to another folder called?",
+      "options": [
+        "Moving",
+        "Copying",
+        "Deleting",
+        "Renaming"
+      ],
+      "correct_answer": "Moving"
+    },
+    {
+      "category": "Chapter 8: File Management - Tech Terms",
+      "question": "What is the process of moving a file or folder to the Recycle Bin or removing it permanently called?",
+      "options": [
+        "Deleting",
+        "Copying",
+        "Moving",
+        "Renaming"
+      ],
+      "correct_answer": "Deleting"
+    },
+    {
+      "category": "Chapter 8: File Management - Tech Terms",
+      "question": "What is the folder that stores deleted files and folders temporarily called?",
+      "options": [
+        "Recycle Bin",
+        "File Explorer",
+        "Desktop",
+        "Documents"
+      ],
+      "correct_answer": "Recycle Bin"
+    },
+    {
+      "category": "Chapter 8: File Management - To Sum Up",
+      "question": "All data in a computer is stored in a __________.",
+      "options": [
+        "file",
+        "folder",
+        "drive",
+        "recycle bin"
+      ],
+      "correct_answer": "file"
+    },
+    {
+      "category": "Chapter 8: File Management - To Sum Up",
+      "question": "What is used to manage files and folders in Windows 10?",
+      "options": [
+        "File Explorer",
+        "Internet Explorer",
+        "Control Panel",
+        "Task Manager"
+      ],
+      "correct_answer": "File Explorer"
+    },
+    {
+      "category": "Chapter 8: File Management - To Sum Up",
+      "question": "Where are deleted files stored temporarily?",
+      "options": [
+        "Recycle Bin",
+        "Desktop",
+        "Documents folder",
+        "Downloads folder"
+      ],
+      "correct_answer": "Recycle Bin"
+    },
+    {
+      "category": "Chapter 8: File Management - Fill in the Blanks",
+      "question": "__________ is a folder to store the deleted files temporarily.",
+      "options": [
+        "Recycle Bin",
+        "File Explorer",
+        "Desktop",
+        "Documents"
+      ],
+      "correct_answer": "Recycle Bin"
+    },
+    {
+      "category": "Chapter 8: File Management - Fill in the Blanks",
+      "question": "__________ is used to manage files and folders.",
+      "options": [
+        "File Explorer",
+        "Control Panel",
+        "This PC",
+        "Taskbar"
+      ],
+      "correct_answer": "File Explorer"
+    },
+    {
+      "category": "Chapter 8: File Management - Fill in the Blanks",
+      "question": "__________ is a container to store all related files.",
+      "options": [
+        "Folder",
+        "File",
+        "Drive",
+        "Icon"
+      ],
+      "correct_answer": "Folder"
+    },
+    {
+      "category": "Chapter 8: File Management - Fill in the Blanks",
+      "question": "Press __________ to permanently delete the selected files.",
+      "options": [
+        "Shift + Delete",
+        "Ctrl + Delete",
+        "Alt + Delete",
+        "Delete"
+      ],
+      "correct_answer": "Shift + Delete"
+    },
+    {
+      "category": "Chapter 8: File Management - Fill in the Blanks",
+      "question": "The __________ command does not delete a file from its original location.",
+      "options": [
+        "Copy",
+        "Move",
+        "Delete",
+        "Cut"
+      ],
+      "correct_answer": "Copy"
+    },
+    {
+      "category": "Chapter 8: File Management - True False",
+      "question": "You can copy (or move) a file (or folder) using drag and drop.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 8: File Management - True False",
+      "question": "You cannot get a file back from the Recycle Bin.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Chapter 8: File Management - True False",
+      "question": "To permanently delete files in Recycle Bin, click Empty Recycle Bin.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 8: File Management - True False",
+      "question": "You should not tamper with files created by friends in the school lab.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 8: File Management - True False",
+      "question": "You should follow teacher's instructions in the school lab.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 8: File Management - Choose the Correct Option",
+      "question": "To delete a file (or folder), you can:",
+      "options": [
+        "Press Delete key",
+        "Right-click and choose Delete",
+        "Drag to Recycle Bin",
+        "All of these"
+      ],
+      "correct_answer": "All of these"
+    },
+    {
+      "category": "Chapter 8: File Management - Choose the Correct Option",
+      "question": "To permanently delete a file, press:",
+      "options": [
+        "Ctrl + Delete",
+        "Alt + Delete",
+        "Shift + Delete",
+        "Delete"
+      ],
+      "correct_answer": "Shift + Delete"
+    },
+    {
+      "category": "Chapter 8: File Management - Choose the Correct Option",
+      "question": "To rename a file (or folder), you can:",
+      "options": [
+        "Right-click and choose Rename",
+        "Press F2",
+        "Click twice slowly on the name",
+        "All of these"
+      ],
+      "correct_answer": "All of these"
+    },
+    {
+      "category": "Chapter 8: File Management - Choose the Correct Option",
+      "question": "Which of the following is not correct?",
+      "options": [
+        "You can show someone else's work in your name to the teacher",
+        "You can copy a file",
+        "You can move a file",
+        "You can delete a file"
+      ],
+      "correct_answer": "You can show someone else's work in your name to the teacher"
+    },
+    {
+      "category": "Chapter 8: File Management - Choose the Correct Option",
+      "question": "The shortcut menu shown appears when you:",
+      "options": [
+        "Right-click and drag the file to some other folder",
+        "Left-click and drag",
+        "Double-click the file",
+        "Press Enter"
+      ],
+      "correct_answer": "Right-click and drag the file to some other folder"
+    },
+    {
+      "category": "Chapter 8: File Management - Descriptive Type Questions",
+      "question": "What are the steps to copy a file from Desktop to D: drive?",
+      "options": [
+        "Open File Explorer → Select file → Copy → Navigate to D: drive → Paste",
+        "Open D: drive → Copy → Navigate to Desktop → Paste",
+        "Drag file directly to D: drive",
+        "Right-click Desktop → Copy → Open D: drive → Paste"
+      ],
+      "correct_answer": "Open File Explorer → Select file → Copy → Navigate to D: drive → Paste"
+    },
+    {
+      "category": "Chapter 8: File Management - Descriptive Type Questions",
+      "question": "What is the difference between copying and moving a file?",
+      "options": [
+        "Copying duplicates; moving transfers and removes original",
+        "Copying transfers; moving duplicates",
+        "Copying deletes original; moving keeps original",
+        "Copying is permanent; moving is temporary"
+      ],
+      "correct_answer": "Copying duplicates; moving transfers and removes original"
+    },
+    {
+      "category": "Chapter 8: File Management - Descriptive Type Questions",
+      "question": "What is the use of the Recycle Bin?",
+      "options": [
+        "Stores deleted files temporarily and allows restoration",
+        "Stores files permanently",
+        "Deletes files automatically",
+        "Backs up all files"
+      ],
+      "correct_answer": "Stores deleted files temporarily and allows restoration"
+    },
+    {
+      "category": "Chapter 8: File Management - Descriptive Type Questions",
+      "question": "What are the options when you delete a file in File Explorer?",
+      "options": [
+        "Delete to Recycle Bin or Shift+Delete for permanent deletion",
+        "Only Delete to Recycle Bin",
+        "Only permanent deletion",
+        "Move to another folder"
+      ],
+      "correct_answer": "Delete to Recycle Bin or Shift+Delete for permanent deletion"
+    },
+    {
+      "category": "Chapter 8: File Management - Descriptive Type Questions",
+      "question": "What happens when you right-click while dragging a file?",
+      "options": [
+        "A shortcut menu appears with Copy, Move, Create shortcuts here, Cancel",
+        "The file is deleted",
+        "The file is copied automatically",
+        "The file opens"
+      ],
+      "correct_answer": "A shortcut menu appears with Copy, Move, Create shortcuts here, Cancel"
+    },
+    {
+      "category": "Chapter 8: File Management - Application-Based Questions",
+      "question": "Archana deleted a file by mistake. Where did it go and how can she get it back?",
+      "options": [
+        "Recycle Bin; open Recycle Bin, select file, click Restore",
+        "Documents folder; open Documents and find it",
+        "Permanently deleted; cannot be restored",
+        "Desktop; it stays there"
+      ],
+      "correct_answer": "Recycle Bin; open Recycle Bin, select file, click Restore"
+    },
+    {
+      "category": "Chapter 8: File Management - Application-Based Questions",
+      "question": "Joseph deleted files but no space increased. Why and what should he do?",
+      "options": [
+        "Files are in Recycle Bin; empty Recycle Bin to free space",
+        "Files are still on the desktop",
+        "Files are hidden",
+        "Files are corrupted"
+      ],
+      "correct_answer": "Files are in Recycle Bin; empty Recycle Bin to free space"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - Tech Terms",
+      "question": "What is a type of computer technology that can perform tasks usually done by humans called?",
+      "options": [
+        "Artificial Intelligence (AI)",
+        "Smart Home",
+        "Sensors",
+        "Data"
+      ],
+      "correct_answer": "Artificial Intelligence (AI)"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - Tech Terms",
+      "question": "What is a house that uses technology to make everyday tasks easier and more efficient called?",
+      "options": [
+        "Smart Home",
+        "AI Home",
+        "Digital Home",
+        "Automated Home"
+      ],
+      "correct_answer": "Smart Home"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - Tech Terms",
+      "question": "What are devices that collect information from the surroundings called?",
+      "options": [
+        "Sensors",
+        "Actuators",
+        "Processors",
+        "Robots"
+      ],
+      "correct_answer": "Sensors"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - Tech Terms",
+      "question": "What is information collected for processing called?",
+      "options": [
+        "Data",
+        "Input",
+        "Output",
+        "Storage"
+      ],
+      "correct_answer": "Data"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - To Sum Up",
+      "question": "What can AI do?",
+      "options": [
+        "Learn from data and process information quickly",
+        "Feel emotions",
+        "Think creatively",
+        "Have values"
+      ],
+      "correct_answer": "Learn from data and process information quickly"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - To Sum Up",
+      "question": "How do humans and AI differ?",
+      "options": [
+        "Humans feel emotions; AI does not",
+        "AI feels emotions; humans do not",
+        "Both feel emotions equally",
+        "Neither feels emotions"
+      ],
+      "correct_answer": "Humans feel emotions; AI does not"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - To Sum Up",
+      "question": "What does a Smart Home use to make daily tasks automatic?",
+      "options": [
+        "AI technology",
+        "Manual switches",
+        "Solar power",
+        "Internet only"
+      ],
+      "correct_answer": "AI technology"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - Fill in the Blanks",
+      "question": "__________ is a type of computer technology that can perform tasks usually done by humans.",
+      "options": [
+        "Artificial Intelligence",
+        "Smart Home",
+        "Sensors",
+        "Data"
+      ],
+      "correct_answer": "Artificial Intelligence"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - Fill in the Blanks",
+      "question": "AI can process information __________ than humans.",
+      "options": [
+        "faster",
+        "slower",
+        "equally as fast",
+        "less accurately"
+      ],
+      "correct_answer": "faster"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - Fill in the Blanks",
+      "question": "While humans learn from experience and practice, AI learns from algorithms and __________.",
+      "options": [
+        "data",
+        "emotions",
+        "feelings",
+        "intuition"
+      ],
+      "correct_answer": "data"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - Fill in the Blanks",
+      "question": "Smart homes use __________ to collect information from their surroundings.",
+      "options": [
+        "sensors",
+        "robots",
+        "cameras",
+        "microphones"
+      ],
+      "correct_answer": "sensors"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - True False",
+      "question": "AI processes information slower than humans.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - True False",
+      "question": "AI has the ability to feel emotions such as happiness and sadness.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - True False",
+      "question": "Smart homes have devices that use AI to perform tasks automatically.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - True False",
+      "question": "Virtual assistants like Siri, Alexa, and Google Assistant can understand voice commands.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - Choose the Correct Option",
+      "question": "Which of the following is NOT an example of a smart machine?",
+      "options": [
+        "Smartphone",
+        "Smart TV",
+        "Smartwatch",
+        "Typewriter"
+      ],
+      "correct_answer": "Typewriter"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - Choose the Correct Option",
+      "question": "How is AI different from humans in terms of speed?",
+      "options": [
+        "AI is slower",
+        "AI is much faster",
+        "Both are equally fast",
+        "Humans are faster"
+      ],
+      "correct_answer": "AI is much faster"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - Choose the Correct Option",
+      "question": "Which of the following is something AI cannot do?",
+      "options": [
+        "Learn from data",
+        "Process information quickly",
+        "Make decisions",
+        "Show emotions"
+      ],
+      "correct_answer": "Show emotions"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - Choose the Correct Option",
+      "question": "What are smart homes?",
+      "options": [
+        "Homes with many computers",
+        "Homes with solar panels",
+        "Homes with appliances that use AI to perform tasks automatically",
+        "Homes with smart locks"
+      ],
+      "correct_answer": "Homes with appliances that use AI to perform tasks automatically"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - Short Answer Questions",
+      "question": "What is Artificial Intelligence?",
+      "options": [
+        "Computer technology that performs tasks usually done by humans",
+        "A type of robot",
+        "A smart home device",
+        "A programming language"
+      ],
+      "correct_answer": "Computer technology that performs tasks usually done by humans"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - Short Answer Questions",
+      "question": "Name three differences between AI and humans.",
+      "options": [
+        "Speed, emotions, learning method",
+        "Size, color, weight",
+        "Age, height, language",
+        "Food, sleep, exercise"
+      ],
+      "correct_answer": "Speed, emotions, learning method"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - Short Answer Questions",
+      "question": "Give two examples of smart home devices.",
+      "options": [
+        "Smart lights and smart thermostats",
+        "Toaster and microwave",
+        "Fan and TV",
+        "Chair and table"
+      ],
+      "correct_answer": "Smart lights and smart thermostats"
+    },
+    {
+      "category": "Chapter 9: AI and Humans - Hands-On Activity",
+      "question": "In the Google AI Experiment 'Say What You See', what does the AI do?",
+      "options": [
+        "Guesses what you are drawing based on patterns",
+        "Draws pictures for you",
+        "Talks to you",
+        "Plays music"
+      ],
+      "correct_answer": "Guesses what you are drawing based on patterns"
+    },
+    {
+      "category": "Chapter 10: Robots - Tech Terms",
+      "question": "What is a machine that can perform tasks automatically using computer programs called?",
+      "options": [
+        "Robot",
+        "Computer",
+        "Sensor",
+        "AI"
+      ],
+      "correct_answer": "Robot"
+    },
+    {
+      "category": "Chapter 10: Robots - Tech Terms",
+      "question": "What is a branch of technology that deals with the design, construction, operation, and use of robots called?",
+      "options": [
+        "Robotics",
+        "Engineering",
+        "Computer Science",
+        "Mechanics"
+      ],
+      "correct_answer": "Robotics"
+    },
+    {
+      "category": "Chapter 10: Robots - To Sum Up",
+      "question": "What was the name of the first industrial robot, developed in 1954?",
+      "options": [
+        "UNIMATE",
+        "ROBOT-1",
+        "ASIMO",
+        "ROBONAUT"
+      ],
+      "correct_answer": "UNIMATE"
+    },
+    {
+      "category": "Chapter 10: Robots - To Sum Up",
+      "question": "Which type of robots are used in factories for welding and assembling?",
+      "options": [
+        "Industrial robots",
+        "Medical robots",
+        "Household robots",
+        "Space robots"
+      ],
+      "correct_answer": "Industrial robots"
+    },
+    {
+      "category": "Chapter 10: Robots - To Sum Up",
+      "question": "Which type of robots help doctors in surgeries?",
+      "options": [
+        "Medical robots",
+        "Industrial robots",
+        "Educational robots",
+        "Agricultural robots"
+      ],
+      "correct_answer": "Medical robots"
+    },
+    {
+      "category": "Chapter 10: Robots - Fill in the Blanks",
+      "question": "The first industrial robot, called __________, was developed in 1954.",
+      "options": [
+        "UNIMATE",
+        "ROBOT-1",
+        "ASIMO",
+        "ROBONAUT"
+      ],
+      "correct_answer": "UNIMATE"
+    },
+    {
+      "category": "Chapter 10: Robots - Fill in the Blanks",
+      "question": "__________ robots help farmers by planting, harvesting, and monitoring crops.",
+      "options": [
+        "Agricultural",
+        "Industrial",
+        "Medical",
+        "Space"
+      ],
+      "correct_answer": "Agricultural"
+    },
+    {
+      "category": "Chapter 10: Robots - Fill in the Blanks",
+      "question": "__________ robots help with chores like cleaning and cooking.",
+      "options": [
+        "Household",
+        "Industrial",
+        "Medical",
+        "Space"
+      ],
+      "correct_answer": "Household"
+    },
+    {
+      "category": "Chapter 10: Robots - Fill in the Blanks",
+      "question": "Educational robots help teach students about science, technology, engineering, and __________.",
+      "options": [
+        "mathematics",
+        "art",
+        "history",
+        "language"
+      ],
+      "correct_answer": "mathematics"
+    },
+    {
+      "category": "Chapter 10: Robots - True False",
+      "question": "Robots can only be controlled by humans.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Chapter 10: Robots - True False",
+      "question": "The first industrial robot was introduced in the year 1954.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 10: Robots - True False",
+      "question": "Space robots are used to explore planets and help astronauts.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 10: Robots - True False",
+      "question": "Household robots help with tasks like cleaning and cooking.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 10: Robots - Choose the Correct Option",
+      "question": "What is a robot?",
+      "options": [
+        "A machine that can perform tasks automatically",
+        "A type of computer",
+        "A human-like being",
+        "A software program"
+      ],
+      "correct_answer": "A machine that can perform tasks automatically"
+    },
+    {
+      "category": "Chapter 10: Robots - Choose the Correct Option",
+      "question": "The machine designed using computer programs to perform tasks automatically is called a:",
+      "options": [
+        "Robot",
+        "Computer",
+        "Sensor",
+        "Device"
+      ],
+      "correct_answer": "Robot"
+    },
+    {
+      "category": "Chapter 10: Robots - Choose the Correct Option",
+      "question": "Which type of robots are used to help doctors in surgeries?",
+      "options": [
+        "Medical robots",
+        "Industrial robots",
+        "Household robots",
+        "Space robots"
+      ],
+      "correct_answer": "Medical robots"
+    },
+    {
+      "category": "Chapter 10: Robots - Choose the Correct Option",
+      "question": "What do educational robots help students learn?",
+      "options": [
+        "Science, Technology, Engineering, and Mathematics (STEM)",
+        "Art and Music",
+        "History and Geography",
+        "Languages"
+      ],
+      "correct_answer": "Science, Technology, Engineering, and Mathematics (STEM)"
+    },
+    {
+      "category": "Chapter 10: Robots - Short Answer Questions",
+      "question": "What is a robot?",
+      "options": [
+        "A machine that performs tasks automatically using computer programs",
+        "A human-like machine",
+        "A computer program",
+        "A sensor device"
+      ],
+      "correct_answer": "A machine that performs tasks automatically using computer programs"
+    },
+    {
+      "category": "Chapter 10: Robots - Short Answer Questions",
+      "question": "What do you mean by robotics?",
+      "options": [
+        "The branch of technology dealing with the design, construction, and use of robots",
+        "The study of computers",
+        "The use of robots in factories",
+        "The programming of robots"
+      ],
+      "correct_answer": "The branch of technology dealing with the design, construction, and use of robots"
+    },
+    {
+      "category": "Chapter 10: Robots - Short Answer Questions",
+      "question": "Name the first industrial robot.",
+      "options": [
+        "UNIMATE",
+        "ROBOT-1",
+        "ASIMO",
+        "ROBONAUT"
+      ],
+      "correct_answer": "UNIMATE"
+    },
+    {
+      "category": "Chapter 10: Robots - Short Answer Questions",
+      "question": "What is the difference between industrial and medical robots?",
+      "options": [
+        "Industrial robots are used in factories; medical robots in hospitals",
+        "Industrial robots are smaller; medical robots are larger",
+        "Industrial robots are faster; medical robots are slower",
+        "Industrial robots are older; medical robots are newer"
+      ],
+      "correct_answer": "Industrial robots are used in factories; medical robots in hospitals"
     }
   ]
 }

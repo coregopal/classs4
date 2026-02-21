@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useCallback, useRef } from 'react';
-import { useParams, useNavigate } from 'react-router-dom';
+import { useParams, useNavigate, useSearchParams } from 'react-router-dom';
 import { fileStorage } from '../services/FileStorageService';
 import confetti from 'canvas-confetti';
 import '../styles/Quiz.css';
@@ -30,6 +30,7 @@ const subjectsData = {
 function Quiz() {
   const { subject } = useParams();
   const navigate = useNavigate();
+  const [searchParams] = useSearchParams();
   
   // All state declarations first
   const [currentQuestion, setCurrentQuestion] = useState(0);
@@ -85,7 +86,9 @@ function Quiz() {
       ? correctAnswer.split(' (Explanation:')[0]
       : correctAnswer;
     
-    const isCorrect = cleanCorrectAnswer === answer;
+    // Handle combined format like "1. Worth seeing, 2. Dear, 3. Historical"
+    // Check if the selected answer is contained within the correct_answer string
+    const isCorrect = cleanCorrectAnswer.includes(answer) || answer.includes(cleanCorrectAnswer);
     console.log(`String correct answer: "${cleanCorrectAnswer}" === "${answer}" = ${isCorrect}`);
     return isCorrect;
   }, [currentQuestion, questions]);
@@ -175,6 +178,76 @@ function Quiz() {
       navigate('/');
     }
   }, [subject, navigate, questions.length]);
+
+  const loadQuizProgress = useCallback(async () => {
+    try {
+      const savedProgress = await fileStorage.loadProgress(subject, selectedCategory);
+      if (savedProgress) {
+        const progress = savedProgress;
+        
+        // Check if there's a resumeFrom parameter that should override the saved question
+        const resumeFromParam = searchParams.get('resumeFrom');
+        let questionIndex = progress.currentQuestion || 0;
+        
+        if (resumeFromParam) {
+          const resumeFromIndex = parseInt(resumeFromParam, 10);
+          if (!isNaN(resumeFromIndex) && resumeFromIndex >= 0) {
+            questionIndex = resumeFromIndex;
+          }
+        }
+        
+        // Load progress regardless of age (removed 24-hour restriction)
+        if (true) {
+          setCurrentQuestion(questionIndex);
+          setScore(progress.score || 0);
+          setAnsweredQuestions(new Set(progress.answeredQuestions || []));
+          setUserAnswers(new Map(progress.userAnswers || []));
+          setTimeLeft(progress.timeLeft || 30);
+          return true;
+        } else {
+          // Clear old progress
+          await fileStorage.clearProgress(subject, selectedCategory);
+        }
+      }
+    } catch (error) {
+      console.error('Error loading quiz progress:', error);
+    }
+    return false;
+  }, [subject, selectedCategory, searchParams]);
+
+  const resumeQuiz = useCallback(() => {
+    if (loadQuizProgress()) {
+      setQuizStarted(true);
+      setSelectedAnswer(null);
+      setProgressWidth(0);
+      setShowResult(false);
+      setIsTimerPaused(false);
+    }
+  }, [loadQuizProgress]);
+
+  // Handle resume from URL parameters
+  useEffect(() => {
+    const shouldResume = searchParams.get('resume') === 'true';
+    const categoryParam = searchParams.get('category');
+    const resumeFromParam = searchParams.get('resumeFrom');
+    
+    if (shouldResume && categoryParam) {
+      setSelectedCategory(categoryParam);
+      
+      // If resumeFrom is specified, set the current question to that index
+      if (resumeFromParam) {
+        const resumeFromIndex = parseInt(resumeFromParam, 10);
+        if (!isNaN(resumeFromIndex) && resumeFromIndex >= 0) {
+          setCurrentQuestion(resumeFromIndex);
+        }
+      }
+      
+      // Auto-resume after category is set
+      setTimeout(() => {
+        resumeQuiz();
+      }, 100);
+    }
+  }, [searchParams, resumeQuiz]);
 
   const handleTimeUp = useCallback(() => {
     setIsTimerRunning(false);
@@ -346,13 +419,25 @@ function Quiz() {
     setShowResult(true);
   };
 
-  const saveQuizProgress = useCallback(() => {
+  const saveQuizProgress = useCallback(async () => {
     if (!quizStarted || showResult) return;
     
-    // Note: Quiz progress is now stored in IndexedDB via FileStorageService
-    // Temporary session data can still use sessionStorage if needed
-    console.log('Quiz progress saved to IndexedDB');
-  }, [quizStarted, showResult]);
+    try {
+      const progressData = {
+        currentQuestion,
+        score,
+        answeredQuestions: Array.from(answeredQuestions),
+        userAnswers: Array.from(userAnswers.entries()),
+        timeLeft,
+        timestamp: new Date().toISOString()
+      };
+      
+      await fileStorage.saveProgress(subject, selectedCategory, progressData);
+      console.log('Quiz progress saved to IndexedDB');
+    } catch (error) {
+      console.error('Error saving quiz progress:', error);
+    }
+  }, [quizStarted, showResult, currentQuestion, score, answeredQuestions, userAnswers, timeLeft, subject, selectedCategory]);
 
   // Auto-save progress when state changes
   useEffect(() => {
@@ -362,33 +447,6 @@ function Quiz() {
     
     return () => clearTimeout(timeoutId);
   }, [saveQuizProgress]);
-
-  const loadQuizProgress = useCallback(async () => {
-    try {
-      const savedProgress = await fileStorage.loadProgress(subject, selectedCategory);
-      if (savedProgress) {
-        const progress = savedProgress;
-        const timeDiff = new Date() - new Date(progress.timestamp);
-        const hoursDiff = timeDiff / (1000 * 60 * 60);
-        
-        // Only load progress if less than 24 hours old
-        if (hoursDiff < 24) {
-          setCurrentQuestion(progress.currentQuestion || 0);
-          setScore(progress.score || 0);
-          setAnsweredQuestions(new Set(progress.answeredQuestions || []));
-          setUserAnswers(new Map(progress.userAnswers || []));
-          setTimeLeft(progress.timeLeft || 30);
-          return true;
-        } else {
-          // Clear old progress
-          await fileStorage.clearProgress(subject, selectedCategory);
-        }
-      }
-    } catch (error) {
-      console.error('Error loading quiz progress:', error);
-    }
-    return false;
-  }, [subject, selectedCategory]);
 
   const clearQuizProgress = useCallback(async () => {
     try {
@@ -498,16 +556,6 @@ function Quiz() {
     clearQuizProgress();
   };
 
-  const resumeQuiz = () => {
-    if (loadQuizProgress()) {
-      setQuizStarted(true);
-      setSelectedAnswer(null);
-      setProgressWidth(0);
-      setShowResult(false);
-      setIsTimerPaused(false);
-    }
-  };
-
   const getLanguageText = (subject) => {
     if (subject === 'hindi') {
       return {
@@ -546,12 +594,8 @@ function Quiz() {
       try {
         const savedProgress = await fileStorage.loadProgress(subject, selectedCategory);
         if (savedProgress) {
-          const progress = savedProgress;
-          const timeDiff = new Date() - new Date(progress.timestamp);
-          const hoursDiff = timeDiff / (1000 * 60 * 60);
-          
-          // Only load progress if less than 24 hours old
-          if (hoursDiff < 24) {
+          // Load progress regardless of age (removed 24-hour restriction)
+          if (true) {
             return true;
           }
         }
@@ -842,7 +886,12 @@ function Quiz() {
               <div className="matching-options">
                 {getOptions(questions[currentQuestion]).map((option, index) => {
                   const isSelected = selectedAnswer === option;
-                  const isCorrect = option === questions[currentQuestion].correct_answer;
+                  // Use same validation logic as isCorrectAnswer function
+                  const correctAnswer = questions[currentQuestion].correct_answer;
+                  const cleanCorrectAnswer = correctAnswer.includes(' (Explanation:') 
+                    ? correctAnswer.split(' (Explanation:')[0]
+                    : correctAnswer;
+                  const isCorrect = cleanCorrectAnswer.includes(option) || option.includes(cleanCorrectAnswer);
                   const showAnswer = selectedAnswer !== null;
                   let optionClass = 'option';
                   if (showAnswer) {
@@ -872,7 +921,12 @@ function Quiz() {
       ) : getOptions(questions[currentQuestion]).length > 0 ? (
         getOptions(questions[currentQuestion]).map((option, index) => {
           const isSelected = selectedAnswer === option;
-          const isCorrect = option === questions[currentQuestion].correct_answer;
+          // Use same validation logic as isCorrectAnswer function
+          const correctAnswer = questions[currentQuestion].correct_answer;
+          const cleanCorrectAnswer = correctAnswer.includes(' (Explanation:') 
+            ? correctAnswer.split(' (Explanation:')[0]
+            : correctAnswer;
+          const isCorrect = cleanCorrectAnswer.includes(option) || option.includes(cleanCorrectAnswer);
           const showAnswer = selectedAnswer !== null;
           let optionClass = 'option';
           if (showAnswer) {

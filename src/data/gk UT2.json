@@ -1,0 +1,1887 @@
+{
+  "questions": [
+    {
+      "category": "Look, Think and Answer",
+      "question": "Why do you need at least two holes in a tin to pour liquid smoothly?",
+      "options": [
+        "One hole is enough",
+        "One for liquid and one for air",
+        "To make the tin lighter",
+        "To cool the liquid"
+      ],
+      "correct_answer": "One for liquid and one for air"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "23:45 hours is equal to what time?",
+      "options": [
+        "11:45 AM",
+        "12:45 PM",
+        "11:45 PM",
+        "10:45 PM"
+      ],
+      "correct_answer": "11:45 PM"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "What does a thermos flask do?",
+      "options": [
+        "Makes liquids hot",
+        "Makes liquids cold",
+        "Maintains liquid temperature",
+        "Cools air"
+      ],
+      "correct_answer": "Maintains liquid temperature"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "What are the A, B, C controls of a car?",
+      "options": [
+        "Accelerator, Brake, Clutch",
+        "Axle, Brake, Control",
+        "Air, Battery, Clutch",
+        "Accelerator, Belt, Clutch"
+      ],
+      "correct_answer": "Accelerator, Brake, Clutch"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "Why does water level in an open bowl go down under the sun?",
+      "options": [
+        "Freezing",
+        "Condensation",
+        "Evaporation",
+        "Absorption"
+      ],
+      "correct_answer": "Evaporation"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "What happens to water in a sealed bottle kept in the sun?",
+      "options": [
+        "It evaporates",
+        "It freezes",
+        "It stays the same",
+        "It boils"
+      ],
+      "correct_answer": "It stays the same"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "Mixing which two paints makes pink?",
+      "options": [
+        "Red and yellow",
+        "Red and white",
+        "Blue and white",
+        "Green and white"
+      ],
+      "correct_answer": "Red and white"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "How many minutes are there in 2 hours?",
+      "options": [
+        "60 minutes",
+        "100 minutes",
+        "120 minutes",
+        "90 minutes"
+      ],
+      "correct_answer": "120 minutes"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "How many days are there in a week?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct_answer": "7"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "How can sand and iron filings be separated?",
+      "options": [
+        "By sieving",
+        "By a magnet",
+        "By handpicking",
+        "By washing"
+      ],
+      "correct_answer": "By a magnet"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "How many hours does a bat sleep in a day?",
+      "options": [
+        "8–10 hours",
+        "10–12 hours",
+        "14–16 hours",
+        "20 hours"
+      ],
+      "correct_answer": "14–16 hours"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "Why were parrots kept on the Eiffel Tower in World War I?",
+      "options": [
+        "For beauty",
+        "For warning of planes",
+        "For communication",
+        "For entertainment"
+      ],
+      "correct_answer": "For warning of planes"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "Which sense is poor in hyenas?",
+      "options": [
+        "Smell",
+        "Taste",
+        "Eyesight",
+        "Hearing"
+      ],
+      "correct_answer": "Eyesight"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "A chimpanzee can recognize how many words?",
+      "options": [
+        "10–20 words",
+        "50–100 words",
+        "100–200 words",
+        "200–400 words"
+      ],
+      "correct_answer": "100–200 words"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "Which animal looks like a wolf but is smaller?",
+      "options": [
+        "Jackal",
+        "Coyote",
+        "Fox",
+        "Dog"
+      ],
+      "correct_answer": "Coyote"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "Which bird can sleep while flying?",
+      "options": [
+        "Parrot",
+        "Crow",
+        "Frigatebird",
+        "Ostrich"
+      ],
+      "correct_answer": "Frigatebird"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "Which sea animal can make two sounds at the same time?",
+      "options": [
+        "Shark",
+        "Whale",
+        "Dolphin",
+        "Seal"
+      ],
+      "correct_answer": "Dolphin"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "How many times per second does a woodpecker peck?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correct_answer": "20"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "Which bird can fly backward?",
+      "options": [
+        "Parrot",
+        "Pigeon",
+        "Hummingbird",
+        "Eagle"
+      ],
+      "correct_answer": "Hummingbird"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "Sound is measured in what unit?",
+      "options": [
+        "Hertz",
+        "Decibels",
+        "Watts",
+        "Volts"
+      ],
+      "correct_answer": "Decibels"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "Rainfall is measured in which units?",
+      "options": [
+        "Liters",
+        "Gallons",
+        "Inches or millimeters",
+        "Cups"
+      ],
+      "correct_answer": "Inches or millimeters"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "Earthquake strength is measured using what scale?",
+      "options": [
+        "Beaufort scale",
+        "Richter scale",
+        "Kelvin scale",
+        "Celsius scale"
+      ],
+      "correct_answer": "Richter scale"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "Gold purity is measured in what?",
+      "options": [
+        "Grams",
+        "Ounces",
+        "Carats",
+        "Milligrams"
+      ],
+      "correct_answer": "Carats"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "Distance is usually measured in?",
+      "options": [
+        "Meters",
+        "Liters",
+        "Kilometers or miles",
+        "Decibels"
+      ],
+      "correct_answer": "Kilometers or miles"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "How is body temperature measured?",
+      "options": [
+        "With a stethoscope",
+        "With a thermometer",
+        "With a barometer",
+        "With a compass"
+      ],
+      "correct_answer": "With a thermometer"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "Where is a thermometer placed to measure body temperature?",
+      "options": [
+        "On the hand",
+        "On the ear",
+        "Under the arm or tongue",
+        "On the forehead"
+      ],
+      "correct_answer": "Under the arm or tongue"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "What does the body produce when hot to keep cool?",
+      "options": [
+        "Tears",
+        "Sweat",
+        "Saliva",
+        "Urine"
+      ],
+      "correct_answer": "Sweat"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "What helps change TV channels from a distance?",
+      "options": [
+        "Switch",
+        "Remote control",
+        "Mobile phone",
+        "Keyboard"
+      ],
+      "correct_answer": "Remote control"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "Why do people mount a dish on buildings or cars?",
+      "options": [
+        "For decoration",
+        "For shade",
+        "For DTH television",
+        "For Wi-Fi"
+      ],
+      "correct_answer": "For DTH television"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "Why do you need at least two holes in a tin to pour liquid smoothly?",
+      "options": [
+        "One hole is enough",
+        "One for liquid and one for air",
+        "To make the tin lighter",
+        "To cool the liquid"
+      ],
+      "correct_answer": "One for liquid and one for air"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "23:45 hours is equal to what time?",
+      "options": [
+        "11:45 AM",
+        "12:45 PM",
+        "11:45 PM",
+        "10:45 PM"
+      ],
+      "correct_answer": "11:45 PM"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "What does a thermos flask do?",
+      "options": [
+        "Makes liquids hot",
+        "Makes liquids cold",
+        "Maintains liquid temperature",
+        "Cools air"
+      ],
+      "correct_answer": "Maintains liquid temperature"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "What are the A, B, C controls of a car?",
+      "options": [
+        "Accelerator, Brake, Clutch",
+        "Axle, Brake, Control",
+        "Air, Battery, Clutch",
+        "Accelerator, Belt, Clutch"
+      ],
+      "correct_answer": "Accelerator, Brake, Clutch"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "Why does water level in an open bowl go down under the sun?",
+      "options": [
+        "Freezing",
+        "Condensation",
+        "Evaporation",
+        "Absorption"
+      ],
+      "correct_answer": "Evaporation"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "What happens to water in a sealed bottle kept in the sun?",
+      "options": [
+        "It evaporates",
+        "It freezes",
+        "It stays the same",
+        "It boils"
+      ],
+      "correct_answer": "It stays the same"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "Mixing which two paints makes pink?",
+      "options": [
+        "Red and yellow",
+        "Red and white",
+        "Blue and white",
+        "Green and white"
+      ],
+      "correct_answer": "Red and white"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "How many minutes are there in 2 hours?",
+      "options": [
+        "60 minutes",
+        "100 minutes",
+        "120 minutes",
+        "90 minutes"
+      ],
+      "correct_answer": "120 minutes"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "How many days are there in a week?",
+      "options": [
+        "5",
+        "6",
+        "7",
+        "8"
+      ],
+      "correct_answer": "7"
+    },
+    {
+      "category": "Look, Think and Answer",
+      "question": "How can sand and iron filings be separated?",
+      "options": [
+        "By sieving",
+        "By a magnet",
+        "By handpicking",
+        "By washing"
+      ],
+      "correct_answer": "By a magnet"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "How many hours does a bat sleep in a day?",
+      "options": [
+        "8–10 hours",
+        "10–12 hours",
+        "14–16 hours",
+        "20 hours"
+      ],
+      "correct_answer": "14–16 hours"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "Why were parrots kept on the Eiffel Tower in World War I?",
+      "options": [
+        "For beauty",
+        "For warning of planes",
+        "For communication",
+        "For entertainment"
+      ],
+      "correct_answer": "For warning of planes"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "Which sense is poor in hyenas?",
+      "options": [
+        "Smell",
+        "Taste",
+        "Eyesight",
+        "Hearing"
+      ],
+      "correct_answer": "Eyesight"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "A chimpanzee can recognize how many words?",
+      "options": [
+        "10–20 words",
+        "50–100 words",
+        "100–200 words",
+        "200–400 words"
+      ],
+      "correct_answer": "100–200 words"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "Which animal looks like a wolf but is smaller?",
+      "options": [
+        "Jackal",
+        "Coyote",
+        "Fox",
+        "Dog"
+      ],
+      "correct_answer": "Coyote"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "Which bird can sleep while flying?",
+      "options": [
+        "Parrot",
+        "Crow",
+        "Frigatebird",
+        "Ostrich"
+      ],
+      "correct_answer": "Frigatebird"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "Which sea animal can make two sounds at the same time?",
+      "options": [
+        "Shark",
+        "Whale",
+        "Dolphin",
+        "Seal"
+      ],
+      "correct_answer": "Dolphin"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "How many times per second does a woodpecker peck?",
+      "options": [
+        "5",
+        "10",
+        "15",
+        "20"
+      ],
+      "correct_answer": "20"
+    },
+    {
+      "category": "Animal and Plant Facts",
+      "question": "Which bird can fly backward?",
+      "options": [
+        "Parrot",
+        "Pigeon",
+        "Hummingbird",
+        "Eagle"
+      ],
+      "correct_answer": "Hummingbird"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "Sound is measured in what unit?",
+      "options": [
+        "Hertz",
+        "Decibels",
+        "Watts",
+        "Volts"
+      ],
+      "correct_answer": "Decibels"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "Rainfall is measured in which units?",
+      "options": [
+        "Liters",
+        "Gallons",
+        "Inches or millimeters",
+        "Cups"
+      ],
+      "correct_answer": "Inches or millimeters"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "Earthquake strength is measured using what scale?",
+      "options": [
+        "Beaufort scale",
+        "Richter scale",
+        "Kelvin scale",
+        "Celsius scale"
+      ],
+      "correct_answer": "Richter scale"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "Gold purity is measured in what?",
+      "options": [
+        "Grams",
+        "Ounces",
+        "Carats",
+        "Milligrams"
+      ],
+      "correct_answer": "Carats"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "Distance is usually measured in?",
+      "options": [
+        "Meters",
+        "Liters",
+        "Kilometers or miles",
+        "Decibels"
+      ],
+      "correct_answer": "Kilometers or miles"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "How is body temperature measured?",
+      "options": [
+        "With a stethoscope",
+        "With a thermometer",
+        "With a barometer",
+        "With a compass"
+      ],
+      "correct_answer": "With a thermometer"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "Where is a thermometer placed to measure body temperature?",
+      "options": [
+        "On the hand",
+        "On the ear",
+        "Under the arm or tongue",
+        "On the forehead"
+      ],
+      "correct_answer": "Under the arm or tongue"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "What does the body produce when hot to keep cool?",
+      "options": [
+        "Tears",
+        "Sweat",
+        "Saliva",
+        "Urine"
+      ],
+      "correct_answer": "Sweat"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "What helps change TV channels from a distance?",
+      "options": [
+        "Switch",
+        "Remote control",
+        "Mobile phone",
+        "Keyboard"
+      ],
+      "correct_answer": "Remote control"
+    },
+    {
+      "category": "Science and Measurement",
+      "question": "Why do people mount a dish on buildings or cars?",
+      "options": [
+        "For decoration",
+        "For shade",
+        "For DTH television",
+        "For Wi-Fi"
+      ],
+      "correct_answer": "For DTH television"
+    },
+    {
+      "category": "Plants and Animals: True or False",
+      "question": "Bats are the only mammals that can fly.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Plants and Animals: True or False",
+      "question": "The ostrich is the largest bird in the world.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Plants and Animals: True or False",
+      "question": "A frog breathes only through its lungs.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Plants and Animals: True or False",
+      "question": "The blue whale is the largest animal on Earth.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Plants and Animals: True or False",
+      "question": "Sharks are mammals.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Plants and Animals: True or False",
+      "question": "The camel is called the Ship of the Desert.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Plants and Animals: True or False",
+      "question": "The cheetah is the fastest land animal.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Plants and Animals: True or False",
+      "question": "All reptiles are cold-blooded animals.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Plants and Animals: True or False",
+      "question": "An octopus has eight arms.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Plants and Animals: True or False",
+      "question": "Penguins can fly like other birds.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "The Insect World",
+      "question": "Unscramble the word 'SAMQUIOT' to find the name of an insect.",
+      "options": [
+        "Mosquito",
+        "Mosquitto",
+        "Mosquato",
+        "Mosqueto"
+      ],
+      "correct_answer": "Mosquito"
+    },
+    {
+      "category": "The Insect World",
+      "question": "Which of these is a useful insect?",
+      "options": [
+        "Honeybee",
+        "Mosquito",
+        "Housefly",
+        "Termite"
+      ],
+      "correct_answer": "Honeybee"
+    },
+    {
+      "category": "The Insect World",
+      "question": "Which of these is a harmful insect?",
+      "options": [
+        "Butterfly",
+        "Mosquito",
+        "Silkworm",
+        "Ladybird"
+      ],
+      "correct_answer": "Mosquito"
+    },
+    {
+      "category": "The Insect World",
+      "question": "Which insect is the strongest in the world?",
+      "options": [
+        "Hercules beetle",
+        "Ant",
+        "Dung beetle",
+        "Bee"
+      ],
+      "correct_answer": "Hercules beetle"
+    },
+    {
+      "category": "The Insect World",
+      "question": "Which insect spreads malaria?",
+      "options": [
+        "Mosquito",
+        "Housefly",
+        "Termite",
+        "Flea"
+      ],
+      "correct_answer": "Mosquito"
+    },
+    {
+      "category": "The Insect World",
+      "question": "Which insect spreads germs and diseases by sitting on our food?",
+      "options": [
+        "Housefly",
+        "Butterfly",
+        "Bee",
+        "Dragonfly"
+      ],
+      "correct_answer": "Housefly"
+    },
+    {
+      "category": "The Insect World",
+      "question": "Which disease is spread by Aedes mosquitoes?",
+      "options": [
+        "Dengue",
+        "Malaria",
+        "Cholera",
+        "Tuberculosis"
+      ],
+      "correct_answer": "Dengue"
+    },
+    {
+      "category": "The Insect World",
+      "question": "Which of these is the best way to prevent dengue?",
+      "options": [
+        "Do not allow water to collect around the house",
+        "Eat more sweets",
+        "Keep windows open at night",
+        "Grow more trees nearby"
+      ],
+      "correct_answer": "Do not allow water to collect around the house"
+    },
+    {
+      "category": "Sports Round-Up",
+      "question": "Who won a silver medal in javelin in 2022?",
+      "options": [
+        "Neeraj Chopra",
+        "Eldhose Paul",
+        "Rafael Nadal",
+        "Abdulla Aboobacker"
+      ],
+      "correct_answer": "Neeraj Chopra"
+    },
+    {
+      "category": "Sports Round-Up",
+      "question": "The movie 'Jhund' is about what?",
+      "options": [
+        "Slum children playing football",
+        "Village children studying",
+        "Cricket coaching in India",
+        "Olympic training camps"
+      ],
+      "correct_answer": "Slum children playing football"
+    },
+    {
+      "category": "Sports Round-Up",
+      "question": "What does PBL stand for?",
+      "options": [
+        "Premier Badminton League",
+        "Professional Basketball League",
+        "Pro Boxing League",
+        "Premier Baseball League"
+      ],
+      "correct_answer": "Premier Badminton League"
+    },
+    {
+      "category": "Sports Round-Up",
+      "question": "When was Premier Badminton League (PBL) started?",
+      "options": [
+        "2016",
+        "2012",
+        "2018",
+        "2014"
+      ],
+      "correct_answer": "2016"
+    },
+    {
+      "category": "Sports Round-Up",
+      "question": "How long is a marathon race?",
+      "options": [
+        "42.195 km",
+        "21.097 km",
+        "50 km",
+        "10 km"
+      ],
+      "correct_answer": "42.195 km"
+    },
+    {
+      "category": "Sports Round-Up",
+      "question": "Formula 1 is a famous event for which sport?",
+      "options": [
+        "Car racing",
+        "Bike racing",
+        "Horse racing",
+        "Boat racing"
+      ],
+      "correct_answer": "Car racing"
+    },
+    {
+      "category": "Sports Round-Up",
+      "question": "Who won medals in triple jump at CWG 2022?",
+      "options": [
+        "Eldhose Paul and Abdulla Aboobacker",
+        "Neeraj Chopra and Deepa Malik",
+        "Rafael Nadal and Ons Jabeur",
+        "Milkha Singh and PT Usha"
+      ],
+      "correct_answer": "Eldhose Paul and Abdulla Aboobacker"
+    },
+    {
+      "category": "Sports Round-Up",
+      "question": "Who won the Khel Ratna award for the javelin event?",
+      "options": [
+        "Deepa Malik",
+        "Neeraj Chopra",
+        "Anju George",
+        "Mary Kom"
+      ],
+      "correct_answer": "Deepa Malik"
+    },
+    {
+      "category": "Sports Round-Up",
+      "question": "Who won his 14th French Open title in 2022?",
+      "options": [
+        "Rafael Nadal",
+        "Roger Federer",
+        "Novak Djokovic",
+        "Carlos Alcaraz"
+      ],
+      "correct_answer": "Rafael Nadal"
+    },
+    {
+      "category": "Sports Round-Up",
+      "question": "Ons Jabeur is a famous female tennis player from which country?",
+      "options": [
+        "Tunisia",
+        "Spain",
+        "USA",
+        "India"
+      ],
+      "correct_answer": "Tunisia"
+    },
+    {
+      "category": "Sports Round-Up",
+      "question": "What does a Grand Slam in tennis mean?",
+      "options": [
+        "Winning all four major tournaments",
+        "Winning an Olympic gold medal",
+        "Winning one international tournament",
+        "Winning three Wimbledon titles"
+      ],
+      "correct_answer": "Winning all four major tournaments"
+    },
+    {
+      "category": "Sports Round-Up",
+      "question": "Which are the four major tournaments of a tennis Grand Slam?",
+      "options": [
+        "Australian Open, French Open, Wimbledon, US Open",
+        "Davis Cup, French Open, Wimbledon, US Open",
+        "Olympics, French Open, US Open, Wimbledon",
+        "Australian Open, Davis Cup, Wimbledon, US Open"
+      ],
+      "correct_answer": "Australian Open, French Open, Wimbledon, US Open"
+    },
+    {
+      "category": "The Magic of Music",
+      "question": "Which type of percussion instruments produce specific notes?",
+      "options": [
+        "Pitched percussion instruments",
+        "Unpitched percussion instruments",
+        "String instruments",
+        "Wind instruments"
+      ],
+      "correct_answer": "Pitched percussion instruments"
+    },
+    {
+      "category": "The Magic of Music",
+      "question": "Which instruments are examples of pitched percussion?",
+      "options": [
+        "Xylophone, celeste, marimba",
+        "Cymbals, bass drum, triangle",
+        "Guitar, violin, sitar",
+        "Flute, trumpet, clarinet"
+      ],
+      "correct_answer": "Xylophone, celeste, marimba"
+    },
+    {
+      "category": "The Magic of Music",
+      "question": "Which percussion instruments do not produce a specific pitch?",
+      "options": [
+        "Unpitched percussion instruments",
+        "Pitched percussion instruments",
+        "String instruments",
+        "Wind instruments"
+      ],
+      "correct_answer": "Unpitched percussion instruments"
+    },
+    {
+      "category": "The Magic of Music",
+      "question": "Who plays the sarod?",
+      "options": [
+        "Amjad Ali Khan",
+        "Hari Prasad Chaurasia",
+        "Anoushka Shankar",
+        "Pandit Shiv Kumar Sharma"
+      ],
+      "correct_answer": "Amjad Ali Khan"
+    },
+    {
+      "category": "The Magic of Music",
+      "question": "Who is famous for playing the flute?",
+      "options": [
+        "Hari Prasad Chaurasia",
+        "Amjad Ali Khan",
+        "Anoushka Shankar",
+        "Pandit Shiv Kumar Sharma"
+      ],
+      "correct_answer": "Hari Prasad Chaurasia"
+    },
+    {
+      "category": "The Magic of Music",
+      "question": "Which musician plays the sitar?",
+      "options": [
+        "Anoushka Shankar",
+        "Amjad Ali Khan",
+        "Hari Prasad Chaurasia",
+        "Pandit Shiv Kumar Sharma"
+      ],
+      "correct_answer": "Anoushka Shankar"
+    },
+    {
+      "category": "The Magic of Music",
+      "question": "Pandit Shiv Kumar Sharma was famous for playing which instrument?",
+      "options": [
+        "Santoor",
+        "Flute",
+        "Sitar",
+        "Sarod"
+      ],
+      "correct_answer": "Santoor"
+    },
+    {
+      "category": "The Magic of Music",
+      "question": "Pitched percussion instruments are also called what?",
+      "options": [
+        "Tuned instruments",
+        "Untuned instruments",
+        "Stringed instruments",
+        "Wind instruments"
+      ],
+      "correct_answer": "Tuned instruments"
+    },
+    {
+      "category": "The Magic of Music",
+      "question": "Unpitched percussion instruments produce what kind of sound?",
+      "options": [
+        "Sound without a definite pitch",
+        "Sound with definite pitch",
+        "Melodic tunes",
+        "Vocal harmonies"
+      ],
+      "correct_answer": "Sound without a definite pitch"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Which Indian state is known for Malayalam language and backwaters?",
+      "options": [
+        "Kerala",
+        "Assam",
+        "Bihar",
+        "Maharashtra"
+      ],
+      "correct_answer": "Kerala"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Bhupen Hazarika and Bihu are associated with which state?",
+      "options": [
+        "Assam",
+        "West Bengal",
+        "Tamil Nadu",
+        "Punjab"
+      ],
+      "correct_answer": "Assam"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Nalanda and Patna are famous locations in which state?",
+      "options": [
+        "Bihar",
+        "Uttar Pradesh",
+        "Madhya Pradesh",
+        "Rajasthan"
+      ],
+      "correct_answer": "Bihar"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Kolkata and Sundarbans are in which state?",
+      "options": [
+        "West Bengal",
+        "Meghalaya",
+        "Maharashtra",
+        "Gujarat"
+      ],
+      "correct_answer": "West Bengal"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Shillong and Khasi tribes are found in which state?",
+      "options": [
+        "Meghalaya",
+        "Madhya Pradesh",
+        "Assam",
+        "Rajasthan"
+      ],
+      "correct_answer": "Meghalaya"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Kanpur and Varanasi are cities in which Indian state?",
+      "options": [
+        "Uttar Pradesh",
+        "Maharashtra",
+        "Bihar",
+        "Tamil Nadu"
+      ],
+      "correct_answer": "Uttar Pradesh"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Marathi language and Mumbai are associated with which state?",
+      "options": [
+        "Maharashtra",
+        "Kerala",
+        "Punjab",
+        "Gujarat"
+      ],
+      "correct_answer": "Maharashtra"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Bhopal and Khajuraho are located in which state?",
+      "options": [
+        "Madhya Pradesh",
+        "Rajasthan",
+        "Assam",
+        "West Bengal"
+      ],
+      "correct_answer": "Madhya Pradesh"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Golden Temple and Bhangra are famous in which state?",
+      "options": [
+        "Punjab",
+        "Kerala",
+        "Maharashtra",
+        "Tamil Nadu"
+      ],
+      "correct_answer": "Punjab"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Meenakshi Temple and Kanjivaram silk are found in which state?",
+      "options": [
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Maharashtra",
+        "Rajasthan"
+      ],
+      "correct_answer": "Tamil Nadu"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Which folk dance is from Nagaland?",
+      "options": [
+        "Naga Dance",
+        "Khada Nach",
+        "Santhali",
+        "Lavani"
+      ],
+      "correct_answer": "Naga Dance"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Khada Nach is a folk dance from which place?",
+      "options": [
+        "Purulia, West Bengal",
+        "Madhya Pradesh",
+        "Assam",
+        "Rajasthan"
+      ],
+      "correct_answer": "Purulia, West Bengal"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Santhali folk dance belongs to which state?",
+      "options": [
+        "Madhya Pradesh",
+        "Andhra Pradesh",
+        "Assam",
+        "Gujarat"
+      ],
+      "correct_answer": "Madhya Pradesh"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Lavani folk dance is associated with which state?",
+      "options": [
+        "Maharashtra",
+        "Assam",
+        "Rajasthan",
+        "Gujarat"
+      ],
+      "correct_answer": "Maharashtra"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Bihu folk dance comes from which state?",
+      "options": [
+        "Assam",
+        "West Bengal",
+        "Maharashtra",
+        "Punjab"
+      ],
+      "correct_answer": "Assam"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Dappu dance is performed in which state?",
+      "options": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Rajasthan",
+        "Kerala"
+      ],
+      "correct_answer": "Andhra Pradesh"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Ghoomar dance is famous in which state?",
+      "options": [
+        "Rajasthan",
+        "Gujarat",
+        "Maharashtra",
+        "Assam"
+      ],
+      "correct_answer": "Rajasthan"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Garba dance is associated with which state?",
+      "options": [
+        "Gujarat",
+        "Punjab",
+        "Madhya Pradesh",
+        "Kerala"
+      ],
+      "correct_answer": "Gujarat"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Which classical dance comes from Assam?",
+      "options": [
+        "Sattriya",
+        "Kuchipudi",
+        "Manipuri",
+        "Bharatanatyam"
+      ],
+      "correct_answer": "Sattriya"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Kuchipudi classical dance is from which state?",
+      "options": [
+        "Andhra Pradesh",
+        "Tamil Nadu",
+        "Manipur",
+        "Kerala"
+      ],
+      "correct_answer": "Andhra Pradesh"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Manipuri classical dance belongs to which state?",
+      "options": [
+        "Manipur",
+        "Assam",
+        "Rajasthan",
+        "Maharashtra"
+      ],
+      "correct_answer": "Manipur"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Bharatanatyam classical dance is from which state?",
+      "options": [
+        "Tamil Nadu",
+        "Andhra Pradesh",
+        "Madhya Pradesh",
+        "Kerala"
+      ],
+      "correct_answer": "Tamil Nadu"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Which dance focuses more on footwork?",
+      "options": [
+        "Kathak",
+        "Kathakali",
+        "Bharatanatyam",
+        "Manipuri"
+      ],
+      "correct_answer": "Kathak"
+    },
+    {
+      "category": "My India - States and Dances",
+      "question": "Kathakali performers are mostly which gender?",
+      "options": [
+        "Men",
+        "Women",
+        "Both men and women",
+        "Children"
+      ],
+      "correct_answer": "Men"
+    },
+    {
+      "category": "Long Ago, Far Away - Great People from History",
+      "question": "Who was Napoleon Bonaparte?",
+      "options": [
+        "King of England",
+        "Emperor of France",
+        "President of USA",
+        "Prime Minister of India"
+      ],
+      "correct_answer": "Emperor of France"
+    },
+    {
+      "category": "Long Ago, Far Away - Great People from History",
+      "question": "Which tomb did Howard Carter discover?",
+      "options": [
+        "King Tutankhamun's tomb",
+        "Machu Picchu",
+        "Great Pyramid of Giza",
+        "Stonehenge"
+      ],
+      "correct_answer": "King Tutankhamun's tomb"
+    },
+    {
+      "category": "Long Ago, Far Away - Great People from History",
+      "question": "Who was the first president of the United States?",
+      "options": [
+        "Abraham Lincoln",
+        "George Washington",
+        "Thomas Jefferson",
+        "John Adams"
+      ],
+      "correct_answer": "George Washington"
+    },
+    {
+      "category": "Long Ago, Far Away - Great People from History",
+      "question": "What is Marie Curie famous for discovering?",
+      "options": [
+        "Gold and Silver",
+        "Radium and Polonium",
+        "Oxygen and Hydrogen",
+        "Iron and Copper"
+      ],
+      "correct_answer": "Radium and Polonium"
+    },
+    {
+      "category": "Long Ago, Far Away - Great People from History",
+      "question": "Who was the last Tudor monarch of England?",
+      "options": [
+        "Queen Victoria",
+        "Queen Elizabeth II",
+        "Queen Elizabeth I",
+        "Mary Queen of Scots"
+      ],
+      "correct_answer": "Queen Elizabeth I"
+    },
+    {
+      "category": "Long Ago, Far Away - Great People from History",
+      "question": "Who is a famous English playwright and poet?",
+      "options": [
+        "Charles Dickens",
+        "William Shakespeare",
+        "Jonathan Swift",
+        "Harriet Beecher Stowe"
+      ],
+      "correct_answer": "William Shakespeare"
+    },
+    {
+      "category": "Quiz on Religion",
+      "question": "Which animal does Lord Ganesha ride?",
+      "options": [
+        "Elephant",
+        "Mouse",
+        "Lion",
+        "Tiger"
+      ],
+      "correct_answer": "Mouse"
+    },
+    {
+      "category": "Quiz on Religion",
+      "question": "Followers of the 24 Tirthankaras belong to which religion?",
+      "options": [
+        "Buddhism",
+        "Hinduism",
+        "Jainism",
+        "Sikhism"
+      ],
+      "correct_answer": "Jainism"
+    },
+    {
+      "category": "Quiz on Religion",
+      "question": "What is the Muslim pilgrimage to Mecca called?",
+      "options": [
+        "Ramadan",
+        "Hajj",
+        "Umrah",
+        "Eid"
+      ],
+      "correct_answer": "Hajj"
+    },
+    {
+      "category": "Quiz on Religion",
+      "question": "On which day do Muslims usually pray at mosques?",
+      "options": [
+        "Monday",
+        "Tuesday",
+        "Friday",
+        "Sunday"
+      ],
+      "correct_answer": "Friday"
+    },
+    {
+      "category": "Quiz on Religion",
+      "question": "Where do Parsis pray?",
+      "options": [
+        "Church",
+        "Mosque",
+        "Fire Temple or Agiary",
+        "Temple"
+      ],
+      "correct_answer": "Fire Temple or Agiary"
+    },
+    {
+      "category": "Quiz on Religion",
+      "question": "Which of the following were Sikh Gurus?",
+      "options": [
+        "Guru Arjan Dev, Guru Angad, Guru Tegh Bahadur",
+        "Guru Nanak, Guru Gobind Singh, Guru Granth Sahib",
+        "Guru Amar Das, Guru Ram Das, Guru Tegh Bahadur",
+        "Guru Hargobind, Guru Har Rai, Guru Arjan Dev"
+      ],
+      "correct_answer": "Guru Arjan Dev, Guru Angad, Guru Tegh Bahadur"
+    },
+    {
+      "category": "Quiz on Religion",
+      "question": "Who was Mary's husband in Christianity?",
+      "options": [
+        "Jesus",
+        "Joseph",
+        "Peter",
+        "John"
+      ],
+      "correct_answer": "Joseph"
+    },
+    {
+      "category": "Quiz on Religion",
+      "question": "Followers of Buddha are called?",
+      "options": [
+        "Hindus",
+        "Jews",
+        "Buddhists",
+        "Christians"
+      ],
+      "correct_answer": "Buddhists"
+    },
+    {
+      "category": "Quiz on Religion",
+      "question": "How did Jesus Christ die?",
+      "options": [
+        "By drowning",
+        "On the cross",
+        "By stoning",
+        "By poisoning"
+      ],
+      "correct_answer": "On the cross"
+    },
+    {
+      "category": "Language and Literature",
+      "question": "What is the real name of George Eliot?",
+      "options": [
+        "Mary Anne Evans",
+        "Charles Lutwidge Dodgson",
+        "Dhanpat Rai Srivastava",
+        "Agatha Christie"
+      ],
+      "correct_answer": "Mary Anne Evans"
+    },
+    {
+      "category": "Language and Literature",
+      "question": "What is the real name of Lewis Carroll?",
+      "options": [
+        "Mary Anne Evans",
+        "Charles Lutwidge Dodgson",
+        "Dhanpat Rai Srivastava",
+        "C. S. Lewis"
+      ],
+      "correct_answer": "Charles Lutwidge Dodgson"
+    },
+    {
+      "category": "Language and Literature",
+      "question": "What is the real name of Munshi Premchand?",
+      "options": [
+        "Rabindranath Tagore",
+        "Dhanpat Rai Srivastava",
+        "Alexander Dumas",
+        "Jonathan Swift"
+      ],
+      "correct_answer": "Dhanpat Rai Srivastava"
+    },
+    {
+      "category": "Language and Literature",
+      "question": "What is the real name of Clive Hamilton?",
+      "options": [
+        "C. S. Lewis",
+        "Charles Dickens",
+        "Enid Blyton",
+        "Harriet Beecher Stowe"
+      ],
+      "correct_answer": "C. S. Lewis"
+    },
+    {
+      "category": "Language and Literature",
+      "question": "What is the real name of Mary Westmacott?",
+      "options": [
+        "Agatha Christie",
+        "Lewis Carroll",
+        "Rabindranath Tagore",
+        "Charles Lutwidge Dodgson"
+      ],
+      "correct_answer": "Agatha Christie"
+    },
+    {
+      "category": "Language and Literature",
+      "question": "Bhanusingha is the pen name of which author?",
+      "options": [
+        "Rabindranath Tagore",
+        "Munshi Premchand",
+        "Lewis Carroll",
+        "Charles Dickens"
+      ],
+      "correct_answer": "Rabindranath Tagore"
+    },
+    {
+      "category": "Language and Literature",
+      "question": "Who wrote 'Alice in Wonderland'?",
+      "options": [
+        "Lewis Carroll",
+        "Alexander Dumas",
+        "Rudyard Kipling",
+        "Charles Dickens"
+      ],
+      "correct_answer": "Lewis Carroll"
+    },
+    {
+      "category": "Language and Literature",
+      "question": "Who wrote 'Three Musketeers'?",
+      "options": [
+        "Lewis Carroll",
+        "Alexander Dumas",
+        "Rudyard Kipling",
+        "Jonathan Swift"
+      ],
+      "correct_answer": "Alexander Dumas"
+    },
+    {
+      "category": "Language and Literature",
+      "question": "Who wrote 'The Jungle Book'?",
+      "options": [
+        "Rudyard Kipling",
+        "Charles Dickens",
+        "Harriet Beecher Stowe",
+        "Enid Blyton"
+      ],
+      "correct_answer": "Rudyard Kipling"
+    },
+    {
+      "category": "Language and Literature",
+      "question": "Who wrote 'A Christmas Carol'?",
+      "options": [
+        "Charles Dickens",
+        "Jonathan Swift",
+        "Harriet Beecher Stowe",
+        "Lewis Carroll"
+      ],
+      "correct_answer": "Charles Dickens"
+    },
+    {
+      "category": "Language and Literature",
+      "question": "Who wrote 'Noddy Goes to Toyland'?",
+      "options": [
+        "Enid Blyton",
+        "Lewis Carroll",
+        "Charles Dickens",
+        "Harriet Beecher Stowe"
+      ],
+      "correct_answer": "Enid Blyton"
+    },
+    {
+      "category": "Language and Literature",
+      "question": "Who wrote 'Gulliver’s Travels'?",
+      "options": [
+        "Jonathan Swift",
+        "Alexander Dumas",
+        "Rudyard Kipling",
+        "Charles Dickens"
+      ],
+      "correct_answer": "Jonathan Swift"
+    },
+    {
+      "category": "Language and Literature",
+      "question": "Who wrote 'Uncle Tom’s Cabin'?",
+      "options": [
+        "Harriet Beecher Stowe",
+        "Enid Blyton",
+        "Jonathan Swift",
+        "Charles Dickens"
+      ],
+      "correct_answer": "Harriet Beecher Stowe"
+    },
+    {
+      "category": "Language and Literature",
+      "question": "What is a pen name?",
+      "options": [
+        "A fake name used by an author",
+        "A type of pen",
+        "A book title",
+        "A nickname for readers"
+      ],
+      "correct_answer": "A fake name used by an author"
+    },
+    {
+      "category": "Fun with Words - Crossword Highlights",
+      "question": "What does 'Safari' mean in one context?",
+      "options": [
+        "A type of car",
+        "Wildlife tour",
+        "A type of suit",
+        "A musical instrument"
+      ],
+      "correct_answer": "Wildlife tour"
+    },
+    {
+      "category": "Fun with Words - Crossword Highlights",
+      "question": "What does 'Safari' mean in another context?",
+      "options": [
+        "Wildlife tour",
+        "A type of suit",
+        "A drink",
+        "A game"
+      ],
+      "correct_answer": "A type of suit"
+    },
+    {
+      "category": "Fun with Words - Crossword Highlights",
+      "question": "The word 'Night' can combine with which of the following to make compound words?",
+      "options": [
+        "Gown",
+        "Mare",
+        "Lamp",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    },
+    {
+      "category": "Fun with Words - Crossword Highlights",
+      "question": "'Dip' can mean which of these?",
+      "options": [
+        "Put a tea bag in water",
+        "Swim in a pool",
+        "Both A and B",
+        "A type of food"
+      ],
+      "correct_answer": "Both A and B"
+    },
+    {
+      "category": "Fun with Words - Crossword Highlights",
+      "question": "'Surf' can refer to which of the following?",
+      "options": [
+        "Using the internet",
+        "A detergent brand in India",
+        "Both A and B",
+        "A musical term"
+      ],
+      "correct_answer": "Both A and B"
+    },
+    {
+      "category": "Fun with Words - Crossword Highlights",
+      "question": "Which of these words can combine with 'Over' to make compound words?",
+      "options": [
+        "Take",
+        "Night",
+        "Weight",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above"
+    },
+    {
+      "category": "Fun with Words - Crossword Highlights",
+      "question": "What is a 'Baton' used for?",
+      "options": [
+        "To conduct music",
+        "A sports tool",
+        "A writing pen",
+        "A cooking utensil"
+      ],
+      "correct_answer": "To conduct music"
+    },
+    {
+      "category": "Fun with Words - Crossword Highlights",
+      "question": "What does 'Test' refer to?",
+      "options": [
+        "Paper set by teacher",
+        "Doctor's exam or diagnosis",
+        "Both A and B",
+        "A type of game"
+      ],
+      "correct_answer": "Both A and B"
+    },
+    {
+      "category": "Similar Sounding Words (Homophones)",
+      "question": "What is the difference between 'Steal' and 'Steel'?",
+      "options": [
+        "To take without permission / A strong, hard metal",
+        "A type of wheel / A strong metal",
+        "A type of tree / A metal",
+        "To take permission / A weak metal"
+      ],
+      "correct_answer": "To take without permission / A strong, hard metal"
+    },
+    {
+      "category": "Similar Sounding Words (Homophones)",
+      "question": "What is the difference between 'Pane' and 'Pain'?",
+      "options": [
+        "A sheet of glass / Feeling of hurt",
+        "A type of bread / Feeling of joy",
+        "A type of flower / Feeling of sadness",
+        "A sheet of cloth / Feeling of heat"
+      ],
+      "correct_answer": "A sheet of glass / Feeling of hurt"
+    },
+    {
+      "category": "Similar Sounding Words (Homophones)",
+      "question": "What is the difference between 'Alter' and 'Altar'?",
+      "options": [
+        "To change / A holy table in a church",
+        "To repair / A small table",
+        "To grow / A statue",
+        "To change / A chair"
+      ],
+      "correct_answer": "To change / A holy table in a church"
+    },
+    {
+      "category": "Similar Sounding Words (Homophones)",
+      "question": "What is the difference between 'Doze' and 'Dose'?",
+      "options": [
+        "To sleep lightly / A measure of medicine",
+        "To sleep deeply / A measure of money",
+        "To dream / A measure of weight",
+        "To sleep lightly / A measure of distance"
+      ],
+      "correct_answer": "To sleep lightly / A measure of medicine"
+    },
+    {
+      "category": "Similar Sounding Words (Homophones)",
+      "question": "What is the difference between 'Kernel' and 'Colonel'?",
+      "options": [
+        "Inner part of a nut or seed / An officer of high rank",
+        "Outer part of a nut / A soldier",
+        "Seed covering / A colon",
+        "Inner nut / A teacher"
+      ],
+      "correct_answer": "Inner part of a nut or seed / An officer of high rank"
+    },
+    {
+      "category": "Similar Sounding Words (Homophones)",
+      "question": "What is the difference between 'Dough' and 'Doe'?",
+      "options": [
+        "Mixture of flour and water / A female deer",
+        "A type of bread / A male deer",
+        "A mixture of milk / A female bird",
+        "A mixture of flour / A type of cow"
+      ],
+      "correct_answer": "Mixture of flour and water / A female deer"
+    },
+    {
+      "category": "Similar Sounding Words (Homophones)",
+      "question": "What is the difference between 'Root' and 'Route'?",
+      "options": [
+        "Part of a plant / A way to get from one place to another",
+        "Part of a tree / A type of road",
+        "Underground branch / A street name",
+        "Plant top / A pathway sign"
+      ],
+      "correct_answer": "Part of a plant / A way to get from one place to another"
+    },
+    {
+      "category": "Similar Sounding Words (Homophones)",
+      "question": "What is the difference between 'Bow' and 'Bough'?",
+      "options": [
+        "To bend the head / Main branch of a tree",
+        "To shoot an arrow / Tree top",
+        "To bend the body / Leaf branch",
+        "A ribbon / Tree root"
+      ],
+      "correct_answer": "To bend the head / Main branch of a tree"
+    },
+    {
+      "category": "Similar Sounding Words (Homophones)",
+      "question": "What is the difference between 'Ring' and 'Wring'?",
+      "options": [
+        "Jewellery worn on fingers / To twist or squeeze wet clothes",
+        "A circular object / To shout loudly",
+        "A sound / To turn around",
+        "A bell / To jump"
+      ],
+      "correct_answer": "Jewellery worn on fingers / To twist or squeeze wet clothes"
+    },
+    {
+      "category": "Science and Us: Doctor and Tailor Instruments",
+      "question": "Which instrument do doctors use to listen to your heart and breathing?",
+      "options": [
+        "Thermometer",
+        "Stethoscope",
+        "Sphygmomanometer",
+        "Otoscope"
+      ],
+      "correct_answer": "Stethoscope"
+    },
+    {
+      "category": "Science and Us: Doctor and Tailor Instruments",
+      "question": "Which instrument do tailors use to take body measurements?",
+      "options": [
+        "Ruler",
+        "Measuring tape",
+        "Compass",
+        "Scale"
+      ],
+      "correct_answer": "Measuring tape"
+    },
+    {
+      "category": "The Insect World: Dengue Prevention Tips",
+      "question": "Which of these helps prevent dengue?",
+      "options": [
+        "Use mosquito nets or screens",
+        "Keep windows open",
+        "Sleep outdoors",
+        "Drink lots of water"
+      ],
+      "correct_answer": "Use mosquito nets or screens"
+    },
+    {
+      "category": "The Insect World: Dengue Prevention Tips",
+      "question": "How does removing stagnant water help prevent dengue?",
+      "options": [
+        "Prevents mosquito breeding",
+        "Keeps water clean",
+        "Prevents floods",
+        "Keeps air fresh"
+      ],
+      "correct_answer": "Prevents mosquito breeding"
+    },
+    {
+      "category": "The Insect World: Dengue Prevention Tips",
+      "question": "Why should long-sleeved clothes be worn to prevent dengue?",
+      "options": [
+        "To stay warm",
+        "To protect from mosquito bites",
+        "To look neat",
+        "To prevent sunburn"
+      ],
+      "correct_answer": "To protect from mosquito bites"
+    },
+    {
+      "category": "The Insect World: Dengue Prevention Tips",
+      "question": "Which of these can be used as a repellent to prevent dengue?",
+      "options": [
+        "Soap",
+        "Mosquito repellent",
+        "Perfume",
+        "Water spray"
+      ],
+      "correct_answer": "Mosquito repellent"
+    }
+  ]
+}

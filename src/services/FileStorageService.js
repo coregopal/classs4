@@ -260,6 +260,129 @@ class FileStorageService {
     
     return stats;
   }
+
+  // Save quiz progress to IndexedDB
+  async saveProgress(subject, category, progressData) {
+    await this.initDB();
+    
+    const progress = {
+      ...progressData,
+      subject,
+      category,
+      timestamp: new Date().toISOString()
+    };
+
+    return new Promise((resolve, reject) => {
+      const transaction = this.db.transaction([this.storeName], 'readwrite');
+      const store = transaction.objectStore(this.storeName);
+      
+      // First, remove any existing progress for this subject/category
+      const index = store.index('subject');
+      const getRequest = index.getAll(subject);
+      
+      getRequest.onsuccess = () => {
+        const existingResults = getRequest.result.filter(r => 
+          r.subject === subject && r.category === category && r.isProgress
+        );
+        
+        // Delete existing progress entries
+        let deleteCount = 0;
+        existingResults.forEach(existing => {
+          const deleteRequest = store.delete(existing.id);
+          deleteRequest.onsuccess = () => {
+            deleteCount++;
+            if (deleteCount === existingResults.length) {
+              // Add new progress entry
+              const addRequest = store.add({
+                ...progress,
+                isProgress: true,
+                id: Date.now() + Math.random()
+              });
+              
+              addRequest.onsuccess = () => resolve(progress);
+              addRequest.onerror = () => reject(addRequest.error);
+            }
+          };
+          deleteRequest.onerror = () => reject(deleteRequest.error);
+        });
+        
+        if (existingResults.length === 0) {
+          // No existing progress, just add new one
+          const addRequest = store.add({
+            ...progress,
+            isProgress: true,
+            id: Date.now() + Math.random()
+          });
+          
+          addRequest.onsuccess = () => resolve(progress);
+          addRequest.onerror = () => reject(addRequest.error);
+        }
+      };
+      
+      getRequest.onerror = () => reject(getRequest.error);
+    });
+  }
+
+  // Load quiz progress from IndexedDB
+  async loadProgress(subject, category) {
+    await this.initDB();
+    
+    return new Promise((resolve, reject) => {
+      const transaction = this.db.transaction([this.storeName], 'readonly');
+      const store = transaction.objectStore(this.storeName);
+      const index = store.index('subject');
+      const request = index.getAll(subject);
+      
+      request.onsuccess = () => {
+        const results = request.result;
+        // Find the most recent progress entry for this subject/category
+        const progressEntry = results
+          .filter(r => r.subject === subject && r.category === category && r.isProgress)
+          .sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp))[0];
+        
+        resolve(progressEntry || null);
+      };
+      
+      request.onerror = () => reject(request.error);
+    });
+  }
+
+  // Clear quiz progress from IndexedDB
+  async clearProgress(subject, category) {
+    await this.initDB();
+    
+    return new Promise((resolve, reject) => {
+      const transaction = this.db.transaction([this.storeName], 'readwrite');
+      const store = transaction.objectStore(this.storeName);
+      const index = store.index('subject');
+      const request = index.getAll(subject);
+      
+      request.onsuccess = () => {
+        const results = request.result;
+        const progressEntries = results.filter(r => 
+          r.subject === subject && r.category === category && r.isProgress
+        );
+        
+        let deleteCount = 0;
+        progressEntries.forEach(entry => {
+          const deleteRequest = store.delete(entry.id);
+          deleteRequest.onsuccess = () => {
+            deleteCount++;
+            if (deleteCount === progressEntries.length) {
+              resolve(deleteCount);
+            }
+          };
+          deleteRequest.onerror = () => reject(deleteRequest.error);
+        });
+        
+        if (progressEntries.length === 0) {
+          resolve(0);
+        }
+      };
+      
+      request.onerror = () => reject(request.error);
+    });
+  }
 }
 
 // Export singleton instance
