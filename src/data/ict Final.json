@@ -1,6 +1,127 @@
 {
   "questions": [
     {
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "What is a systematic display of information on a particular topic called?",
+      "options": [
+        "Slide Show",
+        "Presentation",
+        "Placeholder",
+        "Folder"
+      ],
+      "correct_answer": "Presentation"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "What is the term for an individual page in a PowerPoint presentation?",
+      "options": [
+        "Sheet",
+        "Slide",
+        "Document",
+        "Frame"
+      ],
+      "correct_answer": "Slide"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "What is the dotted rectangular box on a slide that can hold text, tables, and other objects?",
+      "options": [
+        "Text Frame",
+        "Placeholder",
+        "Object Box",
+        "Slide Border"
+      ],
+      "correct_answer": "Placeholder"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "Which term describes a series of slides displayed in a sequence on the screen?",
+      "options": [
+        "Slide Show",
+        "Photo Gallery",
+        "Media Stream",
+        "Projector View"
+      ],
+      "correct_answer": "Slide Show"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "From which menu can you start PowerPoint 2013?",
+      "options": [
+        "Settings menu",
+        "Taskbar menu",
+        "Windows menu",
+        "Help menu"
+      ],
+      "correct_answer": "Windows menu"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "Under which tab can you find the option to insert a 'New Slide'?",
+      "options": [
+        "INSERT tab",
+        "DESIGN tab",
+        "HOME tab",
+        "VIEW tab"
+      ],
+      "correct_answer": "HOME tab"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "To insert pictures, which tab and group should be used?",
+      "options": [
+        "HOME tab, Slides group",
+        "INSERT tab, Images group",
+        "FILE tab, Info group",
+        "DESIGN tab, Variants group"
+      ],
+      "correct_answer": "INSERT tab, Images group"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "What are the two ways mentioned to insert pictures into a slide?",
+      "options": [
+        "From Scanner or Camera",
+        "From Computer or Internet (online pictures)",
+        "From Phone or Tablet",
+        "From Clipboard or Email"
+      ],
+      "correct_answer": "From Computer or Internet (online pictures)"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "What is the keyboard shortcut to save a presentation?",
+      "options": [
+        "Ctrl + P",
+        "Ctrl + V",
+        "Ctrl + S",
+        "Ctrl + N"
+      ],
+      "correct_answer": "Ctrl + S"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "Which bar has the buttons to move to the previous and next slides?",
+      "options": [
+        "Horizontal Scroll bar",
+        "Status bar",
+        "Vertical Scroll bar",
+        "Title bar"
+      ],
+      "correct_answer": "Vertical Scroll bar"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013",
+      "question": "Which of the following options are available when clicking the FILE tab?",
+      "options": [
+        "New",
+        "Open",
+        "Save",
+        "All of these"
+      ],
+      "correct_answer": "All of these"
+    },
+    {
       "category": "Chapter 7: Step-wise Thinking",
       "question": "What is the process of thinking about something to find a solution or result called?",
       "options": [
@@ -351,6 +472,479 @@
         "EXCESS"
       ],
       "correct_answer": "ACCESS"
+    },{
+      "category": "Chapter 6: PowerPoint 2013 - Tech Terms",
+      "question": "What is a systematic display of information on a particular topic called?",
+      "options": [
+        "Slide Show",
+        "Presentation",
+        "Placeholder",
+        "Folder"
+      ],
+      "correct_answer": "Presentation"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Tech Terms",
+      "question": "What is an individual page in a presentation called?",
+      "options": [
+        "Slide",
+        "Placeholder",
+        "Template",
+        "Theme"
+      ],
+      "correct_answer": "Slide"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Tech Terms",
+      "question": "What is the dotted rectangular box on a slide that can hold text or pictures called?",
+      "options": [
+        "Text Box",
+        "Placeholder",
+        "Frame",
+        "Shape"
+      ],
+      "correct_answer": "Placeholder"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Tech Terms",
+      "question": "What is a series of slides displayed one by one on the screen called?",
+      "options": [
+        "Presentation",
+        "Slide Show",
+        "Slide Sorter",
+        "Preview"
+      ],
+      "correct_answer": "Slide Show"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - To Sum Up",
+      "question": "To start Microsoft PowerPoint 2013, which sequence of clicks should you follow?",
+      "options": [
+        "Start → All Programs → Microsoft Office 2013 → PowerPoint 2013",
+        "Start → Microsoft Office → PowerPoint 2013",
+        "Start → Programs → Office → PowerPoint 2013",
+        "Start → All Apps → PowerPoint 2013"
+      ],
+      "correct_answer": "Start → All Programs → Microsoft Office 2013 → PowerPoint 2013"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - To Sum Up",
+      "question": "When you start a new blank presentation, what slide does it display by default?",
+      "options": [
+        "Blank Slide",
+        "Title Slide",
+        "Content Slide",
+        "Two Content Slide"
+      ],
+      "correct_answer": "Title Slide"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - To Sum Up",
+      "question": "Which view has options to create, open, save, and close a presentation?",
+      "options": [
+        "Slide Show View",
+        "Normal View",
+        "Backstage View",
+        "Outline View"
+      ],
+      "correct_answer": "Backstage View"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - To Sum Up",
+      "question": "You can create a new presentation using which of the following?",
+      "options": [
+        "Only a Theme",
+        "Only a Template",
+        "A Theme or a Template",
+        "Only a Blank Presentation"
+      ],
+      "correct_answer": "A Theme or a Template"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - To Sum Up",
+      "question": "From where can you insert pictures into a slide?",
+      "options": [
+        "Only from the computer",
+        "Only from the internet",
+        "From the computer or the internet",
+        "Only from OneDrive"
+      ],
+      "correct_answer": "From the computer or the internet"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - To Sum Up",
+      "question": "What is the default file extension for PowerPoint 2013?",
+      "options": [
+        ".ppt",
+        ".pptx",
+        ".ppsx",
+        ".pptm"
+      ],
+      "correct_answer": ".pptx"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - To Sum Up",
+      "question": "Which of the following is NOT a way to move through slides?",
+      "options": [
+        "Previous and Next Slide buttons",
+        "Vertical scroll bar",
+        "Arrow keys",
+        "Using the mouse wheel"
+      ],
+      "correct_answer": "Using the mouse wheel"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - To Sum Up",
+      "question": "Which key is a shortcut to run a slide show?",
+      "options": [
+        "F1",
+        "F5",
+        "F7",
+        "F12"
+      ],
+      "correct_answer": "F5"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Fill in the Blanks",
+      "question": "A __________ is a systematic display of information on a particular topic.",
+      "options": [
+        "Presentation",
+        "Slide",
+        "Placeholder",
+        "Show"
+      ],
+      "correct_answer": "Presentation"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Fill in the Blanks",
+      "question": "Individual pages of a presentation are called __________.",
+      "options": [
+        "Slides",
+        "Pages",
+        "Sheets",
+        "Frames"
+      ],
+      "correct_answer": "Slides"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Fill in the Blanks",
+      "question": "The Minimize button is present on the __________ bar.",
+      "options": [
+        "Title",
+        "Menu",
+        "Status",
+        "Tool"
+      ],
+      "correct_answer": "Title"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Fill in the Blanks",
+      "question": "The dotted rectangular box on the slide is called the __________.",
+      "options": [
+        "Placeholder",
+        "Text Box",
+        "Shape",
+        "Frame"
+      ],
+      "correct_answer": "Placeholder"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Fill in the Blanks",
+      "question": "To insert a new slide, click the __________ tab.",
+      "options": [
+        "Home",
+        "Insert",
+        "Design",
+        "View"
+      ],
+      "correct_answer": "Home"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - True False",
+      "question": "A presentation is created in the form of a series of slides.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - True False",
+      "question": "Quick Access Toolbar contains only Undo and Redo buttons.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - True False",
+      "question": "Reviewers can leave comments on any slide.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - True False",
+      "question": "The number to the right of the Zoom slider shows the zoom percentage.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "True"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - True False",
+      "question": "The two scrollbars are used to set the left and right margins.",
+      "options": [
+        "True",
+        "False"
+      ],
+      "correct_answer": "False"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Choose the Correct Option",
+      "question": "The keyboard shortcut to run a slide show is:",
+      "options": [
+        "F1",
+        "F5",
+        "F10",
+        "F12"
+      ],
+      "correct_answer": "F5"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Choose the Correct Option",
+      "question": "Minimize, Close, and Maximize buttons are present on the __________ side of the Title bar.",
+      "options": [
+        "Left",
+        "Right",
+        "Center",
+        "Bottom"
+      ],
+      "correct_answer": "Right"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Choose the Correct Option",
+      "question": "Which of the following are available on clicking the FILE tab?",
+      "options": [
+        "New and Open",
+        "Save and Save As",
+        "Close",
+        "All of these"
+      ],
+      "correct_answer": "All of these"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Choose the Correct Option",
+      "question": "The Slide Show button is available on the:",
+      "options": [
+        "Title bar",
+        "Status bar",
+        "Menu bar",
+        "Ribbon"
+      ],
+      "correct_answer": "Status bar"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Choose the Correct Option",
+      "question": "The filename extension of a PowerPoint presentation is:",
+      "options": [
+        ".pptx",
+        ".docx",
+        ".xlsx",
+        ".pdf"
+      ],
+      "correct_answer": ".pptx"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Descriptive Type Questions",
+      "question": "Name the tab that has the option to insert a new slide.",
+      "options": [
+        "Home tab",
+        "Insert tab",
+        "Design tab",
+        "View tab"
+      ],
+      "correct_answer": "Home tab"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Descriptive Type Questions",
+      "question": "Which tab and group has the option to insert pictures in a slide?",
+      "options": [
+        "Insert tab → Images group",
+        "Home tab → Drawing group",
+        "Design tab → Themes group",
+        "View tab → Show group"
+      ],
+      "correct_answer": "Insert tab → Images group"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Descriptive Type Questions",
+      "question": "Mention two ways to insert pictures on a slide.",
+      "options": [
+        "From computer and from internet",
+        "From clipboard and from scanner",
+        "From OneDrive and from email",
+        "From camera and from phone"
+      ],
+      "correct_answer": "From computer and from internet"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Descriptive Type Questions",
+      "question": "Write the keyboard shortcut to save a presentation.",
+      "options": [
+        "Ctrl + S",
+        "Ctrl + P",
+        "Ctrl + O",
+        "Ctrl + N"
+      ],
+      "correct_answer": "Ctrl + S"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Descriptive Type Questions",
+      "question": "Which bar has the buttons to move to the previous and next slides?",
+      "options": [
+        "Vertical scroll bar",
+        "Horizontal scroll bar",
+        "Title bar",
+        "Status bar"
+      ],
+      "correct_answer": "Vertical scroll bar"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Application-Based Questions",
+      "question": "Uddhav has created a presentation. How can he run the slide show using the keyboard?",
+      "options": [
+        "Press F5",
+        "Press F1",
+        "Press Ctrl + S",
+        "Press Alt + F4"
+      ],
+      "correct_answer": "Press F5"
+    },
+    {
+      "category": "Chapter 6: PowerPoint 2013 - Application-Based Questions",
+      "question": "Tanzia inserted a blank slide. How can she type text on it?",
+      "options": [
+        "Click inside a placeholder and type",
+        "Double-click the slide",
+        "Press Ctrl + T",
+        "Right-click and choose 'Add Text'"
+      ],
+      "correct_answer": "Click inside a placeholder and type"
+    },
+    {
+      "category": "Worksheet 3 - Unjumble (Ch 5 & 6)",
+      "question": "Unjumble 'LDESI' (Hint: Individual page of a presentation).",
+      "options": [
+        "SLIDE",
+        "SILED",
+        "DELIS",
+        "LEDIS"
+      ],
+      "correct_answer": "SLIDE"
+    },
+    {
+      "category": "Worksheet 3 - Unjumble (Ch 5 & 6)",
+      "question": "Unjumble 'OMANRL' (Hint: Default view of a presentation).",
+      "options": [
+        "NORMAL",
+        "MANORL",
+        "ROLMAN",
+        "MONRAL"
+      ],
+      "correct_answer": "NORMAL"
+    },
+    {
+      "category": "Worksheet 3 - Unjumble (Ch 5 & 6)",
+      "question": "Unjumble 'CALITI' (Hint: Slant text style).",
+      "options": [
+        "ITALIC",
+        "CITALI",
+        "LATIC I",
+        "TICALI"
+      ],
+      "correct_answer": "ITALIC"
+    },
+    {
+      "category": "Worksheet 3 - Unjumble (Ch 5 & 6)",
+      "question": "Unjumble 'RESBROW' (Hint: A program to display the information about a searched topic).",
+      "options": [
+        "BROWSER",
+        "RESBROW",
+        "ROWBRES",
+        "SERBROW"
+      ],
+      "correct_answer": "BROWSER"
+    },
+    {
+      "category": "Worksheet 3 - Unjumble (Ch 5 & 6)",
+      "question": "Unjumble 'MEDMO' (Hint: A device to connect computers on the Internet).",
+      "options": [
+        "MODEM",
+        "MEDMO",
+        "MOMED",
+        "DEMOM"
+      ],
+      "correct_answer": "MODEM"
+    },
+    {
+      "category": "Worksheet 3 - Label the Browser Parts",
+      "question": "In a web browser, what part shows the website currently in view?",
+      "options": [
+        "Web Page / Website Display Area",
+        "Address Bar",
+        "Tab",
+        "Home Button"
+      ],
+      "correct_answer": "Web Page / Website Display Area"
+    },
+    {
+      "category": "Worksheet 3 - Label the Browser Parts",
+      "question": "Which button is used to refresh the web page?",
+      "options": [
+        "Refresh Button",
+        "Home Button",
+        "Back Button",
+        "Forward Button"
+      ],
+      "correct_answer": "Refresh Button"
+    },
+    {
+      "category": "Worksheet 3 - Label the Browser Parts",
+      "question": "Which button takes you to the home page?",
+      "options": [
+        "Home Button",
+        "Refresh Button",
+        "Back Button",
+        "Forward Button"
+      ],
+      "correct_answer": "Home Button"
+    },
+    {
+      "category": "Worksheet 3 - Label the Browser Parts",
+      "question": "Which button takes you to the previous page?",
+      "options": [
+        "Back Button",
+        "Forward Button",
+        "Refresh Button",
+        "Home Button"
+      ],
+      "correct_answer": "Back Button"
+    },
+    {
+      "category": "Worksheet 3 - Label the Browser Parts",
+      "question": "Which button is used to open a website in a new tab?",
+      "options": [
+        "New Tab Button",
+        "Refresh Button",
+        "Home Button",
+        "Back Button"
+      ],
+      "correct_answer": "New Tab Button"
     },
     {
       "category": "Chapter 7: Stepwise Thinking - Tech Terms",
