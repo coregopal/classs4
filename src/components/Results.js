@@ -100,8 +100,12 @@ function Results() {
         const correct = result.correctAnswers || result.score || 0;
         const expectedWrong = attempted - correct;
         
-        // Clear if wrongAnswers count doesn't match expected or is suspiciously high
-        return wrongCount > expectedWrong || wrongCount > 50;
+        // Use same lenient validation as above
+        const hasLargeDiscrepancy = Math.abs(wrongCount - expectedWrong) > 5;
+        const hasImpossibleCount = wrongCount > attempted || wrongCount > 300; // Increased to 300 for large papers
+        const hasNegativeValues = attempted < 0 || correct < 0 || wrongCount < 0;
+        
+        return hasLargeDiscrepancy || hasImpossibleCount || hasNegativeValues;
       });
       
       if (corruptedResults.length > 0) {
@@ -148,13 +152,35 @@ function Results() {
       try {
         const results = await fileStorage.getAllResults();
         
-        // Check for corrupted data
+        // Check for corrupted data with more lenient validation
         const hasCorruptedData = results.some(result => {
           const wrongCount = result.wrongAnswers ? result.wrongAnswers.length : 0;
           const attempted = result.attemptedQuestions || result.total || 0;
           const correct = result.correctAnswers || result.score || 0;
           const expectedWrong = attempted - correct;
-          return wrongCount > expectedWrong || wrongCount > 50;
+          
+          // More lenient corruption detection
+          // Only flag as corrupted if the discrepancy is very large or clearly impossible
+          const hasLargeDiscrepancy = Math.abs(wrongCount - expectedWrong) > 5;
+          const hasImpossibleCount = wrongCount > attempted || wrongCount > 300; // Increased to 300 for large papers
+          const hasNegativeValues = attempted < 0 || correct < 0 || wrongCount < 0;
+          
+          const isCorrupted = hasLargeDiscrepancy || hasImpossibleCount || hasNegativeValues;
+          
+          if (isCorrupted) {
+            console.warn('Potentially corrupted result detected:', {
+              result: result.subject + ' - ' + result.category,
+              wrongCount,
+              expectedWrong,
+              attempted,
+              correct,
+              hasLargeDiscrepancy,
+              hasImpossibleCount,
+              hasNegativeValues
+            });
+          }
+          
+          return isCorrupted;
         });
         
         if (hasCorruptedData) {

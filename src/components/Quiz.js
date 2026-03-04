@@ -957,6 +957,17 @@ function Quiz() {
     </div>
   );
 
+  const explanationDisplay = selectedAnswer && questions[currentQuestion]?.explanation && (
+    <div className="answer-feedback">
+      <p>
+        {isCorrectAnswer(selectedAnswer) ? '✅ Correct!' : '❌ Incorrect'}
+      </p>
+      <div className="explanation">
+        <strong>Explanation:</strong> {questions[currentQuestion].explanation}
+      </div>
+    </div>
+  );
+
   const progressBar = isTransitioning && (
     <div className="progress-bar-container">
       <div 
@@ -993,6 +1004,7 @@ function Quiz() {
       {quizProgressInfo}
       {questionInfo}
       {options}
+      {explanationDisplay}
       {progressBar}
       {quizFooter}
     </div>
