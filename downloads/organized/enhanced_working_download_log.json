@@ -1,0 +1,28 @@
+{
+  "timestamp": "2026-05-07 12:22:39",
+  "grade_results": {
+    "8": {
+      "successful": 16,
+      "failed": [],
+      "total": 16
+    },
+    "9": {
+      "successful": 15,
+      "failed": [],
+      "total": 15
+    },
+    "10": {
+      "successful": 15,
+      "failed": [],
+      "total": 15
+    }
+  },
+  "total_successful": 46,
+  "total_failed": [],
+  "grades_processed": [
+    8,
+    9,
+    10
+  ],
+  "organized_folder": "F:\\ode\\workspace\\Treyansh\\class4\\oxford_downloader\\selfstudy\\selfstudy\\downloads\\organized"
+}

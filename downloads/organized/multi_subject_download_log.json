@@ -1,0 +1,148 @@
+{
+  "timestamp": "2026-05-07 12:35:58",
+  "grade_results": {
+    "5": {
+      "science": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "hindi": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "mathematics": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "english": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      }
+    },
+    "6": {
+      "science": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "hindi": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "mathematics": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "english": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      }
+    },
+    "7": {
+      "science": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "hindi": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "mathematics": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "english": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      }
+    },
+    "8": {
+      "science": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "hindi": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "mathematics": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "english": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      }
+    },
+    "9": {
+      "science": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "hindi": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "mathematics": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "english": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      }
+    },
+    "10": {
+      "science": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "hindi": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "mathematics": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "english": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      }
+    }
+  },
+  "total_successful": 0,
+  "total_failed": [],
+  "grades_processed": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "organized_folder": "F:\\ode\\workspace\\Treyansh\\class4\\oxford_downloader\\selfstudy\\selfstudy\\downloads\\organized"
+}

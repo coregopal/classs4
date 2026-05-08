@@ -1,0 +1,498 @@
+{
+  "timestamp": "2026-05-08 11:49:52",
+  "grade_results": {
+    "5": {
+      "mathematics": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "science": {
+        "successful": 17,
+        "failed": [],
+        "total": 17
+      },
+      "social_studies": {
+        "successful": 16,
+        "failed": [],
+        "total": 16
+      },
+      "english": {
+        "successful": 24,
+        "failed": [],
+        "total": 24
+      },
+      "hindi": {
+        "successful": 27,
+        "failed": [],
+        "total": 27
+      },
+      "hindi_vyakaran": {
+        "successful": 12,
+        "failed": [],
+        "total": 12
+      }
+    },
+    "6": {
+      "mathematics": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "science": {
+        "successful": 15,
+        "failed": [],
+        "total": 15
+      },
+      "social_studies": {
+        "successful": 8,
+        "failed": [],
+        "total": 8
+      },
+      "english": {
+        "successful": 15,
+        "failed": [],
+        "total": 15
+      },
+      "hindi": {
+        "successful": 18,
+        "failed": [],
+        "total": 18
+      },
+      "hindi_vyakaran": {
+        "successful": 10,
+        "failed": [],
+        "total": 10
+      }
+    },
+    "7": {
+      "mathematics": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "science": {
+        "successful": 10,
+        "failed": [],
+        "total": 10
+      },
+      "social_studies": {
+        "successful": 15,
+        "failed": [],
+        "total": 15
+      },
+      "english": {
+        "successful": 17,
+        "failed": [],
+        "total": 17
+      },
+      "hindi": {
+        "successful": 16,
+        "failed": [],
+        "total": 16
+      },
+      "hindi_vyakaran": {
+        "successful": 8,
+        "failed": [],
+        "total": 8
+      }
+    },
+    "8": {
+      "mathematics": {
+        "successful": 16,
+        "failed": [],
+        "total": 16
+      },
+      "science": {
+        "successful": 0,
+        "failed": [
+          "11-Alpha-Numeric, Number, Ranking & Time Sequence Test - 4",
+          "12-Alpha-Numeric, Number, Ranking & Time Sequence Test - 4",
+          "26-Alpha-Numeric, Number, Ranking & Time Sequence Test - 3",
+          "30-Alpha-Numeric, Number, Ranking & Time Sequence Test - 3",
+          "31-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+          "32-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+          "33-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+          "34-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+          "35-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+          "36-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+          "37-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+          "38-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+          "39-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+          "40-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+          "41-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+          "42-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+          "43-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+          "44-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+          "45-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+          "46-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+          "47-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+          "48-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+          "49-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+          "50-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1"
+        ],
+        "total": 24
+      },
+      "social_studies": {
+        "successful": 18,
+        "failed": [],
+        "total": 18
+      },
+      "english": {
+        "successful": 18,
+        "failed": [],
+        "total": 18
+      },
+      "hindi": {
+        "successful": 0,
+        "failed": [
+          "4-Mathematical Operations Test - 2"
+        ],
+        "total": 1
+      },
+      "hindi_vyakaran": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      }
+    },
+    "9": {
+      "mathematics": {
+        "successful": 15,
+        "failed": [],
+        "total": 15
+      },
+      "science": {
+        "successful": 10,
+        "failed": [
+          "11-Work and Energy",
+          "12-Sound",
+          "13-Why Do We Fall Ill",
+          "14-Natural Resources",
+          "15-Improvement in Food Resources"
+        ],
+        "total": 15
+      },
+      "social_studies": {
+        "successful": 0,
+        "failed": [
+          "1-Sequential Output Tracing Test - 2",
+          "2-Sequential Output Tracing Test - 2",
+          "3-Sequential Output Tracing Test - 2",
+          "4-Sequential Output Tracing Test - 2",
+          "5-Sequential Output Tracing Test - 2",
+          "6-Sequential Output Tracing Test - 2",
+          "7-Sequential Output Tracing Test - 2",
+          "8-Sequential Output Tracing Test - 2",
+          "9-Sequential Output Tracing Test - 2",
+          "10-Sequential Output Tracing Test - 2",
+          "11-Sequential Output Tracing Test - 2",
+          "12-Sequential Output Tracing Test - 2",
+          "13-Sequential Output Tracing Test - 2",
+          "14-Sequential Output Tracing Test - 2",
+          "15-Sequential Output Tracing Test - 2",
+          "16-Sequential Output Tracing Test - 1",
+          "17-Sequential Output Tracing Test - 1",
+          "18-Sequential Output Tracing Test - 1",
+          "19-Sequential Output Tracing Test - 1",
+          "20-Sequential Output Tracing Test - 1",
+          "21-Sequential Output Tracing Test - 1",
+          "22-Sequential Output Tracing Test - 1",
+          "23-Sequential Output Tracing Test - 1",
+          "24-Sequential Output Tracing Test - 1",
+          "25-Sequential Output Tracing Test - 1"
+        ],
+        "total": 25
+      },
+      "english": {
+        "successful": 0,
+        "failed": [
+          "4-Biology Test 72"
+        ],
+        "total": 1
+      },
+      "hindi": {
+        "successful": 0,
+        "failed": [],
+        "total": 0
+      },
+      "hindi_vyakaran": {
+        "successful": 0,
+        "failed": [
+          "1-Direction Test - 2",
+          "2-Direction Test - 2",
+          "6-Direction Test - 2",
+          "7-Direction Test - 2",
+          "8-Direction Test - 2"
+        ],
+        "total": 5
+      }
+    },
+    "10": {
+      "mathematics": {
+        "successful": 15,
+        "failed": [],
+        "total": 15
+      },
+      "science": {
+        "successful": 0,
+        "failed": [
+          "1-Do Bailon Ki Katha",
+          "2-Lahasa Ki Aur",
+          "3-Upbhoktavad Ki Sanskriti",
+          "4-Savle Sapno Ki Yaad",
+          "5-Nana Saheb Ki Putri Devi Maina Ko Bhasm Kar Diya Gaya",
+          "6-Premchand Ke Phate Joote",
+          "7-Mere Bachpan Ke Din",
+          "8-Ek Kutta Aur Ek Maina",
+          "9-Sakhiyan Avam Sabad",
+          "10-Vaakh",
+          "11-Savaiyye",
+          "12-Kaidi or Kokila",
+          "13-Gram Shree",
+          "14-Chandra Gehna Se Lautti Ber",
+          "15-Megh Aaye",
+          "16-Yamraj Ki Disha",
+          "17-Bachche Kaam Par Ja Rahe Hai"
+        ],
+        "total": 17
+      },
+      "social_studies": {
+        "successful": 0,
+        "failed": [
+          "1-Chemical Reactions and Equations",
+          "2-Acids, Bases and Salts",
+          "3-Metals and Non-metals",
+          "4-Carbon and its Compounds",
+          "5-Periodic Classification of Elements",
+          "6-Life Processes",
+          "7-Control and Coordination",
+          "8-How do Organisms Reproduce",
+          "9-Heredity and Evolution",
+          "10-Light - Reflection And Refraction",
+          "11-The Human Eye And The Colourful World",
+          "12-Electricity",
+          "13-Magnetic Effects of Electric Current",
+          "14-Sources of Energy",
+          "15-Our Environment",
+          "16-Sustainable Management of Natural Resources"
+        ],
+        "total": 16
+      },
+      "english": {
+        "successful": 0,
+        "failed": [
+          "1-Power Sharing",
+          "2-Federalism",
+          "3-Democracy and Diversity",
+          "4-Gender, Religion and Caste",
+          "5-Popular Struggles and Movements",
+          "6-Political Parties",
+          "7-Outcomes of Democracy",
+          "8-Challenges to Democracy"
+        ],
+        "total": 8
+      },
+      "hindi": {
+        "successful": 0,
+        "failed": [
+          "1-Surdas",
+          "2-Tulsidas",
+          "3-Dev",
+          "4-Jaishankar Prasad",
+          "5-Suryakant Tripathi 'Nirala'",
+          "6-Nagarjuna",
+          "7-Girijakumar Mathur",
+          "8-Rituraj",
+          "9-Manglesh Dabral",
+          "10-Swayam Prakash",
+          "11-Ramvriksh Benipuri",
+          "12-Yashpal",
+          "13-Sarveshwar Dayal Saxena",
+          "14-Mannu Bhandari",
+          "15-Mahavir Prasad Dwivedi",
+          "16-Yatindra Mishra",
+          "17-Bhadant Anand Kausalya"
+        ],
+        "total": 17
+      },
+      "hindi_vyakaran": {
+        "successful": 0,
+        "failed": [
+          "1-1. The Living World - Adaptations and Classifications",
+          "2-2. Plants  Structure and Function",
+          "3-3. Properties of Natural Resources",
+          "4-4. Nutrition in Living Organisms",
+          "5-5. Food Safety",
+          "6-6. Measurement of Physical Quantities",
+          "7-7. Motion, Force and Work",
+          "8-8. Static Electricity",
+          "9-9. Heat",
+          "10-10. Disaster Management",
+          "11-11. Cell Structure and Micro-organisms",
+          "12-12. The Muscular System and Digestive System in Human Beings",
+          "13-13. Changes - Physical and Chemical",
+          "14-14. Elements, Compounds and Mixtures",
+          "15-15. Materials we Use",
+          "16-16. Natural Resources",
+          "17-17. Effects of Light",
+          "18-18. Sound  Production of Sound",
+          "19-19. Properties of a Magnetic Field",
+          "20-20. In the World of Stars"
+        ],
+        "total": 20
+      }
+    }
+  },
+  "total_successful": 320,
+  "total_failed": [
+    "11-Alpha-Numeric, Number, Ranking & Time Sequence Test - 4",
+    "12-Alpha-Numeric, Number, Ranking & Time Sequence Test - 4",
+    "26-Alpha-Numeric, Number, Ranking & Time Sequence Test - 3",
+    "30-Alpha-Numeric, Number, Ranking & Time Sequence Test - 3",
+    "31-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+    "32-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+    "33-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+    "34-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+    "35-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+    "36-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+    "37-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+    "38-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+    "39-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+    "40-Alpha-Numeric, Number, Ranking & Time Sequence Test - 2",
+    "41-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+    "42-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+    "43-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+    "44-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+    "45-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+    "46-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+    "47-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+    "48-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+    "49-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+    "50-Alpha-Numeric, Number, Ranking & Time Sequence Test - 1",
+    "4-Mathematical Operations Test - 2",
+    "11-Work and Energy",
+    "12-Sound",
+    "13-Why Do We Fall Ill",
+    "14-Natural Resources",
+    "15-Improvement in Food Resources",
+    "1-Sequential Output Tracing Test - 2",
+    "2-Sequential Output Tracing Test - 2",
+    "3-Sequential Output Tracing Test - 2",
+    "4-Sequential Output Tracing Test - 2",
+    "5-Sequential Output Tracing Test - 2",
+    "6-Sequential Output Tracing Test - 2",
+    "7-Sequential Output Tracing Test - 2",
+    "8-Sequential Output Tracing Test - 2",
+    "9-Sequential Output Tracing Test - 2",
+    "10-Sequential Output Tracing Test - 2",
+    "11-Sequential Output Tracing Test - 2",
+    "12-Sequential Output Tracing Test - 2",
+    "13-Sequential Output Tracing Test - 2",
+    "14-Sequential Output Tracing Test - 2",
+    "15-Sequential Output Tracing Test - 2",
+    "16-Sequential Output Tracing Test - 1",
+    "17-Sequential Output Tracing Test - 1",
+    "18-Sequential Output Tracing Test - 1",
+    "19-Sequential Output Tracing Test - 1",
+    "20-Sequential Output Tracing Test - 1",
+    "21-Sequential Output Tracing Test - 1",
+    "22-Sequential Output Tracing Test - 1",
+    "23-Sequential Output Tracing Test - 1",
+    "24-Sequential Output Tracing Test - 1",
+    "25-Sequential Output Tracing Test - 1",
+    "4-Biology Test 72",
+    "1-Direction Test - 2",
+    "2-Direction Test - 2",
+    "6-Direction Test - 2",
+    "7-Direction Test - 2",
+    "8-Direction Test - 2",
+    "1-Do Bailon Ki Katha",
+    "2-Lahasa Ki Aur",
+    "3-Upbhoktavad Ki Sanskriti",
+    "4-Savle Sapno Ki Yaad",
+    "5-Nana Saheb Ki Putri Devi Maina Ko Bhasm Kar Diya Gaya",
+    "6-Premchand Ke Phate Joote",
+    "7-Mere Bachpan Ke Din",
+    "8-Ek Kutta Aur Ek Maina",
+    "9-Sakhiyan Avam Sabad",
+    "10-Vaakh",
+    "11-Savaiyye",
+    "12-Kaidi or Kokila",
+    "13-Gram Shree",
+    "14-Chandra Gehna Se Lautti Ber",
+    "15-Megh Aaye",
+    "16-Yamraj Ki Disha",
+    "17-Bachche Kaam Par Ja Rahe Hai",
+    "1-Chemical Reactions and Equations",
+    "2-Acids, Bases and Salts",
+    "3-Metals and Non-metals",
+    "4-Carbon and its Compounds",
+    "5-Periodic Classification of Elements",
+    "6-Life Processes",
+    "7-Control and Coordination",
+    "8-How do Organisms Reproduce",
+    "9-Heredity and Evolution",
+    "10-Light - Reflection And Refraction",
+    "11-The Human Eye And The Colourful World",
+    "12-Electricity",
+    "13-Magnetic Effects of Electric Current",
+    "14-Sources of Energy",
+    "15-Our Environment",
+    "16-Sustainable Management of Natural Resources",
+    "1-Power Sharing",
+    "2-Federalism",
+    "3-Democracy and Diversity",
+    "4-Gender, Religion and Caste",
+    "5-Popular Struggles and Movements",
+    "6-Political Parties",
+    "7-Outcomes of Democracy",
+    "8-Challenges to Democracy",
+    "1-Surdas",
+    "2-Tulsidas",
+    "3-Dev",
+    "4-Jaishankar Prasad",
+    "5-Suryakant Tripathi 'Nirala'",
+    "6-Nagarjuna",
+    "7-Girijakumar Mathur",
+    "8-Rituraj",
+    "9-Manglesh Dabral",
+    "10-Swayam Prakash",
+    "11-Ramvriksh Benipuri",
+    "12-Yashpal",
+    "13-Sarveshwar Dayal Saxena",
+    "14-Mannu Bhandari",
+    "15-Mahavir Prasad Dwivedi",
+    "16-Yatindra Mishra",
+    "17-Bhadant Anand Kausalya",
+    "1-1. The Living World - Adaptations and Classifications",
+    "2-2. Plants  Structure and Function",
+    "3-3. Properties of Natural Resources",
+    "4-4. Nutrition in Living Organisms",
+    "5-5. Food Safety",
+    "6-6. Measurement of Physical Quantities",
+    "7-7. Motion, Force and Work",
+    "8-8. Static Electricity",
+    "9-9. Heat",
+    "10-10. Disaster Management",
+    "11-11. Cell Structure and Micro-organisms",
+    "12-12. The Muscular System and Digestive System in Human Beings",
+    "13-13. Changes - Physical and Chemical",
+    "14-14. Elements, Compounds and Mixtures",
+    "15-15. Materials we Use",
+    "16-16. Natural Resources",
+    "17-17. Effects of Light",
+    "18-18. Sound  Production of Sound",
+    "19-19. Properties of a Magnetic Field",
+    "20-20. In the World of Stars"
+  ],
+  "grades_processed": [
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "organized_folder": "F:\\ode\\workspace\\Treyansh\\class4\\oxford_downloader\\selfstudy\\selfstudy\\downloads\\organized"
+}
